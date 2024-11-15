@@ -18,7 +18,6 @@ public class ParallaxLayer : MonoBehaviour
     void Update()
     {
         rectTransform.localPosition = initPos + (parallaxCoeff * rectTransform.parent.position.x * transform.localPosition.z) * Vector3.right ;
-        Debug.Log(transform.localPosition.z);
     }
 
 }
