@@ -4,16 +4,21 @@ using UnityEngine;
 
 public class ParallaxLayer : MonoBehaviour
 {
+    private static float parallaxCoeff = 0.005f;
+    private RectTransform rectTransform;
+    private Vector3 initPos;
     
     // Start is called before the first frame update
     void Start()
     {
-        
+        rectTransform = GetComponent<RectTransform>();
+        initPos = rectTransform.localPosition;
     }
 
-    public void onScroll(float x)
+    void Update()
     {
-        transform.position = x * Vector3.right;
+        rectTransform.localPosition = initPos + (parallaxCoeff * rectTransform.parent.position.x * transform.localPosition.z) * Vector3.right ;
+        Debug.Log(transform.localPosition.z);
     }
 
 }
