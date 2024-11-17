@@ -6,9 +6,9 @@
             "id": "bc4884ab-e54d-4542-a742-30b50f64ec10",
             "actions": [
                 {
-                    "name": "Scroll",
+                    "name": "Pause",
                     "type": "Button",
-                    "id": "3601bf38-110f-40fd-b079-a68ad9b0bf53",
+                    "id": "0d4ddb58-99d7-438b-b87f-e2607e336b04",
                     "expectedControlType": "",
                     "processors": "",
                     "interactions": "",
@@ -18,12 +18,12 @@
             "bindings": [
                 {
                     "name": "",
-                    "id": "b860eff9-35a6-4a60-9ae4-9db4519e22dd",
-                    "path": "",
+                    "id": "1fb08146-0359-47ea-b322-927848e35b95",
+                    "path": "<Keyboard>/escape",
                     "interactions": "",
                     "processors": "",
                     "groups": "",
-                    "action": "Scroll",
+                    "action": "Pause",
                     "isComposite": false,
                     "isPartOfComposite": false
                 }
