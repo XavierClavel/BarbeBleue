@@ -21,17 +21,17 @@ public class SpatialAudio : MonoBehaviour
     {
         float distance = Mathf.Abs(transform.position.x - _camera.transform.position.x);
 
-        if(distance < distFullVolume)
+        if (distance < distFullVolume)
         {
             audioSource.volume = 1;
         }
-        else if(distance > distFullVolume + distFade)
+        else if (distance > distFullVolume + distFade)
         {
             audioSource.volume = 0;
         }
         else
         {
-            audioSource.volume = 1 - ((distance - distFullVolume) / distFade);
+            audioSource.volume = 1 - Mathf.Exp((distance - distFullVolume) / distFade) / (float)System.Math.E;
         }
     }
 }
