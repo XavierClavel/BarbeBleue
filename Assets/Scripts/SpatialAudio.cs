@@ -14,6 +14,8 @@ public class SpatialAudio : MonoBehaviour
     {
         _camera = Camera.main;
         audioSource = GetComponent<AudioSource>();
+        audioSource.playOnAwake = true;
+        audioSource.loop = true;
     }
 
     // Update is called once per frame
