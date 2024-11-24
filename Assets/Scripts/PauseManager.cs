@@ -37,6 +37,11 @@ public class PauseManager : MonoBehaviour
     {
         SceneManager.LoadScene(Vault.scene.MainScene);
     }
+    
+    public void ToTitleScreen()
+    {
+        SceneManager.LoadScene(Vault.scene.TitleScreen);
+    }
 
     public void Pause()
     {
