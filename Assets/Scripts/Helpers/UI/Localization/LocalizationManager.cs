@@ -7,17 +7,18 @@ using TMPro;
 
 public static class LocalizationManager
 {
-    private static string selectedLanguage = "FR";
+    private static string selectedLocale = "FR";
 
-    public static string getLanguage() => selectedLanguage;
+    public static string getLocale() => selectedLocale;
 
     public static void registerStringLocalizer(StringLocalizer s) => EventManagers.localization.registerListener(s);
     public static void unregisterStringLocalizer(StringLocalizer s) => EventManagers.localization.unregisterListener(s);
 
-    public static void setLanguage(string value)
+    public static void setLocale(string value)
     {
-        selectedLanguage = value;
-        EventManagers.localization.dispatchEvent(it => it.onLocaleChange(selectedLanguage));
+        selectedLocale = value;
+        EventManagers.localization.dispatchEvent(it => it.onLocaleChange(selectedLocale));
+        SaveManager.updateLocale(selectedLocale);
     }
     
     /**

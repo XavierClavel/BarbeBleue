@@ -6,10 +6,10 @@ public class LanguageSelector : ItemSelector
 {
     protected override int getStartSelectedItem()
     {
-        int currentIndex = selectableItems.FindIndex(it => it.key == LocalizationManager.getLanguage());
+        int currentIndex = selectableItems.FindIndex(it => it.key == LocalizationManager.getLocale());
         if (currentIndex == -1)
         {
-            Debug.LogError($"Language {LocalizationManager.getLanguage()} was not defined in LanguageSelector");
+            Debug.LogError($"Language {LocalizationManager.getLocale()} was not defined in LanguageSelector");
             return 0;
         }
 
@@ -18,6 +18,6 @@ public class LanguageSelector : ItemSelector
 
     public override void onSelected(string key)
     {
-        LocalizationManager.setLanguage(key);
+        LocalizationManager.setLocale(key);
     }
 }

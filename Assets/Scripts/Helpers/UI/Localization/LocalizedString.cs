@@ -7,12 +7,12 @@ public class LocalizedString
     public Dictionary<string, string> dictString = new Dictionary<string, string>();
     public string getText()
     {
-        if (!dictString.ContainsKey(LocalizationManager.getLanguage()))
+        if (!dictString.ContainsKey(LocalizationManager.getLocale()))
         {
-            Debug.LogWarning($"String is not localized in {LocalizationManager.getLanguage()} yet :");
+            Debug.LogWarning($"String is not localized in {LocalizationManager.getLocale()} yet :");
             return "";
         }
-        return dictString[LocalizationManager.getLanguage()];
+        return dictString[LocalizationManager.getLocale()];
     }
 }
 

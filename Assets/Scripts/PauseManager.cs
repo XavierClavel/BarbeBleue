@@ -1,3 +1,4 @@
+using System;
 using UnityEngine;
 using UnityEngine.SceneManagement;
 
@@ -19,6 +20,11 @@ public class PauseManager : MonoBehaviour
         {
             pauseMenu.SetActive(false);   
         }
+    }
+
+    private void OnDisable()
+    {
+        controls.Disable();
     }
 
     private void PauseUnpause()

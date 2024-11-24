@@ -6,49 +6,38 @@ using System.Runtime.Serialization.Formatters.Binary;
 using UnityEngine;
 
 [Serializable]
-public class OptionsProfile
+public class SaveData
 {
-    public int musicVolume = 100;
-    public int sfxVolume = 100;
-    public string language = "EN";
-    public string windowMode = "fullscreen";
+    public string locale = "FR";
 }
 
 public static class SaveManager
 {
-    [Serializable]
-    private class SaveData
-    {
-        public OptionsProfile options = new OptionsProfile();
-    }
     
-    public static void setOptions(OptionsProfile options)
-    {
-        saveData.options = options;
-        Save();
-    }
-
-    public static OptionsProfile getOptions()
-    {
-        return saveData.options;
-    }
     
     static SaveData saveData = null;
+    
+    
+
+    public static void updateLocale(string locale)
+    {
+        saveData.locale = locale;
+        save();
+    }
+    
 
     private static string getDataPath()
     {
         return $"{Application.persistentDataPath}/save.fun";
-        
     }
 
-    public static void Reset()
+    public static void reset()
     {
         saveData = new SaveData();
-        
-        Save();
+        save();
     }
 
-    public static void Save()
+    public static void save()
     {
         BinaryFormatter formatter = new BinaryFormatter();
         FileStream stream = new FileStream(getDataPath(), FileMode.Create);
@@ -57,7 +46,7 @@ public static class SaveManager
         stream.Close();
     }
 
-    public static void Load()
+    public static void load()
     {
         if (File.Exists(getDataPath()))
         {
@@ -71,9 +60,9 @@ public static class SaveManager
             }
             catch
             {
-                Debug.LogWarning("Incompatible save format, save was reset");
+                Debug.LogWarning("Incompatible save format, resetting save");
                 stream.Close();
-                Reset();
+                reset();
                 saveData = new SaveData();
             }
             
@@ -84,6 +73,13 @@ public static class SaveManager
             Debug.LogWarning("Save file not found");
             saveData = new SaveData();
         }
+
+        onLoad();
+    }
+
+    private static void onLoad()
+    {
+        LocalizationManager.setLocale(saveData.locale);
     }
     
 }

@@ -17,14 +17,14 @@ public class LocalizationButton : MonoBehaviour, ILocalized
         button = GetComponent<Button>();
         button.onClick.AddListener(() =>
         {
-            LocalizationManager.setLanguage(key);
+            LocalizationManager.setLocale(key);
         });
     }
 
     private void Start()
     {
         EventManagers.localization.registerListener(this);
-        onLocaleChange(LocalizationManager.getLanguage());
+        onLocaleChange(LocalizationManager.getLocale());
     }
 
     public void onLocaleChange(string locale)

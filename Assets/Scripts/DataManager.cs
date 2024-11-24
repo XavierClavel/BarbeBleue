@@ -25,7 +25,7 @@ public static class DataManager
 
     private static void getSaveData()
     {
-        SaveManager.Load();
+        SaveManager.load();
     }
 
 }
