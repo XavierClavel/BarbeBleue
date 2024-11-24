@@ -4,7 +4,7 @@ using UnityEngine;
 
 public class ParallaxLayer : MonoBehaviour
 {
-    private static float parallaxCoeff = 0.005f;
+    private static float parallaxCoeff = 0.01f;
     private RectTransform rectTransform;
     private Vector3 initPos;
     
