@@ -1,6 +1,6 @@
 using System.Collections;
 using System.Collections.Generic;
-using Shapes;
+//using Shapes;
 using TMPro;
 using UnityEngine;
 using UnityEngine.Events;
@@ -8,7 +8,7 @@ using UnityEngine.Events;
 public class ShapesSlider : MonoBehaviour
 {
     
-    [SerializeField] private Rectangle fill;
+    //[SerializeField] private Rectangle fill;
     [SerializeField] private int fillMaxValue;
     private int sliderMaxValue;
     private UnityAction onCompleteAction = null;
@@ -63,7 +63,7 @@ public class ShapesSlider : MonoBehaviour
 
     private void UpdateSlider()
     {
-        fill.Height = currentValue * ratio;
+        //fill.Height = currentValue * ratio;
         if (valueDisplay == null) return;
         valueDisplay.SetText($"{currentValue * 100 * increment}%");
     }

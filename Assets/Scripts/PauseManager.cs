@@ -36,6 +36,11 @@ public class PauseManager : MonoBehaviour
         pauseMenu.SetActive(isGamePaused);
     }
 
+    public void setLocale(string locale)
+    {
+        LocalizationManager.setLanguage(locale);
+    }
+
     public void Quit()
     {
         Application.Quit();

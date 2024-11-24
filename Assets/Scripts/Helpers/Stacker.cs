@@ -1,7 +1,6 @@
 using System.Collections;
 using System.Collections.Generic;
 using System.Linq;
-using MyBox;
 using UnityEngine;
 using UnityEngine.Events;
 
@@ -60,23 +59,6 @@ public class Stacker<T>
         dict.Remove(value);
     }
 }
-
-public class TimerStacker<T>
-{
-    private Dictionary<string, T> dict = new Dictionary<string, T>();
-    private Dictionary<string, Timer>
-
-    public void stack<T>(string key, float duration, T value)
-    {
-        var a = 
-    }
-
-    IEnumerator Timer(string key, float duration)
-    {
-        
-    } 
-}
-
 public class SingleStacker
 {
     private int amount = 0;

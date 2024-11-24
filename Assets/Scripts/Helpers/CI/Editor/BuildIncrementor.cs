@@ -42,10 +42,10 @@ public class BuildIncrementor : IPreprocessBuildWithReport
                 buildScriptableObject.buildNumber = PlayerSettings.WSA.packageVersion.Build.ToString();
                 break;
             case BuildTarget.Switch:
-                PlayerSettings.Switch.displayVersion = IncrementBuildNumber(PlayerSettings.Switch.displayVersion);
-                PlayerSettings.Switch.releaseVersion = IncrementBuildNumber(PlayerSettings.Switch.releaseVersion);
+                //PlayerSettings.Switch.displayVersion = IncrementBuildNumber(PlayerSettings.Switch.displayVersion);
+                //PlayerSettings.Switch.releaseVersion = IncrementBuildNumber(PlayerSettings.Switch.releaseVersion);
                 // which one to use?
-                buildScriptableObject.buildNumber = PlayerSettings.Switch.displayVersion;
+                //buildScriptableObject.buildNumber = PlayerSettings.Switch.displayVersion;
                 break;
             case BuildTarget.tvOS:
                 PlayerSettings.tvOS.buildNumber = IncrementBuildNumber(PlayerSettings.tvOS.buildNumber);

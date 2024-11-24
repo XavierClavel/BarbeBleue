@@ -1,6 +1,5 @@
 using System.Collections;
 using System.Collections.Generic;
-using MyBox;
 using UnityEngine;
 
 public class LocalizedString
@@ -11,7 +10,6 @@ public class LocalizedString
         if (!dictString.ContainsKey(LocalizationManager.getLanguage()))
         {
             Debug.LogWarning($"String is not localized in {LocalizationManager.getLanguage()} yet :");
-            dictString.ForEach(it => Debug.Log($"key : {it.Key}, value : {it.Value}"));
             return "";
         }
         return dictString[LocalizationManager.getLanguage()];
@@ -80,12 +78,7 @@ public class DualLocalizedStringBuilder : DataBuilder<LocalizedString>
 
         string key = "";
         SetValue(ref key, Vault.key.Key);
-
-        if (key == "" && prevKey == "") return null;
-        string dictKey = key == "" ? prevKey + Vault.key.ButtonDescription : key + Vault.key.ButtonTitle;
-        prevKey = key;
-
-        return dictKey;
+        return key;
     }
 
     void RemoveQuotationMarks(ref string input)

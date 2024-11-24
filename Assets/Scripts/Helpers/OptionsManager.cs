@@ -24,16 +24,16 @@ public class OptionsManager : MonoBehaviour
 
     public void UpdateMusicVolume()
     {
-        SoundManager.UpdateMusicVolume(musicSlider.value * 0.01f);
+        //SoundManager.UpdateMusicVolume(musicSlider.value * 0.01f);
         musicVolumeDisplay.SetText(((int)(musicSlider.value)).ToString());
     }
     
     public void UpdateSfxVolume(float value)
     {
-        SoundManager.UpdateSfxVolume(sfxSlider.value * 0.01f);
+        //SoundManager.UpdateSfxVolume(sfxSlider.value * 0.01f);
         sfxVolumeDisplay.SetText(((int)(sfxSlider.value)).ToString());
     }
-
+/*
     public void SaveOptions()
     {
         var opt = new OptionsProfile();
@@ -63,4 +63,5 @@ public class OptionsManager : MonoBehaviour
         windowSelector.setSelected(optionsProfile.windowMode);
         
     }
+    */
 }

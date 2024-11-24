@@ -1,4 +1,4 @@
-using DG.Tweening;
+//using DG.Tweening;
 using UnityEngine;
 using UnityEngine.EventSystems;
 using UnityEngine.Serialization;
@@ -89,7 +89,7 @@ public abstract class Draggable : MonoBehaviour, IDragHandler, IBeginDragHandler
     {
         if (!onDrop()) return;
         
-        rectTransform.DOMove(slot.position, 0.65f).SetEase(Ease.InOutQuad).OnComplete(delegate
+        //rectTransform.DOMove(slot.position, 0.65f).SetEase(Ease.InOutQuad).OnComplete(delegate
         {
             if (selectedDraggableHolder != null)
             {
@@ -101,7 +101,7 @@ public abstract class Draggable : MonoBehaviour, IDragHandler, IBeginDragHandler
             rectTransform.anchorMin = 0.5f * Vector2.one;
             rectTransform.anchorMax = 0.5f * Vector2.one;
             onEndDrag();
-        });
+        }
     }
 
     protected virtual bool onDrop()

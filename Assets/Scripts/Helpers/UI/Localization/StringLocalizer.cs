@@ -1,12 +1,8 @@
-using System;
-using System.Collections;
-using System.Collections.Generic;
-using MyBox;
 using UnityEngine;
 using TMPro;
 
 [RequireComponent(typeof(TextMeshProUGUI))]
-public class StringLocalizer : MonoBehaviour
+public class StringLocalizer : MonoBehaviour, ILocalized
 {
     [SerializeField] string key = null;
     private TextMeshProUGUI textDisplay = null;
@@ -29,6 +25,8 @@ public class StringLocalizer : MonoBehaviour
         if (!DataManager.isInitialized()) return;
         Setup();
     }
+    
+    
 
     public void Setup()
     {
@@ -42,7 +40,7 @@ public class StringLocalizer : MonoBehaviour
             }
             LocalizationManager.registerStringLocalizer(this);
         }
-        if (!key.IsNullOrEmpty()) UpdateKey();
+        if (key.Trim() != "") UpdateKey();
     }
 
     private void UpdateKey()
@@ -59,5 +57,10 @@ public class StringLocalizer : MonoBehaviour
     private void OnDestroy()
     {
         LocalizationManager.unregisterStringLocalizer(this);
+    }
+
+    public void onLocaleChange(string locale)
+    {
+        Setup();
     }
 }
