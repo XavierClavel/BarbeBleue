@@ -2,6 +2,8 @@ public static class Vault
 {
     public static class scene
     {
+        public const string TitleScreen = "TitleScreen";
+        public const string MainScene = "MainScene";
     }
 
     public static class key

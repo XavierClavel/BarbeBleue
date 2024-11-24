@@ -1,0 +1,4 @@
+Key;FR;EN
+Start;Commencer;Start
+Quit;Quitter;Quit
+Resume;Reprendre;Resume

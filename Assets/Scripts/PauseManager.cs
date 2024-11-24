@@ -1,4 +1,5 @@
 using UnityEngine;
+using UnityEngine.SceneManagement;
 
 public class PauseManager : MonoBehaviour
 {
@@ -6,6 +7,7 @@ public class PauseManager : MonoBehaviour
     private InputMaster controls;
     private bool isGamePaused = false;
     [SerializeField] private GameObject pauseMenu;
+    [SerializeField] private bool disableOnStart = false;
     
     // Start is called once before the first execution of Update after the MonoBehaviour is created
     void Start()
@@ -13,13 +15,21 @@ public class PauseManager : MonoBehaviour
         controls = new InputMaster();
         controls.Player.Pause.performed += _ => PauseUnpause();
         controls.Enable();
-        pauseMenu.SetActive(false);
+        if (disableOnStart)
+        {
+            pauseMenu.SetActive(false);   
+        }
     }
 
     private void PauseUnpause()
     {
         if (isGamePaused) Unpause();
         else Pause();
+    }
+
+    public void StartGame()
+    {
+        SceneManager.LoadScene(Vault.scene.MainScene);
     }
 
     public void Pause()
@@ -34,11 +44,6 @@ public class PauseManager : MonoBehaviour
         Time.timeScale = 1f;
         isGamePaused = false;
         pauseMenu.SetActive(isGamePaused);
-    }
-
-    public void setLocale(string locale)
-    {
-        LocalizationManager.setLanguage(locale);
     }
 
     public void Quit()
