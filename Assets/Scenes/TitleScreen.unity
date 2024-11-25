@@ -297,7 +297,7 @@ PrefabInstance:
     - target: {fileID: 1949010788889079974, guid: 5f23ce8e93bc4c04d934672920bf242f, type: 3}
       propertyPath: m_OnClick.m_PersistentCalls.m_Calls.Array.data[0].m_Target
       value: 
-      objectReference: {fileID: 1415614499}
+      objectReference: {fileID: 0}
     - target: {fileID: 1949010788889079974, guid: 5f23ce8e93bc4c04d934672920bf242f, type: 3}
       propertyPath: m_OnClick.m_PersistentCalls.m_Calls.Array.data[0].m_MethodName
       value: setLocale
@@ -408,7 +408,7 @@ MonoBehaviour:
     m_PersistentCalls:
       m_Calls:
       - m_Target: {fileID: 1415614499}
-        m_TargetAssemblyTypeName: PauseManager, Assembly-CSharp
+        m_TargetAssemblyTypeName: TitleScreenManager, Assembly-CSharp
         m_MethodName: StartGame
         m_Mode: 1
         m_Arguments:
@@ -620,7 +620,7 @@ MonoBehaviour:
     m_PersistentCalls:
       m_Calls:
       - m_Target: {fileID: 1415614499}
-        m_TargetAssemblyTypeName: PauseManager, Assembly-CSharp
+        m_TargetAssemblyTypeName: TitleScreenManager, Assembly-CSharp
         m_MethodName: Quit
         m_Mode: 1
         m_Arguments:
@@ -1243,10 +1243,10 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 1415614498}
+  - component: {fileID: 1415614499}
   - component: {fileID: 1415614497}
   - component: {fileID: 1415614496}
   - component: {fileID: 1415614495}
-  - component: {fileID: 1415614499}
   m_Layer: 5
   m_Name: Canvas
   m_TagString: Untagged
@@ -1348,11 +1348,9 @@ MonoBehaviour:
   m_GameObject: {fileID: 1415614494}
   m_Enabled: 1
   m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: bdc515ea7b109414585f25b74828f63c, type: 3}
+  m_Script: {fileID: 11500000, guid: 9111a03c03e1489788baa52a14be323a, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  pauseMenu: {fileID: 0}
-  disableOnStart: 0
 --- !u!224 &1425883290 stripped
 RectTransform:
   m_CorrespondingSourceObject: {fileID: 519494918134295771, guid: 5f23ce8e93bc4c04d934672920bf242f, type: 3}
@@ -1497,7 +1495,7 @@ PrefabInstance:
     - target: {fileID: 1949010788889079974, guid: 5f23ce8e93bc4c04d934672920bf242f, type: 3}
       propertyPath: m_OnClick.m_PersistentCalls.m_Calls.Array.data[0].m_Target
       value: 
-      objectReference: {fileID: 1415614499}
+      objectReference: {fileID: 0}
     - target: {fileID: 1949010788889079974, guid: 5f23ce8e93bc4c04d934672920bf242f, type: 3}
       propertyPath: m_OnClick.m_PersistentCalls.m_Calls.Array.data[0].m_MethodName
       value: setLocale

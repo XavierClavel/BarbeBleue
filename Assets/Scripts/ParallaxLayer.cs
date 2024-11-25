@@ -13,11 +13,17 @@ public class ParallaxLayer : MonoBehaviour
     {
         rectTransform = GetComponent<RectTransform>();
         initPos = rectTransform.localPosition;
+        updatePosition();
     }
 
     void Update()
     {
-        rectTransform.localPosition = initPos + (parallaxCoeff * rectTransform.parent.position.x * transform.localPosition.z) * Vector3.right ;
+        updatePosition();
+    }
+
+    private void updatePosition()
+    {
+        rectTransform.localPosition = initPos + (parallaxCoeff * rectTransform.parent.position.x * transform.localPosition.z) * Vector3.right;
     }
 
 }

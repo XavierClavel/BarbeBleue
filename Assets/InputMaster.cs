@@ -35,6 +35,15 @@ public partial class @InputMaster: IInputActionCollection2, IDisposable
                     ""processors"": """",
                     ""interactions"": """",
                     ""initialStateCheck"": false
+                },
+                {
+                    ""name"": ""TriggerPauseButton"",
+                    ""type"": ""Button"",
+                    ""id"": ""b00bc1a4-3f7e-4503-b5b4-8f1f6e27189e"",
+                    ""expectedControlType"": """",
+                    ""processors"": """",
+                    ""interactions"": """",
+                    ""initialStateCheck"": false
                 }
             ],
             ""bindings"": [
@@ -48,6 +57,28 @@ public partial class @InputMaster: IInputActionCollection2, IDisposable
                     ""action"": ""Pause"",
                     ""isComposite"": false,
                     ""isPartOfComposite"": false
+                },
+                {
+                    ""name"": """",
+                    ""id"": ""5c9e87d7-212b-4dfd-86c7-b5eb001b1637"",
+                    ""path"": ""<Touchscreen>/primaryTouch/tap"",
+                    ""interactions"": """",
+                    ""processors"": """",
+                    ""groups"": """",
+                    ""action"": ""TriggerPauseButton"",
+                    ""isComposite"": false,
+                    ""isPartOfComposite"": false
+                },
+                {
+                    ""name"": """",
+                    ""id"": ""8b9da90c-cfdd-439b-8ead-6fd7ff0946da"",
+                    ""path"": ""<Mouse>/rightButton"",
+                    ""interactions"": """",
+                    ""processors"": """",
+                    ""groups"": """",
+                    ""action"": ""TriggerPauseButton"",
+                    ""isComposite"": false,
+                    ""isPartOfComposite"": false
                 }
             ]
         }
@@ -57,6 +88,7 @@ public partial class @InputMaster: IInputActionCollection2, IDisposable
         // Player
         m_Player = asset.FindActionMap("Player", throwIfNotFound: true);
         m_Player_Pause = m_Player.FindAction("Pause", throwIfNotFound: true);
+        m_Player_TriggerPauseButton = m_Player.FindAction("TriggerPauseButton", throwIfNotFound: true);
     }
 
     ~@InputMaster()
@@ -124,11 +156,13 @@ public partial class @InputMaster: IInputActionCollection2, IDisposable
     private readonly InputActionMap m_Player;
     private List<IPlayerActions> m_PlayerActionsCallbackInterfaces = new List<IPlayerActions>();
     private readonly InputAction m_Player_Pause;
+    private readonly InputAction m_Player_TriggerPauseButton;
     public struct PlayerActions
     {
         private @InputMaster m_Wrapper;
         public PlayerActions(@InputMaster wrapper) { m_Wrapper = wrapper; }
         public InputAction @Pause => m_Wrapper.m_Player_Pause;
+        public InputAction @TriggerPauseButton => m_Wrapper.m_Player_TriggerPauseButton;
         public InputActionMap Get() { return m_Wrapper.m_Player; }
         public void Enable() { Get().Enable(); }
         public void Disable() { Get().Disable(); }
@@ -141,6 +175,9 @@ public partial class @InputMaster: IInputActionCollection2, IDisposable
             @Pause.started += instance.OnPause;
             @Pause.performed += instance.OnPause;
             @Pause.canceled += instance.OnPause;
+            @TriggerPauseButton.started += instance.OnTriggerPauseButton;
+            @TriggerPauseButton.performed += instance.OnTriggerPauseButton;
+            @TriggerPauseButton.canceled += instance.OnTriggerPauseButton;
         }
 
         private void UnregisterCallbacks(IPlayerActions instance)
@@ -148,6 +185,9 @@ public partial class @InputMaster: IInputActionCollection2, IDisposable
             @Pause.started -= instance.OnPause;
             @Pause.performed -= instance.OnPause;
             @Pause.canceled -= instance.OnPause;
+            @TriggerPauseButton.started -= instance.OnTriggerPauseButton;
+            @TriggerPauseButton.performed -= instance.OnTriggerPauseButton;
+            @TriggerPauseButton.canceled -= instance.OnTriggerPauseButton;
         }
 
         public void RemoveCallbacks(IPlayerActions instance)
@@ -168,5 +208,6 @@ public partial class @InputMaster: IInputActionCollection2, IDisposable
     public interface IPlayerActions
     {
         void OnPause(InputAction.CallbackContext context);
+        void OnTriggerPauseButton(InputAction.CallbackContext context);
     }
 }
