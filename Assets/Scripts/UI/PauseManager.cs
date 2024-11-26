@@ -1,5 +1,6 @@
 using System;
 using System.Collections;
+using DG.Tweening;
 using UnityEngine;
 using UnityEngine.SceneManagement;
 
@@ -10,7 +11,13 @@ public class PauseManager : MonoBehaviour
     private bool isGamePaused = false;
     [SerializeField] private GameObject pauseMenu;
     [SerializeField] private GameObject pauseButton;
+    private bool isPauseButtonDisplayed = false;
     private int i = 0;
+    private float displayPosition;
+    private float hidePosition;
+    private Sequence sequence = null;
+    private const float transitionDuration = 0.3f;
+    private const float pauseDuration = 2f;
     
     
     // Start is called once before the first execution of Update after the MonoBehaviour is created
@@ -21,7 +28,11 @@ public class PauseManager : MonoBehaviour
         controls.Player.TriggerPauseButton.performed += _ => TriggerPauseButton();
         controls.Enable();
         pauseMenu.SetActive(false);
-        pauseButton.SetActive(false);
+        displayPosition = pauseButton.transform.localPosition.y;
+        Debug.Log(displayPosition);
+        hidePosition = 250f + displayPosition;
+        pauseButton.transform.localPosition = hidePosition * Vector3.up;
+        sequence = DOTween.Sequence();
     }
 
     private void OnDisable()
@@ -39,15 +50,28 @@ public class PauseManager : MonoBehaviour
     {
         i++;
         StopCoroutine(nameof(waitAndDeactivate));
-        if (pauseButton.activeInHierarchy)
+        
+        sequence.Kill();
+        if (isPauseButtonDisplayed)
         {
-            pauseButton.SetActive(false);
+            sequence = DOTween.Sequence()
+                    .AppendCallback(() => { isPauseButtonDisplayed = false; })
+                    .Append(pauseButton.transform.DOLocalMoveY(hidePosition, transitionDuration).SetEase(Ease.InOutQuad))
+                ;
         }
         else
         {
-            StartCoroutine(nameof(waitAndDeactivate));    
+            sequence = DOTween.Sequence()
+                    .AppendCallback(() => { isPauseButtonDisplayed = true; })
+                    .Append(pauseButton.transform.DOLocalMoveY(displayPosition, transitionDuration).SetEase(Ease.InOutQuad))
+                    .AppendInterval(pauseDuration)
+                    .AppendCallback(() => { isPauseButtonDisplayed = false; })
+                    .Append(pauseButton.transform.DOLocalMoveY(hidePosition, transitionDuration).SetEase(Ease.InOutQuad))
+                ;
         }
         
+        sequence.Play();
+
     }
     
     public void ToTitleScreen()
