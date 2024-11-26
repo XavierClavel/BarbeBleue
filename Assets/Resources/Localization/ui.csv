@@ -1,7 +1,7 @@
-Key;FR;EN;ES
-Start;Commencer;Start;Empezar
-Quit;Quitter;Quit;Dejar
-Resume;Reprendre;Resume;Retomar
-MainMenu;Menu Principal;Title Screen;Menú principal
-Credits;Crédits;Credits;Créditos
-Back;Retour;Back;Volver
+Key;FR;EN;ES;DE
+Start;Commencer;Start;Empezar;Start
+Quit;Quitter;Quit;Dejar;Beenden Sie
+Resume;Reprendre;Resume;Retomar;Lebenslauf
+MainMenu;Menu Principal;Title Screen;Menú principal;Titel-Bildschirm
+Credits;Crédits;Credits;Créditos;Kredite
+Back;Retour;Back;Volver;Zurück

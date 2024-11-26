@@ -114,10 +114,31 @@ public abstract class DataBuilder<T>
 
             foreach (string array in correctedArray)
             {
-                List<string> s = array.Split(';').ToList();
-                string key = getKey(s);
+                if (array.Count(f => f == '"') % 2 == 1)
+                {
+                    throw new Exception("Uneven amount of double quotes");
+                }
+                List<string> items = array.Split(';').ToList();
+                insideComma = false;
+                currentString = "";
+                var newList = new List<string>();
+                foreach (string s in items)
+                {
+                    currentString += s;
+                    if (insideComma) insideComma = s.Count(f => f == '"') % 2 == 0;
+                    else insideComma = s.Count(f => f == '"') % 2 == 1;
+
+                    if (!insideComma)
+                    {
+                        currentString = currentString.Trim();
+                        newList.Add(currentString);
+                        currentString = "";
+                    }
+                    else currentString += ";";
+                }
+                string key = getKey(newList);
                 if (key == null) continue;
-                T value = BuildData(s);
+                T value = BuildData(newList);
                 if (value == null) continue;
 
                 dict[key] = value;

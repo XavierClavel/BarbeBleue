@@ -1,0 +1,5 @@
+C:/Users/xrcla/Documents/Game Dev/Unity Projects/Barbebleue/.utmp/RelWithDebInfo/833544s1/arm64-v8a/CMakeFiles/edit_cache.dir
+C:/Users/xrcla/Documents/Game Dev/Unity Projects/Barbebleue/.utmp/RelWithDebInfo/833544s1/arm64-v8a/CMakeFiles/rebuild_cache.dir
+C:/Users/xrcla/Documents/Game Dev/Unity Projects/Barbebleue/.utmp/RelWithDebInfo/833544s1/arm64-v8a/FramePacing/CMakeFiles/swappywrapper.dir
+C:/Users/xrcla/Documents/Game Dev/Unity Projects/Barbebleue/.utmp/RelWithDebInfo/833544s1/arm64-v8a/FramePacing/CMakeFiles/edit_cache.dir
+C:/Users/xrcla/Documents/Game Dev/Unity Projects/Barbebleue/.utmp/RelWithDebInfo/833544s1/arm64-v8a/FramePacing/CMakeFiles/rebuild_cache.dir

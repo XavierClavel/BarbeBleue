@@ -1,0 +1,2 @@
+C:\Users\xrcla\Documents\Game Dev\Unity Projects\Barbebleue\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\src\main\cpp\CMakeLists.txt
+C:\Users\xrcla\Documents\Game Dev\Unity Projects\Barbebleue\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\src\main\cpp\FramePacing\CMakeLists.txt
