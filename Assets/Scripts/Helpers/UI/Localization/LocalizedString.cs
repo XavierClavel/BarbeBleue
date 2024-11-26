@@ -25,12 +25,15 @@ public class LocalizedStringBuilder : DataBuilder<LocalizedString>
         LocalizedString value = new LocalizedString();
         string string_EN = getValue(Vault.key.localization.EN, string.Empty);
         string string_FR = getValue(Vault.key.localization.FR, string.Empty);
+        string string_SP = getValue(Vault.key.localization.ES, string.Empty);
 
         RemoveQuotationMarks(ref string_EN);
         RemoveQuotationMarks(ref string_FR);
+        RemoveQuotationMarks(ref string_SP);
 
         value.dictString[Vault.key.localization.EN] = string_EN;
         value.dictString[Vault.key.localization.FR] = string_FR;
+        value.dictString[Vault.key.localization.ES] = string_SP;
 
         return value;
     }

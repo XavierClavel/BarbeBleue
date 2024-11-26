@@ -14,6 +14,7 @@ public static class Vault
         {
             public const string EN = "EN";
             public const string FR = "FR";
+            public const string ES = "ES";
         }
     }
 
