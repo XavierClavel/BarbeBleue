@@ -40,7 +40,7 @@ TextureImporter:
   maxTextureSize: 2048
   textureSettings:
     serializedVersion: 2
-    filterMode: 0
+    filterMode: 1
     aniso: 1
     mipBias: 0
     wrapU: 1
@@ -75,10 +75,10 @@ TextureImporter:
   platformSettings:
   - serializedVersion: 4
     buildTarget: DefaultTexturePlatform
-    maxTextureSize: 8192
+    maxTextureSize: 4096
     resizeAlgorithm: 0
     textureFormat: -1
-    textureCompression: 0
+    textureCompression: 1
     compressionQuality: 50
     crunchedCompression: 0
     allowsAlphaSplitting: 0
@@ -119,7 +119,7 @@ TextureImporter:
       name: Tableaux_0
       rect:
         serializedVersion: 2
-        x: 7176
+        x: 7784
         y: 1048
         width: 586
         height: 687
@@ -141,9 +141,9 @@ TextureImporter:
       name: Tableaux_1
       rect:
         serializedVersion: 2
-        x: 7893
+        x: 8501
         y: 1081
-        width: 584
+        width: 585
         height: 632
       alignment: 0
       pivot: {x: 0, y: 0}

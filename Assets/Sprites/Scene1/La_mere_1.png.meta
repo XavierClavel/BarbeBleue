@@ -1,10 +1,10 @@
 fileFormatVersion: 2
-guid: d09f3b344747660429f9252e74c68019
+guid: 0a39d021da06c2649b5c98ae06eb0835
 TextureImporter:
   internalIDToNameTable:
   - first:
-      213: 1199552602360362313
-    second: "La me\u0300re 1_0"
+      213: 7697410655473073958
+    second: La_mere_1_0
   externalObjects: {}
   serializedVersion: 13
   mipmaps:
@@ -37,7 +37,7 @@ TextureImporter:
   maxTextureSize: 2048
   textureSettings:
     serializedVersion: 2
-    filterMode: 0
+    filterMode: 1
     aniso: 1
     mipBias: 0
     wrapU: 1
@@ -72,10 +72,10 @@ TextureImporter:
   platformSettings:
   - serializedVersion: 4
     buildTarget: DefaultTexturePlatform
-    maxTextureSize: 8192
+    maxTextureSize: 4096
     resizeAlgorithm: 0
     textureFormat: -1
-    textureCompression: 0
+    textureCompression: 1
     compressionQuality: 50
     crunchedCompression: 0
     allowsAlphaSplitting: 0
@@ -113,10 +113,10 @@ TextureImporter:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: "La me\u0300re 1_0"
+      name: La_mere_1_0
       rect:
         serializedVersion: 2
-        x: 3726
+        x: 4334
         y: 497
         width: 424
         height: 906
@@ -128,8 +128,8 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 945b5118cbaa5a010800000000000000
-      internalID: 1199552602360362313
+      spriteID: 62f77c16532b2da60800000000000000
+      internalID: 7697410655473073958
       vertices: []
       indices: 
       edges: []
@@ -148,7 +148,7 @@ TextureImporter:
     spriteCustomMetadata:
       entries: []
     nameFileIdTable:
-      "La me\u0300re 1_0": 1199552602360362313
+      La_mere_1_0: 7697410655473073958
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

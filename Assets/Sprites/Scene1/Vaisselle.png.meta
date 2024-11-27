@@ -46,7 +46,7 @@ TextureImporter:
   maxTextureSize: 2048
   textureSettings:
     serializedVersion: 2
-    filterMode: 0
+    filterMode: 1
     aniso: 1
     mipBias: 0
     wrapU: 1
@@ -81,10 +81,10 @@ TextureImporter:
   platformSettings:
   - serializedVersion: 4
     buildTarget: DefaultTexturePlatform
-    maxTextureSize: 8192
+    maxTextureSize: 4096
     resizeAlgorithm: 0
     textureFormat: -1
-    textureCompression: 0
+    textureCompression: 1
     compressionQuality: 50
     crunchedCompression: 0
     allowsAlphaSplitting: 0
@@ -125,9 +125,9 @@ TextureImporter:
       name: Vaisselle_0
       rect:
         serializedVersion: 2
-        x: 1118
+        x: 1727
         y: 984
-        width: 248
+        width: 247
         height: 286
       alignment: 0
       pivot: {x: 0, y: 0}
@@ -147,9 +147,9 @@ TextureImporter:
       name: Vaisselle_1
       rect:
         serializedVersion: 2
-        x: 1697
+        x: 2306
         y: 1117
-        width: 346
+        width: 345
         height: 155
       alignment: 0
       pivot: {x: 0, y: 0}
@@ -169,7 +169,7 @@ TextureImporter:
       name: Vaisselle_2
       rect:
         serializedVersion: 2
-        x: 2011
+        x: 2619
         y: 834
         width: 247
         height: 286
@@ -191,9 +191,9 @@ TextureImporter:
       name: Vaisselle_3
       rect:
         serializedVersion: 2
-        x: 1272
+        x: 1880
         y: 837
-        width: 345
+        width: 346
         height: 156
       alignment: 0
       pivot: {x: 0, y: 0}

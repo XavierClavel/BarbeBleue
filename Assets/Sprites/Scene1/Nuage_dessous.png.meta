@@ -1,31 +1,31 @@
 fileFormatVersion: 2
-guid: 775486e5e30e2984c8d9478fad05f4e5
+guid: 6f4a67f4de4c8a546955d0c4f6b38b5b
 TextureImporter:
   internalIDToNameTable:
   - first:
-      213: -7048585984932467475
-    second: Nuage dessous_0
+      213: -6690291803824268527
+    second: Nuage_dessous_0
   - first:
-      213: -3449048436499902582
-    second: Nuage dessous_1
+      213: -3020556115128059006
+    second: Nuage_dessous_1
   - first:
-      213: -783444338255373084
-    second: Nuage dessous_2
+      213: -4013201939722566797
+    second: Nuage_dessous_2
   - first:
-      213: -4768242167935776626
-    second: Nuage dessous_3
+      213: 2386322255321877613
+    second: Nuage_dessous_3
   - first:
-      213: 5295020062796813931
-    second: Nuage dessous_4
+      213: 4279008841249316418
+    second: Nuage_dessous_4
   - first:
-      213: 8692735465502255141
-    second: Nuage dessous_5
+      213: 3332011021727568354
+    second: Nuage_dessous_5
   - first:
-      213: 6163686258046945943
-    second: Nuage dessous_6
+      213: -806196798856445413
+    second: Nuage_dessous_6
   - first:
-      213: -6305527708883323866
-    second: Nuage dessous_7
+      213: -4134647145513227888
+    second: Nuage_dessous_7
   externalObjects: {}
   serializedVersion: 13
   mipmaps:
@@ -58,7 +58,7 @@ TextureImporter:
   maxTextureSize: 2048
   textureSettings:
     serializedVersion: 2
-    filterMode: 0
+    filterMode: 1
     aniso: 1
     mipBias: 0
     wrapU: 1
@@ -93,10 +93,10 @@ TextureImporter:
   platformSettings:
   - serializedVersion: 4
     buildTarget: DefaultTexturePlatform
-    maxTextureSize: 8192
+    maxTextureSize: 4096
     resizeAlgorithm: 0
     textureFormat: -1
-    textureCompression: 0
+    textureCompression: 1
     compressionQuality: 50
     crunchedCompression: 0
     allowsAlphaSplitting: 0
@@ -134,10 +134,10 @@ TextureImporter:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: Nuage dessous_0
+      name: Nuage_dessous_0
       rect:
         serializedVersion: 2
-        x: 2093
+        x: 2701
         y: 1782
         width: 750
         height: 518
@@ -149,19 +149,19 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: decad4744646e2e90800000000000000
-      internalID: -7048585984932467475
+      spriteID: 11bd8551d0f4723a0800000000000000
+      internalID: -6690291803824268527
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Nuage dessous_1
+      name: Nuage_dessous_1
       rect:
         serializedVersion: 2
-        x: 2844
+        x: 3453
         y: 2093
-        width: 498
+        width: 497
         height: 295
       alignment: 0
       pivot: {x: 0, y: 0}
@@ -171,19 +171,19 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: a8f8e4988b48220d0800000000000000
-      internalID: -3449048436499902582
+      spriteID: 28b78a58734d416d0800000000000000
+      internalID: -3020556115128059006
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Nuage dessous_2
+      name: Nuage_dessous_2
       rect:
         serializedVersion: 2
-        x: 6523
+        x: 7131
         y: 1575
-        width: 973
+        width: 974
         height: 611
       alignment: 0
       pivot: {x: 0, y: 0}
@@ -193,17 +193,17 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 4ec5ff47685a025f0800000000000000
-      internalID: -783444338255373084
+      spriteID: 3738de2491e3e48c0800000000000000
+      internalID: -4013201939722566797
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Nuage dessous_3
+      name: Nuage_dessous_3
       rect:
         serializedVersion: 2
-        x: 98
+        x: 706
         y: 1463
         width: 1043
         height: 576
@@ -215,17 +215,17 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: e884621f20dc3ddb0800000000000000
-      internalID: -4768242167935776626
+      spriteID: d6cc11ca27bed1120800000000000000
+      internalID: 2386322255321877613
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Nuage dessous_4
+      name: Nuage_dessous_4
       rect:
         serializedVersion: 2
-        x: 4415
+        x: 5023
         y: 1577
         width: 534
         height: 17
@@ -237,17 +237,17 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: b66129161b0bb7940800000000000000
-      internalID: 5295020062796813931
+      spriteID: 24edb65bed7126b30800000000000000
+      internalID: 4279008841249316418
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Nuage dessous_5
+      name: Nuage_dessous_5
       rect:
         serializedVersion: 2
-        x: 3133
+        x: 3742
         y: 1524
         width: 534
         height: 17
@@ -259,17 +259,17 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 528a3bb89dcc2a870800000000000000
-      internalID: 8692735465502255141
+      spriteID: 2e112c9de5ead3e20800000000000000
+      internalID: 3332011021727568354
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Nuage dessous_6
+      name: Nuage_dessous_6
       rect:
         serializedVersion: 2
-        x: 3780
+        x: 4389
         y: 1388
         width: 534
         height: 16
@@ -281,17 +281,17 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 79a48ddbeffc98550800000000000000
-      internalID: 6163686258046945943
+      spriteID: b12ca196840dfc4f0800000000000000
+      internalID: -806196798856445413
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Nuage dessous_7
+      name: Nuage_dessous_7
       rect:
         serializedVersion: 2
-        x: 4127
+        x: 4736
         y: 1284
         width: 644
         height: 30
@@ -303,8 +303,8 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 62470a6f4f34e78a0800000000000000
-      internalID: -6305527708883323866
+      spriteID: 099e914d358ce96c0800000000000000
+      internalID: -4134647145513227888
       vertices: []
       indices: 
       edges: []
@@ -323,14 +323,14 @@ TextureImporter:
     spriteCustomMetadata:
       entries: []
     nameFileIdTable:
-      Nuage dessous_0: -7048585984932467475
-      Nuage dessous_1: -3449048436499902582
-      Nuage dessous_2: -783444338255373084
-      Nuage dessous_3: -4768242167935776626
-      Nuage dessous_4: 5295020062796813931
-      Nuage dessous_5: 8692735465502255141
-      Nuage dessous_6: 6163686258046945943
-      Nuage dessous_7: -6305527708883323866
+      Nuage_dessous_0: -6690291803824268527
+      Nuage_dessous_1: -3020556115128059006
+      Nuage_dessous_2: -4013201939722566797
+      Nuage_dessous_3: 2386322255321877613
+      Nuage_dessous_4: 4279008841249316418
+      Nuage_dessous_5: 3332011021727568354
+      Nuage_dessous_6: -806196798856445413
+      Nuage_dessous_7: -4134647145513227888
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

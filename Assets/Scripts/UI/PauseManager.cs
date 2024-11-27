@@ -29,7 +29,6 @@ public class PauseManager : MonoBehaviour
         controls.Enable();
         pauseMenu.SetActive(false);
         displayPosition = pauseButton.transform.localPosition.y;
-        Debug.Log(displayPosition);
         hidePosition = 250f + displayPosition;
         pauseButton.transform.localPosition = hidePosition * Vector3.up;
         sequence = DOTween.Sequence();

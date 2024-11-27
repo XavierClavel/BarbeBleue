@@ -1,10 +1,22 @@
 fileFormatVersion: 2
-guid: 6019645a6bef1b3498f07dbab9642e33
+guid: c9d846169cece3e4bb82e89fc2b0e7ae
 TextureImporter:
   internalIDToNameTable:
   - first:
-      213: 6570386187315461502
-    second: Colline maison_0
+      213: -978205409833193754
+    second: Texte_0
+  - first:
+      213: 2321736371181226784
+    second: Texte_1
+  - first:
+      213: -3200365204217052250
+    second: Texte_2
+  - first:
+      213: 4931960491723921318
+    second: Texte_3
+  - first:
+      213: -1113852038403064392
+    second: Texte_4
   externalObjects: {}
   serializedVersion: 13
   mipmaps:
@@ -37,7 +49,7 @@ TextureImporter:
   maxTextureSize: 2048
   textureSettings:
     serializedVersion: 2
-    filterMode: 0
+    filterMode: 1
     aniso: 1
     mipBias: 0
     wrapU: 1
@@ -72,10 +84,10 @@ TextureImporter:
   platformSettings:
   - serializedVersion: 4
     buildTarget: DefaultTexturePlatform
-    maxTextureSize: 8192
+    maxTextureSize: 4096
     resizeAlgorithm: 0
     textureFormat: -1
-    textureCompression: 0
+    textureCompression: 1
     compressionQuality: 50
     crunchedCompression: 0
     allowsAlphaSplitting: 0
@@ -113,13 +125,13 @@ TextureImporter:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: Colline maison_0
+      name: Texte_0
       rect:
         serializedVersion: 2
-        x: 0
-        y: 0
-        width: 2780
-        height: 1666
+        x: 705
+        y: 1996
+        width: 1131
+        height: 374
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -128,8 +140,96 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: e7d321c0d63be2b50800000000000000
-      internalID: 6570386187315461502
+      spriteID: 6eee68dcc57bc62f0800000000000000
+      internalID: -978205409833193754
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Texte_1
+      rect:
+        serializedVersion: 2
+        x: 7709
+        y: 1786
+        width: 1379
+        height: 456
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 02b8c52bde6783020800000000000000
+      internalID: 2321736371181226784
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Texte_2
+      rect:
+        serializedVersion: 2
+        x: 2204
+        y: 1437
+        width: 891
+        height: 348
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6a34f139dc40693d0800000000000000
+      internalID: -3200365204217052250
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Texte_3
+      rect:
+        serializedVersion: 2
+        x: 4142
+        y: 1763
+        width: 729
+        height: 205
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6a71773cfe7d17440800000000000000
+      internalID: 4931960491723921318
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Texte_4
+      rect:
+        serializedVersion: 2
+        x: 5587
+        y: 1346
+        width: 866
+        height: 366
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8bdf3a6f87dca80f0800000000000000
+      internalID: -1113852038403064392
       vertices: []
       indices: 
       edges: []
@@ -148,7 +248,11 @@ TextureImporter:
     spriteCustomMetadata:
       entries: []
     nameFileIdTable:
-      Colline maison_0: 6570386187315461502
+      Texte_0: -978205409833193754
+      Texte_1: 2321736371181226784
+      Texte_2: -3200365204217052250
+      Texte_3: 4931960491723921318
+      Texte_4: -1113852038403064392
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 
