@@ -1,7 +1,7 @@
-Key;FR;EN;ES;DE
-Start;Commencer;Start;Empezar;Start
-Quit;Quitter;Quit;Dejar;Beenden Sie
-Resume;Reprendre;Resume;Retomar;Lebenslauf
-MainMenu;Menu Principal;Title Screen;Menú principal;Titel-Bildschirm
-Credits;Crédits;Credits;Créditos;Kredite
-Back;Retour;Back;Volver;Zurück
+Key;FR;EN;ES;DE;IT
+Start;Commencer;Start;Empezar;Start;Inizio
+Quit;Quitter;Quit;Dejar;Beenden Sie;Abbandonare
+Resume;Reprendre;Resume;Retomar;Lebenslauf;Ripartire
+MainMenu;Menu Principal;Title Screen;Menú principal;Titel-Bildschirm;Schermata del titolo
+Credits;Crédits;Credits;Créditos;Kredite;Crediti
+Back;Retour;Back;Volver;Zurück;Indietro
