@@ -23,6 +23,7 @@ public class Checkpoint: MonoBehaviour
     private float lastPos;
     private CheckpointData data;
     public static List<Checkpoint> list = new List<Checkpoint>();
+    private bool initialized = false;
 
     private void Awake()
     {
@@ -35,8 +36,6 @@ public class Checkpoint: MonoBehaviour
         var rt = GetComponent<RectTransform>();
         data = new CheckpointData(key, rt.anchoredPosition.x);
         checkpoints.Add(data);
-        lastPos = transform.position.x;
-        Debug.Log(rt.anchoredPosition.x);
     }
 
     private void OnDestroy()
@@ -44,8 +43,15 @@ public class Checkpoint: MonoBehaviour
         list = new List<Checkpoint>();
     }
 
-    private void Update()
+    public void setInitialPosition()
     {
+        lastPos = transform.position.x;
+        initialized = true;
+    }
+
+    private void FixedUpdate()
+    {
+        if (!initialized) return;
         if (Mathf.Sign(transform.position.x) * Mathf.Sign(lastPos) < 0)
         {
             EventManagers.checkpoint.dispatchEvent(it => it.onCheckpointReached(data));
@@ -54,9 +60,5 @@ public class Checkpoint: MonoBehaviour
     }
 
     public static HashSet<CheckpointData> getAll() => checkpoints;
-    public static Vector2 ComponentMultiply(Vector2 v, Vector2 other)
-    {
-        return new Vector2(v.x * other.x, v.y * other.y);
-    }
     
 }

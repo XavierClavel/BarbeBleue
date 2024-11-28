@@ -50,6 +50,8 @@ public class CheckpointManager: MonoBehaviour, ICheckpoint
 
    public void onCheckpointReached(CheckpointData checkpointData)
    {
+      if (checkpointData.key == currentCheckpoint) return;
+      currentCheckpoint = checkpointData.key;
       Debug.Log($"Checkpoint reached : {checkpointData.key}");
       SaveManager.updateCheckpoint(checkpointData.key);
    }

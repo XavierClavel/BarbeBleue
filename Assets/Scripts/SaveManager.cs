@@ -33,7 +33,7 @@ public static class SaveManager
         save();
     }
 
-    public static string getCheckpoint() => "Chapter 2";//saveData.checkpoint;
+    public static string getCheckpoint() => saveData.checkpoint;
     
 
     private static string getDataPath()

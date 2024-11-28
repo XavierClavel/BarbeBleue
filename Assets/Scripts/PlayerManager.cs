@@ -21,5 +21,6 @@ public class PlayerManager: MonoBehaviour
         yield return null;
         Checkpoint.list.ForEach(it => it.setup());
         CheckpointManager.instance.setup();
+        Checkpoint.list.ForEach(it => it.setInitialPosition());
     }
 }
