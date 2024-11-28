@@ -6,6 +6,7 @@ public static class EventManagers
     public static readonly EventManager<IInputListener> inputs = new EventManager<IInputListener>();
     public static readonly EventManager<ILocalized> localization = new EventManager<ILocalized>();
     public static readonly EventManager<IPersistentData> persistent = new EventManager<IPersistentData>();
+    public static readonly EventManager<ICheckpoint> checkpoint = new EventManager<ICheckpoint>();
     
     private static Dictionary<Type, object> dict;
 
@@ -26,3 +27,4 @@ public static class EventManagers
     
     
 }
+

@@ -3,12 +3,14 @@ using System.Collections;
 using System.Collections.Generic;
 using System.IO;
 using System.Runtime.Serialization.Formatters.Binary;
+using JetBrains.Annotations;
 using UnityEngine;
 
 [Serializable]
 public class SaveData
 {
     public string locale = "FR";
+    public string checkpoint = null;
 }
 
 public static class SaveManager
@@ -24,6 +26,14 @@ public static class SaveManager
         saveData.locale = locale;
         save();
     }
+
+    public static void updateCheckpoint(string checkpoint)
+    {
+        saveData.checkpoint = checkpoint;
+        save();
+    }
+
+    public static string getCheckpoint() => "Chapter 2";//saveData.checkpoint;
     
 
     private static string getDataPath()

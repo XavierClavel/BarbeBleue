@@ -7,14 +7,14 @@ public class ParallaxLayer : MonoBehaviour
 {
     private static float parallaxCoeff = 0.005f;
     private RectTransform rectTransform;
-    private Vector3 initPos;
-    private const float offset = -513f;
+    private Vector2 initPos;
+    public const float offset = -513f;
     
     // Start is called before the first frame update
     void Awake()
     {
         rectTransform = GetComponent<RectTransform>();
-        initPos = rectTransform.localPosition + offset * Vector3.right;
+        initPos = rectTransform.anchoredPosition + offset * Vector2.right;
         updatePosition();
     }
 
@@ -25,7 +25,7 @@ public class ParallaxLayer : MonoBehaviour
 
     private void updatePosition()
     {
-        rectTransform.localPosition = initPos + (parallaxCoeff * (rectTransform.parent.position.x + 2 * offset) * transform.localPosition.z) * Vector3.right;
+        rectTransform.anchoredPosition = initPos + (parallaxCoeff * (rectTransform.parent.position.x + 2 * offset) * transform.localPosition.z) * Vector2.right;
     }
 
 }
