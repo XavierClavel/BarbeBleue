@@ -19,8 +19,6 @@ public class PlayerManager: MonoBehaviour
     private IEnumerator LateStart()
     {
         yield return null;
-        Checkpoint.list.ForEach(it => it.setup());
         CheckpointManager.instance.setup();
-        Checkpoint.list.ForEach(it => it.setInitialPosition());
     }
 }

@@ -2,6 +2,6 @@ using System;
 
 public interface ICheckpoint
 {
-    public void onCheckpointDeclaration(CheckpointData checkpointData);
+    public void onCheckpointDeclaration(Checkpoint checkpoint);
     public void onCheckpointReached(CheckpointData checkpointData);
 }

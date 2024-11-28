@@ -19,15 +19,14 @@ public class CheckpointData
 public class Checkpoint: MonoBehaviour
 {
     [SerializeField] private string key;
-    private static HashSet<CheckpointData> checkpoints = new HashSet<CheckpointData>();
     private float lastPos;
-    private CheckpointData data;
-    public static List<Checkpoint> list = new List<Checkpoint>();
+    public CheckpointData data;
     private bool initialized = false;
 
-    private void Awake()
+
+    private void Start()
     {
-        list.Add(this);
+        EventManagers.checkpoint.dispatchEvent(it => it.onCheckpointDeclaration(this));
     }
 
 
@@ -35,14 +34,8 @@ public class Checkpoint: MonoBehaviour
     {
         var rt = GetComponent<RectTransform>();
         data = new CheckpointData(key, rt.anchoredPosition.x);
-        checkpoints.Add(data);
     }
-
-    private void OnDestroy()
-    {
-        list = new List<Checkpoint>();
-    }
-
+    
     public void setInitialPosition()
     {
         lastPos = transform.position.x;
@@ -59,6 +52,4 @@ public class Checkpoint: MonoBehaviour
         lastPos = transform.position.x;
     }
 
-    public static HashSet<CheckpointData> getAll() => checkpoints;
-    
 }

@@ -7,35 +7,29 @@ using UnityEngine;
 public class CheckpointManager: MonoBehaviour, ICheckpoint
 {
    [SerializeField] private RectTransform content;
-   
-   private HashSet<CheckpointData> checkpoints;
    private List<float> positions;
    private string currentCheckpoint;
    private Dictionary<string, float> dictCheckpoints = new Dictionary<string, float>();
    public static CheckpointManager instance;
+   private List<Checkpoint> list = new List<Checkpoint>();
 
    private void Awake()
    {
       instance = this;
+      EventManagers.checkpoint.registerListener(this);
    }
 
    public void setup()
    {
-      checkpoints = Checkpoint.getAll();
+      list.ForEach(it => it.setup());
       currentCheckpoint = SaveManager.getCheckpoint();
-      Debug.Log(checkpoints.Count);
-      foreach (CheckpointData checkpoint in checkpoints)
-      {
-         Debug.Log(checkpoint.key);
-         dictCheckpoints[checkpoint.key] = checkpoint.position;
-      }
-      Debug.Log($"Starting from checkpoint '{currentCheckpoint}'");
+      list.ForEach(it => dictCheckpoints[it.data.key] = it.data.position);
       if (currentCheckpoint != null)
       {
-         Debug.Log(dictCheckpoints[currentCheckpoint]);
+         Debug.Log($"Starting game from checkpoint '{currentCheckpoint}'");
          content.anchoredPosition = (dictCheckpoints[currentCheckpoint]) * Vector2.left;
       }
-      EventManagers.checkpoint.registerListener(this);
+      list.ForEach(it => it.setInitialPosition());
    }
 
    private void OnDestroy()
@@ -43,9 +37,9 @@ public class CheckpointManager: MonoBehaviour, ICheckpoint
       EventManagers.checkpoint.unregisterListener(this);
    }
 
-   public void onCheckpointDeclaration(CheckpointData checkpointData)
+   public void onCheckpointDeclaration(Checkpoint checkpoint)
    {
-      
+      list.Add(checkpoint);
    }
 
    public void onCheckpointReached(CheckpointData checkpointData)
