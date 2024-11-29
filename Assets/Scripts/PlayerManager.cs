@@ -20,5 +20,6 @@ public class PlayerManager: MonoBehaviour
     {
         yield return null;
         CheckpointManager.instance.setup();
+        ParallaxManager.instance.setup();
     }
 }

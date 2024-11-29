@@ -7,7 +7,6 @@ using UnityEngine;
 public class CheckpointManager: MonoBehaviour, ICheckpoint
 {
    [SerializeField] private RectTransform content;
-   private List<float> positions;
    private string currentCheckpoint;
    private Dictionary<string, float> dictCheckpoints = new Dictionary<string, float>();
    public static CheckpointManager instance;
@@ -27,7 +26,7 @@ public class CheckpointManager: MonoBehaviour, ICheckpoint
       if (currentCheckpoint != null)
       {
          Debug.Log($"Starting game from checkpoint '{currentCheckpoint}'");
-         content.anchoredPosition = (dictCheckpoints[currentCheckpoint]) * Vector2.left;
+         content.anchoredPosition = (dictCheckpoints[currentCheckpoint] + ParallaxManager.offset) * Vector2.left;
       }
       list.ForEach(it => it.setInitialPosition());
    }
