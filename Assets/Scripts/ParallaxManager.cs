@@ -32,7 +32,7 @@ public class ParallaxManager : MonoBehaviour, IParallax
 
     public Vector2 getParallaxOffset(ParallaxLayer layer)
     {
-        var deltaPos = content.anchoredPosition.x + layer.parent.anchoredPosition.x - firstScene.anchoredPosition.x;
+        var deltaPos = content.anchoredPosition.x + layer.parent.anchoredPosition.x - firstScene.anchoredPosition.x + layer.sceneOffset;
         var parallaxIntensity = parallaxCoeff * layer.rectTransform.anchoredPosition3D.z;
         return deltaPos * parallaxIntensity * Vector2.right;
     }
