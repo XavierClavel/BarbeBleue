@@ -13,6 +13,9 @@ public class PlayerManager: MonoBehaviour
 
     private void Start()
     {
+#if UNITY_ANDROID
+        Application.targetFrameRate = 60;
+#endif
         StartCoroutine(nameof(LateStart));
     }
 
