@@ -9,7 +9,10 @@ EditorBuildSettings:
     path: Assets/Scenes/TitleScreen.unity
     guid: dc10cb6b80221264fb075a9d7648a346
   - enabled: 1
-    path: Assets/Scenes/MainScene.unity
+    path: Assets/Scenes/Barbe Bleue.unity
     guid: 8c9cfa26abfee488c85f1582747f6a02
+  - enabled: 1
+    path: Assets/Scenes/Le petit chaperon rouge.unity
+    guid: ce1da2f8e1fb4054ea874b861c12e8e4
   m_configObjects: {}
   m_UseUCBPForAssetBundles: 0

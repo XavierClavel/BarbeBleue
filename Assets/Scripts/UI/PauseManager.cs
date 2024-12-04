@@ -12,7 +12,6 @@ public class PauseManager : MonoBehaviour
     [SerializeField] private GameObject pauseMenu;
     [SerializeField] private GameObject pauseButton;
     private bool isPauseButtonDisplayed = false;
-    private int i = 0;
     private float displayPosition;
     private float hidePosition;
     private Sequence sequence = null;
@@ -23,6 +22,7 @@ public class PauseManager : MonoBehaviour
     // Start is called once before the first execution of Update after the MonoBehaviour is created
     void Start()
     {
+        Debug.Log(isPauseButtonDisplayed);
         controls = new InputMaster();
         controls.Player.Pause.performed += _ => PauseUnpause();
         controls.Player.TriggerPauseButton.performed += _ => TriggerPauseButton();
@@ -47,10 +47,7 @@ public class PauseManager : MonoBehaviour
 
     private void TriggerPauseButton()
     {
-        i++;
-        StopCoroutine(nameof(waitAndDeactivate));
-        
-        sequence.Kill();
+        sequence?.Kill();
         if (isPauseButtonDisplayed)
         {
             sequence = DOTween.Sequence()
@@ -68,24 +65,15 @@ public class PauseManager : MonoBehaviour
                     .Append(pauseButton.transform.DOLocalMoveY(hidePosition, transitionDuration).SetEase(Ease.InOutQuad))
                 ;
         }
-        
+
         sequence.Play();
 
     }
     
     public void ToTitleScreen()
     {
+        Time.timeScale = 1f;
         SceneManager.LoadScene(Vault.scene.TitleScreen);
-    }
-
-    private IEnumerator waitAndDeactivate()
-    {
-        var index = i;
-        Debug.Log($"coroutine {index} starts");
-        pauseButton.SetActive(true);
-        yield return Helpers.getWaitRealtime(2f);
-        pauseButton.SetActive(false);
-        Debug.Log($"coroutine {index} ends");
     }
 
     public void Pause()

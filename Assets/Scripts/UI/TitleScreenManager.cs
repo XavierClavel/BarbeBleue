@@ -18,7 +18,7 @@ public class TitleScreenManager : MonoBehaviour
 
     public void StartGame()
     {
-        SceneManager.LoadScene(Vault.scene.MainScene);
+        SceneManager.LoadScene(Vault.scene.LePetitChaperonRouge);
     }
     
     public void Quit()

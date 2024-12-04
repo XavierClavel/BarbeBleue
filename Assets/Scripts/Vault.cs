@@ -3,7 +3,8 @@ public static class Vault
     public static class scene
     {
         public const string TitleScreen = "TitleScreen";
-        public const string MainScene = "MainScene";
+        public const string BarbeBleue = "Barbe Bleue";
+        public const string LePetitChaperonRouge = "Le petit chaperon rouge";
     }
 
     public static class key
