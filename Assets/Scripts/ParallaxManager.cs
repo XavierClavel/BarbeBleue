@@ -11,7 +11,7 @@ public class ParallaxManager : MonoBehaviour, IParallax
     private List<ParallaxLayer> parallaxLayers = new List<ParallaxLayer>();
     
     private const float parallaxCoeff = 0.005f;
-    public const float offset = 513f;
+    public const float offset = 0;//513f;
     
     // Start is called before the first frame update
     private void Awake()

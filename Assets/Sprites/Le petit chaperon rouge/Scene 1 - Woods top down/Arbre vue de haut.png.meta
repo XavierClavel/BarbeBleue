@@ -1,28 +1,25 @@
 fileFormatVersion: 2
-guid: e7c624d2db17e994795ee9f5d673a1db
+guid: 4d4c8ea6429022547b033b3e08c5c8eb
 TextureImporter:
   internalIDToNameTable:
   - first:
-      213: 1395469176737623766
-    second: woods_foreground_2_0
+      213: 8653622226839186247
+    second: Arbre vue de haut_0
   - first:
-      213: -7196493498571044230
-    second: woods_foreground_2_1
+      213: -8468698806601174265
+    second: Arbre vue de haut_1
   - first:
-      213: 7567989894684009856
-    second: woods_foreground_2_2
+      213: 6833657805692521209
+    second: Arbre vue de haut_2
   - first:
-      213: 512010011857136715
-    second: woods_foreground_2_3
+      213: -4375199355385039876
+    second: Arbre vue de haut_3
   - first:
-      213: -5981746830184357340
-    second: woods_foreground_2_4
+      213: -9150113831096153004
+    second: Arbre vue de haut_4
   - first:
-      213: 3116746707406897441
-    second: woods_foreground_2_5
-  - first:
-      213: -7963386669014598630
-    second: woods_foreground_2_6
+      213: 2697134177443110996
+    second: Arbre vue de haut_5
   externalObjects: {}
   serializedVersion: 13
   mipmaps:
@@ -90,7 +87,7 @@ TextureImporter:
   platformSettings:
   - serializedVersion: 4
     buildTarget: DefaultTexturePlatform
-    maxTextureSize: 16384
+    maxTextureSize: 2048
     resizeAlgorithm: 0
     textureFormat: -1
     textureCompression: 1
@@ -131,13 +128,13 @@ TextureImporter:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: woods_foreground_2_0
+      name: Arbre vue de haut_0
       rect:
         serializedVersion: 2
-        x: 7465
-        y: 0
-        width: 654
-        height: 1980
+        x: 41
+        y: 395
+        width: 439
+        height: 685
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -146,20 +143,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 6dee37e92d3bd5310800000000000000
-      internalID: 1395469176737623766
+      spriteID: 74bac230197d71870800000000000000
+      internalID: 8653622226839186247
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: woods_foreground_2_1
+      name: Arbre vue de haut_1
       rect:
         serializedVersion: 2
-        x: 8376
-        y: 0
-        width: 540
-        height: 988
+        x: 341
+        y: 447
+        width: 577
+        height: 633
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -168,20 +165,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: a7ac34daa4be02c90800000000000000
-      internalID: -7196493498571044230
+      spriteID: 70333c2fd43297a80800000000000000
+      internalID: -8468698806601174265
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: woods_foreground_2_2
+      name: Arbre vue de haut_2
       rect:
         serializedVersion: 2
-        x: 9130
-        y: 0
-        width: 465
-        height: 704
+        x: 789
+        y: 700
+        width: 446
+        height: 380
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -190,20 +187,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 085e26856b6e60960800000000000000
-      internalID: 7567989894684009856
+      spriteID: 9fac0e8619706de50800000000000000
+      internalID: 6833657805692521209
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: woods_foreground_2_3
+      name: Arbre vue de haut_3
       rect:
         serializedVersion: 2
-        x: 9619
-        y: 566
-        width: 38
-        height: 7
+        x: 540
+        y: 0
+        width: 831
+        height: 499
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -212,20 +209,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: b4c203e94660b1700800000000000000
-      internalID: 512010011857136715
+      spriteID: cf3b1c8fd5b2843c0800000000000000
+      internalID: -4375199355385039876
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: woods_foreground_2_4
+      name: Arbre vue de haut_4
       rect:
         serializedVersion: 2
-        x: 9758
-        y: 0
-        width: 383
-        height: 1980
+        x: 1302
+        y: 383
+        width: 298
+        height: 156
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -234,20 +231,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 422ea8a53f09cfca0800000000000000
-      internalID: -5981746830184357340
+      spriteID: 45c002333f3440180800000000000000
+      internalID: -9150113831096153004
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: woods_foreground_2_5
+      name: Arbre vue de haut_5
       rect:
         serializedVersion: 2
-        x: 10310
+        x: 138
         y: 0
-        width: 648
-        height: 1980
+        width: 378
+        height: 352
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -256,30 +253,8 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 1214bddfd98e04b20800000000000000
-      internalID: 3116746707406897441
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: woods_foreground_2_6
-      rect:
-        serializedVersion: 2
-        x: 10219
-        y: 0
-        width: 200
-        height: 514
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: a1cbd40340e5c7190800000000000000
-      internalID: -7963386669014598630
+      spriteID: 450ef0e8e352e6520800000000000000
+      internalID: 2697134177443110996
       vertices: []
       indices: 
       edges: []
@@ -298,13 +273,12 @@ TextureImporter:
     spriteCustomMetadata:
       entries: []
     nameFileIdTable:
-      woods_foreground_2_0: 1395469176737623766
-      woods_foreground_2_1: -7196493498571044230
-      woods_foreground_2_2: 7567989894684009856
-      woods_foreground_2_3: 512010011857136715
-      woods_foreground_2_4: -5981746830184357340
-      woods_foreground_2_5: 3116746707406897441
-      woods_foreground_2_6: -7963386669014598630
+      Arbre vue de haut_0: 8653622226839186247
+      Arbre vue de haut_1: -8468698806601174265
+      Arbre vue de haut_2: 6833657805692521209
+      Arbre vue de haut_3: -4375199355385039876
+      Arbre vue de haut_4: -9150113831096153004
+      Arbre vue de haut_5: 2697134177443110996
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

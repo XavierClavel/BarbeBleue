@@ -1,10 +1,10 @@
 fileFormatVersion: 2
-guid: c555dad7ab61fec449e0edef35d6af66
+guid: c759b4496d9f2d943bf7972800468fac
 TextureImporter:
   internalIDToNameTable:
   - first:
-      213: 7444046612802208997
-    second: wolf_0
+      213: 2228317763241511457
+    second: chaperon rouge vue de haut_0
   externalObjects: {}
   serializedVersion: 13
   mipmaps:
@@ -72,7 +72,7 @@ TextureImporter:
   platformSettings:
   - serializedVersion: 4
     buildTarget: DefaultTexturePlatform
-    maxTextureSize: 16384
+    maxTextureSize: 2048
     resizeAlgorithm: 0
     textureFormat: -1
     textureCompression: 1
@@ -113,13 +113,13 @@ TextureImporter:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: wolf_0
+      name: chaperon rouge vue de haut_0
       rect:
         serializedVersion: 2
-        x: 6873
-        y: 467
-        width: 6502
-        height: 1513
+        x: 933
+        y: 500
+        width: 146
+        height: 142
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -128,8 +128,8 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 5e4868f34f09e4760800000000000000
-      internalID: 7444046612802208997
+      spriteID: 12a04b413339cee10800000000000000
+      internalID: 2228317763241511457
       vertices: []
       indices: 
       edges: []
@@ -148,7 +148,7 @@ TextureImporter:
     spriteCustomMetadata:
       entries: []
     nameFileIdTable:
-      wolf_0: 7444046612802208997
+      chaperon rouge vue de haut_0: 2228317763241511457
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

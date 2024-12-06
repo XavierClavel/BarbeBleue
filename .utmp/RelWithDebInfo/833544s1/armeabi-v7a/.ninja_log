@@ -1,5 +1,5 @@
 # ninja log v5
-2	136	7546204166698721	FramePacing/CMakeFiles/swappywrapper.dir/UnitySwappyWrapper.cpp.o	2e33ebca7a72702f
-136	300	7546204168325841	C:/Users/xrcla/Documents/Game Dev/Unity Projects/Barbebleue/Library/Bee/Android/Prj/IL2CPP/Gradle/unityLibrary/build/intermediates/cxx/RelWithDebInfo/833544s1/obj/armeabi-v7a/libswappywrapper.so	be2558f796502594
-4	268	7546244973059422	FramePacing/CMakeFiles/swappywrapper.dir/UnitySwappyWrapper.cpp.o	2e33ebca7a72702f
-270	551	7546244975894391	C:/Users/xrcla/Documents/Game Dev/Unity Projects/Barbebleue/Library/Bee/Android/Prj/IL2CPP/Gradle/unityLibrary/build/intermediates/cxx/RelWithDebInfo/833544s1/obj/armeabi-v7a/libswappywrapper.so	be2558f796502594
+4	373	7551924054339158	FramePacing/CMakeFiles/swappywrapper.dir/UnitySwappyWrapper.cpp.o	2e33ebca7a72702f
+374	770	7551924058237164	C:/Users/xrcla/Documents/Game Dev/Unity Projects/Barbebleue/Library/Bee/Android/Prj/IL2CPP/Gradle/unityLibrary/build/intermediates/cxx/RelWithDebInfo/833544s1/obj/armeabi-v7a/libswappywrapper.so	be2558f796502594
+6	299	7551936477028650	FramePacing/CMakeFiles/swappywrapper.dir/UnitySwappyWrapper.cpp.o	2e33ebca7a72702f
+301	623	7551936480230376	C:/Users/xrcla/Documents/Game Dev/Unity Projects/Barbebleue/Library/Bee/Android/Prj/IL2CPP/Gradle/unityLibrary/build/intermediates/cxx/RelWithDebInfo/833544s1/obj/armeabi-v7a/libswappywrapper.so	be2558f796502594

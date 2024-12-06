@@ -1,13 +1,10 @@
 fileFormatVersion: 2
-guid: 5522a146358d48d4ca256253750f89fd
+guid: 5328e1c1a6436dc41b4af695647d4046
 TextureImporter:
   internalIDToNameTable:
   - first:
-      213: -3437083356889896100
-    second: woods_background_2_0
-  - first:
-      213: 3048003566501349934
-    second: woods_background_2_1
+      213: -3265615900900274902
+    second: chaperon_rouge_3_0
   externalObjects: {}
   serializedVersion: 13
   mipmaps:
@@ -75,7 +72,7 @@ TextureImporter:
   platformSettings:
   - serializedVersion: 4
     buildTarget: DefaultTexturePlatform
-    maxTextureSize: 16384
+    maxTextureSize: 8192
     resizeAlgorithm: 0
     textureFormat: -1
     textureCompression: 1
@@ -116,13 +113,13 @@ TextureImporter:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: woods_background_2_0
+      name: chaperon_rouge_3_0
       rect:
         serializedVersion: 2
-        x: 10676
+        x: 9005
         y: 0
-        width: 1636
-        height: 1980
+        width: 237
+        height: 415
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -131,30 +128,8 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: c5bab29b5e60d40d0800000000000000
-      internalID: -3437083356889896100
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: woods_background_2_1
-      rect:
-        serializedVersion: 2
-        x: 12505
-        y: 173
-        width: 697
-        height: 1807
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: e2acf6f381fac4a20800000000000000
-      internalID: 3048003566501349934
+      spriteID: a2dc8fdd3a33ea2d0800000000000000
+      internalID: -3265615900900274902
       vertices: []
       indices: 
       edges: []
@@ -173,8 +148,7 @@ TextureImporter:
     spriteCustomMetadata:
       entries: []
     nameFileIdTable:
-      woods_background_2_0: -3437083356889896100
-      woods_background_2_1: 3048003566501349934
+      chaperon_rouge_3_0: -3265615900900274902
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 
