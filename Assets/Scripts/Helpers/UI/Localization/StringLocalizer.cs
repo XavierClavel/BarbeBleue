@@ -1,10 +1,12 @@
 using UnityEngine;
 using TMPro;
+using Unity.VisualScripting;
 
 [RequireComponent(typeof(TextMeshProUGUI))]
 public class StringLocalizer : MonoBehaviour, ILocalized
 {
     [SerializeField] string key = null;
+    [SerializeField] private fontKey keyFont = fontKey.DEFAULT;
     private TextMeshProUGUI textDisplay = null;
     private LocalizedString localizedString;
 
@@ -41,6 +43,10 @@ public class StringLocalizer : MonoBehaviour, ILocalized
             LocalizationManager.registerStringLocalizer(this);
         }
         if (key.Trim() != "") UpdateKey();
+        if (textDisplay.font != DataManager.dictKeyToFont[keyFont])
+        {
+            textDisplay.font = DataManager.dictKeyToFont[keyFont];
+        }
     }
 
     private void UpdateKey()

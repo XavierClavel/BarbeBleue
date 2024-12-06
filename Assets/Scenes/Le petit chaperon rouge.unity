@@ -3557,6 +3557,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   key: Quit
+  keyFont: 0
 --- !u!1 &899430256
 GameObject:
   m_ObjectHideFlags: 0
@@ -6345,6 +6346,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   key: Resume
+  keyFont: 0
 --- !u!1 &1517300374
 GameObject:
   m_ObjectHideFlags: 0
@@ -6354,6 +6356,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 1517300375}
+  - component: {fileID: 1517300378}
   - component: {fileID: 1517300377}
   - component: {fileID: 1517300376}
   m_Layer: 5
@@ -6481,6 +6484,20 @@ CanvasRenderer:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1517300374}
   m_CullTransparentMesh: 1
+--- !u!114 &1517300378
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1517300374}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: f98ca66dcc6143c4093e4c8bf42481cc, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  key: chaperon_rouge_23
+  keyFont: 1
 --- !u!1 &1548813566
 GameObject:
   m_ObjectHideFlags: 0
@@ -7566,6 +7583,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 1682405354}
+  - component: {fileID: 1682405357}
   - component: {fileID: 1682405356}
   - component: {fileID: 1682405355}
   m_Layer: 5
@@ -7694,6 +7712,20 @@ CanvasRenderer:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1682405353}
   m_CullTransparentMesh: 1
+--- !u!114 &1682405357
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1682405353}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: f98ca66dcc6143c4093e4c8bf42481cc, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  key: chaperon_rouge_1
+  keyFont: 1
 --- !u!1 &1682584758
 GameObject:
   m_ObjectHideFlags: 0
@@ -7829,6 +7861,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 1715897422}
+  - component: {fileID: 1715897425}
   - component: {fileID: 1715897424}
   - component: {fileID: 1715897423}
   m_Layer: 5
@@ -7956,6 +7989,20 @@ CanvasRenderer:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1715897421}
   m_CullTransparentMesh: 1
+--- !u!114 &1715897425
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1715897421}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: f98ca66dcc6143c4093e4c8bf42481cc, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  key: chaperon_rouge_20
+  keyFont: 1
 --- !u!1 &1715998785
 GameObject:
   m_ObjectHideFlags: 0
@@ -8165,6 +8212,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 1764042016}
+  - component: {fileID: 1764042019}
   - component: {fileID: 1764042018}
   - component: {fileID: 1764042017}
   m_Layer: 5
@@ -8292,6 +8340,20 @@ CanvasRenderer:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1764042015}
   m_CullTransparentMesh: 1
+--- !u!114 &1764042019
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1764042015}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: f98ca66dcc6143c4093e4c8bf42481cc, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  key: chaperon_rouge_21
+  keyFont: 1
 --- !u!1 &1765743316
 GameObject:
   m_ObjectHideFlags: 0
@@ -8664,6 +8726,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 1842794315}
+  - component: {fileID: 1842794318}
   - component: {fileID: 1842794317}
   - component: {fileID: 1842794316}
   m_Layer: 5
@@ -8791,6 +8854,20 @@ CanvasRenderer:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1842794314}
   m_CullTransparentMesh: 1
+--- !u!114 &1842794318
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1842794314}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: f98ca66dcc6143c4093e4c8bf42481cc, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  key: chaperon_rouge_22
+  keyFont: 1
 --- !u!1 &1844022762
 GameObject:
   m_ObjectHideFlags: 0
@@ -9070,6 +9147,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 1867821211}
+  - component: {fileID: 1867821214}
   - component: {fileID: 1867821213}
   - component: {fileID: 1867821212}
   m_Layer: 5
@@ -9197,6 +9275,20 @@ CanvasRenderer:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1867821210}
   m_CullTransparentMesh: 1
+--- !u!114 &1867821214
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1867821210}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: f98ca66dcc6143c4093e4c8bf42481cc, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  key: chaperon_rouge_2
+  keyFont: 1
 --- !u!1 &1872262148
 GameObject:
   m_ObjectHideFlags: 0
@@ -9991,7 +10083,7 @@ CanvasRenderer:
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 2077241016}
-  m_CullTransparentMesh: 1
+  m_CullTransparentMesh: 0
 --- !u!1 &2101142651
 GameObject:
   m_ObjectHideFlags: 0
@@ -10043,6 +10135,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   key: MainMenu
+  keyFont: 0
 --- !u!114 &2101142654
 MonoBehaviour:
   m_ObjectHideFlags: 0
