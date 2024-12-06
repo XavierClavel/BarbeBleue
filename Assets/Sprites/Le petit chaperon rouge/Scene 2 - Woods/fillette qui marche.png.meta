@@ -1,16 +1,10 @@
 fileFormatVersion: 2
-guid: 20f9055abff4925418f9e49537de3cb5
+guid: e06a46caa2122f4419fafe1b213099b0
 TextureImporter:
   internalIDToNameTable:
   - first:
-      213: -2311404427823060763
-    second: woods_side_foreground_0
-  - first:
-      213: -4844073738359669329
-    second: woods_side_foreground_1
-  - first:
-      213: -427826031355072359
-    second: woods_side_foreground_2
+      213: -8403186768882548666
+    second: fillette qui marche_0
   externalObjects: {}
   serializedVersion: 13
   mipmaps:
@@ -78,7 +72,7 @@ TextureImporter:
   platformSettings:
   - serializedVersion: 4
     buildTarget: DefaultTexturePlatform
-    maxTextureSize: 8192
+    maxTextureSize: 4096
     resizeAlgorithm: 0
     textureFormat: -1
     textureCompression: 1
@@ -119,13 +113,13 @@ TextureImporter:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: woods_side_foreground_0
+      name: fillette qui marche_0
       rect:
         serializedVersion: 2
-        x: 2287
-        y: 0
-        width: 1104
-        height: 1980
+        x: 968
+        y: 97
+        width: 704
+        height: 699
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -134,52 +128,8 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 5e867535bed3cefd0800000000000000
-      internalID: -2311404427823060763
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: woods_side_foreground_1
-      rect:
-        serializedVersion: 2
-        x: 4024
-        y: 0
-        width: 828
-        height: 1980
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: fadf547999466ccb0800000000000000
-      internalID: -4844073738359669329
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: woods_side_foreground_2
-      rect:
-        serializedVersion: 2
-        x: 5677
-        y: 0
-        width: 1052
-        height: 1980
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 9907a6fbd7e001af0800000000000000
-      internalID: -427826031355072359
+      spriteID: 6404e7bd722e16b80800000000000000
+      internalID: -8403186768882548666
       vertices: []
       indices: 
       edges: []
@@ -198,9 +148,7 @@ TextureImporter:
     spriteCustomMetadata:
       entries: []
     nameFileIdTable:
-      woods_side_foreground_0: -2311404427823060763
-      woods_side_foreground_1: -4844073738359669329
-      woods_side_foreground_2: -427826031355072359
+      fillette qui marche_0: -8403186768882548666
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

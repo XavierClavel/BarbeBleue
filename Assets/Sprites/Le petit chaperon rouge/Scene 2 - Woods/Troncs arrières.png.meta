@@ -1,10 +1,22 @@
 fileFormatVersion: 2
-guid: 03b4b86fb68ab014e99d2c13c23c901b
+guid: 1c4f3c247b786e9428348cd03b1d2301
 TextureImporter:
   internalIDToNameTable:
   - first:
-      213: 760272097175287027
-    second: chaperon_rouge_0
+      213: 876344674766148589
+    second: "Troncs arrie\u0300res_0"
+  - first:
+      213: -588052671918442752
+    second: "Troncs arrie\u0300res_1"
+  - first:
+      213: 3207488252064333859
+    second: "Troncs arrie\u0300res_2"
+  - first:
+      213: 2859034329733437964
+    second: "Troncs arrie\u0300res_3"
+  - first:
+      213: -4872395459671658699
+    second: "Troncs arrie\u0300res_4"
   externalObjects: {}
   serializedVersion: 13
   mipmaps:
@@ -72,7 +84,7 @@ TextureImporter:
   platformSettings:
   - serializedVersion: 4
     buildTarget: DefaultTexturePlatform
-    maxTextureSize: 8192
+    maxTextureSize: 4096
     resizeAlgorithm: 0
     textureFormat: -1
     textureCompression: 1
@@ -113,13 +125,13 @@ TextureImporter:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: chaperon_rouge_0
+      name: "Troncs arrie\u0300res_0"
       rect:
         serializedVersion: 2
-        x: 5572
-        y: 1337
-        width: 116
-        height: 109
+        x: 3
+        y: 229
+        width: 642
+        height: 851
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -128,8 +140,96 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 3f436ccb1770d8a00800000000000000
-      internalID: 760272097175287027
+      spriteID: de3dd30b6d6692c00800000000000000
+      internalID: 876344674766148589
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Troncs arrie\u0300res_1"
+      rect:
+        serializedVersion: 2
+        x: 660
+        y: 379
+        width: 530
+        height: 701
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 007f415e531d6d7f0800000000000000
+      internalID: -588052671918442752
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Troncs arrie\u0300res_2"
+      rect:
+        serializedVersion: 2
+        x: 1043
+        y: 252
+        width: 593
+        height: 828
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 320888d3299438c20800000000000000
+      internalID: 3207488252064333859
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Troncs arrie\u0300res_3"
+      rect:
+        serializedVersion: 2
+        x: 1635
+        y: 447
+        width: 464
+        height: 633
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c0a986833945da720800000000000000
+      internalID: 2859034329733437964
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Troncs arrie\u0300res_4"
+      rect:
+        serializedVersion: 2
+        x: 1748
+        y: 339
+        width: 947
+        height: 741
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 53f6b0df426c16cb0800000000000000
+      internalID: -4872395459671658699
       vertices: []
       indices: 
       edges: []
@@ -148,7 +248,11 @@ TextureImporter:
     spriteCustomMetadata:
       entries: []
     nameFileIdTable:
-      chaperon_rouge_0: 760272097175287027
+      "Troncs arrie\u0300res_0": 876344674766148589
+      "Troncs arrie\u0300res_1": -588052671918442752
+      "Troncs arrie\u0300res_2": 3207488252064333859
+      "Troncs arrie\u0300res_3": 2859034329733437964
+      "Troncs arrie\u0300res_4": -4872395459671658699
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

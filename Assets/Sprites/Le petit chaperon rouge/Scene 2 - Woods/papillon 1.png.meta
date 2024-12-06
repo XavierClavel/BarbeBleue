@@ -1,22 +1,10 @@
 fileFormatVersion: 2
-guid: 1a9de997fb1429f4f96030e4d8a584be
+guid: 67933d4b622a39a4996582edecfcbb33
 TextureImporter:
   internalIDToNameTable:
   - first:
-      213: 4679724835221009710
-    second: woods_top_down_0
-  - first:
-      213: -7420787883473701695
-    second: woods_top_down_1
-  - first:
-      213: 3781532186371358748
-    second: woods_top_down_2
-  - first:
-      213: 4322510155045784971
-    second: woods_top_down_3
-  - first:
-      213: 7100269179116463905
-    second: woods_top_down_4
+      213: -6605371794081622008
+    second: papillon 1_0
   externalObjects: {}
   serializedVersion: 13
   mipmaps:
@@ -84,7 +72,7 @@ TextureImporter:
   platformSettings:
   - serializedVersion: 4
     buildTarget: DefaultTexturePlatform
-    maxTextureSize: 8192
+    maxTextureSize: 4096
     resizeAlgorithm: 0
     textureFormat: -1
     textureCompression: 1
@@ -125,13 +113,13 @@ TextureImporter:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: woods_top_down_0
+      name: papillon 1_0
       rect:
         serializedVersion: 2
-        x: 0
-        y: 725
-        width: 801
-        height: 1255
+        x: 1670
+        y: 709
+        width: 64
+        height: 60
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -140,96 +128,8 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: e25fbe181f8b1f040800000000000000
-      internalID: 4679724835221009710
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: woods_top_down_1
-      rect:
-        serializedVersion: 2
-        x: 548
-        y: 820
-        width: 1056
-        height: 1160
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 1c4f60cacb0140990800000000000000
-      internalID: -7420787883473701695
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: woods_top_down_2
-      rect:
-        serializedVersion: 2
-        x: 1369
-        y: 1283
-        width: 817
-        height: 697
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: c100f53fc73ba7430800000000000000
-      internalID: 3781532186371358748
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: woods_top_down_3
-      rect:
-        serializedVersion: 2
-        x: 177
-        y: 0
-        width: 691
-        height: 644
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: b8dc5899514acfb30800000000000000
-      internalID: 4322510155045784971
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: woods_top_down_4
-      rect:
-        serializedVersion: 2
-        x: 913
-        y: 0
-        width: 1520
-        height: 913
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 12724e61339398260800000000000000
-      internalID: 7100269179116463905
+      spriteID: 808516c99510554a0800000000000000
+      internalID: -6605371794081622008
       vertices: []
       indices: 
       edges: []
@@ -248,11 +148,7 @@ TextureImporter:
     spriteCustomMetadata:
       entries: []
     nameFileIdTable:
-      woods_top_down_0: 4679724835221009710
-      woods_top_down_1: -7420787883473701695
-      woods_top_down_2: 3781532186371358748
-      woods_top_down_3: 4322510155045784971
-      woods_top_down_4: 7100269179116463905
+      papillon 1_0: -6605371794081622008
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 
