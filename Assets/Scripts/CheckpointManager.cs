@@ -26,7 +26,7 @@ public class CheckpointManager: MonoBehaviour, ICheckpoint
       if (currentCheckpoint != null && dictCheckpoints.TryGetValue(currentCheckpoint, out var checkpoint))
       {
          Debug.Log($"Starting game from checkpoint '{currentCheckpoint}'");
-         content.anchoredPosition = (checkpoint + ParallaxManager.offset) * Vector2.left;
+         content.anchoredPosition = (checkpoint + ParallaxManager.instance.offset) * Vector2.left;
       }
       list.ForEach(it => it.setInitialPosition());
    }

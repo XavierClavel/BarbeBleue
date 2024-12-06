@@ -1,10 +1,16 @@
 fileFormatVersion: 2
-guid: c555dad7ab61fec449e0edef35d6af66
+guid: 8027ba920f093f842b96f1db9c19d255
 TextureImporter:
   internalIDToNameTable:
   - first:
-      213: 7444046612802208997
-    second: wolf_0
+      213: -7076204713916937655
+    second: arbre premier plan ombre loup_0
+  - first:
+      213: 8410445657632833938
+    second: arbre premier plan ombre loup_1
+  - first:
+      213: 6840995581169355633
+    second: arbre premier plan ombre loup_2
   externalObjects: {}
   serializedVersion: 13
   mipmaps:
@@ -72,7 +78,7 @@ TextureImporter:
   platformSettings:
   - serializedVersion: 4
     buildTarget: DefaultTexturePlatform
-    maxTextureSize: 8192
+    maxTextureSize: 4096
     resizeAlgorithm: 0
     textureFormat: -1
     textureCompression: 1
@@ -113,13 +119,13 @@ TextureImporter:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: wolf_0
+      name: arbre premier plan ombre loup_0
       rect:
         serializedVersion: 2
-        x: 6873
-        y: 467
-        width: 6502
-        height: 1513
+        x: 368
+        y: 0
+        width: 801
+        height: 1080
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -128,8 +134,52 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 5e4868f34f09e4760800000000000000
-      internalID: 7444046612802208997
+      spriteID: 94a4905dd454ccd90800000000000000
+      internalID: -7076204713916937655
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: arbre premier plan ombre loup_1
+      rect:
+        serializedVersion: 2
+        x: 1633
+        y: 0
+        width: 211
+        height: 1080
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2918ee1e3c7e7b470800000000000000
+      internalID: 8410445657632833938
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: arbre premier plan ombre loup_2
+      rect:
+        serializedVersion: 2
+        x: 1937
+        y: 0
+        width: 359
+        height: 1080
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 17bcd956c3910fe50800000000000000
+      internalID: 6840995581169355633
       vertices: []
       indices: 
       edges: []
@@ -148,7 +198,9 @@ TextureImporter:
     spriteCustomMetadata:
       entries: []
     nameFileIdTable:
-      wolf_0: 7444046612802208997
+      arbre premier plan ombre loup_0: -7076204713916937655
+      arbre premier plan ombre loup_1: 8410445657632833938
+      arbre premier plan ombre loup_2: 6840995581169355633
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

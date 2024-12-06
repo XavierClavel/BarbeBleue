@@ -1,13 +1,16 @@
 fileFormatVersion: 2
-guid: 5522a146358d48d4ca256253750f89fd
+guid: f070694d2b610e846b46efaa88b48e7e
 TextureImporter:
   internalIDToNameTable:
   - first:
-      213: -3437083356889896100
-    second: woods_background_2_0
+      213: 4516370445817205655
+    second: abre arriere plan ombre loup_0
   - first:
-      213: 3048003566501349934
-    second: woods_background_2_1
+      213: -655191829616462090
+    second: abre arriere plan ombre loup_1
+  - first:
+      213: 6208483477511638222
+    second: abre arriere plan ombre loup_2
   externalObjects: {}
   serializedVersion: 13
   mipmaps:
@@ -75,7 +78,7 @@ TextureImporter:
   platformSettings:
   - serializedVersion: 4
     buildTarget: DefaultTexturePlatform
-    maxTextureSize: 8192
+    maxTextureSize: 4096
     resizeAlgorithm: 0
     textureFormat: -1
     textureCompression: 1
@@ -116,13 +119,13 @@ TextureImporter:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: woods_background_2_0
+      name: abre arriere plan ombre loup_0
       rect:
         serializedVersion: 2
-        x: 10676
+        x: 800
         y: 0
-        width: 1636
-        height: 1980
+        width: 369
+        height: 1080
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -131,20 +134,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: c5bab29b5e60d40d0800000000000000
-      internalID: -3437083356889896100
+      spriteID: 793d101edfe5dae30800000000000000
+      internalID: 4516370445817205655
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: woods_background_2_1
+      name: abre arriere plan ombre loup_1
       rect:
         serializedVersion: 2
-        x: 12505
-        y: 173
-        width: 697
-        height: 1807
+        x: 1207
+        y: 0
+        width: 337
+        height: 1080
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -153,8 +156,30 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: e2acf6f381fac4a20800000000000000
-      internalID: 3048003566501349934
+      spriteID: 6f6f8f7908a48e6f0800000000000000
+      internalID: -655191829616462090
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: abre arriere plan ombre loup_2
+      rect:
+        serializedVersion: 2
+        x: 1810
+        y: 0
+        width: 190
+        height: 1080
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ecc86fe24d6f82650800000000000000
+      internalID: 6208483477511638222
       vertices: []
       indices: 
       edges: []
@@ -173,8 +198,9 @@ TextureImporter:
     spriteCustomMetadata:
       entries: []
     nameFileIdTable:
-      woods_background_2_0: -3437083356889896100
-      woods_background_2_1: 3048003566501349934
+      abre arriere plan ombre loup_0: 4516370445817205655
+      abre arriere plan ombre loup_1: -655191829616462090
+      abre arriere plan ombre loup_2: 6208483477511638222
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 
