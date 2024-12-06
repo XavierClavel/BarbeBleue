@@ -23,10 +23,10 @@ public class CheckpointManager: MonoBehaviour, ICheckpoint
       list.ForEach(it => it.setup());
       currentCheckpoint = SaveManager.getCheckpoint();
       list.ForEach(it => dictCheckpoints[it.data.key] = it.data.position);
-      if (currentCheckpoint != null)
+      if (currentCheckpoint != null && dictCheckpoints.TryGetValue(currentCheckpoint, out var checkpoint))
       {
          Debug.Log($"Starting game from checkpoint '{currentCheckpoint}'");
-         content.anchoredPosition = (dictCheckpoints[currentCheckpoint] + ParallaxManager.offset) * Vector2.left;
+         content.anchoredPosition = (checkpoint + ParallaxManager.offset) * Vector2.left;
       }
       list.ForEach(it => it.setInitialPosition());
    }
