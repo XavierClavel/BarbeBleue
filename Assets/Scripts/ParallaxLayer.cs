@@ -11,15 +11,20 @@ public class ParallaxLayer : MonoBehaviour
     [HideInInspector] public RectTransform rectTransform;
     [HideInInspector] public RectTransform parent;
     private bool initialized = false;
-    [HideInInspector] public float sceneOffset;
+    [HideInInspector] public float sceneOffset = 0f;
 
     private void Awake()
     {
         rectTransform = GetComponent<RectTransform>();
         parent = transform.parent.GetComponent<RectTransform>();
+        if (parent.gameObject.name == "Mask")
+        {
+            sceneOffset += parent.anchoredPosition.x;
+            parent = parent.parent.GetComponent<RectTransform>();
+        }
         if (parent.gameObject.name == "Offset")
         {
-            sceneOffset = parent.anchoredPosition.x;
+            sceneOffset += parent.anchoredPosition.x;
             parent = parent.parent.GetComponent<RectTransform>();
         }
     }
