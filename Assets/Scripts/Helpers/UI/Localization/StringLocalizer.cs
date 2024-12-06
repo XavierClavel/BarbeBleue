@@ -1,6 +1,5 @@
 using UnityEngine;
 using TMPro;
-using Unity.VisualScripting;
 
 [RequireComponent(typeof(TextMeshProUGUI))]
 public class StringLocalizer : MonoBehaviour, ILocalized
