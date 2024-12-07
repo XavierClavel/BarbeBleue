@@ -23,7 +23,7 @@ public class BuildDisplay : MonoBehaviour
         }
         else
         {
-            text.SetText($"Build {Application.version}.{buildScriptableObject.buildNumber} #{buildScriptableObject.gitCommit} - {buildScriptableObject.date}");
+            text.SetText($"Build {buildScriptableObject.buildNumber} - Version {Application.version} #{buildScriptableObject.gitCommit} - {buildScriptableObject.date}");
         }
     }
 }

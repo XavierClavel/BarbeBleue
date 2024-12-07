@@ -36,21 +36,4 @@ public class ParallaxLayer : MonoBehaviour
         EventManagers.parallax.dispatchEvent(it => it.onParallaxDeclaration(this));
     }
 
-    public void setup()
-    {
-        //initPos = rectTransform.anchoredPosition + offset * Vector2.right;
-        initialized = true;
-    }
-
-    private void Update()
-    {
-        if (!initialized) return;
-        updatePosition();
-    }
-
-    private void updatePosition()
-    {
-        rectTransform.anchoredPosition = ParallaxManager.instance.getParallaxOffset(this);
-    }
-
 }

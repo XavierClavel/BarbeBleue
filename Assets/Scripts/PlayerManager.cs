@@ -13,6 +13,7 @@ public class PlayerManager: MonoBehaviour
 
     private void Start()
     {
+        Application.targetFrameRate = -1;
 #if UNITY_ANDROID
         Application.targetFrameRate = 60;
 #endif
@@ -23,6 +24,5 @@ public class PlayerManager: MonoBehaviour
     {
         yield return null;
         CheckpointManager.instance.setup();
-        ParallaxManager.instance.setup();
     }
 }
