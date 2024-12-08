@@ -22,7 +22,6 @@ public class PauseManager : MonoBehaviour
     // Start is called once before the first execution of Update after the MonoBehaviour is created
     void Start()
     {
-        Debug.Log(isPauseButtonDisplayed);
         controls = new InputMaster();
         controls.Player.Pause.performed += _ => PauseUnpause();
         controls.Player.TriggerPauseButton.performed += _ => TriggerPauseButton();

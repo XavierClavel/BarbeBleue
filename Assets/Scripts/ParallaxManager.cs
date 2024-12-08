@@ -16,6 +16,7 @@ public class ParallaxManager : MonoBehaviour, IParallax
     
     private const float parallaxCoeff = 0.005f;
     private const float occlusionCullingBuffer = 1000f;
+    private const float fallbackBuffer = 800f;
     
     // Start is called before the first frame update
     private void Awake()
@@ -55,7 +56,9 @@ public class ParallaxManager : MonoBehaviour, IParallax
         //Fallback in case the coroutine takes too long
         if (inProcess.TryGetValue(layer, out bool value))
         {
-            if (value == shouldBeDisplayed) return;
+            if (value != shouldBeDisplayed) return;
+            if (distanceToFrustum > fallbackBuffer) return;
+            Debug.Log("forced occlusion culling");
             inProcess.Remove(layer);
             layer.gameObject.SetActive(shouldBeDisplayed);
         }
@@ -76,13 +79,12 @@ public class ParallaxManager : MonoBehaviour, IParallax
     {
         while (true)
         {
-            var todo = inProcess.Keys.ToList();
-            todo.ForEach(it =>
-            {
+            yield return null;
+            if (inProcess.Keys.Count == 0) continue;
+            foreach(var it in new List<ParallaxLayer>(inProcess.Keys)) {
                 it.gameObject.SetActive(inProcess[it]);
                 inProcess.Remove(it);
-            });
-            yield return null;
+            };
         }
     }
         
