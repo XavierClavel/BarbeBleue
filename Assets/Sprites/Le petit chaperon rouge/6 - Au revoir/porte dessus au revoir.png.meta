@@ -1,10 +1,19 @@
 fileFormatVersion: 2
-guid: 7a66bb30ed376b3429f9f40cac96f8f8
+guid: 71ba14f95283b1a45af71023be3da4b2
 TextureImporter:
   internalIDToNameTable:
   - first:
-      213: 5654904554930577805
-    second: pot a ustensiles_0
+      213: -8386970917779862449
+    second: porte dessus au revoir_0
+  - first:
+      213: 934494343360970477
+    second: porte dessus au revoir_1
+  - first:
+      213: -2664995557641675866
+    second: porte dessus au revoir_2
+  - first:
+      213: -2008417526521782933
+    second: porte dessus au revoir_3
   externalObjects: {}
   serializedVersion: 13
   mipmaps:
@@ -72,7 +81,7 @@ TextureImporter:
   platformSettings:
   - serializedVersion: 4
     buildTarget: DefaultTexturePlatform
-    maxTextureSize: 4096
+    maxTextureSize: 2048
     resizeAlgorithm: 0
     textureFormat: -1
     textureCompression: 1
@@ -113,13 +122,13 @@ TextureImporter:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: pot a ustensiles_0
+      name: porte dessus au revoir_0
       rect:
         serializedVersion: 2
-        x: 2040
-        y: 36
-        width: 161
-        height: 428
+        x: 296
+        y: 0
+        width: 193
+        height: 858
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -128,8 +137,74 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: d8120635bb14a7e40800000000000000
-      internalID: 5654904554930577805
+      spriteID: f4c0338e26e7b9b80800000000000000
+      internalID: -8386970917779862449
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: porte dessus au revoir_1
+      rect:
+        serializedVersion: 2
+        x: 296
+        y: 800
+        width: 6
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dee74a477adf7fc00800000000000000
+      internalID: 934494343360970477
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: porte dessus au revoir_2
+      rect:
+        serializedVersion: 2
+        x: 293
+        y: 404
+        width: 6
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6ab16caf8a8040bd0800000000000000
+      internalID: -2664995557641675866
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: porte dessus au revoir_3
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 195
+        width: 6
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b6d100396eaa024e0800000000000000
+      internalID: -2008417526521782933
       vertices: []
       indices: 
       edges: []
@@ -148,7 +223,10 @@ TextureImporter:
     spriteCustomMetadata:
       entries: []
     nameFileIdTable:
-      pot a ustensiles_0: 5654904554930577805
+      porte dessus au revoir_0: -8386970917779862449
+      porte dessus au revoir_1: 934494343360970477
+      porte dessus au revoir_2: -2664995557641675866
+      porte dessus au revoir_3: -2008417526521782933
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

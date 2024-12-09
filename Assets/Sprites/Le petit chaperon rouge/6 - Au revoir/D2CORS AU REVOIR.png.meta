@@ -1,10 +1,10 @@
 fileFormatVersion: 2
-guid: 7a66bb30ed376b3429f9f40cac96f8f8
+guid: 332ae1a7804eab84280ecd686ac34550
 TextureImporter:
   internalIDToNameTable:
   - first:
-      213: 5654904554930577805
-    second: pot a ustensiles_0
+      213: -6188104170139725760
+    second: D2CORS AU REVOIR_0
   externalObjects: {}
   serializedVersion: 13
   mipmaps:
@@ -72,7 +72,7 @@ TextureImporter:
   platformSettings:
   - serializedVersion: 4
     buildTarget: DefaultTexturePlatform
-    maxTextureSize: 4096
+    maxTextureSize: 2048
     resizeAlgorithm: 0
     textureFormat: -1
     textureCompression: 1
@@ -113,13 +113,13 @@ TextureImporter:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: pot a ustensiles_0
+      name: D2CORS AU REVOIR_0
       rect:
         serializedVersion: 2
-        x: 2040
-        y: 36
-        width: 161
-        height: 428
+        x: 0
+        y: 0
+        width: 915
+        height: 1080
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -128,8 +128,8 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: d8120635bb14a7e40800000000000000
-      internalID: 5654904554930577805
+      spriteID: 04055b11b007f1aa0800000000000000
+      internalID: -6188104170139725760
       vertices: []
       indices: 
       edges: []
@@ -148,7 +148,7 @@ TextureImporter:
     spriteCustomMetadata:
       entries: []
     nameFileIdTable:
-      pot a ustensiles_0: 5654904554930577805
+      D2CORS AU REVOIR_0: -6188104170139725760
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

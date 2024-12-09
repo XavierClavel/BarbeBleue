@@ -22,7 +22,7 @@ public class ParallaxLayer : MonoBehaviour
             sceneOffset += parent.anchoredPosition.x;
             parent = parent.parent.GetComponent<RectTransform>();
         }
-        if (parent.gameObject.name == "Offset")
+        if (parent.gameObject.name.StartsWith("Offset"))
         {
             sceneOffset += parent.anchoredPosition.x;
             parent = parent.parent.GetComponent<RectTransform>();

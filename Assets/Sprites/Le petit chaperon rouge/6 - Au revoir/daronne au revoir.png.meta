@@ -1,10 +1,10 @@
 fileFormatVersion: 2
-guid: 7a66bb30ed376b3429f9f40cac96f8f8
+guid: b4ea806411ee58346b7e099ded858f48
 TextureImporter:
   internalIDToNameTable:
   - first:
-      213: 5654904554930577805
-    second: pot a ustensiles_0
+      213: 3652155418231613351
+    second: daronne au revoir_0
   externalObjects: {}
   serializedVersion: 13
   mipmaps:
@@ -72,7 +72,7 @@ TextureImporter:
   platformSettings:
   - serializedVersion: 4
     buildTarget: DefaultTexturePlatform
-    maxTextureSize: 4096
+    maxTextureSize: 2048
     resizeAlgorithm: 0
     textureFormat: -1
     textureCompression: 1
@@ -113,13 +113,13 @@ TextureImporter:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: pot a ustensiles_0
+      name: daronne au revoir_0
       rect:
         serializedVersion: 2
-        x: 2040
-        y: 36
-        width: 161
-        height: 428
+        x: 360
+        y: 115
+        width: 321
+        height: 556
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -128,8 +128,8 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: d8120635bb14a7e40800000000000000
-      internalID: 5654904554930577805
+      spriteID: 7a7a630c0001fa230800000000000000
+      internalID: 3652155418231613351
       vertices: []
       indices: 
       edges: []
@@ -148,7 +148,7 @@ TextureImporter:
     spriteCustomMetadata:
       entries: []
     nameFileIdTable:
-      pot a ustensiles_0: 5654904554930577805
+      daronne au revoir_0: 3652155418231613351
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 
