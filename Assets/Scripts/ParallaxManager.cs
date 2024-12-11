@@ -84,8 +84,14 @@ public class ParallaxManager : MonoBehaviour, IParallax
         {
             yield return null;
             if (inProcess.Keys.Count == 0) continue;
-            foreach(var it in new List<ParallaxLayer>(inProcess.Keys)) {
-                it.gameObject.SetActive(inProcess[it]);
+            foreach(var it in new List<ParallaxLayer>(inProcess.Keys))
+            {
+                var status = inProcess[it];
+                it.gameObject.SetActive(status);
+                if (status)
+                {
+                    updatePosition(it);
+                }
                 inProcess.Remove(it);
             };
         }
