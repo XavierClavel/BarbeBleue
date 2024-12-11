@@ -1,0 +1,2392 @@
+fileFormatVersion: 2
+guid: 66851ee605a776f4c9a63c0c6cdf37a8
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 862093415129836747
+    second: herbe loup chasseur_0
+  - first:
+      213: -2317907450607631412
+    second: herbe loup chasseur_1
+  - first:
+      213: 5904353341165083550
+    second: herbe loup chasseur_2
+  - first:
+      213: -1954392251607204854
+    second: herbe loup chasseur_3
+  - first:
+      213: -7011918021591534467
+    second: herbe loup chasseur_4
+  - first:
+      213: -4936158222843827222
+    second: herbe loup chasseur_5
+  - first:
+      213: 8718095088514434240
+    second: herbe loup chasseur_6
+  - first:
+      213: 6715993973291117658
+    second: herbe loup chasseur_7
+  - first:
+      213: 7652123546097594388
+    second: herbe loup chasseur_8
+  - first:
+      213: -2506110190177922546
+    second: herbe loup chasseur_9
+  - first:
+      213: -3962315380590831232
+    second: herbe loup chasseur_10
+  - first:
+      213: -7653202278208940211
+    second: herbe loup chasseur_11
+  - first:
+      213: -3730468362912400406
+    second: herbe loup chasseur_12
+  - first:
+      213: 7593506230887255242
+    second: herbe loup chasseur_13
+  - first:
+      213: 2150500351800056045
+    second: herbe loup chasseur_14
+  - first:
+      213: 4974971833670842601
+    second: herbe loup chasseur_15
+  - first:
+      213: -4083353757441887170
+    second: herbe loup chasseur_16
+  - first:
+      213: -4761211717261441969
+    second: herbe loup chasseur_17
+  - first:
+      213: 5600517020208907646
+    second: herbe loup chasseur_18
+  - first:
+      213: -8728687095073064979
+    second: herbe loup chasseur_19
+  - first:
+      213: 4430211781865721597
+    second: herbe loup chasseur_20
+  - first:
+      213: 1538687995031502139
+    second: herbe loup chasseur_21
+  - first:
+      213: 4897046792548990961
+    second: herbe loup chasseur_22
+  - first:
+      213: -2475778852254209182
+    second: herbe loup chasseur_23
+  - first:
+      213: 5648119023410849862
+    second: herbe loup chasseur_24
+  - first:
+      213: 6856007431457526219
+    second: herbe loup chasseur_25
+  - first:
+      213: 6612436570319725637
+    second: herbe loup chasseur_26
+  - first:
+      213: 4842345491697567576
+    second: herbe loup chasseur_27
+  - first:
+      213: -7794522094086571008
+    second: herbe loup chasseur_28
+  - first:
+      213: 5930032076637826480
+    second: herbe loup chasseur_29
+  - first:
+      213: 1450199402782487119
+    second: herbe loup chasseur_30
+  - first:
+      213: -5725411970961148377
+    second: herbe loup chasseur_31
+  - first:
+      213: 3756158417517471363
+    second: herbe loup chasseur_32
+  - first:
+      213: 5261752164467050792
+    second: herbe loup chasseur_33
+  - first:
+      213: 4712300823128396516
+    second: herbe loup chasseur_34
+  - first:
+      213: 7766666859773028759
+    second: herbe loup chasseur_35
+  - first:
+      213: -7346208630337159294
+    second: herbe loup chasseur_36
+  - first:
+      213: 6847278501419467892
+    second: herbe loup chasseur_37
+  - first:
+      213: 4775933388234653380
+    second: herbe loup chasseur_38
+  - first:
+      213: 7667777455387285952
+    second: herbe loup chasseur_39
+  - first:
+      213: -225199949566606799
+    second: herbe loup chasseur_40
+  - first:
+      213: 5155557184391512864
+    second: herbe loup chasseur_41
+  - first:
+      213: -3044348998387096070
+    second: herbe loup chasseur_42
+  - first:
+      213: -238860384322547887
+    second: herbe loup chasseur_43
+  - first:
+      213: -1838570187694810412
+    second: herbe loup chasseur_44
+  - first:
+      213: -577946015621561459
+    second: herbe loup chasseur_45
+  - first:
+      213: 2232372828140932843
+    second: herbe loup chasseur_46
+  - first:
+      213: -3590728818144748140
+    second: herbe loup chasseur_47
+  - first:
+      213: -8891971460582535437
+    second: herbe loup chasseur_48
+  - first:
+      213: 7323212336389049968
+    second: herbe loup chasseur_49
+  - first:
+      213: 849752002786406929
+    second: herbe loup chasseur_50
+  - first:
+      213: 8315606214943457088
+    second: herbe loup chasseur_51
+  - first:
+      213: 3356694807416074302
+    second: herbe loup chasseur_52
+  - first:
+      213: -7294697639123846250
+    second: herbe loup chasseur_53
+  - first:
+      213: 1200308112989318596
+    second: herbe loup chasseur_54
+  - first:
+      213: 5966140790923221678
+    second: herbe loup chasseur_55
+  - first:
+      213: 4407344740495384691
+    second: herbe loup chasseur_56
+  - first:
+      213: 7688503904574003313
+    second: herbe loup chasseur_57
+  - first:
+      213: 5849906106896261949
+    second: herbe loup chasseur_58
+  - first:
+      213: 3682614422609236994
+    second: herbe loup chasseur_59
+  - first:
+      213: -4715243233906372568
+    second: herbe loup chasseur_60
+  - first:
+      213: -121754687004592763
+    second: herbe loup chasseur_61
+  - first:
+      213: 5728777220743677737
+    second: herbe loup chasseur_62
+  - first:
+      213: 5043752015096535473
+    second: herbe loup chasseur_63
+  - first:
+      213: -3444394716778725444
+    second: herbe loup chasseur_64
+  - first:
+      213: 9199672714984891715
+    second: herbe loup chasseur_65
+  - first:
+      213: 8990779463260937597
+    second: herbe loup chasseur_66
+  - first:
+      213: -2233137191851405563
+    second: herbe loup chasseur_67
+  - first:
+      213: 1001186092845356792
+    second: herbe loup chasseur_68
+  - first:
+      213: 4689609657485262701
+    second: herbe loup chasseur_69
+  - first:
+      213: 2749058797665483018
+    second: herbe loup chasseur_70
+  - first:
+      213: -4541491709470396133
+    second: herbe loup chasseur_71
+  - first:
+      213: 4287050880704567874
+    second: herbe loup chasseur_72
+  - first:
+      213: 1989278371438843046
+    second: herbe loup chasseur_73
+  - first:
+      213: -1520043416764793982
+    second: herbe loup chasseur_74
+  - first:
+      213: -1246216247445389178
+    second: herbe loup chasseur_75
+  - first:
+      213: -3555761765039806875
+    second: herbe loup chasseur_76
+  - first:
+      213: 6503439436188174142
+    second: herbe loup chasseur_77
+  - first:
+      213: -3313166646441619637
+    second: herbe loup chasseur_78
+  - first:
+      213: 2927197599129505087
+    second: herbe loup chasseur_79
+  - first:
+      213: -8004437289999483466
+    second: herbe loup chasseur_80
+  - first:
+      213: -3369348878620057266
+    second: herbe loup chasseur_81
+  - first:
+      213: 6338371597966427564
+    second: herbe loup chasseur_82
+  - first:
+      213: -350202195911196109
+    second: herbe loup chasseur_83
+  - first:
+      213: 8000190174891187808
+    second: herbe loup chasseur_84
+  - first:
+      213: 1871976240593452126
+    second: herbe loup chasseur_85
+  - first:
+      213: 1412814501236988860
+    second: herbe loup chasseur_86
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 1
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: herbe loup chasseur_0
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 268
+        width: 55
+        height: 87
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bcc640cb465c6fb00800000000000000
+      internalID: 862093415129836747
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: herbe loup chasseur_1
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 279
+        width: 29
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cc30d48547325dfd0800000000000000
+      internalID: -2317907450607631412
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: herbe loup chasseur_2
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 274
+        width: 16
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e9b1988c41a70f150800000000000000
+      internalID: 5904353341165083550
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: herbe loup chasseur_3
+      rect:
+        serializedVersion: 2
+        x: 105
+        y: 291
+        width: 34
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a0c3d2b1a9a90e4e0800000000000000
+      internalID: -1954392251607204854
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: herbe loup chasseur_4
+      rect:
+        serializedVersion: 2
+        x: 163
+        y: 243
+        width: 94
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d7470e8c5b9a0be90800000000000000
+      internalID: -7011918021591534467
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: herbe loup chasseur_5
+      rect:
+        serializedVersion: 2
+        x: 537
+        y: 236
+        width: 58
+        height: 78
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aeb254ccf3e3f7bb0800000000000000
+      internalID: -4936158222843827222
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: herbe loup chasseur_6
+      rect:
+        serializedVersion: 2
+        x: 952
+        y: 190
+        width: 92
+        height: 171
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0c40bf4ea45ecf870800000000000000
+      internalID: 8718095088514434240
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: herbe loup chasseur_7
+      rect:
+        serializedVersion: 2
+        x: 1053
+        y: 232
+        width: 43
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a5c6ea39fe0043d50800000000000000
+      internalID: 6715993973291117658
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: herbe loup chasseur_8
+      rect:
+        serializedVersion: 2
+        x: 1057
+        y: 228
+        width: 43
+        height: 112
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 410bc8e82ddc13a60800000000000000
+      internalID: 7652123546097594388
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: herbe loup chasseur_9
+      rect:
+        serializedVersion: 2
+        x: 1063
+        y: 261
+        width: 47
+        height: 93
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e02557a5f02883dd0800000000000000
+      internalID: -2506110190177922546
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: herbe loup chasseur_10
+      rect:
+        serializedVersion: 2
+        x: 1108
+        y: 219
+        width: 46
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 08911d397270309c0800000000000000
+      internalID: -3962315380590831232
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: herbe loup chasseur_11
+      rect:
+        serializedVersion: 2
+        x: 2631
+        y: 188
+        width: 44
+        height: 108
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d47552d831d5ac590800000000000000
+      internalID: -7653202278208940211
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: herbe loup chasseur_12
+      rect:
+        serializedVersion: 2
+        x: 2815
+        y: 159
+        width: 60
+        height: 157
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aebf5cee9c6ba3cc0800000000000000
+      internalID: -3730468362912400406
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: herbe loup chasseur_13
+      rect:
+        serializedVersion: 2
+        x: 3729
+        y: 212
+        width: 28
+        height: 116
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: acc00c35fad816960800000000000000
+      internalID: 7593506230887255242
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: herbe loup chasseur_14
+      rect:
+        serializedVersion: 2
+        x: 3754
+        y: 229
+        width: 46
+        height: 101
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: de815661dac18dd10800000000000000
+      internalID: 2150500351800056045
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: herbe loup chasseur_15
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 148
+        width: 31
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9e836813686aa0540800000000000000
+      internalID: 4974971833670842601
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: herbe loup chasseur_16
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 139
+        width: 31
+        height: 78
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e347b6364630557c0800000000000000
+      internalID: -4083353757441887170
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: herbe loup chasseur_17
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 140
+        width: 49
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f44443c4b27ccedb0800000000000000
+      internalID: -4761211717261441969
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: herbe loup chasseur_18
+      rect:
+        serializedVersion: 2
+        x: 798
+        y: 174
+        width: 52
+        height: 107
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e75c41c9e8809bd40800000000000000
+      internalID: 5600517020208907646
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: herbe loup chasseur_19
+      rect:
+        serializedVersion: 2
+        x: 853
+        y: 183
+        width: 34
+        height: 102
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: de732a665597dd680800000000000000
+      internalID: -8728687095073064979
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: herbe loup chasseur_20
+      rect:
+        serializedVersion: 2
+        x: 1075
+        y: 38
+        width: 44
+        height: 170
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dfe4bd1b4264b7d30800000000000000
+      internalID: 4430211781865721597
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: herbe loup chasseur_21
+      rect:
+        serializedVersion: 2
+        x: 1918
+        y: 127
+        width: 51
+        height: 86
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b3db20444948a5510800000000000000
+      internalID: 1538687995031502139
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: herbe loup chasseur_22
+      rect:
+        serializedVersion: 2
+        x: 2060
+        y: 131
+        width: 41
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1ff3956bc1ec5f340800000000000000
+      internalID: 4897046792548990961
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: herbe loup chasseur_23
+      rect:
+        serializedVersion: 2
+        x: 2075
+        y: 148
+        width: 37
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 26ba6f8404444add0800000000000000
+      internalID: -2475778852254209182
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: herbe loup chasseur_24
+      rect:
+        serializedVersion: 2
+        x: 2104
+        y: 183
+        width: 12
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 648a787a356226e40800000000000000
+      internalID: 5648119023410849862
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: herbe loup chasseur_25
+      rect:
+        serializedVersion: 2
+        x: 2111
+        y: 152
+        width: 19
+        height: 81
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bc1d6792f6e652f50800000000000000
+      internalID: 6856007431457526219
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: herbe loup chasseur_26
+      rect:
+        serializedVersion: 2
+        x: 2286
+        y: 142
+        width: 50
+        height: 115
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 544a5b9c60814cb50800000000000000
+      internalID: 6612436570319725637
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: herbe loup chasseur_27
+      rect:
+        serializedVersion: 2
+        x: 2326
+        y: 149
+        width: 33
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8570950a197733340800000000000000
+      internalID: 4842345491697567576
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: herbe loup chasseur_28
+      rect:
+        serializedVersion: 2
+        x: 2425
+        y: 182
+        width: 35
+        height: 79
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 00c390cd37b44d390800000000000000
+      internalID: -7794522094086571008
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: herbe loup chasseur_29
+      rect:
+        serializedVersion: 2
+        x: 2465
+        y: 189
+        width: 26
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0bd6baa41c4bb4250800000000000000
+      internalID: 5930032076637826480
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: herbe loup chasseur_30
+      rect:
+        serializedVersion: 2
+        x: 2476
+        y: 183
+        width: 48
+        height: 106
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f4275506ca4202410800000000000000
+      internalID: 1450199402782487119
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: herbe loup chasseur_31
+      rect:
+        serializedVersion: 2
+        x: 2536
+        y: 84
+        width: 57
+        height: 107
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 726771e95204b80b0800000000000000
+      internalID: -5725411970961148377
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: herbe loup chasseur_32
+      rect:
+        serializedVersion: 2
+        x: 2668
+        y: 85
+        width: 89
+        height: 118
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 386e8340e2e802430800000000000000
+      internalID: 3756158417517471363
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: herbe loup chasseur_33
+      rect:
+        serializedVersion: 2
+        x: 2906
+        y: 158
+        width: 76
+        height: 111
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 829833337bf750940800000000000000
+      internalID: 5261752164467050792
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: herbe loup chasseur_34
+      rect:
+        serializedVersion: 2
+        x: 3070
+        y: 67
+        width: 32
+        height: 137
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4e2595db1a4756140800000000000000
+      internalID: 4712300823128396516
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: herbe loup chasseur_35
+      rect:
+        serializedVersion: 2
+        x: 3310
+        y: 153
+        width: 46
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 799e1910c5eb8cb60800000000000000
+      internalID: 7766666859773028759
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: herbe loup chasseur_36
+      rect:
+        serializedVersion: 2
+        x: 3332
+        y: 149
+        width: 66
+        height: 91
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 28f38de2c260d0a90800000000000000
+      internalID: -7346208630337159294
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: herbe loup chasseur_37
+      rect:
+        serializedVersion: 2
+        x: 3606
+        y: 128
+        width: 61
+        height: 132
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 474c643c48b660f50800000000000000
+      internalID: 6847278501419467892
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: herbe loup chasseur_38
+      rect:
+        serializedVersion: 2
+        x: 3646
+        y: 139
+        width: 27
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4ce77a4dc16874240800000000000000
+      internalID: 4775933388234653380
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: herbe loup chasseur_39
+      rect:
+        serializedVersion: 2
+        x: 135
+        y: 71
+        width: 85
+        height: 93
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0c99b1558fa696a60800000000000000
+      internalID: 7667777455387285952
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: herbe loup chasseur_40
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 46
+        width: 41
+        height: 93
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 13285aac6ddefdcf0800000000000000
+      internalID: -225199949566606799
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: herbe loup chasseur_41
+      rect:
+        serializedVersion: 2
+        x: 495
+        y: 36
+        width: 80
+        height: 121
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0238ed2a1f73c8740800000000000000
+      internalID: 5155557184391512864
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: herbe loup chasseur_42
+      rect:
+        serializedVersion: 2
+        x: 1143
+        y: 88
+        width: 60
+        height: 77
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: af522d237bc40c5d0800000000000000
+      internalID: -3044348998387096070
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: herbe loup chasseur_43
+      rect:
+        serializedVersion: 2
+        x: 1157
+        y: 86
+        width: 85
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 15f8a89feb56facf0800000000000000
+      internalID: -238860384322547887
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: herbe loup chasseur_44
+      rect:
+        serializedVersion: 2
+        x: 1553
+        y: 44
+        width: 44
+        height: 105
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4dad3dbc7261c76e0800000000000000
+      internalID: -1838570187694810412
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: herbe loup chasseur_45
+      rect:
+        serializedVersion: 2
+        x: 1591
+        y: 52
+        width: 25
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d83468f2929baf7f0800000000000000
+      internalID: -577946015621561459
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: herbe loup chasseur_46
+      rect:
+        serializedVersion: 2
+        x: 1702
+        y: 56
+        width: 29
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bee0393724bfafe10800000000000000
+      internalID: 2232372828140932843
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: herbe loup chasseur_47
+      rect:
+        serializedVersion: 2
+        x: 1907
+        y: 118
+        width: 37
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 49d59b51a2b2b2ec0800000000000000
+      internalID: -3590728818144748140
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: herbe loup chasseur_48
+      rect:
+        serializedVersion: 2
+        x: 1997
+        y: 23
+        width: 15
+        height: 114
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3fe011b711f599480800000000000000
+      internalID: -8891971460582535437
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: herbe loup chasseur_49
+      rect:
+        serializedVersion: 2
+        x: 2087
+        y: 54
+        width: 48
+        height: 85
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 07e4a35e1d641a560800000000000000
+      internalID: 7323212336389049968
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: herbe loup chasseur_50
+      rect:
+        serializedVersion: 2
+        x: 2252
+        y: 18
+        width: 75
+        height: 115
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 112b241c1fceacb00800000000000000
+      internalID: 849752002786406929
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: herbe loup chasseur_51
+      rect:
+        serializedVersion: 2
+        x: 2393
+        y: 79
+        width: 22
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 04f3cb56bc7f66370800000000000000
+      internalID: 8315606214943457088
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: herbe loup chasseur_52
+      rect:
+        serializedVersion: 2
+        x: 2400
+        y: 83
+        width: 24
+        height: 84
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e30fe6f8420659e20800000000000000
+      internalID: 3356694807416074302
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: herbe loup chasseur_53
+      rect:
+        serializedVersion: 2
+        x: 2423
+        y: 84
+        width: 15
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 69b742c652704ca90800000000000000
+      internalID: -7294697639123846250
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: herbe loup chasseur_54
+      rect:
+        serializedVersion: 2
+        x: 2434
+        y: 77
+        width: 19
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4cd6fb78ed958a010800000000000000
+      internalID: 1200308112989318596
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: herbe loup chasseur_55
+      rect:
+        serializedVersion: 2
+        x: 2582
+        y: 82
+        width: 35
+        height: 89
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eaa52fa707dfbc250800000000000000
+      internalID: 5966140790923221678
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: herbe loup chasseur_56
+      rect:
+        serializedVersion: 2
+        x: 2885
+        y: 0
+        width: 42
+        height: 140
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 370e9ebb0b80a2d30800000000000000
+      internalID: 4407344740495384691
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: herbe loup chasseur_57
+      rect:
+        serializedVersion: 2
+        x: 3034
+        y: 57
+        width: 40
+        height: 131
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1785656d09d03ba60800000000000000
+      internalID: 7688503904574003313
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: herbe loup chasseur_58
+      rect:
+        serializedVersion: 2
+        x: 3077
+        y: 67
+        width: 54
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d33a0fe2c9a0f2150800000000000000
+      internalID: 5849906106896261949
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: herbe loup chasseur_59
+      rect:
+        serializedVersion: 2
+        x: 3204
+        y: 47
+        width: 40
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2049a585e464b1330800000000000000
+      internalID: 3682614422609236994
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: herbe loup chasseur_60
+      rect:
+        serializedVersion: 2
+        x: 3215
+        y: 39
+        width: 57
+        height: 121
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 820527dd247109eb0800000000000000
+      internalID: -4715243233906372568
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: herbe loup chasseur_61
+      rect:
+        serializedVersion: 2
+        x: 3418
+        y: 27
+        width: 95
+        height: 139
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5853a5bd1c07f4ef0800000000000000
+      internalID: -121754687004592763
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: herbe loup chasseur_62
+      rect:
+        serializedVersion: 2
+        x: 3603
+        y: 132
+        width: 35
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 927c6c7a784b08f40800000000000000
+      internalID: 5728777220743677737
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: herbe loup chasseur_63
+      rect:
+        serializedVersion: 2
+        x: 3603
+        y: 61
+        width: 36
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1b95dfa1cb10ff540800000000000000
+      internalID: 5043752015096535473
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: herbe loup chasseur_64
+      rect:
+        serializedVersion: 2
+        x: 3693
+        y: 23
+        width: 41
+        height: 123
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cbffb28114d0330d0800000000000000
+      internalID: -3444394716778725444
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: herbe loup chasseur_65
+      rect:
+        serializedVersion: 2
+        x: 3729
+        y: 42
+        width: 38
+        height: 102
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3452782a79dcbaf70800000000000000
+      internalID: 9199672714984891715
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: herbe loup chasseur_66
+      rect:
+        serializedVersion: 2
+        x: 283
+        y: 13
+        width: 44
+        height: 81
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d7d9b81694aa5cc70800000000000000
+      internalID: 8990779463260937597
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: herbe loup chasseur_67
+      rect:
+        serializedVersion: 2
+        x: 874
+        y: 15
+        width: 54
+        height: 102
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 50fcbf04e8d4201e0800000000000000
+      internalID: -2233137191851405563
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: herbe loup chasseur_68
+      rect:
+        serializedVersion: 2
+        x: 933
+        y: 18
+        width: 34
+        height: 94
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8f6db1a627de4ed00800000000000000
+      internalID: 1001186092845356792
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: herbe loup chasseur_69
+      rect:
+        serializedVersion: 2
+        x: 1303
+        y: 11
+        width: 93
+        height: 108
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d6f76a90327d41140800000000000000
+      internalID: 4689609657485262701
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: herbe loup chasseur_70
+      rect:
+        serializedVersion: 2
+        x: 1429
+        y: 27
+        width: 94
+        height: 99
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a09738d496e962620800000000000000
+      internalID: 2749058797665483018
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: herbe loup chasseur_71
+      rect:
+        serializedVersion: 2
+        x: 1702
+        y: 36
+        width: 19
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b11b2a22a5169f0c0800000000000000
+      internalID: -4541491709470396133
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: herbe loup chasseur_72
+      rect:
+        serializedVersion: 2
+        x: 1737
+        y: 61
+        width: 15
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 24adb6eef0aae7b30800000000000000
+      internalID: 4287050880704567874
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: herbe loup chasseur_73
+      rect:
+        serializedVersion: 2
+        x: 1807
+        y: 15
+        width: 29
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6a4daf0a3265b9b10800000000000000
+      internalID: 1989278371438843046
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: herbe loup chasseur_74
+      rect:
+        serializedVersion: 2
+        x: 1834
+        y: 22
+        width: 47
+        height: 95
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 28b3094e098b7eae0800000000000000
+      internalID: -1520043416764793982
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: herbe loup chasseur_75
+      rect:
+        serializedVersion: 2
+        x: 1965
+        y: 20
+        width: 36
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 68082b9fcec84bee0800000000000000
+      internalID: -1246216247445389178
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: herbe loup chasseur_76
+      rect:
+        serializedVersion: 2
+        x: 2010
+        y: 23
+        width: 25
+        height: 84
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 566e2e0938567aec0800000000000000
+      internalID: -3555761765039806875
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: herbe loup chasseur_77
+      rect:
+        serializedVersion: 2
+        x: 2084
+        y: 31
+        width: 52
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e374344e5bbd04a50800000000000000
+      internalID: 6503439436188174142
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: herbe loup chasseur_78
+      rect:
+        serializedVersion: 2
+        x: 2442
+        y: 10
+        width: 36
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b4fcc2d2d744502d0800000000000000
+      internalID: -3313166646441619637
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: herbe loup chasseur_79
+      rect:
+        serializedVersion: 2
+        x: 2463
+        y: 15
+        width: 50
+        height: 73
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f3d8d7b15be7f9820800000000000000
+      internalID: 2927197599129505087
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: herbe loup chasseur_80
+      rect:
+        serializedVersion: 2
+        x: 2743
+        y: 0
+        width: 95
+        height: 101
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6bdb0bea1b68ae090800000000000000
+      internalID: -8004437289999483466
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: herbe loup chasseur_81
+      rect:
+        serializedVersion: 2
+        x: 3179
+        y: 73
+        width: 18
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e41ad75eb0bad31d0800000000000000
+      internalID: -3369348878620057266
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: herbe loup chasseur_82
+      rect:
+        serializedVersion: 2
+        x: 3234
+        y: 50
+        width: 44
+        height: 78
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ca5c63fd26b66f750800000000000000
+      internalID: 6338371597966427564
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: herbe loup chasseur_83
+      rect:
+        serializedVersion: 2
+        x: 3739
+        y: 44
+        width: 34
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 332c62155f4d32bf0800000000000000
+      internalID: -350202195911196109
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: herbe loup chasseur_84
+      rect:
+        serializedVersion: 2
+        x: 254
+        y: 8
+        width: 36
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 06e95f5c392660f60800000000000000
+      internalID: 8000190174891187808
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: herbe loup chasseur_85
+      rect:
+        serializedVersion: 2
+        x: 295
+        y: 14
+        width: 37
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e5c3b8009789af910800000000000000
+      internalID: 1871976240593452126
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: herbe loup chasseur_86
+      rect:
+        serializedVersion: 2
+        x: 2406
+        y: 33
+        width: 15
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cbb50cfad435b9310800000000000000
+      internalID: 1412814501236988860
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      herbe loup chasseur_0: 862093415129836747
+      herbe loup chasseur_1: -2317907450607631412
+      herbe loup chasseur_10: -3962315380590831232
+      herbe loup chasseur_11: -7653202278208940211
+      herbe loup chasseur_12: -3730468362912400406
+      herbe loup chasseur_13: 7593506230887255242
+      herbe loup chasseur_14: 2150500351800056045
+      herbe loup chasseur_15: 4974971833670842601
+      herbe loup chasseur_16: -4083353757441887170
+      herbe loup chasseur_17: -4761211717261441969
+      herbe loup chasseur_18: 5600517020208907646
+      herbe loup chasseur_19: -8728687095073064979
+      herbe loup chasseur_2: 5904353341165083550
+      herbe loup chasseur_20: 4430211781865721597
+      herbe loup chasseur_21: 1538687995031502139
+      herbe loup chasseur_22: 4897046792548990961
+      herbe loup chasseur_23: -2475778852254209182
+      herbe loup chasseur_24: 5648119023410849862
+      herbe loup chasseur_25: 6856007431457526219
+      herbe loup chasseur_26: 6612436570319725637
+      herbe loup chasseur_27: 4842345491697567576
+      herbe loup chasseur_28: -7794522094086571008
+      herbe loup chasseur_29: 5930032076637826480
+      herbe loup chasseur_3: -1954392251607204854
+      herbe loup chasseur_30: 1450199402782487119
+      herbe loup chasseur_31: -5725411970961148377
+      herbe loup chasseur_32: 3756158417517471363
+      herbe loup chasseur_33: 5261752164467050792
+      herbe loup chasseur_34: 4712300823128396516
+      herbe loup chasseur_35: 7766666859773028759
+      herbe loup chasseur_36: -7346208630337159294
+      herbe loup chasseur_37: 6847278501419467892
+      herbe loup chasseur_38: 4775933388234653380
+      herbe loup chasseur_39: 7667777455387285952
+      herbe loup chasseur_4: -7011918021591534467
+      herbe loup chasseur_40: -225199949566606799
+      herbe loup chasseur_41: 5155557184391512864
+      herbe loup chasseur_42: -3044348998387096070
+      herbe loup chasseur_43: -238860384322547887
+      herbe loup chasseur_44: -1838570187694810412
+      herbe loup chasseur_45: -577946015621561459
+      herbe loup chasseur_46: 2232372828140932843
+      herbe loup chasseur_47: -3590728818144748140
+      herbe loup chasseur_48: -8891971460582535437
+      herbe loup chasseur_49: 7323212336389049968
+      herbe loup chasseur_5: -4936158222843827222
+      herbe loup chasseur_50: 849752002786406929
+      herbe loup chasseur_51: 8315606214943457088
+      herbe loup chasseur_52: 3356694807416074302
+      herbe loup chasseur_53: -7294697639123846250
+      herbe loup chasseur_54: 1200308112989318596
+      herbe loup chasseur_55: 5966140790923221678
+      herbe loup chasseur_56: 4407344740495384691
+      herbe loup chasseur_57: 7688503904574003313
+      herbe loup chasseur_58: 5849906106896261949
+      herbe loup chasseur_59: 3682614422609236994
+      herbe loup chasseur_6: 8718095088514434240
+      herbe loup chasseur_60: -4715243233906372568
+      herbe loup chasseur_61: -121754687004592763
+      herbe loup chasseur_62: 5728777220743677737
+      herbe loup chasseur_63: 5043752015096535473
+      herbe loup chasseur_64: -3444394716778725444
+      herbe loup chasseur_65: 9199672714984891715
+      herbe loup chasseur_66: 8990779463260937597
+      herbe loup chasseur_67: -2233137191851405563
+      herbe loup chasseur_68: 1001186092845356792
+      herbe loup chasseur_69: 4689609657485262701
+      herbe loup chasseur_7: 6715993973291117658
+      herbe loup chasseur_70: 2749058797665483018
+      herbe loup chasseur_71: -4541491709470396133
+      herbe loup chasseur_72: 4287050880704567874
+      herbe loup chasseur_73: 1989278371438843046
+      herbe loup chasseur_74: -1520043416764793982
+      herbe loup chasseur_75: -1246216247445389178
+      herbe loup chasseur_76: -3555761765039806875
+      herbe loup chasseur_77: 6503439436188174142
+      herbe loup chasseur_78: -3313166646441619637
+      herbe loup chasseur_79: 2927197599129505087
+      herbe loup chasseur_8: 7652123546097594388
+      herbe loup chasseur_80: -8004437289999483466
+      herbe loup chasseur_81: -3369348878620057266
+      herbe loup chasseur_82: 6338371597966427564
+      herbe loup chasseur_83: -350202195911196109
+      herbe loup chasseur_84: 8000190174891187808
+      herbe loup chasseur_85: 1871976240593452126
+      herbe loup chasseur_86: 1412814501236988860
+      herbe loup chasseur_9: -2506110190177922546
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

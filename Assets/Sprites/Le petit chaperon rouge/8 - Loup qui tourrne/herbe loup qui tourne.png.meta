@@ -1,0 +1,3224 @@
+fileFormatVersion: 2
+guid: c8d91c715a7101f41b1c248f66c5dba9
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -5813943689124347277
+    second: herbe loup qui tourne_0
+  - first:
+      213: 6982212615611162469
+    second: herbe loup qui tourne_1
+  - first:
+      213: -8662274122284907259
+    second: herbe loup qui tourne_2
+  - first:
+      213: 2056664316625844234
+    second: herbe loup qui tourne_3
+  - first:
+      213: 7976748804263092750
+    second: herbe loup qui tourne_4
+  - first:
+      213: 7827994631714960145
+    second: herbe loup qui tourne_5
+  - first:
+      213: 5280642887141252753
+    second: herbe loup qui tourne_6
+  - first:
+      213: -2235926404945221659
+    second: herbe loup qui tourne_7
+  - first:
+      213: 6803540330393387264
+    second: herbe loup qui tourne_8
+  - first:
+      213: -2683952524209678728
+    second: herbe loup qui tourne_9
+  - first:
+      213: -4237873186559621436
+    second: herbe loup qui tourne_10
+  - first:
+      213: 1154401186935788775
+    second: herbe loup qui tourne_11
+  - first:
+      213: 2050485726200819478
+    second: herbe loup qui tourne_12
+  - first:
+      213: -293352611712937653
+    second: herbe loup qui tourne_13
+  - first:
+      213: -8876577876825510521
+    second: herbe loup qui tourne_14
+  - first:
+      213: 8759357564584050546
+    second: herbe loup qui tourne_15
+  - first:
+      213: -3213119459384106088
+    second: herbe loup qui tourne_16
+  - first:
+      213: 516065683984600243
+    second: herbe loup qui tourne_17
+  - first:
+      213: 7735849456636323771
+    second: herbe loup qui tourne_18
+  - first:
+      213: -346627463101714343
+    second: herbe loup qui tourne_19
+  - first:
+      213: -5088232857040313349
+    second: herbe loup qui tourne_20
+  - first:
+      213: 8330840756822204373
+    second: herbe loup qui tourne_21
+  - first:
+      213: 3368730547589867294
+    second: herbe loup qui tourne_22
+  - first:
+      213: 6575063611297779716
+    second: herbe loup qui tourne_23
+  - first:
+      213: -7512688742855782314
+    second: herbe loup qui tourne_24
+  - first:
+      213: -2647189277186815900
+    second: herbe loup qui tourne_25
+  - first:
+      213: 302912919310115728
+    second: herbe loup qui tourne_26
+  - first:
+      213: -4305606013402405870
+    second: herbe loup qui tourne_27
+  - first:
+      213: 2209810724656144192
+    second: herbe loup qui tourne_28
+  - first:
+      213: -9161936926677366338
+    second: herbe loup qui tourne_29
+  - first:
+      213: 6727388500265898201
+    second: herbe loup qui tourne_30
+  - first:
+      213: -4800673017836567230
+    second: herbe loup qui tourne_31
+  - first:
+      213: -3138946756264840681
+    second: herbe loup qui tourne_32
+  - first:
+      213: 9084319108866979481
+    second: herbe loup qui tourne_33
+  - first:
+      213: -7600753875009910184
+    second: herbe loup qui tourne_34
+  - first:
+      213: -3828379993710837108
+    second: herbe loup qui tourne_35
+  - first:
+      213: 613910640433640130
+    second: herbe loup qui tourne_36
+  - first:
+      213: 1225261455009849326
+    second: herbe loup qui tourne_37
+  - first:
+      213: 7068679581282671936
+    second: herbe loup qui tourne_38
+  - first:
+      213: -8747988258176427469
+    second: herbe loup qui tourne_39
+  - first:
+      213: -2813722346931151799
+    second: herbe loup qui tourne_40
+  - first:
+      213: 8381679509716985413
+    second: herbe loup qui tourne_41
+  - first:
+      213: -5915075757927292348
+    second: herbe loup qui tourne_42
+  - first:
+      213: -4117720090542678775
+    second: herbe loup qui tourne_43
+  - first:
+      213: -7124097688221022507
+    second: herbe loup qui tourne_44
+  - first:
+      213: 7371819564910340560
+    second: herbe loup qui tourne_45
+  - first:
+      213: 3621397574353933207
+    second: herbe loup qui tourne_46
+  - first:
+      213: 6735365994869617318
+    second: herbe loup qui tourne_47
+  - first:
+      213: -1793671173700871520
+    second: herbe loup qui tourne_48
+  - first:
+      213: 7497535624987813630
+    second: herbe loup qui tourne_49
+  - first:
+      213: 5587049968466833816
+    second: herbe loup qui tourne_50
+  - first:
+      213: 8444888004043768569
+    second: herbe loup qui tourne_51
+  - first:
+      213: -9046898573394319000
+    second: herbe loup qui tourne_52
+  - first:
+      213: 2591303432345151402
+    second: herbe loup qui tourne_53
+  - first:
+      213: -2414404215962021550
+    second: herbe loup qui tourne_54
+  - first:
+      213: -4408452134996455982
+    second: herbe loup qui tourne_55
+  - first:
+      213: 7268912227622632278
+    second: herbe loup qui tourne_56
+  - first:
+      213: 1625051561014827919
+    second: herbe loup qui tourne_57
+  - first:
+      213: 8768449764893348001
+    second: herbe loup qui tourne_58
+  - first:
+      213: 668000713615856094
+    second: herbe loup qui tourne_59
+  - first:
+      213: -9210193651287257575
+    second: herbe loup qui tourne_60
+  - first:
+      213: -1762290681834164214
+    second: herbe loup qui tourne_61
+  - first:
+      213: 8220334286975795629
+    second: herbe loup qui tourne_62
+  - first:
+      213: 5372786674672446652
+    second: herbe loup qui tourne_63
+  - first:
+      213: -400126632593545175
+    second: herbe loup qui tourne_64
+  - first:
+      213: 4515130573556916584
+    second: herbe loup qui tourne_65
+  - first:
+      213: -6632254994748321592
+    second: herbe loup qui tourne_66
+  - first:
+      213: -265376717049221212
+    second: herbe loup qui tourne_67
+  - first:
+      213: 3522623501733809905
+    second: herbe loup qui tourne_68
+  - first:
+      213: 5780596777280321975
+    second: herbe loup qui tourne_69
+  - first:
+      213: 6051585421931404590
+    second: herbe loup qui tourne_70
+  - first:
+      213: -4644345145369607245
+    second: herbe loup qui tourne_71
+  - first:
+      213: 1089459315017093024
+    second: herbe loup qui tourne_72
+  - first:
+      213: 6623065791870816360
+    second: herbe loup qui tourne_73
+  - first:
+      213: -735490238593250438
+    second: herbe loup qui tourne_74
+  - first:
+      213: 2946943894292137701
+    second: herbe loup qui tourne_75
+  - first:
+      213: 7741212812539214360
+    second: herbe loup qui tourne_76
+  - first:
+      213: 3354145338363930500
+    second: herbe loup qui tourne_77
+  - first:
+      213: -8315704515148884311
+    second: herbe loup qui tourne_78
+  - first:
+      213: -7241498405105866308
+    second: herbe loup qui tourne_79
+  - first:
+      213: -7721029582566470744
+    second: herbe loup qui tourne_80
+  - first:
+      213: 200755342344401450
+    second: herbe loup qui tourne_81
+  - first:
+      213: 6824605943498033850
+    second: herbe loup qui tourne_82
+  - first:
+      213: -4318900466927457988
+    second: herbe loup qui tourne_83
+  - first:
+      213: -9082528704954302525
+    second: herbe loup qui tourne_84
+  - first:
+      213: -3477753571751602309
+    second: herbe loup qui tourne_85
+  - first:
+      213: -8223127587858699648
+    second: herbe loup qui tourne_86
+  - first:
+      213: 2329358623831187880
+    second: herbe loup qui tourne_87
+  - first:
+      213: -7518116696326343804
+    second: herbe loup qui tourne_88
+  - first:
+      213: -2580546632289647796
+    second: herbe loup qui tourne_89
+  - first:
+      213: -1707957417208813003
+    second: herbe loup qui tourne_90
+  - first:
+      213: 587363625846298822
+    second: herbe loup qui tourne_91
+  - first:
+      213: -2817258246132864163
+    second: herbe loup qui tourne_92
+  - first:
+      213: -2320390361585050861
+    second: herbe loup qui tourne_93
+  - first:
+      213: 4325775178086333084
+    second: herbe loup qui tourne_94
+  - first:
+      213: 8491113771016093746
+    second: herbe loup qui tourne_95
+  - first:
+      213: 4372804750289659118
+    second: herbe loup qui tourne_96
+  - first:
+      213: 506913421052526786
+    second: herbe loup qui tourne_97
+  - first:
+      213: 8781046800664309993
+    second: herbe loup qui tourne_98
+  - first:
+      213: 8512604695575998051
+    second: herbe loup qui tourne_99
+  - first:
+      213: 6721855214554304671
+    second: herbe loup qui tourne_100
+  - first:
+      213: -1716071610077543389
+    second: herbe loup qui tourne_101
+  - first:
+      213: 494898588663794888
+    second: herbe loup qui tourne_102
+  - first:
+      213: -853064445285629865
+    second: herbe loup qui tourne_103
+  - first:
+      213: 3539045670160717405
+    second: herbe loup qui tourne_104
+  - first:
+      213: 7378054050270648105
+    second: herbe loup qui tourne_105
+  - first:
+      213: 6504753504427016016
+    second: herbe loup qui tourne_106
+  - first:
+      213: 3955780527517451871
+    second: herbe loup qui tourne_107
+  - first:
+      213: -1581794261160928415
+    second: herbe loup qui tourne_108
+  - first:
+      213: -3355327715585848468
+    second: herbe loup qui tourne_109
+  - first:
+      213: -9176664607453965827
+    second: herbe loup qui tourne_110
+  - first:
+      213: 7013328651485060796
+    second: herbe loup qui tourne_111
+  - first:
+      213: 7349537093044878341
+    second: herbe loup qui tourne_112
+  - first:
+      213: -3051334123863018205
+    second: herbe loup qui tourne_113
+  - first:
+      213: -895545707607082069
+    second: herbe loup qui tourne_114
+  - first:
+      213: 4103417129577950129
+    second: herbe loup qui tourne_115
+  - first:
+      213: 2030935888527784183
+    second: herbe loup qui tourne_116
+  - first:
+      213: -8617741918860012590
+    second: herbe loup qui tourne_117
+  - first:
+      213: -8005463163547762757
+    second: herbe loup qui tourne_118
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 1
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: herbe loup qui tourne_0
+      rect:
+        serializedVersion: 2
+        x: 130
+        y: 976
+        width: 41
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3728e91b409b05fa0800000000000000
+      internalID: -5813943689124347277
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: herbe loup qui tourne_1
+      rect:
+        serializedVersion: 2
+        x: 272
+        y: 968
+        width: 37
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 56f11cb616dc5e060800000000000000
+      internalID: 6982212615611162469
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: herbe loup qui tourne_2
+      rect:
+        serializedVersion: 2
+        x: 1367
+        y: 984
+        width: 60
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 505462a949b69c780800000000000000
+      internalID: -8662274122284907259
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: herbe loup qui tourne_3
+      rect:
+        serializedVersion: 2
+        x: 1532
+        y: 940
+        width: 26
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a0874be9c4dba8c10800000000000000
+      internalID: 2056664316625844234
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: herbe loup qui tourne_4
+      rect:
+        serializedVersion: 2
+        x: 1582
+        y: 962
+        width: 39
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e02af9c56ca13be60800000000000000
+      internalID: 7976748804263092750
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: herbe loup qui tourne_5
+      rect:
+        serializedVersion: 2
+        x: 1831
+        y: 972
+        width: 57
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 113f80f94af92ac60800000000000000
+      internalID: 7827994631714960145
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: herbe loup qui tourne_6
+      rect:
+        serializedVersion: 2
+        x: 1858
+        y: 967
+        width: 30
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 19e5fb15abc984940800000000000000
+      internalID: 5280642887141252753
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: herbe loup qui tourne_7
+      rect:
+        serializedVersion: 2
+        x: 1865
+        y: 967
+        width: 71
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5e7e259f7c468f0e0800000000000000
+      internalID: -2235926404945221659
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: herbe loup qui tourne_8
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 874
+        width: 33
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 001442042e70b6e50800000000000000
+      internalID: 6803540330393387264
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: herbe loup qui tourne_9
+      rect:
+        serializedVersion: 2
+        x: 52
+        y: 881
+        width: 21
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8761870466fa0cad0800000000000000
+      internalID: -2683952524209678728
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: herbe loup qui tourne_10
+      rect:
+        serializedVersion: 2
+        x: 347
+        y: 874
+        width: 22
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4c606ff3acc0035c0800000000000000
+      internalID: -4237873186559621436
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: herbe loup qui tourne_11
+      rect:
+        serializedVersion: 2
+        x: 355
+        y: 874
+        width: 23
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7e4d89363c1450010800000000000000
+      internalID: 1154401186935788775
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: herbe loup qui tourne_12
+      rect:
+        serializedVersion: 2
+        x: 375
+        y: 892
+        width: 17
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 61f653f67e9c47c10800000000000000
+      internalID: 2050485726200819478
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: herbe loup qui tourne_13
+      rect:
+        serializedVersion: 2
+        x: 378
+        y: 877
+        width: 20
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b41dae89a5dcdebf0800000000000000
+      internalID: -293352611712937653
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: herbe loup qui tourne_14
+      rect:
+        serializedVersion: 2
+        x: 1193
+        y: 894
+        width: 21
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 78d69be737f00d480800000000000000
+      internalID: -8876577876825510521
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: herbe loup qui tourne_15
+      rect:
+        serializedVersion: 2
+        x: 1198
+        y: 898
+        width: 23
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 27fb9a1cb4d7f8970800000000000000
+      internalID: 8759357564584050546
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: herbe loup qui tourne_16
+      rect:
+        serializedVersion: 2
+        x: 1213
+        y: 895
+        width: 24
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 893e38220e4b863d0800000000000000
+      internalID: -3213119459384106088
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: herbe loup qui tourne_17
+      rect:
+        serializedVersion: 2
+        x: 183
+        y: 803
+        width: 55
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3bccbae510f692700800000000000000
+      internalID: 516065683984600243
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: herbe loup qui tourne_18
+      rect:
+        serializedVersion: 2
+        x: 1177
+        y: 746
+        width: 35
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bb7e4b238124b5b60800000000000000
+      internalID: 7735849456636323771
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: herbe loup qui tourne_19
+      rect:
+        serializedVersion: 2
+        x: 1379
+        y: 773
+        width: 38
+        height: 79
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9507d68a828803bf0800000000000000
+      internalID: -346627463101714343
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: herbe loup qui tourne_20
+      rect:
+        serializedVersion: 2
+        x: 1414
+        y: 781
+        width: 45
+        height: 78
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bf324a5dc27f269b0800000000000000
+      internalID: -5088232857040313349
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: herbe loup qui tourne_21
+      rect:
+        serializedVersion: 2
+        x: 262
+        y: 709
+        width: 45
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5dfdbb697871d9370800000000000000
+      internalID: 8330840756822204373
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: herbe loup qui tourne_22
+      rect:
+        serializedVersion: 2
+        x: 1150
+        y: 747
+        width: 28
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e17e911b59220ce20800000000000000
+      internalID: 3368730547589867294
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: herbe loup qui tourne_23
+      rect:
+        serializedVersion: 2
+        x: 1199
+        y: 755
+        width: 15
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 400500fa4815f3b50800000000000000
+      internalID: 6575063611297779716
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: herbe loup qui tourne_24
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 688
+        width: 39
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 650510e64619db790800000000000000
+      internalID: -7512688742855782314
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: herbe loup qui tourne_25
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 691
+        width: 19
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4688e08b06b434bd0800000000000000
+      internalID: -2647189277186815900
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: herbe loup qui tourne_26
+      rect:
+        serializedVersion: 2
+        x: 252
+        y: 710
+        width: 22
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0932b59f1b9243400800000000000000
+      internalID: 302912919310115728
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: herbe loup qui tourne_27
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 662
+        width: 31
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2142d54942a6f34c0800000000000000
+      internalID: -4305606013402405870
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: herbe loup qui tourne_28
+      rect:
+        serializedVersion: 2
+        x: 1251
+        y: 636
+        width: 23
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 04f5aff5523daae10800000000000000
+      internalID: 2209810724656144192
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: herbe loup qui tourne_29
+      rect:
+        serializedVersion: 2
+        x: 1273
+        y: 643
+        width: 9
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eb98cde38e24ad080800000000000000
+      internalID: -9161936926677366338
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: herbe loup qui tourne_30
+      rect:
+        serializedVersion: 2
+        x: 1283
+        y: 643
+        width: 11
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9d09560a23c7c5d50800000000000000
+      internalID: 6727388500265898201
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: herbe loup qui tourne_31
+      rect:
+        serializedVersion: 2
+        x: 156
+        y: 605
+        width: 22
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2458c094355906db0800000000000000
+      internalID: -4800673017836567230
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: herbe loup qui tourne_32
+      rect:
+        serializedVersion: 2
+        x: 170
+        y: 606
+        width: 18
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 71238f75e883074d0800000000000000
+      internalID: -3138946756264840681
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: herbe loup qui tourne_33
+      rect:
+        serializedVersion: 2
+        x: 175
+        y: 619
+        width: 17
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9963f46491cf11e70800000000000000
+      internalID: 9084319108866979481
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: herbe loup qui tourne_34
+      rect:
+        serializedVersion: 2
+        x: 191
+        y: 617
+        width: 15
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 85a4cd60f92b48690800000000000000
+      internalID: -7600753875009910184
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: herbe loup qui tourne_35
+      rect:
+        serializedVersion: 2
+        x: 642
+        y: 573
+        width: 23
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c8247a9edacdedac0800000000000000
+      internalID: -3828379993710837108
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: herbe loup qui tourne_36
+      rect:
+        serializedVersion: 2
+        x: 664
+        y: 583
+        width: 14
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2c231ee897c058800800000000000000
+      internalID: 613910640433640130
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: herbe loup qui tourne_37
+      rect:
+        serializedVersion: 2
+        x: 866
+        y: 580
+        width: 7
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eef17d63dc0010110800000000000000
+      internalID: 1225261455009849326
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: herbe loup qui tourne_38
+      rect:
+        serializedVersion: 2
+        x: 875
+        y: 592
+        width: 27
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 04d1961b0aef81260800000000000000
+      internalID: 7068679581282671936
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: herbe loup qui tourne_39
+      rect:
+        serializedVersion: 2
+        x: 888
+        y: 584
+        width: 29
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 33a1b1c2707e89680800000000000000
+      internalID: -8747988258176427469
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: herbe loup qui tourne_40
+      rect:
+        serializedVersion: 2
+        x: 628
+        y: 569
+        width: 28
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 94c1796ee66a3f8d0800000000000000
+      internalID: -2813722346931151799
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: herbe loup qui tourne_41
+      rect:
+        serializedVersion: 2
+        x: 752
+        y: 549
+        width: 16
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 546e9d52b15b15470800000000000000
+      internalID: 8381679509716985413
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: herbe loup qui tourne_42
+      rect:
+        serializedVersion: 2
+        x: 770
+        y: 549
+        width: 14
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 442283500fd69eda0800000000000000
+      internalID: -5915075757927292348
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: herbe loup qui tourne_43
+      rect:
+        serializedVersion: 2
+        x: 847
+        y: 581
+        width: 20
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 90dd6bee46bead6c0800000000000000
+      internalID: -4117720090542678775
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: herbe loup qui tourne_44
+      rect:
+        serializedVersion: 2
+        x: 1171
+        y: 546
+        width: 26
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5d6876cc5ee122d90800000000000000
+      internalID: -7124097688221022507
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: herbe loup qui tourne_45
+      rect:
+        serializedVersion: 2
+        x: 1203
+        y: 551
+        width: 10
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0d961c236d6fd4660800000000000000
+      internalID: 7371819564910340560
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: herbe loup qui tourne_46
+      rect:
+        serializedVersion: 2
+        x: 27
+        y: 527
+        width: 26
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 793d3d928e9c14230800000000000000
+      internalID: 3621397574353933207
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: herbe loup qui tourne_47
+      rect:
+        serializedVersion: 2
+        x: 435
+        y: 502
+        width: 12
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6a2f274dfa3d87d50800000000000000
+      internalID: 6735365994869617318
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: herbe loup qui tourne_48
+      rect:
+        serializedVersion: 2
+        x: 748
+        y: 546
+        width: 15
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0aa93bf12999b17e0800000000000000
+      internalID: -1793671173700871520
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: herbe loup qui tourne_49
+      rect:
+        serializedVersion: 2
+        x: 1194
+        y: 549
+        width: 8
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ef62c326de89c0860800000000000000
+      internalID: 7497535624987813630
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: herbe loup qui tourne_50
+      rect:
+        serializedVersion: 2
+        x: 76
+        y: 404
+        width: 60
+        height: 115
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 891b2d84850398d40800000000000000
+      internalID: 5587049968466833816
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: herbe loup qui tourne_51
+      rect:
+        serializedVersion: 2
+        x: 134
+        y: 410
+        width: 46
+        height: 107
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9f28cf095e4423570800000000000000
+      internalID: 8444888004043768569
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: herbe loup qui tourne_52
+      rect:
+        serializedVersion: 2
+        x: 395
+        y: 484
+        width: 31
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 869e7d51ea5f27280800000000000000
+      internalID: -9046898573394319000
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: herbe loup qui tourne_53
+      rect:
+        serializedVersion: 2
+        x: 405
+        y: 495
+        width: 24
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aa7ee2e0eb826f320800000000000000
+      internalID: 2591303432345151402
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: herbe loup qui tourne_54
+      rect:
+        serializedVersion: 2
+        x: 413
+        y: 495
+        width: 20
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 251d06b58205e7ed0800000000000000
+      internalID: -2414404215962021550
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: herbe loup qui tourne_55
+      rect:
+        serializedVersion: 2
+        x: 1777
+        y: 425
+        width: 25
+        height: 97
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2dd4934e32802d2c0800000000000000
+      internalID: -4408452134996455982
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: herbe loup qui tourne_56
+      rect:
+        serializedVersion: 2
+        x: 1802
+        y: 444
+        width: 26
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 65bb0fe982d50e460800000000000000
+      internalID: 7268912227622632278
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: herbe loup qui tourne_57
+      rect:
+        serializedVersion: 2
+        x: 2179
+        y: 422
+        width: 40
+        height: 84
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f8b9bfbe8c75d8610800000000000000
+      internalID: 1625051561014827919
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: herbe loup qui tourne_58
+      rect:
+        serializedVersion: 2
+        x: 2228
+        y: 433
+        width: 26
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1a0535b9a9acfa970800000000000000
+      internalID: 8768449764893348001
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: herbe loup qui tourne_59
+      rect:
+        serializedVersion: 2
+        x: 152
+        y: 411
+        width: 32
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ed1d7cc1c17354900800000000000000
+      internalID: 668000713615856094
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: herbe loup qui tourne_60
+      rect:
+        serializedVersion: 2
+        x: 333
+        y: 404
+        width: 13
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 91e077efba1de2080800000000000000
+      internalID: -9210193651287257575
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: herbe loup qui tourne_61
+      rect:
+        serializedVersion: 2
+        x: 347
+        y: 399
+        width: 8
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a003b4e36f51b87e0800000000000000
+      internalID: -1762290681834164214
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: herbe loup qui tourne_62
+      rect:
+        serializedVersion: 2
+        x: 477
+        y: 384
+        width: 65
+        height: 84
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: da108261b7e741270800000000000000
+      internalID: 8220334286975795629
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: herbe loup qui tourne_63
+      rect:
+        serializedVersion: 2
+        x: 1202
+        y: 407
+        width: 19
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cbcadcda309ff8a40800000000000000
+      internalID: 5372786674672446652
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: herbe loup qui tourne_64
+      rect:
+        serializedVersion: 2
+        x: 1221
+        y: 417
+        width: 9
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 928a61792f6727af0800000000000000
+      internalID: -400126632593545175
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: herbe loup qui tourne_65
+      rect:
+        serializedVersion: 2
+        x: 1231
+        y: 416
+        width: 24
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 861ad5f9557f8ae30800000000000000
+      internalID: 4515130573556916584
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: herbe loup qui tourne_66
+      rect:
+        serializedVersion: 2
+        x: 1243
+        y: 416
+        width: 34
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8c05732b83f75f3a0800000000000000
+      internalID: -6632254994748321592
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: herbe loup qui tourne_67
+      rect:
+        serializedVersion: 2
+        x: 1341
+        y: 421
+        width: 44
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4af2f982841315cf0800000000000000
+      internalID: -265376717049221212
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: herbe loup qui tourne_68
+      rect:
+        serializedVersion: 2
+        x: 1372
+        y: 426
+        width: 38
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1fe4942496fd2e030800000000000000
+      internalID: 3522623501733809905
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: herbe loup qui tourne_69
+      rect:
+        serializedVersion: 2
+        x: 1393
+        y: 424
+        width: 28
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7b9bf8b542ec83050800000000000000
+      internalID: 5780596777280321975
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: herbe loup qui tourne_70
+      rect:
+        serializedVersion: 2
+        x: 409
+        y: 297
+        width: 33
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e2d572ae0ec8bf350800000000000000
+      internalID: 6051585421931404590
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: herbe loup qui tourne_71
+      rect:
+        serializedVersion: 2
+        x: 438
+        y: 306
+        width: 11
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3b34fe372b8fb8fb0800000000000000
+      internalID: -4644345145369607245
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: herbe loup qui tourne_72
+      rect:
+        serializedVersion: 2
+        x: 452
+        y: 308
+        width: 11
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0af85dc89798e1f00800000000000000
+      internalID: 1089459315017093024
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: herbe loup qui tourne_73
+      rect:
+        serializedVersion: 2
+        x: 585
+        y: 307
+        width: 18
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 86050884f3bd9eb50800000000000000
+      internalID: 6623065791870816360
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: herbe loup qui tourne_74
+      rect:
+        serializedVersion: 2
+        x: 641
+        y: 250
+        width: 11
+        height: 78
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a7bc1e856830bc5f0800000000000000
+      internalID: -735490238593250438
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: herbe loup qui tourne_75
+      rect:
+        serializedVersion: 2
+        x: 656
+        y: 250
+        width: 26
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5e60a48bbd5a5e820800000000000000
+      internalID: 2946943894292137701
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: herbe loup qui tourne_76
+      rect:
+        serializedVersion: 2
+        x: 678
+        y: 261
+        width: 33
+        height: 78
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 81a3a1ec9005e6b60800000000000000
+      internalID: 7741212812539214360
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: herbe loup qui tourne_77
+      rect:
+        serializedVersion: 2
+        x: 701
+        y: 266
+        width: 24
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 487e63a0a615c8e20800000000000000
+      internalID: 3354145338363930500
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: herbe loup qui tourne_78
+      rect:
+        serializedVersion: 2
+        x: 851
+        y: 269
+        width: 8
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9a6507d4dcea89c80800000000000000
+      internalID: -8315704515148884311
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: herbe loup qui tourne_79
+      rect:
+        serializedVersion: 2
+        x: 863
+        y: 264
+        width: 45
+        height: 85
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cb96b125197018b90800000000000000
+      internalID: -7241498405105866308
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: herbe loup qui tourne_80
+      rect:
+        serializedVersion: 2
+        x: 2128
+        y: 283
+        width: 49
+        height: 87
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8abc7de908469d490800000000000000
+      internalID: -7721029582566470744
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: herbe loup qui tourne_81
+      rect:
+        serializedVersion: 2
+        x: 2151
+        y: 290
+        width: 63
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a2233339be939c200800000000000000
+      internalID: 200755342344401450
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: herbe loup qui tourne_82
+      rect:
+        serializedVersion: 2
+        x: 2173
+        y: 288
+        width: 61
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aba483282fed5be50800000000000000
+      internalID: 6824605943498033850
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: herbe loup qui tourne_83
+      rect:
+        serializedVersion: 2
+        x: 266
+        y: 230
+        width: 33
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c39258868ee2014c0800000000000000
+      internalID: -4318900466927457988
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: herbe loup qui tourne_84
+      rect:
+        serializedVersion: 2
+        x: 648
+        y: 248
+        width: 31
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3cff8ee934064f180800000000000000
+      internalID: -9082528704954302525
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: herbe loup qui tourne_85
+      rect:
+        serializedVersion: 2
+        x: 834
+        y: 271
+        width: 14
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b77566b6d898cbfc0800000000000000
+      internalID: -3477753571751602309
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: herbe loup qui tourne_86
+      rect:
+        serializedVersion: 2
+        x: 923
+        y: 214
+        width: 14
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 08aa7fed60591ed80800000000000000
+      internalID: -8223127587858699648
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: herbe loup qui tourne_87
+      rect:
+        serializedVersion: 2
+        x: 1163
+        y: 242
+        width: 12
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8a163ffa35b835020800000000000000
+      internalID: 2329358623831187880
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: herbe loup qui tourne_88
+      rect:
+        serializedVersion: 2
+        x: 1182
+        y: 242
+        width: 17
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 483f88782b84aa790800000000000000
+      internalID: -7518116696326343804
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: herbe loup qui tourne_89
+      rect:
+        serializedVersion: 2
+        x: 1192
+        y: 248
+        width: 17
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c438b00a28e003cd0800000000000000
+      internalID: -2580546632289647796
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: herbe loup qui tourne_90
+      rect:
+        serializedVersion: 2
+        x: 1207
+        y: 242
+        width: 38
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 53a66c737cd1c48e0800000000000000
+      internalID: -1707957417208813003
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: herbe loup qui tourne_91
+      rect:
+        serializedVersion: 2
+        x: 1822
+        y: 198
+        width: 37
+        height: 91
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6c8dd801b1cb62800800000000000000
+      internalID: 587363625846298822
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: herbe loup qui tourne_92
+      rect:
+        serializedVersion: 2
+        x: 2319
+        y: 194
+        width: 62
+        height: 111
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d5be5b63d8617e8d0800000000000000
+      internalID: -2817258246132864163
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: herbe loup qui tourne_93
+      rect:
+        serializedVersion: 2
+        x: 258
+        y: 228
+        width: 23
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 31b9b7592415ccfd0800000000000000
+      internalID: -2320390361585050861
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: herbe loup qui tourne_94
+      rect:
+        serializedVersion: 2
+        x: 301
+        y: 234
+        width: 18
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c9ab9040b9d380c30800000000000000
+      internalID: 4325775178086333084
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: herbe loup qui tourne_95
+      rect:
+        serializedVersion: 2
+        x: 891
+        y: 212
+        width: 25
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 23087d4acfe76d570800000000000000
+      internalID: 8491113771016093746
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: herbe loup qui tourne_96
+      rect:
+        serializedVersion: 2
+        x: 902
+        y: 213
+        width: 19
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ee4e72590c25fac30800000000000000
+      internalID: 4372804750289659118
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: herbe loup qui tourne_97
+      rect:
+        serializedVersion: 2
+        x: 1795
+        y: 216
+        width: 32
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2c0c6b9121be80700800000000000000
+      internalID: 506913421052526786
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: herbe loup qui tourne_98
+      rect:
+        serializedVersion: 2
+        x: 1848
+        y: 201
+        width: 37
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9e03dad8a8b8cd970800000000000000
+      internalID: 8781046800664309993
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: herbe loup qui tourne_99
+      rect:
+        serializedVersion: 2
+        x: 330
+        y: 100
+        width: 26
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 36e21217ed8d22670800000000000000
+      internalID: 8512604695575998051
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: herbe loup qui tourne_100
+      rect:
+        serializedVersion: 2
+        x: 355
+        y: 108
+        width: 18
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f90dd1724b3d84d50800000000000000
+      internalID: 6721855214554304671
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: herbe loup qui tourne_101
+      rect:
+        serializedVersion: 2
+        x: 1038
+        y: 152
+        width: 24
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 324023876f94f28e0800000000000000
+      internalID: -1716071610077543389
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: herbe loup qui tourne_102
+      rect:
+        serializedVersion: 2
+        x: 1053
+        y: 137
+        width: 33
+        height: 77
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8ccc521f4ab3ed600800000000000000
+      internalID: 494898588663794888
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: herbe loup qui tourne_103
+      rect:
+        serializedVersion: 2
+        x: 1256
+        y: 70
+        width: 25
+        height: 94
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7500c30286e4924f0800000000000000
+      internalID: -853064445285629865
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: herbe loup qui tourne_104
+      rect:
+        serializedVersion: 2
+        x: 1266
+        y: 84
+        width: 42
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d5650dd49473d1130800000000000000
+      internalID: 3539045670160717405
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: herbe loup qui tourne_105
+      rect:
+        serializedVersion: 2
+        x: 1409
+        y: 140
+        width: 70
+        height: 91
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9279300711d146660800000000000000
+      internalID: 7378054050270648105
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: herbe loup qui tourne_106
+      rect:
+        serializedVersion: 2
+        x: 1691
+        y: 49
+        width: 70
+        height: 127
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 05f79de39d6854a50800000000000000
+      internalID: 6504753504427016016
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: herbe loup qui tourne_107
+      rect:
+        serializedVersion: 2
+        x: 2171
+        y: 126
+        width: 28
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f56c5106e61c5e630800000000000000
+      internalID: 3955780527517451871
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: herbe loup qui tourne_108
+      rect:
+        serializedVersion: 2
+        x: 2204
+        y: 124
+        width: 38
+        height: 107
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 16b50cb00865c0ae0800000000000000
+      internalID: -1581794261160928415
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: herbe loup qui tourne_109
+      rect:
+        serializedVersion: 2
+        x: 2223
+        y: 64
+        width: 101
+        height: 149
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c6b8b7f483b7f61d0800000000000000
+      internalID: -3355327715585848468
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: herbe loup qui tourne_110
+      rect:
+        serializedVersion: 2
+        x: 372
+        y: 103
+        width: 34
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: df19ec9d820f5a080800000000000000
+      internalID: -9176664607453965827
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: herbe loup qui tourne_111
+      rect:
+        serializedVersion: 2
+        x: 1231
+        y: 83
+        width: 26
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cbe16d41049545160800000000000000
+      internalID: 7013328651485060796
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: herbe loup qui tourne_112
+      rect:
+        serializedVersion: 2
+        x: 1970
+        y: 46
+        width: 45
+        height: 78
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 50c3f7eeb0dcef560800000000000000
+      internalID: 7349537093044878341
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: herbe loup qui tourne_113
+      rect:
+        serializedVersion: 2
+        x: 2007
+        y: 58
+        width: 62
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 325fd10f7cb77a5d0800000000000000
+      internalID: -3051334123863018205
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: herbe loup qui tourne_114
+      rect:
+        serializedVersion: 2
+        x: 2008
+        y: 81
+        width: 30
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bab34f97ce16293f0800000000000000
+      internalID: -895545707607082069
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: herbe loup qui tourne_115
+      rect:
+        serializedVersion: 2
+        x: 1000
+        y: 25
+        width: 21
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1bb2fb5732442f830800000000000000
+      internalID: 4103417129577950129
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: herbe loup qui tourne_116
+      rect:
+        serializedVersion: 2
+        x: 1028
+        y: 27
+        width: 10
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7f87a452e655f2c10800000000000000
+      internalID: 2030935888527784183
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: herbe loup qui tourne_117
+      rect:
+        serializedVersion: 2
+        x: 1040
+        y: 30
+        width: 13
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2d31b503261a76880800000000000000
+      internalID: -8617741918860012590
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: herbe loup qui tourne_118
+      rect:
+        serializedVersion: 2
+        x: 1055
+        y: 34
+        width: 19
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bbfb242eaa1e6e090800000000000000
+      internalID: -8005463163547762757
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      herbe loup qui tourne_0: -5813943689124347277
+      herbe loup qui tourne_1: 6982212615611162469
+      herbe loup qui tourne_10: -4237873186559621436
+      herbe loup qui tourne_100: 6721855214554304671
+      herbe loup qui tourne_101: -1716071610077543389
+      herbe loup qui tourne_102: 494898588663794888
+      herbe loup qui tourne_103: -853064445285629865
+      herbe loup qui tourne_104: 3539045670160717405
+      herbe loup qui tourne_105: 7378054050270648105
+      herbe loup qui tourne_106: 6504753504427016016
+      herbe loup qui tourne_107: 3955780527517451871
+      herbe loup qui tourne_108: -1581794261160928415
+      herbe loup qui tourne_109: -3355327715585848468
+      herbe loup qui tourne_11: 1154401186935788775
+      herbe loup qui tourne_110: -9176664607453965827
+      herbe loup qui tourne_111: 7013328651485060796
+      herbe loup qui tourne_112: 7349537093044878341
+      herbe loup qui tourne_113: -3051334123863018205
+      herbe loup qui tourne_114: -895545707607082069
+      herbe loup qui tourne_115: 4103417129577950129
+      herbe loup qui tourne_116: 2030935888527784183
+      herbe loup qui tourne_117: -8617741918860012590
+      herbe loup qui tourne_118: -8005463163547762757
+      herbe loup qui tourne_12: 2050485726200819478
+      herbe loup qui tourne_13: -293352611712937653
+      herbe loup qui tourne_14: -8876577876825510521
+      herbe loup qui tourne_15: 8759357564584050546
+      herbe loup qui tourne_16: -3213119459384106088
+      herbe loup qui tourne_17: 516065683984600243
+      herbe loup qui tourne_18: 7735849456636323771
+      herbe loup qui tourne_19: -346627463101714343
+      herbe loup qui tourne_2: -8662274122284907259
+      herbe loup qui tourne_20: -5088232857040313349
+      herbe loup qui tourne_21: 8330840756822204373
+      herbe loup qui tourne_22: 3368730547589867294
+      herbe loup qui tourne_23: 6575063611297779716
+      herbe loup qui tourne_24: -7512688742855782314
+      herbe loup qui tourne_25: -2647189277186815900
+      herbe loup qui tourne_26: 302912919310115728
+      herbe loup qui tourne_27: -4305606013402405870
+      herbe loup qui tourne_28: 2209810724656144192
+      herbe loup qui tourne_29: -9161936926677366338
+      herbe loup qui tourne_3: 2056664316625844234
+      herbe loup qui tourne_30: 6727388500265898201
+      herbe loup qui tourne_31: -4800673017836567230
+      herbe loup qui tourne_32: -3138946756264840681
+      herbe loup qui tourne_33: 9084319108866979481
+      herbe loup qui tourne_34: -7600753875009910184
+      herbe loup qui tourne_35: -3828379993710837108
+      herbe loup qui tourne_36: 613910640433640130
+      herbe loup qui tourne_37: 1225261455009849326
+      herbe loup qui tourne_38: 7068679581282671936
+      herbe loup qui tourne_39: -8747988258176427469
+      herbe loup qui tourne_4: 7976748804263092750
+      herbe loup qui tourne_40: -2813722346931151799
+      herbe loup qui tourne_41: 8381679509716985413
+      herbe loup qui tourne_42: -5915075757927292348
+      herbe loup qui tourne_43: -4117720090542678775
+      herbe loup qui tourne_44: -7124097688221022507
+      herbe loup qui tourne_45: 7371819564910340560
+      herbe loup qui tourne_46: 3621397574353933207
+      herbe loup qui tourne_47: 6735365994869617318
+      herbe loup qui tourne_48: -1793671173700871520
+      herbe loup qui tourne_49: 7497535624987813630
+      herbe loup qui tourne_5: 7827994631714960145
+      herbe loup qui tourne_50: 5587049968466833816
+      herbe loup qui tourne_51: 8444888004043768569
+      herbe loup qui tourne_52: -9046898573394319000
+      herbe loup qui tourne_53: 2591303432345151402
+      herbe loup qui tourne_54: -2414404215962021550
+      herbe loup qui tourne_55: -4408452134996455982
+      herbe loup qui tourne_56: 7268912227622632278
+      herbe loup qui tourne_57: 1625051561014827919
+      herbe loup qui tourne_58: 8768449764893348001
+      herbe loup qui tourne_59: 668000713615856094
+      herbe loup qui tourne_6: 5280642887141252753
+      herbe loup qui tourne_60: -9210193651287257575
+      herbe loup qui tourne_61: -1762290681834164214
+      herbe loup qui tourne_62: 8220334286975795629
+      herbe loup qui tourne_63: 5372786674672446652
+      herbe loup qui tourne_64: -400126632593545175
+      herbe loup qui tourne_65: 4515130573556916584
+      herbe loup qui tourne_66: -6632254994748321592
+      herbe loup qui tourne_67: -265376717049221212
+      herbe loup qui tourne_68: 3522623501733809905
+      herbe loup qui tourne_69: 5780596777280321975
+      herbe loup qui tourne_7: -2235926404945221659
+      herbe loup qui tourne_70: 6051585421931404590
+      herbe loup qui tourne_71: -4644345145369607245
+      herbe loup qui tourne_72: 1089459315017093024
+      herbe loup qui tourne_73: 6623065791870816360
+      herbe loup qui tourne_74: -735490238593250438
+      herbe loup qui tourne_75: 2946943894292137701
+      herbe loup qui tourne_76: 7741212812539214360
+      herbe loup qui tourne_77: 3354145338363930500
+      herbe loup qui tourne_78: -8315704515148884311
+      herbe loup qui tourne_79: -7241498405105866308
+      herbe loup qui tourne_8: 6803540330393387264
+      herbe loup qui tourne_80: -7721029582566470744
+      herbe loup qui tourne_81: 200755342344401450
+      herbe loup qui tourne_82: 6824605943498033850
+      herbe loup qui tourne_83: -4318900466927457988
+      herbe loup qui tourne_84: -9082528704954302525
+      herbe loup qui tourne_85: -3477753571751602309
+      herbe loup qui tourne_86: -8223127587858699648
+      herbe loup qui tourne_87: 2329358623831187880
+      herbe loup qui tourne_88: -7518116696326343804
+      herbe loup qui tourne_89: -2580546632289647796
+      herbe loup qui tourne_9: -2683952524209678728
+      herbe loup qui tourne_90: -1707957417208813003
+      herbe loup qui tourne_91: 587363625846298822
+      herbe loup qui tourne_92: -2817258246132864163
+      herbe loup qui tourne_93: -2320390361585050861
+      herbe loup qui tourne_94: 4325775178086333084
+      herbe loup qui tourne_95: 8491113771016093746
+      herbe loup qui tourne_96: 4372804750289659118
+      herbe loup qui tourne_97: 506913421052526786
+      herbe loup qui tourne_98: 8781046800664309993
+      herbe loup qui tourne_99: 8512604695575998051
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

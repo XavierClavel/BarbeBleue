@@ -1,0 +1,4316 @@
+fileFormatVersion: 2
+guid: 8b383e4d3f9ffe64ba35f9aa05019d77
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -3944455633597185659
+    second: herbe et coquelicot Prmier plan colline aux coquelicots_0
+  - first:
+      213: 8272025123512256470
+    second: herbe et coquelicot Prmier plan colline aux coquelicots_1
+  - first:
+      213: -168361754268719593
+    second: herbe et coquelicot Prmier plan colline aux coquelicots_2
+  - first:
+      213: -7414321576501583831
+    second: herbe et coquelicot Prmier plan colline aux coquelicots_3
+  - first:
+      213: 7707550170992440390
+    second: herbe et coquelicot Prmier plan colline aux coquelicots_4
+  - first:
+      213: -3228256729710541789
+    second: herbe et coquelicot Prmier plan colline aux coquelicots_5
+  - first:
+      213: -1050598091545249971
+    second: herbe et coquelicot Prmier plan colline aux coquelicots_6
+  - first:
+      213: -5790389618973394384
+    second: herbe et coquelicot Prmier plan colline aux coquelicots_7
+  - first:
+      213: 4240361921204335151
+    second: herbe et coquelicot Prmier plan colline aux coquelicots_8
+  - first:
+      213: 6699891616417893291
+    second: herbe et coquelicot Prmier plan colline aux coquelicots_9
+  - first:
+      213: 5999768692491952373
+    second: herbe et coquelicot Prmier plan colline aux coquelicots_10
+  - first:
+      213: 7658349593678057671
+    second: herbe et coquelicot Prmier plan colline aux coquelicots_11
+  - first:
+      213: 8543898373264294106
+    second: herbe et coquelicot Prmier plan colline aux coquelicots_12
+  - first:
+      213: 214337138230597471
+    second: herbe et coquelicot Prmier plan colline aux coquelicots_13
+  - first:
+      213: 5165214237583730041
+    second: herbe et coquelicot Prmier plan colline aux coquelicots_14
+  - first:
+      213: 5919163319428321293
+    second: herbe et coquelicot Prmier plan colline aux coquelicots_15
+  - first:
+      213: 381063331612760022
+    second: herbe et coquelicot Prmier plan colline aux coquelicots_16
+  - first:
+      213: -5342360168478161928
+    second: herbe et coquelicot Prmier plan colline aux coquelicots_17
+  - first:
+      213: 7932185784213508341
+    second: herbe et coquelicot Prmier plan colline aux coquelicots_18
+  - first:
+      213: -6118760615190831026
+    second: herbe et coquelicot Prmier plan colline aux coquelicots_19
+  - first:
+      213: 6843362776842935958
+    second: herbe et coquelicot Prmier plan colline aux coquelicots_20
+  - first:
+      213: -1351296630225415262
+    second: herbe et coquelicot Prmier plan colline aux coquelicots_21
+  - first:
+      213: 7608257883577968312
+    second: herbe et coquelicot Prmier plan colline aux coquelicots_22
+  - first:
+      213: 2484808173513898897
+    second: herbe et coquelicot Prmier plan colline aux coquelicots_23
+  - first:
+      213: 3271075542927196179
+    second: herbe et coquelicot Prmier plan colline aux coquelicots_24
+  - first:
+      213: -4252811695031859461
+    second: herbe et coquelicot Prmier plan colline aux coquelicots_25
+  - first:
+      213: -6813369708204394845
+    second: herbe et coquelicot Prmier plan colline aux coquelicots_26
+  - first:
+      213: 2532077007944579727
+    second: herbe et coquelicot Prmier plan colline aux coquelicots_27
+  - first:
+      213: 1880868670420721393
+    second: herbe et coquelicot Prmier plan colline aux coquelicots_28
+  - first:
+      213: 8595934839380189347
+    second: herbe et coquelicot Prmier plan colline aux coquelicots_29
+  - first:
+      213: 8919799435754669889
+    second: herbe et coquelicot Prmier plan colline aux coquelicots_30
+  - first:
+      213: 4746880121509846189
+    second: herbe et coquelicot Prmier plan colline aux coquelicots_31
+  - first:
+      213: 4207093410389336851
+    second: herbe et coquelicot Prmier plan colline aux coquelicots_32
+  - first:
+      213: -2782105598067842893
+    second: herbe et coquelicot Prmier plan colline aux coquelicots_33
+  - first:
+      213: -8840942759530311240
+    second: herbe et coquelicot Prmier plan colline aux coquelicots_34
+  - first:
+      213: -8031305153567048627
+    second: herbe et coquelicot Prmier plan colline aux coquelicots_35
+  - first:
+      213: -8770861604114564619
+    second: herbe et coquelicot Prmier plan colline aux coquelicots_36
+  - first:
+      213: 2650570412526115159
+    second: herbe et coquelicot Prmier plan colline aux coquelicots_37
+  - first:
+      213: -2622806488124573473
+    second: herbe et coquelicot Prmier plan colline aux coquelicots_38
+  - first:
+      213: 1962058644473386369
+    second: herbe et coquelicot Prmier plan colline aux coquelicots_39
+  - first:
+      213: -3635143030144268738
+    second: herbe et coquelicot Prmier plan colline aux coquelicots_40
+  - first:
+      213: -5238296560121917336
+    second: herbe et coquelicot Prmier plan colline aux coquelicots_41
+  - first:
+      213: 8195466039511943588
+    second: herbe et coquelicot Prmier plan colline aux coquelicots_42
+  - first:
+      213: -3714588077022215675
+    second: herbe et coquelicot Prmier plan colline aux coquelicots_43
+  - first:
+      213: 5329378584743232704
+    second: herbe et coquelicot Prmier plan colline aux coquelicots_44
+  - first:
+      213: -1559265245958314970
+    second: herbe et coquelicot Prmier plan colline aux coquelicots_45
+  - first:
+      213: -7954443455585086468
+    second: herbe et coquelicot Prmier plan colline aux coquelicots_46
+  - first:
+      213: -1055590033026202043
+    second: herbe et coquelicot Prmier plan colline aux coquelicots_47
+  - first:
+      213: 1220613510563918624
+    second: herbe et coquelicot Prmier plan colline aux coquelicots_48
+  - first:
+      213: -7812963666894280522
+    second: herbe et coquelicot Prmier plan colline aux coquelicots_49
+  - first:
+      213: -8359420155498202367
+    second: herbe et coquelicot Prmier plan colline aux coquelicots_50
+  - first:
+      213: -2340660727404541298
+    second: herbe et coquelicot Prmier plan colline aux coquelicots_51
+  - first:
+      213: 4982977677727911772
+    second: herbe et coquelicot Prmier plan colline aux coquelicots_52
+  - first:
+      213: 5219317632303249524
+    second: herbe et coquelicot Prmier plan colline aux coquelicots_53
+  - first:
+      213: -54592566716448780
+    second: herbe et coquelicot Prmier plan colline aux coquelicots_54
+  - first:
+      213: 1652939101484251850
+    second: herbe et coquelicot Prmier plan colline aux coquelicots_55
+  - first:
+      213: 5143327819462407867
+    second: herbe et coquelicot Prmier plan colline aux coquelicots_56
+  - first:
+      213: -4823529255513051375
+    second: herbe et coquelicot Prmier plan colline aux coquelicots_57
+  - first:
+      213: -6457141556836132169
+    second: herbe et coquelicot Prmier plan colline aux coquelicots_58
+  - first:
+      213: 2705851763598663048
+    second: herbe et coquelicot Prmier plan colline aux coquelicots_59
+  - first:
+      213: 8269013692103521304
+    second: herbe et coquelicot Prmier plan colline aux coquelicots_60
+  - first:
+      213: 5736369593691453270
+    second: herbe et coquelicot Prmier plan colline aux coquelicots_61
+  - first:
+      213: -9132225202224257341
+    second: herbe et coquelicot Prmier plan colline aux coquelicots_62
+  - first:
+      213: 747360456476763156
+    second: herbe et coquelicot Prmier plan colline aux coquelicots_63
+  - first:
+      213: -3156156746160421771
+    second: herbe et coquelicot Prmier plan colline aux coquelicots_64
+  - first:
+      213: 3683393925730358757
+    second: herbe et coquelicot Prmier plan colline aux coquelicots_65
+  - first:
+      213: 2914730933523960983
+    second: herbe et coquelicot Prmier plan colline aux coquelicots_66
+  - first:
+      213: -1175341913243448936
+    second: herbe et coquelicot Prmier plan colline aux coquelicots_67
+  - first:
+      213: 2817875314437757951
+    second: herbe et coquelicot Prmier plan colline aux coquelicots_68
+  - first:
+      213: -7213285745647453771
+    second: herbe et coquelicot Prmier plan colline aux coquelicots_69
+  - first:
+      213: -656798502487322651
+    second: herbe et coquelicot Prmier plan colline aux coquelicots_70
+  - first:
+      213: 3660460212553314395
+    second: herbe et coquelicot Prmier plan colline aux coquelicots_71
+  - first:
+      213: 7244729732689172607
+    second: herbe et coquelicot Prmier plan colline aux coquelicots_72
+  - first:
+      213: 58021648424463347
+    second: herbe et coquelicot Prmier plan colline aux coquelicots_73
+  - first:
+      213: 6963068978824915415
+    second: herbe et coquelicot Prmier plan colline aux coquelicots_74
+  - first:
+      213: -4397036200117295589
+    second: herbe et coquelicot Prmier plan colline aux coquelicots_75
+  - first:
+      213: 8017482439244318863
+    second: herbe et coquelicot Prmier plan colline aux coquelicots_76
+  - first:
+      213: -5443973858262277216
+    second: herbe et coquelicot Prmier plan colline aux coquelicots_77
+  - first:
+      213: -5372019608250697957
+    second: herbe et coquelicot Prmier plan colline aux coquelicots_78
+  - first:
+      213: 1891521035335371846
+    second: herbe et coquelicot Prmier plan colline aux coquelicots_79
+  - first:
+      213: -8614322923813972018
+    second: herbe et coquelicot Prmier plan colline aux coquelicots_80
+  - first:
+      213: 3587954609882516925
+    second: herbe et coquelicot Prmier plan colline aux coquelicots_81
+  - first:
+      213: 8922152109393872509
+    second: herbe et coquelicot Prmier plan colline aux coquelicots_82
+  - first:
+      213: -3576966842038440480
+    second: herbe et coquelicot Prmier plan colline aux coquelicots_83
+  - first:
+      213: 1313877827657197727
+    second: herbe et coquelicot Prmier plan colline aux coquelicots_84
+  - first:
+      213: -345933911698505728
+    second: herbe et coquelicot Prmier plan colline aux coquelicots_85
+  - first:
+      213: 6324017555501034778
+    second: herbe et coquelicot Prmier plan colline aux coquelicots_86
+  - first:
+      213: -3180668868492023829
+    second: herbe et coquelicot Prmier plan colline aux coquelicots_87
+  - first:
+      213: 4585296880133513720
+    second: herbe et coquelicot Prmier plan colline aux coquelicots_88
+  - first:
+      213: -3415737087174457765
+    second: herbe et coquelicot Prmier plan colline aux coquelicots_89
+  - first:
+      213: -7971945686222024652
+    second: herbe et coquelicot Prmier plan colline aux coquelicots_90
+  - first:
+      213: -1079105751492940188
+    second: herbe et coquelicot Prmier plan colline aux coquelicots_91
+  - first:
+      213: 1681774741376412122
+    second: herbe et coquelicot Prmier plan colline aux coquelicots_92
+  - first:
+      213: 6176111436654141094
+    second: herbe et coquelicot Prmier plan colline aux coquelicots_93
+  - first:
+      213: 4705681067813969365
+    second: herbe et coquelicot Prmier plan colline aux coquelicots_94
+  - first:
+      213: -8862365226409524667
+    second: herbe et coquelicot Prmier plan colline aux coquelicots_95
+  - first:
+      213: 3256021236310975531
+    second: herbe et coquelicot Prmier plan colline aux coquelicots_96
+  - first:
+      213: 148404203292612863
+    second: herbe et coquelicot Prmier plan colline aux coquelicots_97
+  - first:
+      213: 3848072322885458917
+    second: herbe et coquelicot Prmier plan colline aux coquelicots_98
+  - first:
+      213: 6145522381001969036
+    second: herbe et coquelicot Prmier plan colline aux coquelicots_99
+  - first:
+      213: -5088262942209134546
+    second: herbe et coquelicot Prmier plan colline aux coquelicots_100
+  - first:
+      213: -6057948664996351802
+    second: herbe et coquelicot Prmier plan colline aux coquelicots_101
+  - first:
+      213: -3388427464836222911
+    second: herbe et coquelicot Prmier plan colline aux coquelicots_102
+  - first:
+      213: -8405210583262430267
+    second: herbe et coquelicot Prmier plan colline aux coquelicots_103
+  - first:
+      213: -6542162591279481464
+    second: herbe et coquelicot Prmier plan colline aux coquelicots_104
+  - first:
+      213: -7783602878706942517
+    second: herbe et coquelicot Prmier plan colline aux coquelicots_105
+  - first:
+      213: 8168402678227738488
+    second: herbe et coquelicot Prmier plan colline aux coquelicots_106
+  - first:
+      213: 743577016328828520
+    second: herbe et coquelicot Prmier plan colline aux coquelicots_107
+  - first:
+      213: -8145647680596356736
+    second: herbe et coquelicot Prmier plan colline aux coquelicots_108
+  - first:
+      213: 1942325072610654190
+    second: herbe et coquelicot Prmier plan colline aux coquelicots_109
+  - first:
+      213: 1230724709059186773
+    second: herbe et coquelicot Prmier plan colline aux coquelicots_110
+  - first:
+      213: 8217139883787715815
+    second: herbe et coquelicot Prmier plan colline aux coquelicots_111
+  - first:
+      213: -4882257104305932909
+    second: herbe et coquelicot Prmier plan colline aux coquelicots_112
+  - first:
+      213: 487944202482274161
+    second: herbe et coquelicot Prmier plan colline aux coquelicots_113
+  - first:
+      213: 6326115893298414580
+    second: herbe et coquelicot Prmier plan colline aux coquelicots_114
+  - first:
+      213: -1848533286362627414
+    second: herbe et coquelicot Prmier plan colline aux coquelicots_115
+  - first:
+      213: -7986933698159624753
+    second: herbe et coquelicot Prmier plan colline aux coquelicots_116
+  - first:
+      213: 2965104936613751862
+    second: herbe et coquelicot Prmier plan colline aux coquelicots_117
+  - first:
+      213: 8234127578027959225
+    second: herbe et coquelicot Prmier plan colline aux coquelicots_118
+  - first:
+      213: -7695270076265430779
+    second: herbe et coquelicot Prmier plan colline aux coquelicots_119
+  - first:
+      213: 8791329198534208480
+    second: herbe et coquelicot Prmier plan colline aux coquelicots_120
+  - first:
+      213: 7157293260498339071
+    second: herbe et coquelicot Prmier plan colline aux coquelicots_121
+  - first:
+      213: -2054413457185810925
+    second: herbe et coquelicot Prmier plan colline aux coquelicots_122
+  - first:
+      213: -5540742997014531219
+    second: herbe et coquelicot Prmier plan colline aux coquelicots_123
+  - first:
+      213: 8124375066815627314
+    second: herbe et coquelicot Prmier plan colline aux coquelicots_124
+  - first:
+      213: 2000182754828291548
+    second: herbe et coquelicot Prmier plan colline aux coquelicots_125
+  - first:
+      213: 1494894963575352704
+    second: herbe et coquelicot Prmier plan colline aux coquelicots_126
+  - first:
+      213: 9088706136459979949
+    second: herbe et coquelicot Prmier plan colline aux coquelicots_127
+  - first:
+      213: -229346912318746158
+    second: herbe et coquelicot Prmier plan colline aux coquelicots_128
+  - first:
+      213: -387031810667954001
+    second: herbe et coquelicot Prmier plan colline aux coquelicots_129
+  - first:
+      213: 5850302533747884536
+    second: herbe et coquelicot Prmier plan colline aux coquelicots_130
+  - first:
+      213: -2048929819548266296
+    second: herbe et coquelicot Prmier plan colline aux coquelicots_131
+  - first:
+      213: 6184349364665072558
+    second: herbe et coquelicot Prmier plan colline aux coquelicots_132
+  - first:
+      213: 9016198466723613799
+    second: herbe et coquelicot Prmier plan colline aux coquelicots_133
+  - first:
+      213: -75698051665169443
+    second: herbe et coquelicot Prmier plan colline aux coquelicots_134
+  - first:
+      213: -8951025426213388751
+    second: herbe et coquelicot Prmier plan colline aux coquelicots_135
+  - first:
+      213: -132361965151587041
+    second: herbe et coquelicot Prmier plan colline aux coquelicots_136
+  - first:
+      213: 7537464992674600522
+    second: herbe et coquelicot Prmier plan colline aux coquelicots_137
+  - first:
+      213: -5755379735603500435
+    second: herbe et coquelicot Prmier plan colline aux coquelicots_138
+  - first:
+      213: 3901804538230534420
+    second: herbe et coquelicot Prmier plan colline aux coquelicots_139
+  - first:
+      213: 8800727088694499030
+    second: herbe et coquelicot Prmier plan colline aux coquelicots_140
+  - first:
+      213: -1056919453068947917
+    second: herbe et coquelicot Prmier plan colline aux coquelicots_141
+  - first:
+      213: 8146175035190541010
+    second: herbe et coquelicot Prmier plan colline aux coquelicots_142
+  - first:
+      213: -1731205951686338458
+    second: herbe et coquelicot Prmier plan colline aux coquelicots_143
+  - first:
+      213: 4888261786040630790
+    second: herbe et coquelicot Prmier plan colline aux coquelicots_144
+  - first:
+      213: 5515582113008462833
+    second: herbe et coquelicot Prmier plan colline aux coquelicots_145
+  - first:
+      213: -3676185047488498082
+    second: herbe et coquelicot Prmier plan colline aux coquelicots_146
+  - first:
+      213: -3761198659747150689
+    second: herbe et coquelicot Prmier plan colline aux coquelicots_147
+  - first:
+      213: 9017807821521245582
+    second: herbe et coquelicot Prmier plan colline aux coquelicots_148
+  - first:
+      213: 3096462482697439481
+    second: herbe et coquelicot Prmier plan colline aux coquelicots_149
+  - first:
+      213: -8084032062573047988
+    second: herbe et coquelicot Prmier plan colline aux coquelicots_150
+  - first:
+      213: 518875784622143146
+    second: herbe et coquelicot Prmier plan colline aux coquelicots_151
+  - first:
+      213: 2385425393782947994
+    second: herbe et coquelicot Prmier plan colline aux coquelicots_152
+  - first:
+      213: 3088697223615996940
+    second: herbe et coquelicot Prmier plan colline aux coquelicots_153
+  - first:
+      213: 2753495354796181826
+    second: herbe et coquelicot Prmier plan colline aux coquelicots_154
+  - first:
+      213: -189737218255163947
+    second: herbe et coquelicot Prmier plan colline aux coquelicots_155
+  - first:
+      213: -1647497783268469135
+    second: herbe et coquelicot Prmier plan colline aux coquelicots_156
+  - first:
+      213: 3852676189215478729
+    second: herbe et coquelicot Prmier plan colline aux coquelicots_157
+  - first:
+      213: 758503572478663215
+    second: herbe et coquelicot Prmier plan colline aux coquelicots_158
+  - first:
+      213: 5645544796930117286
+    second: herbe et coquelicot Prmier plan colline aux coquelicots_159
+  - first:
+      213: -2327343717149724414
+    second: herbe et coquelicot Prmier plan colline aux coquelicots_160
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 1
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: herbe et coquelicot Prmier plan colline aux coquelicots_0
+      rect:
+        serializedVersion: 2
+        x: 2068
+        y: 422
+        width: 32
+        height: 137
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 581c627ff7a7249c0800000000000000
+      internalID: -3944455633597185659
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: herbe et coquelicot Prmier plan colline aux coquelicots_1
+      rect:
+        serializedVersion: 2
+        x: 2079
+        y: 418
+        width: 34
+        height: 136
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6d70e04d5032cc270800000000000000
+      internalID: 8272025123512256470
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: herbe et coquelicot Prmier plan colline aux coquelicots_2
+      rect:
+        serializedVersion: 2
+        x: 2094
+        y: 422
+        width: 26
+        height: 87
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7162d0360ebd9adf0800000000000000
+      internalID: -168361754268719593
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: herbe et coquelicot Prmier plan colline aux coquelicots_3
+      rect:
+        serializedVersion: 2
+        x: 2243
+        y: 438
+        width: 29
+        height: 91
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 920eb161fc90b1990800000000000000
+      internalID: -7414321576501583831
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: herbe et coquelicot Prmier plan colline aux coquelicots_4
+      rect:
+        serializedVersion: 2
+        x: 2282
+        y: 432
+        width: 20
+        height: 116
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 644718e4b08b6fa60800000000000000
+      internalID: 7707550170992440390
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: herbe et coquelicot Prmier plan colline aux coquelicots_5
+      rect:
+        serializedVersion: 2
+        x: 2299
+        y: 431
+        width: 41
+        height: 129
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 324c6ddbb9de233d0800000000000000
+      internalID: -3228256729710541789
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: herbe et coquelicot Prmier plan colline aux coquelicots_6
+      rect:
+        serializedVersion: 2
+        x: 2321
+        y: 433
+        width: 45
+        height: 124
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d47fdbf1a968b61f0800000000000000
+      internalID: -1050598091545249971
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: herbe et coquelicot Prmier plan colline aux coquelicots_7
+      rect:
+        serializedVersion: 2
+        x: 2401
+        y: 471
+        width: 30
+        height: 111
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 03a3bf1025764afa0800000000000000
+      internalID: -5790389618973394384
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: herbe et coquelicot Prmier plan colline aux coquelicots_8
+      rect:
+        serializedVersion: 2
+        x: 2421
+        y: 502
+        width: 19
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f223a7073bac8da30800000000000000
+      internalID: 4240361921204335151
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: herbe et coquelicot Prmier plan colline aux coquelicots_9
+      rect:
+        serializedVersion: 2
+        x: 2443
+        y: 490
+        width: 22
+        height: 92
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: babc4367debcafc50800000000000000
+      internalID: 6699891616417893291
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: herbe et coquelicot Prmier plan colline aux coquelicots_10
+      rect:
+        serializedVersion: 2
+        x: 2464
+        y: 492
+        width: 36
+        height: 97
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5f02e7276d5734350800000000000000
+      internalID: 5999768692491952373
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: herbe et coquelicot Prmier plan colline aux coquelicots_11
+      rect:
+        serializedVersion: 2
+        x: 2826
+        y: 430
+        width: 84
+        height: 132
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7c010f8316ce74a60800000000000000
+      internalID: 7658349593678057671
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: herbe et coquelicot Prmier plan colline aux coquelicots_12
+      rect:
+        serializedVersion: 2
+        x: 2826
+        y: 416
+        width: 36
+        height: 91
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ad0c47f8d46029670800000000000000
+      internalID: 8543898373264294106
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: herbe et coquelicot Prmier plan colline aux coquelicots_13
+      rect:
+        serializedVersion: 2
+        x: 2908
+        y: 456
+        width: 28
+        height: 78
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f57986add7a79f200800000000000000
+      internalID: 214337138230597471
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: herbe et coquelicot Prmier plan colline aux coquelicots_14
+      rect:
+        serializedVersion: 2
+        x: 1790
+        y: 397
+        width: 40
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 975e7fb8bf68ea740800000000000000
+      internalID: 5165214237583730041
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: herbe et coquelicot Prmier plan colline aux coquelicots_15
+      rect:
+        serializedVersion: 2
+        x: 1832
+        y: 413
+        width: 21
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d001c0e8da7152250800000000000000
+      internalID: 5919163319428321293
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: herbe et coquelicot Prmier plan colline aux coquelicots_16
+      rect:
+        serializedVersion: 2
+        x: 1936
+        y: 346
+        width: 15
+        height: 102
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6d794b5c41fc94500800000000000000
+      internalID: 381063331612760022
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: herbe et coquelicot Prmier plan colline aux coquelicots_17
+      rect:
+        serializedVersion: 2
+        x: 2048
+        y: 425
+        width: 21
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8f3c9a75bbf1cd5b0800000000000000
+      internalID: -5342360168478161928
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: herbe et coquelicot Prmier plan colline aux coquelicots_18
+      rect:
+        serializedVersion: 2
+        x: 2435
+        y: 333
+        width: 55
+        height: 121
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5f01378b1f8c41e60800000000000000
+      internalID: 7932185784213508341
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: herbe et coquelicot Prmier plan colline aux coquelicots_19
+      rect:
+        serializedVersion: 2
+        x: 3007
+        y: 404
+        width: 39
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e4066e993abc51ba0800000000000000
+      internalID: -6118760615190831026
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: herbe et coquelicot Prmier plan colline aux coquelicots_20
+      rect:
+        serializedVersion: 2
+        x: 3021
+        y: 429
+        width: 49
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 69e9ad6103288fe50800000000000000
+      internalID: 6843362776842935958
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: herbe et coquelicot Prmier plan colline aux coquelicots_21
+      rect:
+        serializedVersion: 2
+        x: 3064
+        y: 405
+        width: 50
+        height: 86
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2a35b31dfda3f3de0800000000000000
+      internalID: -1351296630225415262
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: herbe et coquelicot Prmier plan colline aux coquelicots_22
+      rect:
+        serializedVersion: 2
+        x: 1568
+        y: 294
+        width: 28
+        height: 101
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8b6ea3e1c36f59960800000000000000
+      internalID: 7608257883577968312
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: herbe et coquelicot Prmier plan colline aux coquelicots_23
+      rect:
+        serializedVersion: 2
+        x: 1789
+        y: 386
+        width: 21
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 19b78456edfcb7220800000000000000
+      internalID: 2484808173513898897
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: herbe et coquelicot Prmier plan colline aux coquelicots_24
+      rect:
+        serializedVersion: 2
+        x: 1851
+        y: 334
+        width: 45
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 310c4a910e1356d20800000000000000
+      internalID: 3271075542927196179
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: herbe et coquelicot Prmier plan colline aux coquelicots_25
+      rect:
+        serializedVersion: 2
+        x: 1870
+        y: 330
+        width: 63
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bf6cff4bb4afaf4c0800000000000000
+      internalID: -4252811695031859461
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: herbe et coquelicot Prmier plan colline aux coquelicots_26
+      rect:
+        serializedVersion: 2
+        x: 1888
+        y: 362
+        width: 46
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3a6f113695c0271a0800000000000000
+      internalID: -6813369708204394845
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: herbe et coquelicot Prmier plan colline aux coquelicots_27
+      rect:
+        serializedVersion: 2
+        x: 2101
+        y: 292
+        width: 49
+        height: 112
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f8a787a8f9eb32320800000000000000
+      internalID: 2532077007944579727
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: herbe et coquelicot Prmier plan colline aux coquelicots_28
+      rect:
+        serializedVersion: 2
+        x: 2400
+        y: 301
+        width: 44
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1fe969927103a1a10800000000000000
+      internalID: 1880868670420721393
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: herbe et coquelicot Prmier plan colline aux coquelicots_29
+      rect:
+        serializedVersion: 2
+        x: 2421
+        y: 310
+        width: 33
+        height: 103
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3a029a57135ea4770800000000000000
+      internalID: 8595934839380189347
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: herbe et coquelicot Prmier plan colline aux coquelicots_30
+      rect:
+        serializedVersion: 2
+        x: 2889
+        y: 272
+        width: 37
+        height: 142
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 14703e3e35e79cb70800000000000000
+      internalID: 8919799435754669889
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: herbe et coquelicot Prmier plan colline aux coquelicots_31
+      rect:
+        serializedVersion: 2
+        x: 3179
+        y: 285
+        width: 51
+        height: 113
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dac15f9025e40e140800000000000000
+      internalID: 4746880121509846189
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: herbe et coquelicot Prmier plan colline aux coquelicots_32
+      rect:
+        serializedVersion: 2
+        x: 3232
+        y: 281
+        width: 41
+        height: 111
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 313a427aa29926a30800000000000000
+      internalID: 4207093410389336851
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: herbe et coquelicot Prmier plan colline aux coquelicots_33
+      rect:
+        serializedVersion: 2
+        x: 1432
+        y: 205
+        width: 10
+        height: 111
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3b06a83e2b9f369d0800000000000000
+      internalID: -2782105598067842893
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: herbe et coquelicot Prmier plan colline aux coquelicots_34
+      rect:
+        serializedVersion: 2
+        x: 1446
+        y: 205
+        width: 26
+        height: 127
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8b152aac669ae4580800000000000000
+      internalID: -8840942759530311240
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: herbe et coquelicot Prmier plan colline aux coquelicots_35
+      rect:
+        serializedVersion: 2
+        x: 1466
+        y: 261
+        width: 19
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d4c3fd6b3821b8090800000000000000
+      internalID: -8031305153567048627
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: herbe et coquelicot Prmier plan colline aux coquelicots_36
+      rect:
+        serializedVersion: 2
+        x: 1537
+        y: 305
+        width: 16
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5f973a057d3a74680800000000000000
+      internalID: -8770861604114564619
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: herbe et coquelicot Prmier plan colline aux coquelicots_37
+      rect:
+        serializedVersion: 2
+        x: 1558
+        y: 279
+        width: 16
+        height: 105
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 75997c23fb7b8c420800000000000000
+      internalID: 2650570412526115159
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: herbe et coquelicot Prmier plan colline aux coquelicots_38
+      rect:
+        serializedVersion: 2
+        x: 1582
+        y: 298
+        width: 26
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fd8beb0356be99bd0800000000000000
+      internalID: -2622806488124573473
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: herbe et coquelicot Prmier plan colline aux coquelicots_39
+      rect:
+        serializedVersion: 2
+        x: 1592
+        y: 204
+        width: 27
+        height: 126
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 185125411f1aa3b10800000000000000
+      internalID: 1962058644473386369
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: herbe et coquelicot Prmier plan colline aux coquelicots_40
+      rect:
+        serializedVersion: 2
+        x: 1878
+        y: 254
+        width: 88
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e3683848ca06d8dc0800000000000000
+      internalID: -3635143030144268738
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: herbe et coquelicot Prmier plan colline aux coquelicots_41
+      rect:
+        serializedVersion: 2
+        x: 2023
+        y: 274
+        width: 36
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 86058c14805dd47b0800000000000000
+      internalID: -5238296560121917336
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: herbe et coquelicot Prmier plan colline aux coquelicots_42
+      rect:
+        serializedVersion: 2
+        x: 2033
+        y: 292
+        width: 42
+        height: 77
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4a903e501f42cb170800000000000000
+      internalID: 8195466039511943588
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: herbe et coquelicot Prmier plan colline aux coquelicots_43
+      rect:
+        serializedVersion: 2
+        x: 2053
+        y: 275
+        width: 42
+        height: 108
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 502803e13d1237cc0800000000000000
+      internalID: -3714588077022215675
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: herbe et coquelicot Prmier plan colline aux coquelicots_44
+      rect:
+        serializedVersion: 2
+        x: 2254
+        y: 249
+        width: 37
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0c4c1392691c5f940800000000000000
+      internalID: 5329378584743232704
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: herbe et coquelicot Prmier plan colline aux coquelicots_45
+      rect:
+        serializedVersion: 2
+        x: 2292
+        y: 259
+        width: 15
+        height: 125
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 624ea0825806c5ae0800000000000000
+      internalID: -1559265245958314970
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: herbe et coquelicot Prmier plan colline aux coquelicots_46
+      rect:
+        serializedVersion: 2
+        x: 2313
+        y: 261
+        width: 29
+        height: 105
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cf39be352d32c9190800000000000000
+      internalID: -7954443455585086468
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: herbe et coquelicot Prmier plan colline aux coquelicots_47
+      rect:
+        serializedVersion: 2
+        x: 2337
+        y: 268
+        width: 33
+        height: 99
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 546c70d257ac951f0800000000000000
+      internalID: -1055590033026202043
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: herbe et coquelicot Prmier plan colline aux coquelicots_48
+      rect:
+        serializedVersion: 2
+        x: 2827
+        y: 255
+        width: 49
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0237431558d70f010800000000000000
+      internalID: 1220613510563918624
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: herbe et coquelicot Prmier plan colline aux coquelicots_49
+      rect:
+        serializedVersion: 2
+        x: 2828
+        y: 252
+        width: 58
+        height: 129
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6b8abb790f6c29390800000000000000
+      internalID: -7812963666894280522
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: herbe et coquelicot Prmier plan colline aux coquelicots_50
+      rect:
+        serializedVersion: 2
+        x: 2906
+        y: 265
+        width: 35
+        height: 85
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 10bf94f98af5dfb80800000000000000
+      internalID: -8359420155498202367
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: herbe et coquelicot Prmier plan colline aux coquelicots_51
+      rect:
+        serializedVersion: 2
+        x: 3053
+        y: 231
+        width: 15
+        height: 107
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e8a4853487d448fd0800000000000000
+      internalID: -2340660727404541298
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: herbe et coquelicot Prmier plan colline aux coquelicots_52
+      rect:
+        serializedVersion: 2
+        x: 3069
+        y: 237
+        width: 21
+        height: 102
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c5f4ca40cc7172540800000000000000
+      internalID: 4982977677727911772
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: herbe et coquelicot Prmier plan colline aux coquelicots_53
+      rect:
+        serializedVersion: 2
+        x: 3084
+        y: 231
+        width: 37
+        height: 114
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4783e53cbbdbe6840800000000000000
+      internalID: 5219317632303249524
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: herbe et coquelicot Prmier plan colline aux coquelicots_54
+      rect:
+        serializedVersion: 2
+        x: 3148
+        y: 275
+        width: 59
+        height: 86
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4ff3d7d895c0e3ff0800000000000000
+      internalID: -54592566716448780
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: herbe et coquelicot Prmier plan colline aux coquelicots_55
+      rect:
+        serializedVersion: 2
+        x: 3360
+        y: 206
+        width: 19
+        height: 115
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aca725bea5b60f610800000000000000
+      internalID: 1652939101484251850
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: herbe et coquelicot Prmier plan colline aux coquelicots_56
+      rect:
+        serializedVersion: 2
+        x: 866
+        y: 173
+        width: 54
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bb6f07ab665c06740800000000000000
+      internalID: 5143327819462407867
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: herbe et coquelicot Prmier plan colline aux coquelicots_57
+      rect:
+        serializedVersion: 2
+        x: 905
+        y: 157
+        width: 26
+        height: 86
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 11fa071c2b16f0db0800000000000000
+      internalID: -4823529255513051375
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: herbe et coquelicot Prmier plan colline aux coquelicots_58
+      rect:
+        serializedVersion: 2
+        x: 933
+        y: 179
+        width: 15
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7ba9e5827ff9366a0800000000000000
+      internalID: -6457141556836132169
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: herbe et coquelicot Prmier plan colline aux coquelicots_59
+      rect:
+        serializedVersion: 2
+        x: 955
+        y: 175
+        width: 15
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 88d9920c7dd1d8520800000000000000
+      internalID: 2705851763598663048
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: herbe et coquelicot Prmier plan colline aux coquelicots_60
+      rect:
+        serializedVersion: 2
+        x: 1070
+        y: 201
+        width: 22
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 814fba0542071c270800000000000000
+      internalID: 8269013692103521304
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: herbe et coquelicot Prmier plan colline aux coquelicots_61
+      rect:
+        serializedVersion: 2
+        x: 1089
+        y: 211
+        width: 14
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 657b45cb0cdab9f40800000000000000
+      internalID: 5736369593691453270
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: herbe et coquelicot Prmier plan colline aux coquelicots_62
+      rect:
+        serializedVersion: 2
+        x: 1108
+        y: 189
+        width: 13
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3c6ad8c2091d34180800000000000000
+      internalID: -9132225202224257341
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: herbe et coquelicot Prmier plan colline aux coquelicots_63
+      rect:
+        serializedVersion: 2
+        x: 1397
+        y: 231
+        width: 30
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 414a87f10682f5a00800000000000000
+      internalID: 747360456476763156
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: herbe et coquelicot Prmier plan colline aux coquelicots_64
+      rect:
+        serializedVersion: 2
+        x: 1535
+        y: 200
+        width: 36
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 574c7a159241334d0800000000000000
+      internalID: -3156156746160421771
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: herbe et coquelicot Prmier plan colline aux coquelicots_65
+      rect:
+        serializedVersion: 2
+        x: 1561
+        y: 191
+        width: 30
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5e55dfe824b0e1330800000000000000
+      internalID: 3683393925730358757
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: herbe et coquelicot Prmier plan colline aux coquelicots_66
+      rect:
+        serializedVersion: 2
+        x: 1625
+        y: 193
+        width: 10
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 794d9845754337820800000000000000
+      internalID: 2914730933523960983
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: herbe et coquelicot Prmier plan colline aux coquelicots_67
+      rect:
+        serializedVersion: 2
+        x: 1676
+        y: 195
+        width: 22
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8990f73d1c850bfe0800000000000000
+      internalID: -1175341913243448936
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: herbe et coquelicot Prmier plan colline aux coquelicots_68
+      rect:
+        serializedVersion: 2
+        x: 1695
+        y: 143
+        width: 97
+        height: 157
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ffb97623baa1b1720800000000000000
+      internalID: 2817875314437757951
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: herbe et coquelicot Prmier plan colline aux coquelicots_69
+      rect:
+        serializedVersion: 2
+        x: 1945
+        y: 130
+        width: 24
+        height: 108
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5b97b4bf4d245eb90800000000000000
+      internalID: -7213285745647453771
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: herbe et coquelicot Prmier plan colline aux coquelicots_70
+      rect:
+        serializedVersion: 2
+        x: 1967
+        y: 128
+        width: 32
+        height: 153
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5ef0c3aed3592e6f0800000000000000
+      internalID: -656798502487322651
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: herbe et coquelicot Prmier plan colline aux coquelicots_71
+      rect:
+        serializedVersion: 2
+        x: 2047
+        y: 113
+        width: 47
+        height: 142
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b50f0bb5b219cc230800000000000000
+      internalID: 3660460212553314395
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: herbe et coquelicot Prmier plan colline aux coquelicots_72
+      rect:
+        serializedVersion: 2
+        x: 2090
+        y: 130
+        width: 20
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f7816a2ce437a8460800000000000000
+      internalID: 7244729732689172607
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: herbe et coquelicot Prmier plan colline aux coquelicots_73
+      rect:
+        serializedVersion: 2
+        x: 2098
+        y: 130
+        width: 107
+        height: 161
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3fb6f9fb1622ec000800000000000000
+      internalID: 58021648424463347
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: herbe et coquelicot Prmier plan colline aux coquelicots_74
+      rect:
+        serializedVersion: 2
+        x: 2301
+        y: 77
+        width: 108
+        height: 188
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7d9a665285ac1a060800000000000000
+      internalID: 6963068978824915415
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: herbe et coquelicot Prmier plan colline aux coquelicots_75
+      rect:
+        serializedVersion: 2
+        x: 3008
+        y: 220
+        width: 61
+        height: 79
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b16a97b5fd69af2c0800000000000000
+      internalID: -4397036200117295589
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: herbe et coquelicot Prmier plan colline aux coquelicots_76
+      rect:
+        serializedVersion: 2
+        x: 3157
+        y: 170
+        width: 39
+        height: 94
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f880710dcc1d34f60800000000000000
+      internalID: 8017482439244318863
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: herbe et coquelicot Prmier plan colline aux coquelicots_77
+      rect:
+        serializedVersion: 2
+        x: 3190
+        y: 176
+        width: 27
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0a3a3cb8e9e1374b0800000000000000
+      internalID: -5443973858262277216
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: herbe et coquelicot Prmier plan colline aux coquelicots_78
+      rect:
+        serializedVersion: 2
+        x: 3299
+        y: 188
+        width: 55
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b17b8c3e0a0c275b0800000000000000
+      internalID: -5372019608250697957
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: herbe et coquelicot Prmier plan colline aux coquelicots_79
+      rect:
+        serializedVersion: 2
+        x: 3324
+        y: 209
+        width: 30
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 64c08542c58004a10800000000000000
+      internalID: 1891521035335371846
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: herbe et coquelicot Prmier plan colline aux coquelicots_80
+      rect:
+        serializedVersion: 2
+        x: 3378
+        y: 207
+        width: 23
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ec7509101f6c37880800000000000000
+      internalID: -8614322923813972018
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: herbe et coquelicot Prmier plan colline aux coquelicots_81
+      rect:
+        serializedVersion: 2
+        x: 659
+        y: 95
+        width: 23
+        height: 118
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dbdc54835b9fac130800000000000000
+      internalID: 3587954609882516925
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: herbe et coquelicot Prmier plan colline aux coquelicots_82
+      rect:
+        serializedVersion: 2
+        x: 677
+        y: 89
+        width: 38
+        height: 111
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d768c68621ad1db70800000000000000
+      internalID: 8922152109393872509
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: herbe et coquelicot Prmier plan colline aux coquelicots_83
+      rect:
+        serializedVersion: 2
+        x: 795
+        y: 121
+        width: 67
+        height: 106
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0eda2f6db9f0c5ec0800000000000000
+      internalID: -3576966842038440480
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: herbe et coquelicot Prmier plan colline aux coquelicots_84
+      rect:
+        serializedVersion: 2
+        x: 980
+        y: 164
+        width: 10
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f98e4cb4ce4db3210800000000000000
+      internalID: 1313877827657197727
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: herbe et coquelicot Prmier plan colline aux coquelicots_85
+      rect:
+        serializedVersion: 2
+        x: 1174
+        y: 115
+        width: 23
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 000037da0fef23bf0800000000000000
+      internalID: -345933911698505728
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: herbe et coquelicot Prmier plan colline aux coquelicots_86
+      rect:
+        serializedVersion: 2
+        x: 1274
+        y: 59
+        width: 28
+        height: 136
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a1d29fce57c63c750800000000000000
+      internalID: 6324017555501034778
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: herbe et coquelicot Prmier plan colline aux coquelicots_87
+      rect:
+        serializedVersion: 2
+        x: 1451
+        y: 18
+        width: 86
+        height: 187
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: be7a369148efbd3d0800000000000000
+      internalID: -3180668868492023829
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: herbe et coquelicot Prmier plan colline aux coquelicots_88
+      rect:
+        serializedVersion: 2
+        x: 1531
+        y: 23
+        width: 64
+        height: 164
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8f1a012f73f32af30800000000000000
+      internalID: 4585296880133513720
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: herbe et coquelicot Prmier plan colline aux coquelicots_89
+      rect:
+        serializedVersion: 2
+        x: 1874
+        y: 104
+        width: 59
+        height: 105
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b56c6d0773dd890d0800000000000000
+      internalID: -3415737087174457765
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: herbe et coquelicot Prmier plan colline aux coquelicots_90
+      rect:
+        serializedVersion: 2
+        x: 1900
+        y: 108
+        width: 39
+        height: 118
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4305704b2a5fd5190800000000000000
+      internalID: -7971945686222024652
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: herbe et coquelicot Prmier plan colline aux coquelicots_91
+      rect:
+        serializedVersion: 2
+        x: 2045
+        y: 130
+        width: 37
+        height: 81
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 46eae2f490f3601f0800000000000000
+      internalID: -1079105751492940188
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: herbe et coquelicot Prmier plan colline aux coquelicots_92
+      rect:
+        serializedVersion: 2
+        x: 2219
+        y: 58
+        width: 55
+        height: 149
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ad927f3873dd65710800000000000000
+      internalID: 1681774741376412122
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: herbe et coquelicot Prmier plan colline aux coquelicots_93
+      rect:
+        serializedVersion: 2
+        x: 2275
+        y: 80
+        width: 22
+        height: 133
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6ae5ff211a4f5b550800000000000000
+      internalID: 6176111436654141094
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: herbe et coquelicot Prmier plan colline aux coquelicots_94
+      rect:
+        serializedVersion: 2
+        x: 2612
+        y: 86
+        width: 26
+        height: 127
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5dd1559dfffed4140800000000000000
+      internalID: 4705681067813969365
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: herbe et coquelicot Prmier plan colline aux coquelicots_95
+      rect:
+        serializedVersion: 2
+        x: 2777
+        y: 100
+        width: 63
+        height: 94
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 542061a08cd820580800000000000000
+      internalID: -8862365226409524667
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: herbe et coquelicot Prmier plan colline aux coquelicots_96
+      rect:
+        serializedVersion: 2
+        x: 2801
+        y: 128
+        width: 41
+        height: 73
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b24a1733016bf2d20800000000000000
+      internalID: 3256021236310975531
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: herbe et coquelicot Prmier plan colline aux coquelicots_97
+      rect:
+        serializedVersion: 2
+        x: 2844
+        y: 128
+        width: 15
+        height: 91
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ff85e6c26dc3f0200800000000000000
+      internalID: 148404203292612863
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: herbe et coquelicot Prmier plan colline aux coquelicots_98
+      rect:
+        serializedVersion: 2
+        x: 2867
+        y: 123
+        width: 35
+        height: 92
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5eb9993c369176530800000000000000
+      internalID: 3848072322885458917
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: herbe et coquelicot Prmier plan colline aux coquelicots_99
+      rect:
+        serializedVersion: 2
+        x: 3064
+        y: 24
+        width: 90
+        height: 162
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c8dc5de8b08494550800000000000000
+      internalID: 6145522381001969036
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: herbe et coquelicot Prmier plan colline aux coquelicots_100
+      rect:
+        serializedVersion: 2
+        x: 3136
+        y: 176
+        width: 36
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e2037d510dbd269b0800000000000000
+      internalID: -5088262942209134546
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: herbe et coquelicot Prmier plan colline aux coquelicots_101
+      rect:
+        serializedVersion: 2
+        x: 3281
+        y: 64
+        width: 29
+        height: 133
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6c0375b19c7ddeba0800000000000000
+      internalID: -6057948664996351802
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: herbe et coquelicot Prmier plan colline aux coquelicots_102
+      rect:
+        serializedVersion: 2
+        x: 1033
+        y: 68
+        width: 13
+        height: 97
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 14072436c23e9f0d0800000000000000
+      internalID: -3388427464836222911
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: herbe et coquelicot Prmier plan colline aux coquelicots_103
+      rect:
+        serializedVersion: 2
+        x: 1057
+        y: 70
+        width: 11
+        height: 93
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5cbf94ad181ba5b80800000000000000
+      internalID: -8405210583262430267
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: herbe et coquelicot Prmier plan colline aux coquelicots_104
+      rect:
+        serializedVersion: 2
+        x: 1243
+        y: 59
+        width: 11
+        height: 111
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 88dffebf8c19535a0800000000000000
+      internalID: -6542162591279481464
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: herbe et coquelicot Prmier plan colline aux coquelicots_105
+      rect:
+        serializedVersion: 2
+        x: 1579
+        y: 56
+        width: 29
+        height: 119
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bcdf6fdcb661bf390800000000000000
+      internalID: -7783602878706942517
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: herbe et coquelicot Prmier plan colline aux coquelicots_106
+      rect:
+        serializedVersion: 2
+        x: 1622
+        y: 39
+        width: 30
+        height: 130
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 87f1d1235fefb5170800000000000000
+      internalID: 8168402678227738488
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: herbe et coquelicot Prmier plan colline aux coquelicots_107
+      rect:
+        serializedVersion: 2
+        x: 1816
+        y: 162
+        width: 6
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 866bc615b57b15a00800000000000000
+      internalID: 743577016328828520
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: herbe et coquelicot Prmier plan colline aux coquelicots_108
+      rect:
+        serializedVersion: 2
+        x: 2639
+        y: 35
+        width: 77
+        height: 131
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 081d19c8798d4fe80800000000000000
+      internalID: -8145647680596356736
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: herbe et coquelicot Prmier plan colline aux coquelicots_109
+      rect:
+        serializedVersion: 2
+        x: 2952
+        y: 48
+        width: 76
+        height: 116
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ee7fa47dc5684fa10800000000000000
+      internalID: 1942325072610654190
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: herbe et coquelicot Prmier plan colline aux coquelicots_110
+      rect:
+        serializedVersion: 2
+        x: 562
+        y: 58
+        width: 21
+        height: 79
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 550d4cb2a99641110800000000000000
+      internalID: 1230724709059186773
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: herbe et coquelicot Prmier plan colline aux coquelicots_111
+      rect:
+        serializedVersion: 2
+        x: 631
+        y: 91
+        width: 24
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7e48cd22035290270800000000000000
+      internalID: 8217139883787715815
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: herbe et coquelicot Prmier plan colline aux coquelicots_112
+      rect:
+        serializedVersion: 2
+        x: 825
+        y: 17
+        width: 92
+        height: 115
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 395b7bbe70dbe3cb0800000000000000
+      internalID: -4882257104305932909
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: herbe et coquelicot Prmier plan colline aux coquelicots_113
+      rect:
+        serializedVersion: 2
+        x: 955
+        y: 75
+        width: 52
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 17fca2bbaa685c600800000000000000
+      internalID: 487944202482274161
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: herbe et coquelicot Prmier plan colline aux coquelicots_114
+      rect:
+        serializedVersion: 2
+        x: 1097
+        y: 85
+        width: 70
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4f3410443e0eac750800000000000000
+      internalID: 6326115893298414580
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: herbe et coquelicot Prmier plan colline aux coquelicots_115
+      rect:
+        serializedVersion: 2
+        x: 1160
+        y: 127
+        width: 13
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aa2cede15c0b856e0800000000000000
+      internalID: -1848533286362627414
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: herbe et coquelicot Prmier plan colline aux coquelicots_116
+      rect:
+        serializedVersion: 2
+        x: 1196
+        y: 109
+        width: 12
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fcd399c3e16b82190800000000000000
+      internalID: -7986933698159624753
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: herbe et coquelicot Prmier plan colline aux coquelicots_117
+      rect:
+        serializedVersion: 2
+        x: 1209
+        y: 111
+        width: 21
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 63cae94ea3b262920800000000000000
+      internalID: 2965104936613751862
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: herbe et coquelicot Prmier plan colline aux coquelicots_118
+      rect:
+        serializedVersion: 2
+        x: 1650
+        y: 46
+        width: 13
+        height: 92
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9b3aa9be76f754270800000000000000
+      internalID: 8234127578027959225
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: herbe et coquelicot Prmier plan colline aux coquelicots_119
+      rect:
+        serializedVersion: 2
+        x: 1808
+        y: 30
+        width: 39
+        height: 104
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 501818d03a8e43590800000000000000
+      internalID: -7695270076265430779
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: herbe et coquelicot Prmier plan colline aux coquelicots_120
+      rect:
+        serializedVersion: 2
+        x: 1840
+        y: 38
+        width: 28
+        height: 123
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0eba62ed353110a70800000000000000
+      internalID: 8791329198534208480
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: herbe et coquelicot Prmier plan colline aux coquelicots_121
+      rect:
+        serializedVersion: 2
+        x: 2140
+        y: 51
+        width: 75
+        height: 81
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ff40d49ac40d35360800000000000000
+      internalID: 7157293260498339071
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: herbe et coquelicot Prmier plan colline aux coquelicots_122
+      rect:
+        serializedVersion: 2
+        x: 2209
+        y: 73
+        width: 57
+        height: 87
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 31658ae68d14d73e0800000000000000
+      internalID: -2054413457185810925
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: herbe et coquelicot Prmier plan colline aux coquelicots_123
+      rect:
+        serializedVersion: 2
+        x: 2408
+        y: 60
+        width: 34
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d63373fa9935b13b0800000000000000
+      internalID: -5540742997014531219
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: herbe et coquelicot Prmier plan colline aux coquelicots_124
+      rect:
+        serializedVersion: 2
+        x: 2429
+        y: 49
+        width: 42
+        height: 92
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 230069714149fb070800000000000000
+      internalID: 8124375066815627314
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: herbe et coquelicot Prmier plan colline aux coquelicots_125
+      rect:
+        serializedVersion: 2
+        x: 2451
+        y: 58
+        width: 35
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cdd076b3e9312cb10800000000000000
+      internalID: 2000182754828291548
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: herbe et coquelicot Prmier plan colline aux coquelicots_126
+      rect:
+        serializedVersion: 2
+        x: 2531
+        y: 49
+        width: 88
+        height: 111
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 08ded609c0feeb410800000000000000
+      internalID: 1494894963575352704
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: herbe et coquelicot Prmier plan colline aux coquelicots_127
+      rect:
+        serializedVersion: 2
+        x: 2830
+        y: 9
+        width: 59
+        height: 125
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dac2c9bb312912e70800000000000000
+      internalID: 9088706136459979949
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: herbe et coquelicot Prmier plan colline aux coquelicots_128
+      rect:
+        serializedVersion: 2
+        x: 3036
+        y: 80
+        width: 16
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2d198e8c23231dcf0800000000000000
+      internalID: -229346912318746158
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: herbe et coquelicot Prmier plan colline aux coquelicots_129
+      rect:
+        serializedVersion: 2
+        x: 3225
+        y: 45
+        width: 43
+        height: 93
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fa04c586e9cf0aaf0800000000000000
+      internalID: -387031810667954001
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: herbe et coquelicot Prmier plan colline aux coquelicots_130
+      rect:
+        serializedVersion: 2
+        x: 3245
+        y: 56
+        width: 33
+        height: 95
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8f14c908823703150800000000000000
+      internalID: 5850302533747884536
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: herbe et coquelicot Prmier plan colline aux coquelicots_131
+      rect:
+        serializedVersion: 2
+        x: 3306
+        y: 50
+        width: 36
+        height: 106
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8c0de105f2db093e0800000000000000
+      internalID: -2048929819548266296
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: herbe et coquelicot Prmier plan colline aux coquelicots_132
+      rect:
+        serializedVersion: 2
+        x: 3480
+        y: 53
+        width: 30
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eab36c72bf833d550800000000000000
+      internalID: 6184349364665072558
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: herbe et coquelicot Prmier plan colline aux coquelicots_133
+      rect:
+        serializedVersion: 2
+        x: 3509
+        y: 55
+        width: 20
+        height: 104
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 76c8b715cb8ff1d70800000000000000
+      internalID: 9016198466723613799
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: herbe et coquelicot Prmier plan colline aux coquelicots_134
+      rect:
+        serializedVersion: 2
+        x: 3523
+        y: 62
+        width: 34
+        height: 95
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dd3fe48e50113fef0800000000000000
+      internalID: -75698051665169443
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: herbe et coquelicot Prmier plan colline aux coquelicots_135
+      rect:
+        serializedVersion: 2
+        x: 337
+        y: 16
+        width: 30
+        height: 85
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 13ebf07acc197c380800000000000000
+      internalID: -8951025426213388751
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: herbe et coquelicot Prmier plan colline aux coquelicots_136
+      rect:
+        serializedVersion: 2
+        x: 362
+        y: 17
+        width: 15
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f15fd557e71c92ef0800000000000000
+      internalID: -132361965151587041
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: herbe et coquelicot Prmier plan colline aux coquelicots_137
+      rect:
+        serializedVersion: 2
+        x: 377
+        y: 15
+        width: 41
+        height: 107
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a46df43c9747a9860800000000000000
+      internalID: 7537464992674600522
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: herbe et coquelicot Prmier plan colline aux coquelicots_138
+      rect:
+        serializedVersion: 2
+        x: 388
+        y: 19
+        width: 37
+        height: 78
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d6a2fdfaf98c020b0800000000000000
+      internalID: -5755379735603500435
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: herbe et coquelicot Prmier plan colline aux coquelicots_139
+      rect:
+        serializedVersion: 2
+        x: 508
+        y: 32
+        width: 44
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 411fc3c0e8ef52630800000000000000
+      internalID: 3901804538230534420
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: herbe et coquelicot Prmier plan colline aux coquelicots_140
+      rect:
+        serializedVersion: 2
+        x: 531
+        y: 63
+        width: 26
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6d61bcea8a6722a70800000000000000
+      internalID: 8800727088694499030
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: herbe et coquelicot Prmier plan colline aux coquelicots_141
+      rect:
+        serializedVersion: 2
+        x: 644
+        y: 23
+        width: 51
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 33e00a37b511551f0800000000000000
+      internalID: -1056919453068947917
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: herbe et coquelicot Prmier plan colline aux coquelicots_142
+      rect:
+        serializedVersion: 2
+        x: 757
+        y: 17
+        width: 105
+        height: 104
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2daffa2c8070d0170800000000000000
+      internalID: 8146175035190541010
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: herbe et coquelicot Prmier plan colline aux coquelicots_143
+      rect:
+        serializedVersion: 2
+        x: 883
+        y: 25
+        width: 63
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 66891b8fb5589f7e0800000000000000
+      internalID: -1731205951686338458
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: herbe et coquelicot Prmier plan colline aux coquelicots_144
+      rect:
+        serializedVersion: 2
+        x: 1013
+        y: 11
+        width: 26
+        height: 103
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 60e711ef13896d340800000000000000
+      internalID: 4888261786040630790
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: herbe et coquelicot Prmier plan colline aux coquelicots_145
+      rect:
+        serializedVersion: 2
+        x: 1075
+        y: 21
+        width: 18
+        height: 103
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1fb2e5f75b84b8c40800000000000000
+      internalID: 5515582113008462833
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: herbe et coquelicot Prmier plan colline aux coquelicots_146
+      rect:
+        serializedVersion: 2
+        x: 1100
+        y: 36
+        width: 13
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e5678d33d219bfcc0800000000000000
+      internalID: -3676185047488498082
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: herbe et coquelicot Prmier plan colline aux coquelicots_147
+      rect:
+        serializedVersion: 2
+        x: 1147
+        y: 25
+        width: 70
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f9488142fb98dcbc0800000000000000
+      internalID: -3761198659747150689
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: herbe et coquelicot Prmier plan colline aux coquelicots_148
+      rect:
+        serializedVersion: 2
+        x: 1220
+        y: 48
+        width: 22
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e85538e6f60b52d70800000000000000
+      internalID: 9017807821521245582
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: herbe et coquelicot Prmier plan colline aux coquelicots_149
+      rect:
+        serializedVersion: 2
+        x: 1393
+        y: 0
+        width: 25
+        height: 92
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9f84185e838d8fa20800000000000000
+      internalID: 3096462482697439481
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: herbe et coquelicot Prmier plan colline aux coquelicots_150
+      rect:
+        serializedVersion: 2
+        x: 1413
+        y: 25
+        width: 15
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c4f077d8bafbfcf80800000000000000
+      internalID: -8084032062573047988
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: herbe et coquelicot Prmier plan colline aux coquelicots_151
+      rect:
+        serializedVersion: 2
+        x: 1432
+        y: 38
+        width: 18
+        height: 77
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aa674f8e6ca633700800000000000000
+      internalID: 518875784622143146
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: herbe et coquelicot Prmier plan colline aux coquelicots_152
+      rect:
+        serializedVersion: 2
+        x: 1683
+        y: 18
+        width: 10
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a9001a2d1cbba1120800000000000000
+      internalID: 2385425393782947994
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: herbe et coquelicot Prmier plan colline aux coquelicots_153
+      rect:
+        serializedVersion: 2
+        x: 1794
+        y: 45
+        width: 34
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c04ed50a2c14dda20800000000000000
+      internalID: 3088697223615996940
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: herbe et coquelicot Prmier plan colline aux coquelicots_154
+      rect:
+        serializedVersion: 2
+        x: 1882
+        y: 42
+        width: 7
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2498051cf61663620800000000000000
+      internalID: 2753495354796181826
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: herbe et coquelicot Prmier plan colline aux coquelicots_155
+      rect:
+        serializedVersion: 2
+        x: 2007
+        y: 52
+        width: 102
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5ddea39510bed5df0800000000000000
+      internalID: -189737218255163947
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: herbe et coquelicot Prmier plan colline aux coquelicots_156
+      rect:
+        serializedVersion: 2
+        x: 2818
+        y: 0
+        width: 17
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1761a04be79e229e0800000000000000
+      internalID: -1647497783268469135
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: herbe et coquelicot Prmier plan colline aux coquelicots_157
+      rect:
+        serializedVersion: 2
+        x: 3144
+        y: 27
+        width: 38
+        height: 99
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9c35bcce494777530800000000000000
+      internalID: 3852676189215478729
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: herbe et coquelicot Prmier plan colline aux coquelicots_158
+      rect:
+        serializedVersion: 2
+        x: 3172
+        y: 40
+        width: 12
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f2a947efafeb68a00800000000000000
+      internalID: 758503572478663215
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: herbe et coquelicot Prmier plan colline aux coquelicots_159
+      rect:
+        serializedVersion: 2
+        x: 3366
+        y: 52
+        width: 75
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6ae0398d411095e40800000000000000
+      internalID: 5645544796930117286
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: herbe et coquelicot Prmier plan colline aux coquelicots_160
+      rect:
+        serializedVersion: 2
+        x: 3447
+        y: 71
+        width: 43
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 201bd05583d93bfd0800000000000000
+      internalID: -2327343717149724414
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      herbe et coquelicot Prmier plan colline aux coquelicots_0: -3944455633597185659
+      herbe et coquelicot Prmier plan colline aux coquelicots_1: 8272025123512256470
+      herbe et coquelicot Prmier plan colline aux coquelicots_10: 5999768692491952373
+      herbe et coquelicot Prmier plan colline aux coquelicots_100: -5088262942209134546
+      herbe et coquelicot Prmier plan colline aux coquelicots_101: -6057948664996351802
+      herbe et coquelicot Prmier plan colline aux coquelicots_102: -3388427464836222911
+      herbe et coquelicot Prmier plan colline aux coquelicots_103: -8405210583262430267
+      herbe et coquelicot Prmier plan colline aux coquelicots_104: -6542162591279481464
+      herbe et coquelicot Prmier plan colline aux coquelicots_105: -7783602878706942517
+      herbe et coquelicot Prmier plan colline aux coquelicots_106: 8168402678227738488
+      herbe et coquelicot Prmier plan colline aux coquelicots_107: 743577016328828520
+      herbe et coquelicot Prmier plan colline aux coquelicots_108: -8145647680596356736
+      herbe et coquelicot Prmier plan colline aux coquelicots_109: 1942325072610654190
+      herbe et coquelicot Prmier plan colline aux coquelicots_11: 7658349593678057671
+      herbe et coquelicot Prmier plan colline aux coquelicots_110: 1230724709059186773
+      herbe et coquelicot Prmier plan colline aux coquelicots_111: 8217139883787715815
+      herbe et coquelicot Prmier plan colline aux coquelicots_112: -4882257104305932909
+      herbe et coquelicot Prmier plan colline aux coquelicots_113: 487944202482274161
+      herbe et coquelicot Prmier plan colline aux coquelicots_114: 6326115893298414580
+      herbe et coquelicot Prmier plan colline aux coquelicots_115: -1848533286362627414
+      herbe et coquelicot Prmier plan colline aux coquelicots_116: -7986933698159624753
+      herbe et coquelicot Prmier plan colline aux coquelicots_117: 2965104936613751862
+      herbe et coquelicot Prmier plan colline aux coquelicots_118: 8234127578027959225
+      herbe et coquelicot Prmier plan colline aux coquelicots_119: -7695270076265430779
+      herbe et coquelicot Prmier plan colline aux coquelicots_12: 8543898373264294106
+      herbe et coquelicot Prmier plan colline aux coquelicots_120: 8791329198534208480
+      herbe et coquelicot Prmier plan colline aux coquelicots_121: 7157293260498339071
+      herbe et coquelicot Prmier plan colline aux coquelicots_122: -2054413457185810925
+      herbe et coquelicot Prmier plan colline aux coquelicots_123: -5540742997014531219
+      herbe et coquelicot Prmier plan colline aux coquelicots_124: 8124375066815627314
+      herbe et coquelicot Prmier plan colline aux coquelicots_125: 2000182754828291548
+      herbe et coquelicot Prmier plan colline aux coquelicots_126: 1494894963575352704
+      herbe et coquelicot Prmier plan colline aux coquelicots_127: 9088706136459979949
+      herbe et coquelicot Prmier plan colline aux coquelicots_128: -229346912318746158
+      herbe et coquelicot Prmier plan colline aux coquelicots_129: -387031810667954001
+      herbe et coquelicot Prmier plan colline aux coquelicots_13: 214337138230597471
+      herbe et coquelicot Prmier plan colline aux coquelicots_130: 5850302533747884536
+      herbe et coquelicot Prmier plan colline aux coquelicots_131: -2048929819548266296
+      herbe et coquelicot Prmier plan colline aux coquelicots_132: 6184349364665072558
+      herbe et coquelicot Prmier plan colline aux coquelicots_133: 9016198466723613799
+      herbe et coquelicot Prmier plan colline aux coquelicots_134: -75698051665169443
+      herbe et coquelicot Prmier plan colline aux coquelicots_135: -8951025426213388751
+      herbe et coquelicot Prmier plan colline aux coquelicots_136: -132361965151587041
+      herbe et coquelicot Prmier plan colline aux coquelicots_137: 7537464992674600522
+      herbe et coquelicot Prmier plan colline aux coquelicots_138: -5755379735603500435
+      herbe et coquelicot Prmier plan colline aux coquelicots_139: 3901804538230534420
+      herbe et coquelicot Prmier plan colline aux coquelicots_14: 5165214237583730041
+      herbe et coquelicot Prmier plan colline aux coquelicots_140: 8800727088694499030
+      herbe et coquelicot Prmier plan colline aux coquelicots_141: -1056919453068947917
+      herbe et coquelicot Prmier plan colline aux coquelicots_142: 8146175035190541010
+      herbe et coquelicot Prmier plan colline aux coquelicots_143: -1731205951686338458
+      herbe et coquelicot Prmier plan colline aux coquelicots_144: 4888261786040630790
+      herbe et coquelicot Prmier plan colline aux coquelicots_145: 5515582113008462833
+      herbe et coquelicot Prmier plan colline aux coquelicots_146: -3676185047488498082
+      herbe et coquelicot Prmier plan colline aux coquelicots_147: -3761198659747150689
+      herbe et coquelicot Prmier plan colline aux coquelicots_148: 9017807821521245582
+      herbe et coquelicot Prmier plan colline aux coquelicots_149: 3096462482697439481
+      herbe et coquelicot Prmier plan colline aux coquelicots_15: 5919163319428321293
+      herbe et coquelicot Prmier plan colline aux coquelicots_150: -8084032062573047988
+      herbe et coquelicot Prmier plan colline aux coquelicots_151: 518875784622143146
+      herbe et coquelicot Prmier plan colline aux coquelicots_152: 2385425393782947994
+      herbe et coquelicot Prmier plan colline aux coquelicots_153: 3088697223615996940
+      herbe et coquelicot Prmier plan colline aux coquelicots_154: 2753495354796181826
+      herbe et coquelicot Prmier plan colline aux coquelicots_155: -189737218255163947
+      herbe et coquelicot Prmier plan colline aux coquelicots_156: -1647497783268469135
+      herbe et coquelicot Prmier plan colline aux coquelicots_157: 3852676189215478729
+      herbe et coquelicot Prmier plan colline aux coquelicots_158: 758503572478663215
+      herbe et coquelicot Prmier plan colline aux coquelicots_159: 5645544796930117286
+      herbe et coquelicot Prmier plan colline aux coquelicots_16: 381063331612760022
+      herbe et coquelicot Prmier plan colline aux coquelicots_160: -2327343717149724414
+      herbe et coquelicot Prmier plan colline aux coquelicots_17: -5342360168478161928
+      herbe et coquelicot Prmier plan colline aux coquelicots_18: 7932185784213508341
+      herbe et coquelicot Prmier plan colline aux coquelicots_19: -6118760615190831026
+      herbe et coquelicot Prmier plan colline aux coquelicots_2: -168361754268719593
+      herbe et coquelicot Prmier plan colline aux coquelicots_20: 6843362776842935958
+      herbe et coquelicot Prmier plan colline aux coquelicots_21: -1351296630225415262
+      herbe et coquelicot Prmier plan colline aux coquelicots_22: 7608257883577968312
+      herbe et coquelicot Prmier plan colline aux coquelicots_23: 2484808173513898897
+      herbe et coquelicot Prmier plan colline aux coquelicots_24: 3271075542927196179
+      herbe et coquelicot Prmier plan colline aux coquelicots_25: -4252811695031859461
+      herbe et coquelicot Prmier plan colline aux coquelicots_26: -6813369708204394845
+      herbe et coquelicot Prmier plan colline aux coquelicots_27: 2532077007944579727
+      herbe et coquelicot Prmier plan colline aux coquelicots_28: 1880868670420721393
+      herbe et coquelicot Prmier plan colline aux coquelicots_29: 8595934839380189347
+      herbe et coquelicot Prmier plan colline aux coquelicots_3: -7414321576501583831
+      herbe et coquelicot Prmier plan colline aux coquelicots_30: 8919799435754669889
+      herbe et coquelicot Prmier plan colline aux coquelicots_31: 4746880121509846189
+      herbe et coquelicot Prmier plan colline aux coquelicots_32: 4207093410389336851
+      herbe et coquelicot Prmier plan colline aux coquelicots_33: -2782105598067842893
+      herbe et coquelicot Prmier plan colline aux coquelicots_34: -8840942759530311240
+      herbe et coquelicot Prmier plan colline aux coquelicots_35: -8031305153567048627
+      herbe et coquelicot Prmier plan colline aux coquelicots_36: -8770861604114564619
+      herbe et coquelicot Prmier plan colline aux coquelicots_37: 2650570412526115159
+      herbe et coquelicot Prmier plan colline aux coquelicots_38: -2622806488124573473
+      herbe et coquelicot Prmier plan colline aux coquelicots_39: 1962058644473386369
+      herbe et coquelicot Prmier plan colline aux coquelicots_4: 7707550170992440390
+      herbe et coquelicot Prmier plan colline aux coquelicots_40: -3635143030144268738
+      herbe et coquelicot Prmier plan colline aux coquelicots_41: -5238296560121917336
+      herbe et coquelicot Prmier plan colline aux coquelicots_42: 8195466039511943588
+      herbe et coquelicot Prmier plan colline aux coquelicots_43: -3714588077022215675
+      herbe et coquelicot Prmier plan colline aux coquelicots_44: 5329378584743232704
+      herbe et coquelicot Prmier plan colline aux coquelicots_45: -1559265245958314970
+      herbe et coquelicot Prmier plan colline aux coquelicots_46: -7954443455585086468
+      herbe et coquelicot Prmier plan colline aux coquelicots_47: -1055590033026202043
+      herbe et coquelicot Prmier plan colline aux coquelicots_48: 1220613510563918624
+      herbe et coquelicot Prmier plan colline aux coquelicots_49: -7812963666894280522
+      herbe et coquelicot Prmier plan colline aux coquelicots_5: -3228256729710541789
+      herbe et coquelicot Prmier plan colline aux coquelicots_50: -8359420155498202367
+      herbe et coquelicot Prmier plan colline aux coquelicots_51: -2340660727404541298
+      herbe et coquelicot Prmier plan colline aux coquelicots_52: 4982977677727911772
+      herbe et coquelicot Prmier plan colline aux coquelicots_53: 5219317632303249524
+      herbe et coquelicot Prmier plan colline aux coquelicots_54: -54592566716448780
+      herbe et coquelicot Prmier plan colline aux coquelicots_55: 1652939101484251850
+      herbe et coquelicot Prmier plan colline aux coquelicots_56: 5143327819462407867
+      herbe et coquelicot Prmier plan colline aux coquelicots_57: -4823529255513051375
+      herbe et coquelicot Prmier plan colline aux coquelicots_58: -6457141556836132169
+      herbe et coquelicot Prmier plan colline aux coquelicots_59: 2705851763598663048
+      herbe et coquelicot Prmier plan colline aux coquelicots_6: -1050598091545249971
+      herbe et coquelicot Prmier plan colline aux coquelicots_60: 8269013692103521304
+      herbe et coquelicot Prmier plan colline aux coquelicots_61: 5736369593691453270
+      herbe et coquelicot Prmier plan colline aux coquelicots_62: -9132225202224257341
+      herbe et coquelicot Prmier plan colline aux coquelicots_63: 747360456476763156
+      herbe et coquelicot Prmier plan colline aux coquelicots_64: -3156156746160421771
+      herbe et coquelicot Prmier plan colline aux coquelicots_65: 3683393925730358757
+      herbe et coquelicot Prmier plan colline aux coquelicots_66: 2914730933523960983
+      herbe et coquelicot Prmier plan colline aux coquelicots_67: -1175341913243448936
+      herbe et coquelicot Prmier plan colline aux coquelicots_68: 2817875314437757951
+      herbe et coquelicot Prmier plan colline aux coquelicots_69: -7213285745647453771
+      herbe et coquelicot Prmier plan colline aux coquelicots_7: -5790389618973394384
+      herbe et coquelicot Prmier plan colline aux coquelicots_70: -656798502487322651
+      herbe et coquelicot Prmier plan colline aux coquelicots_71: 3660460212553314395
+      herbe et coquelicot Prmier plan colline aux coquelicots_72: 7244729732689172607
+      herbe et coquelicot Prmier plan colline aux coquelicots_73: 58021648424463347
+      herbe et coquelicot Prmier plan colline aux coquelicots_74: 6963068978824915415
+      herbe et coquelicot Prmier plan colline aux coquelicots_75: -4397036200117295589
+      herbe et coquelicot Prmier plan colline aux coquelicots_76: 8017482439244318863
+      herbe et coquelicot Prmier plan colline aux coquelicots_77: -5443973858262277216
+      herbe et coquelicot Prmier plan colline aux coquelicots_78: -5372019608250697957
+      herbe et coquelicot Prmier plan colline aux coquelicots_79: 1891521035335371846
+      herbe et coquelicot Prmier plan colline aux coquelicots_8: 4240361921204335151
+      herbe et coquelicot Prmier plan colline aux coquelicots_80: -8614322923813972018
+      herbe et coquelicot Prmier plan colline aux coquelicots_81: 3587954609882516925
+      herbe et coquelicot Prmier plan colline aux coquelicots_82: 8922152109393872509
+      herbe et coquelicot Prmier plan colline aux coquelicots_83: -3576966842038440480
+      herbe et coquelicot Prmier plan colline aux coquelicots_84: 1313877827657197727
+      herbe et coquelicot Prmier plan colline aux coquelicots_85: -345933911698505728
+      herbe et coquelicot Prmier plan colline aux coquelicots_86: 6324017555501034778
+      herbe et coquelicot Prmier plan colline aux coquelicots_87: -3180668868492023829
+      herbe et coquelicot Prmier plan colline aux coquelicots_88: 4585296880133513720
+      herbe et coquelicot Prmier plan colline aux coquelicots_89: -3415737087174457765
+      herbe et coquelicot Prmier plan colline aux coquelicots_9: 6699891616417893291
+      herbe et coquelicot Prmier plan colline aux coquelicots_90: -7971945686222024652
+      herbe et coquelicot Prmier plan colline aux coquelicots_91: -1079105751492940188
+      herbe et coquelicot Prmier plan colline aux coquelicots_92: 1681774741376412122
+      herbe et coquelicot Prmier plan colline aux coquelicots_93: 6176111436654141094
+      herbe et coquelicot Prmier plan colline aux coquelicots_94: 4705681067813969365
+      herbe et coquelicot Prmier plan colline aux coquelicots_95: -8862365226409524667
+      herbe et coquelicot Prmier plan colline aux coquelicots_96: 3256021236310975531
+      herbe et coquelicot Prmier plan colline aux coquelicots_97: 148404203292612863
+      herbe et coquelicot Prmier plan colline aux coquelicots_98: 3848072322885458917
+      herbe et coquelicot Prmier plan colline aux coquelicots_99: 6145522381001969036
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

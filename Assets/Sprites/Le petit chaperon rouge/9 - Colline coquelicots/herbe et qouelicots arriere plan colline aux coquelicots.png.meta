@@ -1,0 +1,416 @@
+fileFormatVersion: 2
+guid: 31cb689bfd0a2d847be4086c4bdd446b
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -1846962528315898890
+    second: herbe et qouelicots arriere plan colline aux coquelicots_0
+  - first:
+      213: 8096431087238482563
+    second: herbe et qouelicots arriere plan colline aux coquelicots_1
+  - first:
+      213: 2759618236282593727
+    second: herbe et qouelicots arriere plan colline aux coquelicots_2
+  - first:
+      213: -6403602323659743387
+    second: herbe et qouelicots arriere plan colline aux coquelicots_3
+  - first:
+      213: 8841201126202571456
+    second: herbe et qouelicots arriere plan colline aux coquelicots_4
+  - first:
+      213: -6060668758601817117
+    second: herbe et qouelicots arriere plan colline aux coquelicots_5
+  - first:
+      213: 1261509627777842006
+    second: herbe et qouelicots arriere plan colline aux coquelicots_6
+  - first:
+      213: 4830884101279529701
+    second: herbe et qouelicots arriere plan colline aux coquelicots_7
+  - first:
+      213: 8140552585875045331
+    second: herbe et qouelicots arriere plan colline aux coquelicots_8
+  - first:
+      213: -9140403585802999920
+    second: herbe et qouelicots arriere plan colline aux coquelicots_9
+  - first:
+      213: 7423801389018370572
+    second: herbe et qouelicots arriere plan colline aux coquelicots_10
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 1
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: herbe et qouelicots arriere plan colline aux coquelicots_0
+      rect:
+        serializedVersion: 2
+        x: 2446
+        y: 401
+        width: 82
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6f3064abd554e56e0800000000000000
+      internalID: -1846962528315898890
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: herbe et qouelicots arriere plan colline aux coquelicots_1
+      rect:
+        serializedVersion: 2
+        x: 2630
+        y: 437
+        width: 29
+        height: 102
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 38a87475d2d4c5070800000000000000
+      internalID: 8096431087238482563
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: herbe et qouelicots arriere plan colline aux coquelicots_2
+      rect:
+        serializedVersion: 2
+        x: 2658
+        y: 445
+        width: 21
+        height: 111
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fb160513a222c4620800000000000000
+      internalID: 2759618236282593727
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: herbe et qouelicots arriere plan colline aux coquelicots_3
+      rect:
+        serializedVersion: 2
+        x: 2677
+        y: 446
+        width: 61
+        height: 81
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 56f15674d95d127a0800000000000000
+      internalID: -6403602323659743387
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: herbe et qouelicots arriere plan colline aux coquelicots_4
+      rect:
+        serializedVersion: 2
+        x: 2725
+        y: 386
+        width: 58
+        height: 113
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0ca7613e49142ba70800000000000000
+      internalID: 8841201126202571456
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: herbe et qouelicots arriere plan colline aux coquelicots_5
+      rect:
+        serializedVersion: 2
+        x: 2757
+        y: 384
+        width: 54
+        height: 87
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3e32b36ffdd24eba0800000000000000
+      internalID: -6060668758601817117
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: herbe et qouelicots arriere plan colline aux coquelicots_6
+      rect:
+        serializedVersion: 2
+        x: 1315
+        y: 200
+        width: 57
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 65bfe6c9258c18110800000000000000
+      internalID: 1261509627777842006
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: herbe et qouelicots arriere plan colline aux coquelicots_7
+      rect:
+        serializedVersion: 2
+        x: 2549
+        y: 232
+        width: 43
+        height: 119
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5ea39d7be7fba0340800000000000000
+      internalID: 4830884101279529701
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: herbe et qouelicots arriere plan colline aux coquelicots_8
+      rect:
+        serializedVersion: 2
+        x: 2580
+        y: 238
+        width: 40
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3db3874427d09f070800000000000000
+      internalID: 8140552585875045331
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: herbe et qouelicots arriere plan colline aux coquelicots_9
+      rect:
+        serializedVersion: 2
+        x: 2686
+        y: 289
+        width: 110
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 097618cdd53c62180800000000000000
+      internalID: -9140403585802999920
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: herbe et qouelicots arriere plan colline aux coquelicots_10
+      rect:
+        serializedVersion: 2
+        x: 1263
+        y: 201
+        width: 44
+        height: 84
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c02dd73c704a60760800000000000000
+      internalID: 7423801389018370572
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      herbe et qouelicots arriere plan colline aux coquelicots_0: -1846962528315898890
+      herbe et qouelicots arriere plan colline aux coquelicots_1: 8096431087238482563
+      herbe et qouelicots arriere plan colline aux coquelicots_10: 7423801389018370572
+      herbe et qouelicots arriere plan colline aux coquelicots_2: 2759618236282593727
+      herbe et qouelicots arriere plan colline aux coquelicots_3: -6403602323659743387
+      herbe et qouelicots arriere plan colline aux coquelicots_4: 8841201126202571456
+      herbe et qouelicots arriere plan colline aux coquelicots_5: -6060668758601817117
+      herbe et qouelicots arriere plan colline aux coquelicots_6: 1261509627777842006
+      herbe et qouelicots arriere plan colline aux coquelicots_7: 4830884101279529701
+      herbe et qouelicots arriere plan colline aux coquelicots_8: 8140552585875045331
+      herbe et qouelicots arriere plan colline aux coquelicots_9: -9140403585802999920
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
