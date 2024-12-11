@@ -29,12 +29,15 @@ public class ParallaxManager : MonoBehaviour, IParallax
     public void onParallaxDeclaration(ParallaxLayer parallax)
     {
         parallaxLayers.Add(parallax);
+        Debug.Log($"{parallaxLayers.Count} parallax layers");
     }
 
-    public Vector2 getParallaxOffset(ParallaxLayer layer)
+
+    private Vector2 getParallaxOffset(ParallaxLayer layer)
     {
-        var deltaPos = content.anchoredPosition.x + layer.parent.anchoredPosition.x - firstScene.anchoredPosition.x + layer.sceneOffset;
+        var deltaPos = content.anchoredPosition.x + layer.parent.anchoredPosition.x + layer.sceneOffset - layer.parent.rect.width * 0.5f;
         var parallaxIntensity = parallaxCoeff * layer.rectTransform.anchoredPosition3D.z;
+        
         return deltaPos * parallaxIntensity * Vector2.right;
     }
 
