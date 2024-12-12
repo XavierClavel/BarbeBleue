@@ -11,6 +11,7 @@ public class ParallaxManager : MonoBehaviour, IParallax
     [SerializeField] RectTransform firstScene;
     public static ParallaxManager instance;
     private List<ParallaxLayer> parallaxLayers = new List<ParallaxLayer>();
+    private List<ParallaxAction> parallaxActions = new List<ParallaxAction>();
     private Dictionary<ParallaxLayer, bool> inProcess = new Dictionary<ParallaxLayer, bool>();
     public float offset = 0;
     
@@ -22,6 +23,7 @@ public class ParallaxManager : MonoBehaviour, IParallax
     private void Awake()
     {
         EventManagers.parallax.registerListener(this);
+        EventManagers.parallaxActions.registerListener(this);
         instance = this;
         StartCoroutine(nameof(occlusionCallingCoroutine));
     }
@@ -30,6 +32,12 @@ public class ParallaxManager : MonoBehaviour, IParallax
     {
         parallaxLayers.Add(parallax);
         Debug.Log($"{parallaxLayers.Count} parallax layers");
+    }
+
+    public void onParallaxActionDeclaration(ParallaxAction parallax)
+    {
+        parallaxActions.Add(parallax);
+        Debug.Log($"{parallaxActions.Count} parallax actions");
     }
 
 
@@ -48,6 +56,28 @@ public class ParallaxManager : MonoBehaviour, IParallax
             manageOcclusionCulling(it);
             updatePosition(it);
         });
+        
+        parallaxActions.ForEach(it =>
+        {
+            doParallaxActions(it);
+        });
+    }
+
+    private void doParallaxActions(ParallaxAction action)
+    {
+        if (!action.gameObject.activeInHierarchy) return;
+        var distanceToCamera = content.anchoredPosition.x + action.parent.anchoredPosition.x + action.sceneOffset - Screen.width * 0.5f;
+        var distanceToCameraPix = distanceToCamera / Screen.width;
+        var ratio =  0.5f + (distanceToCameraPix * action.rt.rect.width / Screen.width) / 2f;
+
+        var value = action.startValue + Mathf.Clamp01(ratio) * (action.endValue - action.startValue);
+
+        switch (action.type)
+        {
+            case actionType.LocalRotate:
+                action.actuator.localEulerAngles = value * Vector3.forward;
+                break;
+        }
     }
 
     private void manageOcclusionCulling(ParallaxLayer layer)
