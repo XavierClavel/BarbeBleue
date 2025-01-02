@@ -5,6 +5,7 @@ public enum actionType
 {
     GlobalRotate,
     LocalRotate,
+    Sinusoid,
 }
 
 public class ParallaxAction : MonoBehaviour
@@ -18,6 +19,7 @@ public class ParallaxAction : MonoBehaviour
     
     [HideInInspector] public RectTransform parent;
     [HideInInspector] public float sceneOffset = 0f;
+    private Vector3 basePosition;
     
     
     
@@ -36,9 +38,15 @@ public class ParallaxAction : MonoBehaviour
             parent = parent.parent.GetComponent<RectTransform>();
         }
         
+        
+        
         switch (type)
         {
             case actionType.GlobalRotate:
+                rt.DOLocalRotate(360f * Vector3.forward, duration, RotateMode.FastBeyond360).SetLoops(-1).SetEase(Ease.Linear);
+                return;
+            
+            case actionType.Sinusoid:
                 rt.DOLocalRotate(360f * Vector3.forward, duration, RotateMode.FastBeyond360).SetLoops(-1).SetEase(Ease.Linear);
                 return;
         }
