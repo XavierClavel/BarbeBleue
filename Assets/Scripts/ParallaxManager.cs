@@ -85,6 +85,10 @@ public class ParallaxManager : MonoBehaviour, IParallax
             case actionType.LocalYSinusoid:
                 action.actuator.localPosition = action.basePosition + (float)Math.Sin(ratio * action.magnitude + action.offset) * action.amplitude * Vector3.up;
                 break;
+            
+            case actionType.LocalYTranslate:
+                action.actuator.localPosition = action.basePosition + value * Vector3.up;
+                break;
         }
     }
 

@@ -1760,9 +1760,9 @@ MonoBehaviour:
   duration: 0
   startValue: 0
   endValue: 0
-  magnitude: 10
-  amplitude: 10
-  offset: 0
+  magnitude: 17
+  amplitude: 15
+  offset: 20
   parent: {fileID: 0}
   sceneOffset: 0
   basePosition: {x: 0, y: 0, z: 0}
@@ -5016,8 +5016,8 @@ MonoBehaviour:
   startValue: 0
   endValue: 0
   magnitude: 10
-  amplitude: 10
-  offset: 0
+  amplitude: 60
+  offset: 10
   parent: {fileID: 0}
   sceneOffset: 0
   basePosition: {x: 0, y: 0, z: 0}
@@ -6519,6 +6519,7 @@ GameObject:
   - component: {fileID: 797542186}
   - component: {fileID: 797542189}
   - component: {fileID: 797542188}
+  - component: {fileID: 797542190}
   m_Layer: 5
   m_Name: Wolf right
   m_TagString: Untagged
@@ -6583,6 +6584,30 @@ CanvasRenderer:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 797542185}
   m_CullTransparentMesh: 1
+--- !u!114 &797542190
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 797542185}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 5d263de1ff8bed34e9e51fe59be8c123, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  type: 4
+  rt: {fileID: 0}
+  actuator: {fileID: 0}
+  duration: 0
+  startValue: -40
+  endValue: 40
+  magnitude: 0
+  amplitude: 0
+  offset: 0
+  parent: {fileID: 0}
+  sceneOffset: 0
+  basePosition: {x: 0, y: 0, z: 0}
 --- !u!1 &809074736
 GameObject:
   m_ObjectHideFlags: 0
@@ -8412,9 +8437,9 @@ MonoBehaviour:
   duration: 0
   startValue: 0
   endValue: 0
-  magnitude: 10
-  amplitude: 10
-  offset: 0
+  magnitude: 15
+  amplitude: 20
+  offset: 5
   parent: {fileID: 0}
   sceneOffset: 0
   basePosition: {x: 0, y: 0, z: 0}
@@ -17471,9 +17496,9 @@ MonoBehaviour:
   duration: 0
   startValue: 0
   endValue: 0
-  magnitude: 10
-  amplitude: 10
-  offset: 0
+  magnitude: 15
+  amplitude: 25
+  offset: 15
   parent: {fileID: 0}
   sceneOffset: 0
   basePosition: {x: 0, y: 0, z: 0}

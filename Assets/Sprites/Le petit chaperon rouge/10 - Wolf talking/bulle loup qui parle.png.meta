@@ -5,12 +5,6 @@ TextureImporter:
   - first:
       213: -1686416544500769862
     second: bulle loup qui parle_0
-  - first:
-      213: -6871238925879765470
-    second: bulle loup qui parle_1
-  - first:
-      213: -1168622158186980990
-    second: bulle loup qui parle_2
   externalObjects: {}
   serializedVersion: 13
   mipmaps:
@@ -78,7 +72,7 @@ TextureImporter:
   platformSettings:
   - serializedVersion: 4
     buildTarget: DefaultTexturePlatform
-    maxTextureSize: 4096
+    maxTextureSize: 2048
     resizeAlgorithm: 0
     textureFormat: -1
     textureCompression: 1
@@ -115,6 +109,19 @@ TextureImporter:
     ignorePlatformSupport: 0
     androidETC2FallbackOverride: 0
     forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
   spriteSheet:
     serializedVersion: 2
     sprites:
@@ -140,50 +147,6 @@ TextureImporter:
       indices: 
       edges: []
       weights: []
-    - serializedVersion: 2
-      name: bulle loup qui parle_1
-      rect:
-        serializedVersion: 2
-        x: 3103
-        y: 30
-        width: 16
-        height: 36
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 22699103a9474a0a0800000000000000
-      internalID: -6871238925879765470
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: bulle loup qui parle_2
-      rect:
-        serializedVersion: 2
-        x: 3146
-        y: 29
-        width: 15
-        height: 28
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 2895d98b65838cfe0800000000000000
-      internalID: -1168622158186980990
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     outline: []
     customData: 
     physicsShape: []
@@ -199,8 +162,6 @@ TextureImporter:
       entries: []
     nameFileIdTable:
       bulle loup qui parle_0: -1686416544500769862
-      bulle loup qui parle_1: -6871238925879765470
-      bulle loup qui parle_2: -1168622158186980990
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

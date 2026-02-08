@@ -7,6 +7,7 @@ public enum actionType
     LocalRotate,
     Sinusoid,
     LocalYSinusoid,
+    LocalYTranslate,
 }
 
 public class ParallaxAction : MonoBehaviour
