@@ -6,6 +6,7 @@ public enum actionType
     GlobalRotate,
     LocalRotate,
     Sinusoid,
+    LocalYSinusoid,
 }
 
 public class ParallaxAction : MonoBehaviour
@@ -16,10 +17,12 @@ public class ParallaxAction : MonoBehaviour
     [SerializeField] private float duration;
     [SerializeField] public float startValue;
     [SerializeField] public float endValue;
-    
+    [SerializeField] public float magnitude;
+    [SerializeField] public float amplitude;
+    [SerializeField] public float offset;
     [HideInInspector] public RectTransform parent;
     [HideInInspector] public float sceneOffset = 0f;
-    private Vector3 basePosition;
+    [HideInInspector] public Vector3 basePosition;
     
     
     
@@ -28,6 +31,7 @@ public class ParallaxAction : MonoBehaviour
     {
         actuator = GetComponent<RectTransform>();
         rt = GetComponent<RectTransform>();
+        basePosition = rt.localPosition;
         parent = rt.parent.GetComponent<RectTransform>();
         while (parent.gameObject.name == "Mask" || 
                parent.gameObject.name.StartsWith("Offset") ||

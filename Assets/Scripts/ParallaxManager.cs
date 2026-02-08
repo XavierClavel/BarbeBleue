@@ -81,6 +81,10 @@ public class ParallaxManager : MonoBehaviour, IParallax
             case actionType.LocalRotate:
                 action.actuator.localEulerAngles = value * Vector3.forward;
                 break;
+            
+            case actionType.LocalYSinusoid:
+                action.actuator.localPosition = action.basePosition + (float)Math.Sin(ratio * action.magnitude + action.offset) * action.amplitude * Vector3.up;
+                break;
         }
     }
 
