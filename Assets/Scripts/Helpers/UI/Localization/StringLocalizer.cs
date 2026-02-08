@@ -46,6 +46,8 @@ public class StringLocalizer : MonoBehaviour, ILocalized
         {
             textDisplay.font = DataManager.dictKeyToFont[keyFont];
         }
+
+        textDisplay.fontSize = DataManager.dictKeyToSize[keyFont];
     }
 
     private void UpdateKey()

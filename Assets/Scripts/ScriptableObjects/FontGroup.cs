@@ -12,8 +12,10 @@ public class FontGroup : ScriptableObject
 {
     [SerializeField] private fontKey key;
     [SerializeField] private TMP_FontAsset font;
+    [SerializeField] private int size;
 
     public fontKey getKey() => key;
     public TMP_FontAsset getFont() => font;
+    public int getSize() => size;
 
 }

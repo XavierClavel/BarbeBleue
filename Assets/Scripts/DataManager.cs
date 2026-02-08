@@ -7,6 +7,7 @@ public static class DataManager
 
     public static Dictionary<string, LocalizedString> dictLocalization = new Dictionary<string, LocalizedString>();
     public static Dictionary<fontKey, TMP_FontAsset> dictKeyToFont = new Dictionary<fontKey, TMP_FontAsset>();
+    public static Dictionary<fontKey, int> dictKeyToSize = new Dictionary<fontKey, int>();
     private static bool initialized = false;
 
     
@@ -24,6 +25,7 @@ public static class DataManager
         foreach (var data in Resources.LoadAll<FontGroup>("FontGroups/"))
         {
             dictKeyToFont[data.getKey()] = data.getFont();
+            dictKeyToSize[data.getKey()] = data.getSize();
         }
         initialized = true;
     }

@@ -13,4 +13,5 @@ MonoBehaviour:
   m_Name: Le petit chaperon rouge
   m_EditorClassIdentifier: 
   key: 1
-  font: {fileID: 11400000, guid: 4c564b765628815409e63920dc029fa8, type: 2}
+  font: {fileID: 11400000, guid: decf92db4af93c742addc4aade65c26f, type: 2}
+  size: 60
