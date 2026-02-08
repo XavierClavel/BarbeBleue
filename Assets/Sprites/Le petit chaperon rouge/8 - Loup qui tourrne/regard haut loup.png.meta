@@ -1,13 +1,10 @@
 fileFormatVersion: 2
-guid: 67b00bf353b804b42b072f588ef1471b
+guid: 112e6071e8e519243b54726543bd6cbd
 TextureImporter:
   internalIDToNameTable:
   - first:
-      213: 4353341264117424151
-    second: Loup qui court colline rouge V2_0
-  - first:
-      213: 1390042024091474518
-    second: Loup qui court colline rouge V2_1
+      213: -4454008080439301555
+    second: regard haut loup_0
   externalObjects: {}
   serializedVersion: 13
   mipmaps:
@@ -129,13 +126,13 @@ TextureImporter:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: Loup qui court colline rouge V2_0
+      name: regard haut loup_0
       rect:
         serializedVersion: 2
-        x: 2896
-        y: 122
-        width: 1954
-        height: 958
+        x: 614
+        y: 335
+        width: 298
+        height: 232
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -144,30 +141,8 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 710e4c190dc2a6c30800000000000000
-      internalID: 4353341264117424151
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Loup qui court colline rouge V2_1
-      rect:
-        serializedVersion: 2
-        x: 3770
-        y: 8
-        width: 118
-        height: 189
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 65a56dc2bdb6a4310800000000000000
-      internalID: 1390042024091474518
+      spriteID: d4a22bacf3f2032c0800000000000000
+      internalID: -4454008080439301555
       vertices: []
       indices: 
       edges: []
@@ -186,8 +161,7 @@ TextureImporter:
     spriteCustomMetadata:
       entries: []
     nameFileIdTable:
-      Loup qui court colline rouge V2_0: 4353341264117424151
-      Loup qui court colline rouge V2_1: 1390042024091474518
+      regard haut loup_0: -4454008080439301555
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

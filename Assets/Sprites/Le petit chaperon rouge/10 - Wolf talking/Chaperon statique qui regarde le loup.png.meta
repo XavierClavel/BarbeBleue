@@ -1,10 +1,10 @@
 fileFormatVersion: 2
-guid: a7f091a1f73b14a4f9eb29bc97f36c80
+guid: 177bbd469c85fec45840930f34851bf4
 TextureImporter:
   internalIDToNameTable:
   - first:
-      213: -1419153949580255099
-    second: petit chaperon rouge qui regarde le loup_0
+      213: 4965248044395986119
+    second: Chaperon statique qui regarde le loup_0
   externalObjects: {}
   serializedVersion: 13
   mipmaps:
@@ -109,17 +109,30 @@ TextureImporter:
     ignorePlatformSupport: 0
     androidETC2FallbackOverride: 0
     forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
   spriteSheet:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: petit chaperon rouge qui regarde le loup_0
+      name: Chaperon statique qui regarde le loup_0
       rect:
         serializedVersion: 2
-        x: 1892
-        y: 209
-        width: 311
-        height: 645
+        x: 3076
+        y: 17
+        width: 118
+        height: 228
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -128,8 +141,8 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 5802da970072e4ce0800000000000000
-      internalID: -1419153949580255099
+      spriteID: 7ccfce31aca18e440800000000000000
+      internalID: 4965248044395986119
       vertices: []
       indices: 
       edges: []
@@ -148,7 +161,7 @@ TextureImporter:
     spriteCustomMetadata:
       entries: []
     nameFileIdTable:
-      petit chaperon rouge qui regarde le loup_0: -1419153949580255099
+      Chaperon statique qui regarde le loup_0: 4965248044395986119
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

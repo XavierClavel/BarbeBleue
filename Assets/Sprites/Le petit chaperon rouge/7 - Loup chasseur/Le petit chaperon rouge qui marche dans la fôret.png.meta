@@ -1,10 +1,13 @@
 fileFormatVersion: 2
-guid: 9d4385b6bd102bd49988676552c121a1
+guid: 0eb21ecd3a1c9f141bcab0e2681ff13a
 TextureImporter:
   internalIDToNameTable:
   - first:
-      213: 3651157200014514153
-    second: Le petit chaperon rouge marche_0
+      213: -6128214905556501646
+    second: "Le petit chaperon rouge qui marche dans la fo\u0302ret_0"
+  - first:
+      213: -952566560139738531
+    second: "Le petit chaperon rouge qui marche dans la fo\u0302ret_1"
   externalObjects: {}
   serializedVersion: 13
   mipmaps:
@@ -72,7 +75,7 @@ TextureImporter:
   platformSettings:
   - serializedVersion: 4
     buildTarget: DefaultTexturePlatform
-    maxTextureSize: 2048
+    maxTextureSize: 4096
     resizeAlgorithm: 0
     textureFormat: -1
     textureCompression: 1
@@ -126,13 +129,13 @@ TextureImporter:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: Le petit chaperon rouge marche_0
+      name: "Le petit chaperon rouge qui marche dans la fo\u0302ret_0"
       rect:
         serializedVersion: 2
-        x: 494
-        y: 0
-        width: 234
-        height: 414
+        x: 193
+        y: 73
+        width: 382
+        height: 540
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -141,8 +144,30 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 9e799f5f0248ba230800000000000000
-      internalID: 3651157200014514153
+      spriteID: 27bfc07130534faa0800000000000000
+      internalID: -6128214905556501646
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Le petit chaperon rouge qui marche dans la fo\u0302ret_1"
+      rect:
+        serializedVersion: 2
+        x: 569
+        y: 156
+        width: 67
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d5284fda2cdc7c2f0800000000000000
+      internalID: -952566560139738531
       vertices: []
       indices: 
       edges: []
@@ -161,7 +186,8 @@ TextureImporter:
     spriteCustomMetadata:
       entries: []
     nameFileIdTable:
-      Le petit chaperon rouge marche_0: 3651157200014514153
+      "Le petit chaperon rouge qui marche dans la fo\u0302ret_0": -6128214905556501646
+      "Le petit chaperon rouge qui marche dans la fo\u0302ret_1": -952566560139738531
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 
