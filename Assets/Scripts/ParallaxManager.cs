@@ -9,6 +9,7 @@ public class ParallaxManager : MonoBehaviour, IParallax
 {
     [SerializeField] RectTransform content;
     [SerializeField] RectTransform firstScene;
+    [SerializeField] private Canvas canvas;
     public static ParallaxManager instance;
     private List<ParallaxLayer> parallaxLayers = new List<ParallaxLayer>();
     private List<ParallaxAction> parallaxActions = new List<ParallaxAction>();
@@ -18,6 +19,7 @@ public class ParallaxManager : MonoBehaviour, IParallax
     private const float parallaxCoeff = 0.005f;
     private const float occlusionCullingBuffer = 1000f;
     private const float fallbackBuffer = 800f;
+    private RectTransform canvasRT;
     
     // Start is called before the first frame update
     private void Awake()
@@ -26,6 +28,7 @@ public class ParallaxManager : MonoBehaviour, IParallax
         EventManagers.parallaxActions.registerListener(this);
         instance = this;
         StartCoroutine(nameof(occlusionCallingCoroutine));
+        canvasRT = canvas.GetComponent<RectTransform>();
     }
 
     public void onParallaxDeclaration(ParallaxLayer parallax)
@@ -66,9 +69,10 @@ public class ParallaxManager : MonoBehaviour, IParallax
     private void doParallaxActions(ParallaxAction action)
     {
         if (!action.gameObject.activeInHierarchy) return;
-        var distanceToCamera = content.anchoredPosition.x + action.parent.anchoredPosition.x + action.sceneOffset - Screen.width * 0.5f;
-        var distanceToCameraPix = distanceToCamera / Screen.width;
-        var ratio =  0.5f + (distanceToCameraPix * action.rt.rect.width / Screen.width) / 2f;
+        var distanceToCamera = content.anchoredPosition.x + action.rt.anchoredPosition.x + action.parent.anchoredPosition.x + action.sceneOffset - Screen.width * 0.5f;
+        var distanceToCameraPix = 0.5f + distanceToCamera / Screen.width;
+        var objectSize = action.rt.rect.width / canvasRT.rect.width;
+        var ratio = (distanceToCameraPix + 0.5f * objectSize) / (1f + objectSize);
 
         var value = action.startValue + Mathf.Clamp01(ratio) * (action.endValue - action.startValue);
 

@@ -27,7 +27,7 @@ public class ParallaxAction : MonoBehaviour
     void Start()
     {
         actuator = GetComponent<RectTransform>();
-        rt = transform.parent.GetComponent<RectTransform>();
+        rt = GetComponent<RectTransform>();
         parent = rt.parent.GetComponent<RectTransform>();
         while (parent.gameObject.name == "Mask" || 
                parent.gameObject.name.StartsWith("Offset") ||

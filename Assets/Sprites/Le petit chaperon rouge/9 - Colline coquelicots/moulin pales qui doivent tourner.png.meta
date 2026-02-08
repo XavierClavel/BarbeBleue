@@ -1,10 +1,10 @@
 fileFormatVersion: 2
-guid: 0f6d99bc82b2caa439455fa8723bed3d
+guid: 441ddefa23e6aae4abe272670c1e974d
 TextureImporter:
   internalIDToNameTable:
   - first:
-      213: -2795421276406216694
-    second: moulin arriere plan colline aux coquelicots_0
+      213: -8735301946932892370
+    second: moulin pales qui doivent tourner_0
   externalObjects: {}
   serializedVersion: 13
   mipmaps:
@@ -46,7 +46,7 @@ TextureImporter:
   nPOTScale: 0
   lightmap: 0
   compressionQuality: 50
-  spriteMode: 1
+  spriteMode: 2
   spriteExtrude: 1
   spriteMeshType: 1
   alignment: 0
@@ -72,7 +72,7 @@ TextureImporter:
   platformSettings:
   - serializedVersion: 4
     buildTarget: DefaultTexturePlatform
-    maxTextureSize: 4096
+    maxTextureSize: 2048
     resizeAlgorithm: 0
     textureFormat: -1
     textureCompression: 1
@@ -109,27 +109,40 @@ TextureImporter:
     ignorePlatformSupport: 0
     androidETC2FallbackOverride: 0
     forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
   spriteSheet:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: moulin arriere plan colline aux coquelicots_0
+      name: moulin pales qui doivent tourner_0
       rect:
         serializedVersion: 2
-        x: 2260
-        y: 539
-        width: 338
-        height: 534
+        x: 2218
+        y: 637
+        width: 386
+        height: 438
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: a080d3ee82ba439d0800000000000000
-      internalID: -2795421276406216694
+      spriteID: e2d694f2929f5c680800000000000000
+      internalID: -8735301946932892370
       vertices: []
       indices: 
       edges: []
@@ -138,7 +151,7 @@ TextureImporter:
     customData: 
     physicsShape: []
     bones: []
-    spriteID: 5e97eb03825dee720800000000000000
+    spriteID: 814a527c0ddb54242bf66ff9eb0d3395
     internalID: 0
     vertices: []
     indices: 
@@ -148,7 +161,7 @@ TextureImporter:
     spriteCustomMetadata:
       entries: []
     nameFileIdTable:
-      moulin arriere plan colline aux coquelicots_0: -2795421276406216694
+      moulin pales qui doivent tourner_0: -8735301946932892370
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 
