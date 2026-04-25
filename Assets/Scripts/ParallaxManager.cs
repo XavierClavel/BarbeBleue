@@ -34,7 +34,6 @@ public class ParallaxManager : MonoBehaviour, IParallax
     public void onParallaxDeclaration(ParallaxLayer parallax)
     {
         parallaxLayers.Add(parallax);
-        Debug.Log($"{parallaxLayers.Count} parallax layers");
     }
 
     public void onParallaxActionDeclaration(ParallaxAction parallax)
@@ -117,7 +116,7 @@ public class ParallaxManager : MonoBehaviour, IParallax
     private void updatePosition(ParallaxLayer layer)
     {
         if (!layer.gameObject.activeInHierarchy) return;
-        layer.rectTransform.anchoredPosition = getParallaxOffset(layer);
+        layer.applyParallaxOffset(getParallaxOffset(layer));
     }
 
     private IEnumerator occlusionCallingCoroutine()

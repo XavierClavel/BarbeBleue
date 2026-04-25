@@ -12,6 +12,7 @@ public class ParallaxLayer : MonoBehaviour
     [HideInInspector] public RectTransform parent;
     private bool initialized = false;
     [HideInInspector] public float sceneOffset = 0f;
+    private Vector2 startPos;
 
     private void Awake()
     {
@@ -25,6 +26,14 @@ public class ParallaxLayer : MonoBehaviour
             sceneOffset += parent.anchoredPosition.x;
             parent = parent.parent.GetComponent<RectTransform>();
         }
+
+        startPos = rectTransform.position;
+    }
+
+    public void applyParallaxOffset(Vector2 delta)
+    {
+        //rectTransform.anchoredPosition = startPos + delta;
+        rectTransform.anchoredPosition = delta;
     }
     
 
