@@ -1,0 +1,4797 @@
+fileFormatVersion: 2
+guid: d3d5f1dd99817e641b725725f4c465d5
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -281512279493410515
+    second: tache de sang loup qui attaque_0
+  - first:
+      213: -6995977925197758636
+    second: tache de sang loup qui attaque_1
+  - first:
+      213: 5436736987214125904
+    second: tache de sang loup qui attaque_2
+  - first:
+      213: -4335517127696165391
+    second: tache de sang loup qui attaque_3
+  - first:
+      213: -986391253731105933
+    second: tache de sang loup qui attaque_4
+  - first:
+      213: 2519530363938635212
+    second: tache de sang loup qui attaque_5
+  - first:
+      213: -3585261576922102470
+    second: tache de sang loup qui attaque_6
+  - first:
+      213: 3249701518632795783
+    second: tache de sang loup qui attaque_7
+  - first:
+      213: 7504604780294386211
+    second: tache de sang loup qui attaque_8
+  - first:
+      213: 7120403982000315499
+    second: tache de sang loup qui attaque_9
+  - first:
+      213: 5645248021685479852
+    second: tache de sang loup qui attaque_10
+  - first:
+      213: 1974870536990613320
+    second: tache de sang loup qui attaque_11
+  - first:
+      213: 6307572009294016374
+    second: tache de sang loup qui attaque_12
+  - first:
+      213: 287947349337261404
+    second: tache de sang loup qui attaque_13
+  - first:
+      213: -4190012099519331919
+    second: tache de sang loup qui attaque_14
+  - first:
+      213: 8901020341963614715
+    second: tache de sang loup qui attaque_15
+  - first:
+      213: 8642686787781614651
+    second: tache de sang loup qui attaque_16
+  - first:
+      213: -6074211444993737085
+    second: tache de sang loup qui attaque_17
+  - first:
+      213: 7339548250715578780
+    second: tache de sang loup qui attaque_18
+  - first:
+      213: 482362536273777696
+    second: tache de sang loup qui attaque_19
+  - first:
+      213: 3904111108695892552
+    second: tache de sang loup qui attaque_20
+  - first:
+      213: 3536114368376377180
+    second: tache de sang loup qui attaque_21
+  - first:
+      213: 3488129209504672363
+    second: tache de sang loup qui attaque_22
+  - first:
+      213: 9039586506017861530
+    second: tache de sang loup qui attaque_23
+  - first:
+      213: -8983244307180122198
+    second: tache de sang loup qui attaque_24
+  - first:
+      213: 3088093365562972229
+    second: tache de sang loup qui attaque_25
+  - first:
+      213: 6030547912584678829
+    second: tache de sang loup qui attaque_26
+  - first:
+      213: -606613532935265141
+    second: tache de sang loup qui attaque_27
+  - first:
+      213: -6664928014527689661
+    second: tache de sang loup qui attaque_28
+  - first:
+      213: -1441075705192694430
+    second: tache de sang loup qui attaque_29
+  - first:
+      213: -8346253247579316449
+    second: tache de sang loup qui attaque_30
+  - first:
+      213: 2016917709082337755
+    second: tache de sang loup qui attaque_31
+  - first:
+      213: 5054782835219594602
+    second: tache de sang loup qui attaque_32
+  - first:
+      213: 360730381571314558
+    second: tache de sang loup qui attaque_33
+  - first:
+      213: 925192811015078353
+    second: tache de sang loup qui attaque_34
+  - first:
+      213: -8477393435611023812
+    second: tache de sang loup qui attaque_35
+  - first:
+      213: 5053802497691341653
+    second: tache de sang loup qui attaque_36
+  - first:
+      213: 6561358005986583714
+    second: tache de sang loup qui attaque_37
+  - first:
+      213: -9029372745353166955
+    second: tache de sang loup qui attaque_38
+  - first:
+      213: 5252520213682488174
+    second: tache de sang loup qui attaque_39
+  - first:
+      213: -3217795548012409612
+    second: tache de sang loup qui attaque_40
+  - first:
+      213: -1675930590912101337
+    second: tache de sang loup qui attaque_41
+  - first:
+      213: 7274316547061398841
+    second: tache de sang loup qui attaque_42
+  - first:
+      213: -4129624564583774830
+    second: tache de sang loup qui attaque_43
+  - first:
+      213: 2743974842490391603
+    second: tache de sang loup qui attaque_44
+  - first:
+      213: 7685955608208156439
+    second: tache de sang loup qui attaque_45
+  - first:
+      213: 7912984211255440557
+    second: tache de sang loup qui attaque_46
+  - first:
+      213: 835168940889906792
+    second: tache de sang loup qui attaque_47
+  - first:
+      213: -565615193604020134
+    second: tache de sang loup qui attaque_48
+  - first:
+      213: -7455980601832368126
+    second: tache de sang loup qui attaque_49
+  - first:
+      213: 8303617340144934139
+    second: tache de sang loup qui attaque_50
+  - first:
+      213: -6358190542953786364
+    second: tache de sang loup qui attaque_51
+  - first:
+      213: 229575422120442979
+    second: tache de sang loup qui attaque_52
+  - first:
+      213: 2467155412518835112
+    second: tache de sang loup qui attaque_53
+  - first:
+      213: -4766908611391913690
+    second: tache de sang loup qui attaque_54
+  - first:
+      213: -2391947191077113919
+    second: tache de sang loup qui attaque_55
+  - first:
+      213: -5765357497707322128
+    second: tache de sang loup qui attaque_56
+  - first:
+      213: -5313816019752297135
+    second: tache de sang loup qui attaque_57
+  - first:
+      213: -7415518510567417895
+    second: tache de sang loup qui attaque_58
+  - first:
+      213: -6210798309967538515
+    second: tache de sang loup qui attaque_59
+  - first:
+      213: 5087837480285539233
+    second: tache de sang loup qui attaque_60
+  - first:
+      213: 2600317638485205298
+    second: tache de sang loup qui attaque_61
+  - first:
+      213: 4284040599938081510
+    second: tache de sang loup qui attaque_62
+  - first:
+      213: 2578897641833886469
+    second: tache de sang loup qui attaque_63
+  - first:
+      213: 3757485448560893700
+    second: tache de sang loup qui attaque_64
+  - first:
+      213: 4321921490179922871
+    second: tache de sang loup qui attaque_65
+  - first:
+      213: 308352784179075613
+    second: tache de sang loup qui attaque_66
+  - first:
+      213: 5030499842256146044
+    second: tache de sang loup qui attaque_67
+  - first:
+      213: -5920782283747540899
+    second: tache de sang loup qui attaque_68
+  - first:
+      213: -2515463585481949099
+    second: tache de sang loup qui attaque_69
+  - first:
+      213: 2565183268931163044
+    second: tache de sang loup qui attaque_70
+  - first:
+      213: -1241541876164917411
+    second: tache de sang loup qui attaque_71
+  - first:
+      213: 6186498801433112553
+    second: tache de sang loup qui attaque_72
+  - first:
+      213: 9182259288000198853
+    second: tache de sang loup qui attaque_73
+  - first:
+      213: 1157739223711717632
+    second: tache de sang loup qui attaque_74
+  - first:
+      213: 6281509071856400924
+    second: tache de sang loup qui attaque_75
+  - first:
+      213: 5812434169072791831
+    second: tache de sang loup qui attaque_76
+  - first:
+      213: -524104607467922855
+    second: tache de sang loup qui attaque_77
+  - first:
+      213: 8130701894116824470
+    second: tache de sang loup qui attaque_78
+  - first:
+      213: -4371000212688439192
+    second: tache de sang loup qui attaque_79
+  - first:
+      213: -5617503663312603087
+    second: tache de sang loup qui attaque_80
+  - first:
+      213: -1104746589536001432
+    second: tache de sang loup qui attaque_81
+  - first:
+      213: -616195365155208538
+    second: tache de sang loup qui attaque_82
+  - first:
+      213: 3200440746929677975
+    second: tache de sang loup qui attaque_83
+  - first:
+      213: 5968403009318967615
+    second: tache de sang loup qui attaque_84
+  - first:
+      213: 5577794605216162352
+    second: tache de sang loup qui attaque_85
+  - first:
+      213: -5894656539109205152
+    second: tache de sang loup qui attaque_86
+  - first:
+      213: 5265722833753056721
+    second: tache de sang loup qui attaque_87
+  - first:
+      213: 7513885726970604189
+    second: tache de sang loup qui attaque_88
+  - first:
+      213: -6836569740219785634
+    second: tache de sang loup qui attaque_89
+  - first:
+      213: 5192728132583244913
+    second: tache de sang loup qui attaque_90
+  - first:
+      213: 2248789155344997481
+    second: tache de sang loup qui attaque_91
+  - first:
+      213: -3933156134708779177
+    second: tache de sang loup qui attaque_92
+  - first:
+      213: 5080878587806496463
+    second: tache de sang loup qui attaque_93
+  - first:
+      213: -600083029842434326
+    second: tache de sang loup qui attaque_94
+  - first:
+      213: -8771101895497227852
+    second: tache de sang loup qui attaque_95
+  - first:
+      213: 8527044143587862149
+    second: tache de sang loup qui attaque_96
+  - first:
+      213: -1573194450139200901
+    second: tache de sang loup qui attaque_97
+  - first:
+      213: 936223442296832629
+    second: tache de sang loup qui attaque_98
+  - first:
+      213: 3499275414813168881
+    second: tache de sang loup qui attaque_99
+  - first:
+      213: 867002266348419799
+    second: tache de sang loup qui attaque_100
+  - first:
+      213: 5811511945177217116
+    second: tache de sang loup qui attaque_101
+  - first:
+      213: -1846650356727627956
+    second: tache de sang loup qui attaque_102
+  - first:
+      213: 4314887468128764864
+    second: tache de sang loup qui attaque_103
+  - first:
+      213: 1886889023367987193
+    second: tache de sang loup qui attaque_104
+  - first:
+      213: 4648861182876201571
+    second: tache de sang loup qui attaque_105
+  - first:
+      213: -8415232521612923165
+    second: tache de sang loup qui attaque_106
+  - first:
+      213: 8309341179069227413
+    second: tache de sang loup qui attaque_107
+  - first:
+      213: -2523675901593120416
+    second: tache de sang loup qui attaque_108
+  - first:
+      213: 1259256243916171921
+    second: tache de sang loup qui attaque_109
+  - first:
+      213: 3783078202790627678
+    second: tache de sang loup qui attaque_110
+  - first:
+      213: 3021691330677285127
+    second: tache de sang loup qui attaque_111
+  - first:
+      213: 2812108587442312302
+    second: tache de sang loup qui attaque_112
+  - first:
+      213: 2143028756527321255
+    second: tache de sang loup qui attaque_113
+  - first:
+      213: -3306540238365603080
+    second: tache de sang loup qui attaque_114
+  - first:
+      213: 551841900714239144
+    second: tache de sang loup qui attaque_115
+  - first:
+      213: -4797822496865267505
+    second: tache de sang loup qui attaque_116
+  - first:
+      213: 7070827651382925626
+    second: tache de sang loup qui attaque_117
+  - first:
+      213: 3439207656868101086
+    second: tache de sang loup qui attaque_118
+  - first:
+      213: -5888045738636451480
+    second: tache de sang loup qui attaque_119
+  - first:
+      213: 8723216235034331173
+    second: tache de sang loup qui attaque_120
+  - first:
+      213: -4681526173519494686
+    second: tache de sang loup qui attaque_121
+  - first:
+      213: 4544770245098666713
+    second: tache de sang loup qui attaque_122
+  - first:
+      213: 3350542293956309468
+    second: tache de sang loup qui attaque_123
+  - first:
+      213: 6571236809197584201
+    second: tache de sang loup qui attaque_124
+  - first:
+      213: -593629362079422783
+    second: tache de sang loup qui attaque_125
+  - first:
+      213: 6152246600756426834
+    second: tache de sang loup qui attaque_126
+  - first:
+      213: 4825602520959487541
+    second: tache de sang loup qui attaque_127
+  - first:
+      213: -39047396375473991
+    second: tache de sang loup qui attaque_128
+  - first:
+      213: 5505443541480145932
+    second: tache de sang loup qui attaque_129
+  - first:
+      213: 3846671628851946918
+    second: tache de sang loup qui attaque_130
+  - first:
+      213: 1173705327552020853
+    second: tache de sang loup qui attaque_131
+  - first:
+      213: -8943268007461132334
+    second: tache de sang loup qui attaque_132
+  - first:
+      213: 5711085027603261642
+    second: tache de sang loup qui attaque_133
+  - first:
+      213: -8947058598106872853
+    second: tache de sang loup qui attaque_134
+  - first:
+      213: 5211244309635350993
+    second: tache de sang loup qui attaque_135
+  - first:
+      213: 1098814609806741754
+    second: tache de sang loup qui attaque_136
+  - first:
+      213: 1046339840939630267
+    second: tache de sang loup qui attaque_137
+  - first:
+      213: 4201891545592319381
+    second: tache de sang loup qui attaque_138
+  - first:
+      213: 7761624558955400244
+    second: tache de sang loup qui attaque_139
+  - first:
+      213: 7001426212517926902
+    second: tache de sang loup qui attaque_140
+  - first:
+      213: -6926171318607907496
+    second: tache de sang loup qui attaque_141
+  - first:
+      213: 224687209080687371
+    second: tache de sang loup qui attaque_142
+  - first:
+      213: 6886147318393528278
+    second: tache de sang loup qui attaque_143
+  - first:
+      213: -1116391936421942962
+    second: tache de sang loup qui attaque_144
+  - first:
+      213: -7499244767987271182
+    second: tache de sang loup qui attaque_145
+  - first:
+      213: 1800810470511647958
+    second: tache de sang loup qui attaque_146
+  - first:
+      213: -3918192910503299241
+    second: tache de sang loup qui attaque_147
+  - first:
+      213: 1022236695783647707
+    second: tache de sang loup qui attaque_148
+  - first:
+      213: 127800160141519901
+    second: tache de sang loup qui attaque_149
+  - first:
+      213: 6051213656999829378
+    second: tache de sang loup qui attaque_150
+  - first:
+      213: 2999264231627500252
+    second: tache de sang loup qui attaque_151
+  - first:
+      213: -7027188291404080295
+    second: tache de sang loup qui attaque_152
+  - first:
+      213: -7099781241923397448
+    second: tache de sang loup qui attaque_153
+  - first:
+      213: -3165562104383458063
+    second: tache de sang loup qui attaque_154
+  - first:
+      213: -7185092994936324632
+    second: tache de sang loup qui attaque_155
+  - first:
+      213: 2354473221738834140
+    second: tache de sang loup qui attaque_156
+  - first:
+      213: 4917176831003766499
+    second: tache de sang loup qui attaque_157
+  - first:
+      213: -6516618578949694044
+    second: tache de sang loup qui attaque_158
+  - first:
+      213: 8695173214499019674
+    second: tache de sang loup qui attaque_159
+  - first:
+      213: 9193509864014498150
+    second: tache de sang loup qui attaque_160
+  - first:
+      213: 7852041976783002283
+    second: tache de sang loup qui attaque_161
+  - first:
+      213: -7655977381193661449
+    second: tache de sang loup qui attaque_162
+  - first:
+      213: 114488081747508419
+    second: tache de sang loup qui attaque_163
+  - first:
+      213: -8904792937850245542
+    second: tache de sang loup qui attaque_164
+  - first:
+      213: -3889926825967169690
+    second: tache de sang loup qui attaque_165
+  - first:
+      213: 1679252149528375802
+    second: tache de sang loup qui attaque_166
+  - first:
+      213: 3399300223138372796
+    second: tache de sang loup qui attaque_167
+  - first:
+      213: -6863760584890606143
+    second: tache de sang loup qui attaque_168
+  - first:
+      213: 1446473265241341342
+    second: tache de sang loup qui attaque_169
+  - first:
+      213: 1806815572352870258
+    second: tache de sang loup qui attaque_170
+  - first:
+      213: 1134524070687744798
+    second: tache de sang loup qui attaque_171
+  - first:
+      213: -4008791321178449624
+    second: tache de sang loup qui attaque_172
+  - first:
+      213: -1541585448931730881
+    second: tache de sang loup qui attaque_173
+  - first:
+      213: -2921824169631705172
+    second: tache de sang loup qui attaque_174
+  - first:
+      213: -7301085120191008525
+    second: tache de sang loup qui attaque_175
+  - first:
+      213: -6419290137555194656
+    second: tache de sang loup qui attaque_176
+  - first:
+      213: -6328425971071793079
+    second: tache de sang loup qui attaque_177
+  - first:
+      213: 6098465313974843913
+    second: tache de sang loup qui attaque_178
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 1
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 8192
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: tache de sang loup qui attaque_0
+      rect:
+        serializedVersion: 2
+        x: 4415
+        y: 0
+        width: 1550
+        height: 1080
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d2182e4c21ed71cf0800000000000000
+      internalID: -281512279493410515
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tache de sang loup qui attaque_1
+      rect:
+        serializedVersion: 2
+        x: 6154
+        y: 992
+        width: 23
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 45ffc10b42b49ee90800000000000000
+      internalID: -6995977925197758636
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tache de sang loup qui attaque_2
+      rect:
+        serializedVersion: 2
+        x: 5964
+        y: 943
+        width: 22
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 05b102c1c7b237b40800000000000000
+      internalID: 5436736987214125904
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tache de sang loup qui attaque_3
+      rect:
+        serializedVersion: 2
+        x: 5989
+        y: 957
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1f55c06942625d3c0800000000000000
+      internalID: -4335517127696165391
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tache de sang loup qui attaque_4
+      rect:
+        serializedVersion: 2
+        x: 6091
+        y: 950
+        width: 16
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3732ecf7162af42f0800000000000000
+      internalID: -986391253731105933
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tache de sang loup qui attaque_5
+      rect:
+        serializedVersion: 2
+        x: 6113
+        y: 920
+        width: 13
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ccd7f57548b27f220800000000000000
+      internalID: 2519530363938635212
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tache de sang loup qui attaque_6
+      rect:
+        serializedVersion: 2
+        x: 6238
+        y: 896
+        width: 16
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a3583b067979e3ec0800000000000000
+      internalID: -3585261576922102470
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tache de sang loup qui attaque_7
+      rect:
+        serializedVersion: 2
+        x: 1603
+        y: 891
+        width: 20
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 78eb7244052491d20800000000000000
+      internalID: 3249701518632795783
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tache de sang loup qui attaque_8
+      rect:
+        serializedVersion: 2
+        x: 1746
+        y: 882
+        width: 20
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 322352d5946b52860800000000000000
+      internalID: 7504604780294386211
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tache de sang loup qui attaque_9
+      rect:
+        serializedVersion: 2
+        x: 3886
+        y: 852
+        width: 122
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b6cd76432b1c0d260800000000000000
+      internalID: 7120403982000315499
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tache de sang loup qui attaque_10
+      rect:
+        serializedVersion: 2
+        x: 6063
+        y: 889
+        width: 14
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ca92a897a23f75e40800000000000000
+      internalID: 5645248021685479852
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tache de sang loup qui attaque_11
+      rect:
+        serializedVersion: 2
+        x: 6152
+        y: 878
+        width: 10
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 84fd5b24a46286b10800000000000000
+      internalID: 1974870536990613320
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tache de sang loup qui attaque_12
+      rect:
+        serializedVersion: 2
+        x: 1546
+        y: 861
+        width: 26
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 67faa21d25ff88750800000000000000
+      internalID: 6307572009294016374
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tache de sang loup qui attaque_13
+      rect:
+        serializedVersion: 2
+        x: 1661
+        y: 862
+        width: 14
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c55434fa69efef300800000000000000
+      internalID: 287947349337261404
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tache de sang loup qui attaque_14
+      rect:
+        serializedVersion: 2
+        x: 1706
+        y: 863
+        width: 61
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1b1cf83f1361ad5c0800000000000000
+      internalID: -4190012099519331919
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tache de sang loup qui attaque_15
+      rect:
+        serializedVersion: 2
+        x: 1792
+        y: 855
+        width: 54
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bf9644567d6c68b70800000000000000
+      internalID: 8901020341963614715
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tache de sang loup qui attaque_16
+      rect:
+        serializedVersion: 2
+        x: 6131
+        y: 867
+        width: 16
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b3c5fa2b7ddf0f770800000000000000
+      internalID: 8642686787781614651
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tache de sang loup qui attaque_17
+      rect:
+        serializedVersion: 2
+        x: 1695
+        y: 831
+        width: 62
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 38e39829fd014bba0800000000000000
+      internalID: -6074211444993737085
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tache de sang loup qui attaque_18
+      rect:
+        serializedVersion: 2
+        x: 4001
+        y: 842
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c91edb75f305bd560800000000000000
+      internalID: 7339548250715578780
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tache de sang loup qui attaque_19
+      rect:
+        serializedVersion: 2
+        x: 6037
+        y: 842
+        width: 19
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0241e8bcb22b1b600800000000000000
+      internalID: 482362536273777696
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tache de sang loup qui attaque_20
+      rect:
+        serializedVersion: 2
+        x: 1504
+        y: 823
+        width: 27
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 842a9755e503e2630800000000000000
+      internalID: 3904111108695892552
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tache de sang loup qui attaque_21
+      rect:
+        serializedVersion: 2
+        x: 1565
+        y: 829
+        width: 34
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c5f8a3c684dc21130800000000000000
+      internalID: 3536114368376377180
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tache de sang loup qui attaque_22
+      rect:
+        serializedVersion: 2
+        x: 1619
+        y: 823
+        width: 36
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b6aa03ff803586030800000000000000
+      internalID: 3488129209504672363
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tache de sang loup qui attaque_23
+      rect:
+        serializedVersion: 2
+        x: 1765
+        y: 797
+        width: 72
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a9feb9f8800137d70800000000000000
+      internalID: 9039586506017861530
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tache de sang loup qui attaque_24
+      rect:
+        serializedVersion: 2
+        x: 3904
+        y: 819
+        width: 11
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aaf8afbd5ea155380800000000000000
+      internalID: -8983244307180122198
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tache de sang loup qui attaque_25
+      rect:
+        serializedVersion: 2
+        x: 6171
+        y: 825
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5481f97fd8c1bda20800000000000000
+      internalID: 3088093365562972229
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tache de sang loup qui attaque_26
+      rect:
+        serializedVersion: 2
+        x: 1502
+        y: 801
+        width: 9
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dad4592106fc0b350800000000000000
+      internalID: 6030547912584678829
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tache de sang loup qui attaque_27
+      rect:
+        serializedVersion: 2
+        x: 1671
+        y: 796
+        width: 62
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b84e27da430e497f0800000000000000
+      internalID: -606613532935265141
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tache de sang loup qui attaque_28
+      rect:
+        serializedVersion: 2
+        x: 3842
+        y: 814
+        width: 11
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 34c0788784b6183a0800000000000000
+      internalID: -6664928014527689661
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tache de sang loup qui attaque_29
+      rect:
+        serializedVersion: 2
+        x: 4184
+        y: 811
+        width: 25
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 26d3b810845400ce0800000000000000
+      internalID: -1441075705192694430
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tache de sang loup qui attaque_30
+      rect:
+        serializedVersion: 2
+        x: 4292
+        y: 814
+        width: 11
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f1f959444e62c2c80800000000000000
+      internalID: -8346253247579316449
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tache de sang loup qui attaque_31
+      rect:
+        serializedVersion: 2
+        x: 6084
+        y: 750
+        width: 89
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bd12c0768f78dfb10800000000000000
+      internalID: 2016917709082337755
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tache de sang loup qui attaque_32
+      rect:
+        serializedVersion: 2
+        x: 1392
+        y: 728
+        width: 97
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a6d710e0532362640800000000000000
+      internalID: 5054782835219594602
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tache de sang loup qui attaque_33
+      rect:
+        serializedVersion: 2
+        x: 1741
+        y: 707
+        width: 209
+        height: 106
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e73df3dee52910500800000000000000
+      internalID: 360730381571314558
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tache de sang loup qui attaque_34
+      rect:
+        serializedVersion: 2
+        x: 3843
+        y: 803
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1d18c41b5f1f6dc00800000000000000
+      internalID: 925192811015078353
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tache de sang loup qui attaque_35
+      rect:
+        serializedVersion: 2
+        x: 6041
+        y: 798
+        width: 12
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c363d21e59f3a5a80800000000000000
+      internalID: -8477393435611023812
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tache de sang loup qui attaque_36
+      rect:
+        serializedVersion: 2
+        x: 3963
+        y: 788
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 553dfdf6896b22640800000000000000
+      internalID: 5053802497691341653
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tache de sang loup qui attaque_37
+      rect:
+        serializedVersion: 2
+        x: 4240
+        y: 787
+        width: 30
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2a4eef6c750ae0b50800000000000000
+      internalID: 6561358005986583714
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tache de sang loup qui attaque_38
+      rect:
+        serializedVersion: 2
+        x: 4314
+        y: 791
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 59f71a8e35931b280800000000000000
+      internalID: -9029372745353166955
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tache de sang loup qui attaque_39
+      rect:
+        serializedVersion: 2
+        x: 6009
+        y: 782
+        width: 14
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e638a182e43b4e840800000000000000
+      internalID: 5252520213682488174
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tache de sang loup qui attaque_40
+      rect:
+        serializedVersion: 2
+        x: 3798
+        y: 781
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4fc03e86ff71853d0800000000000000
+      internalID: -3217795548012409612
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tache de sang loup qui attaque_41
+      rect:
+        serializedVersion: 2
+        x: 4259
+        y: 765
+        width: 24
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 724497cc106edb8e0800000000000000
+      internalID: -1675930590912101337
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tache de sang loup qui attaque_42
+      rect:
+        serializedVersion: 2
+        x: 1502
+        y: 743
+        width: 69
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 93d375bcb5093f460800000000000000
+      internalID: 7274316547061398841
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tache de sang loup qui attaque_43
+      rect:
+        serializedVersion: 2
+        x: 1607
+        y: 765
+        width: 29
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 295c1449650a0b6c0800000000000000
+      internalID: -4129624564583774830
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tache de sang loup qui attaque_44
+      rect:
+        serializedVersion: 2
+        x: 1684
+        y: 763
+        width: 41
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 33c8f3fb49e841620800000000000000
+      internalID: 2743974842490391603
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tache de sang loup qui attaque_45
+      rect:
+        serializedVersion: 2
+        x: 4371
+        y: 758
+        width: 21
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7172baa57eff9aa60800000000000000
+      internalID: 7685955608208156439
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tache de sang loup qui attaque_46
+      rect:
+        serializedVersion: 2
+        x: 5949
+        y: 755
+        width: 26
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: da4b721273190dd60800000000000000
+      internalID: 7912984211255440557
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tache de sang loup qui attaque_47
+      rect:
+        serializedVersion: 2
+        x: 1395
+        y: 720
+        width: 16
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 86e9e211abd179b00800000000000000
+      internalID: 835168940889906792
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tache de sang loup qui attaque_48
+      rect:
+        serializedVersion: 2
+        x: 1485
+        y: 731
+        width: 53
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a582ba96af78628f0800000000000000
+      internalID: -565615193604020134
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tache de sang loup qui attaque_49
+      rect:
+        serializedVersion: 2
+        x: 1580
+        y: 719
+        width: 37
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 20814976529078890800000000000000
+      internalID: -7455980601832368126
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tache de sang loup qui attaque_50
+      rect:
+        serializedVersion: 2
+        x: 1628
+        y: 727
+        width: 71
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bfcdc16f9ff5c3370800000000000000
+      internalID: 8303617340144934139
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tache de sang loup qui attaque_51
+      rect:
+        serializedVersion: 2
+        x: 2668
+        y: 722
+        width: 15
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 404ddf8636b23c7a0800000000000000
+      internalID: -6358190542953786364
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tache de sang loup qui attaque_52
+      rect:
+        serializedVersion: 2
+        x: 2702
+        y: 716
+        width: 35
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 36c36ac41ad9f2300800000000000000
+      internalID: 229575422120442979
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tache de sang loup qui attaque_53
+      rect:
+        serializedVersion: 2
+        x: 3878
+        y: 716
+        width: 28
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8a31ed0b6c81d3220800000000000000
+      internalID: 2467155412518835112
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tache de sang loup qui attaque_54
+      rect:
+        serializedVersion: 2
+        x: 3911
+        y: 728
+        width: 14
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6210c35cfd988ddb0800000000000000
+      internalID: -4766908611391913690
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tache de sang loup qui attaque_55
+      rect:
+        serializedVersion: 2
+        x: 4289
+        y: 722
+        width: 65
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1cfea5ae3b81eced0800000000000000
+      internalID: -2391947191077113919
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tache de sang loup qui attaque_56
+      rect:
+        serializedVersion: 2
+        x: 4371
+        y: 732
+        width: 14
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0f4250ae6e55dffa0800000000000000
+      internalID: -5765357497707322128
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tache de sang loup qui attaque_57
+      rect:
+        serializedVersion: 2
+        x: 6019
+        y: 730
+        width: 19
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 15d52ecdb788146b0800000000000000
+      internalID: -5313816019752297135
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tache de sang loup qui attaque_58
+      rect:
+        serializedVersion: 2
+        x: 1036
+        y: 0
+        width: 3319
+        height: 717
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9d79b482439c61990800000000000000
+      internalID: -7415518510567417895
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tache de sang loup qui attaque_59
+      rect:
+        serializedVersion: 2
+        x: 1435
+        y: 697
+        width: 37
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: da6d9c2e7dfcec9a0800000000000000
+      internalID: -6210798309967538515
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tache de sang loup qui attaque_60
+      rect:
+        serializedVersion: 2
+        x: 1527
+        y: 694
+        width: 28
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1ab86575b31ab9640800000000000000
+      internalID: 5087837480285539233
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tache de sang loup qui attaque_61
+      rect:
+        serializedVersion: 2
+        x: 1569
+        y: 688
+        width: 74
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 231e7197d1f261420800000000000000
+      internalID: 2600317638485205298
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tache de sang loup qui attaque_62
+      rect:
+        serializedVersion: 2
+        x: 2643
+        y: 694
+        width: 28
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6e229a25a38f37b30800000000000000
+      internalID: 4284040599938081510
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tache de sang loup qui attaque_63
+      rect:
+        serializedVersion: 2
+        x: 2669
+        y: 664
+        width: 30
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 503f99dddb51ac320800000000000000
+      internalID: 2578897641833886469
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tache de sang loup qui attaque_64
+      rect:
+        serializedVersion: 2
+        x: 5973
+        y: 708
+        width: 19
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 40fdb228b15452430800000000000000
+      internalID: 3757485448560893700
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tache de sang loup qui attaque_65
+      rect:
+        serializedVersion: 2
+        x: 6082
+        y: 712
+        width: 15
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7bb1d4162bc8afb30800000000000000
+      internalID: 4321921490179922871
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tache de sang loup qui attaque_66
+      rect:
+        serializedVersion: 2
+        x: 1483
+        y: 695
+        width: 23
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d1a1f76393d774400800000000000000
+      internalID: 308352784179075613
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tache de sang loup qui attaque_67
+      rect:
+        serializedVersion: 2
+        x: 1661
+        y: 680
+        width: 61
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c7e065c24fcefc540800000000000000
+      internalID: 5030499842256146044
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tache de sang loup qui attaque_68
+      rect:
+        serializedVersion: 2
+        x: 1934
+        y: 660
+        width: 59
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d504dc0f1e725dda0800000000000000
+      internalID: -5920782283747540899
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tache de sang loup qui attaque_69
+      rect:
+        serializedVersion: 2
+        x: 6035
+        y: 687
+        width: 15
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5500bed4237471dd0800000000000000
+      internalID: -2515463585481949099
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tache de sang loup qui attaque_70
+      rect:
+        serializedVersion: 2
+        x: 6114
+        y: 682
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4a3da68979c599320800000000000000
+      internalID: 2565183268931163044
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tache de sang loup qui attaque_71
+      rect:
+        serializedVersion: 2
+        x: 5980
+        y: 677
+        width: 15
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d570b69dd3825cee0800000000000000
+      internalID: -1241541876164917411
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tache de sang loup qui attaque_72
+      rect:
+        serializedVersion: 2
+        x: 6015
+        y: 666
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9efecc6e1ebdad550800000000000000
+      internalID: 6186498801433112553
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tache de sang loup qui attaque_73
+      rect:
+        serializedVersion: 2
+        x: 6042
+        y: 673
+        width: 10
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5c878c83c20fd6f70800000000000000
+      internalID: 9182259288000198853
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tache de sang loup qui attaque_74
+      rect:
+        serializedVersion: 2
+        x: 6101
+        y: 674
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0099fd3a0bd111010800000000000000
+      internalID: 1157739223711717632
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tache de sang loup qui attaque_75
+      rect:
+        serializedVersion: 2
+        x: 5950
+        y: 618
+        width: 58
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c1af46158376c2750800000000000000
+      internalID: 6281509071856400924
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tache de sang loup qui attaque_76
+      rect:
+        serializedVersion: 2
+        x: 6110
+        y: 656
+        width: 15
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7113de7c41ae9a050800000000000000
+      internalID: 5812434169072791831
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tache de sang loup qui attaque_77
+      rect:
+        serializedVersion: 2
+        x: 5988
+        y: 614
+        width: 21
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 95a9ab6e2a10ab8f0800000000000000
+      internalID: -524104607467922855
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tache de sang loup qui attaque_78
+      rect:
+        serializedVersion: 2
+        x: 6048
+        y: 607
+        width: 25
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 695dd6d5b4e06d070800000000000000
+      internalID: 8130701894116824470
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tache de sang loup qui attaque_79
+      rect:
+        serializedVersion: 2
+        x: 5980
+        y: 579
+        width: 39
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8687c8117761753c0800000000000000
+      internalID: -4371000212688439192
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tache de sang loup qui attaque_80
+      rect:
+        serializedVersion: 2
+        x: 6028
+        y: 594
+        width: 17
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 138fbc75e2e9a02b0800000000000000
+      internalID: -5617503663312603087
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tache de sang loup qui attaque_81
+      rect:
+        serializedVersion: 2
+        x: 6420
+        y: 574
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 862e1eb74d62ba0f0800000000000000
+      internalID: -1104746589536001432
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tache de sang loup qui attaque_82
+      rect:
+        serializedVersion: 2
+        x: 6258
+        y: 557
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6a28ea38495d277f0800000000000000
+      internalID: -616195365155208538
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tache de sang loup qui attaque_83
+      rect:
+        serializedVersion: 2
+        x: 6370
+        y: 549
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 796ed6517ef3a6c20800000000000000
+      internalID: 3200440746929677975
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tache de sang loup qui attaque_84
+      rect:
+        serializedVersion: 2
+        x: 6375
+        y: 546
+        width: 9
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f3954de3ae604d250800000000000000
+      internalID: 5968403009318967615
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tache de sang loup qui attaque_85
+      rect:
+        serializedVersion: 2
+        x: 6203
+        y: 509
+        width: 12
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 032eff914ae486d40800000000000000
+      internalID: 5577794605216162352
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tache de sang loup qui attaque_86
+      rect:
+        serializedVersion: 2
+        x: 6304
+        y: 510
+        width: 12
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 06b5671eb19f13ea0800000000000000
+      internalID: -5894656539109205152
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tache de sang loup qui attaque_87
+      rect:
+        serializedVersion: 2
+        x: 4349
+        y: 487
+        width: 20
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1d5a38fa40b931940800000000000000
+      internalID: 5265722833753056721
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tache de sang loup qui attaque_88
+      rect:
+        serializedVersion: 2
+        x: 5990
+        y: 482
+        width: 15
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d9ae5f6224fa64860800000000000000
+      internalID: 7513885726970604189
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tache de sang loup qui attaque_89
+      rect:
+        serializedVersion: 2
+        x: 6019
+        y: 491
+        width: 29
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e5ed3000b00af11a0800000000000000
+      internalID: -6836569740219785634
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tache de sang loup qui attaque_90
+      rect:
+        serializedVersion: 2
+        x: 6086
+        y: 480
+        width: 22
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1744dcd69b6401840800000000000000
+      internalID: 5192728132583244913
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tache de sang loup qui attaque_91
+      rect:
+        serializedVersion: 2
+        x: 6148
+        y: 491
+        width: 12
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 96cd61b72dd453f10800000000000000
+      internalID: 2248789155344997481
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tache de sang loup qui attaque_92
+      rect:
+        serializedVersion: 2
+        x: 6235
+        y: 492
+        width: 14
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 757e880955f9a69c0800000000000000
+      internalID: -3933156134708779177
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tache de sang loup qui attaque_93
+      rect:
+        serializedVersion: 2
+        x: 6030
+        y: 478
+        width: 11
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fc6381de728e28640800000000000000
+      internalID: 5080878587806496463
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tache de sang loup qui attaque_94
+      rect:
+        serializedVersion: 2
+        x: 6074
+        y: 471
+        width: 11
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ae6608ae9a31ca7f0800000000000000
+      internalID: -600083029842434326
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tache de sang loup qui attaque_95
+      rect:
+        serializedVersion: 2
+        x: 6128
+        y: 478
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4b1e12e1c49c64680800000000000000
+      internalID: -8771101895497227852
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tache de sang loup qui attaque_96
+      rect:
+        serializedVersion: 2
+        x: 4376
+        y: 449
+        width: 19
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 58621aa6875265670800000000000000
+      internalID: 8527044143587862149
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tache de sang loup qui attaque_97
+      rect:
+        serializedVersion: 2
+        x: 5961
+        y: 460
+        width: 30
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b7246d49bf3ea2ae0800000000000000
+      internalID: -1573194450139200901
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tache de sang loup qui attaque_98
+      rect:
+        serializedVersion: 2
+        x: 6052
+        y: 459
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5720f7ca2422efc00800000000000000
+      internalID: 936223442296832629
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tache de sang loup qui attaque_99
+      rect:
+        serializedVersion: 2
+        x: 6071
+        y: 450
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1f45237237cef8030800000000000000
+      internalID: 3499275414813168881
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tache de sang loup qui attaque_100
+      rect:
+        serializedVersion: 2
+        x: 4340
+        y: 407
+        width: 21
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7daf729b7f5380c00800000000000000
+      internalID: 867002266348419799
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tache de sang loup qui attaque_101
+      rect:
+        serializedVersion: 2
+        x: 5938
+        y: 441
+        width: 30
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c583a3cc253a6a050800000000000000
+      internalID: 5811511945177217116
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tache de sang loup qui attaque_102
+      rect:
+        serializedVersion: 2
+        x: 5998
+        y: 417
+        width: 12
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c4fb6e6d8416f56e0800000000000000
+      internalID: -1846650356727627956
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tache de sang loup qui attaque_103
+      rect:
+        serializedVersion: 2
+        x: 6009
+        y: 421
+        width: 43
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0c3899f7a4f81eb30800000000000000
+      internalID: 4314887468128764864
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tache de sang loup qui attaque_104
+      rect:
+        serializedVersion: 2
+        x: 6058
+        y: 446
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9ffbe60d1939f2a10800000000000000
+      internalID: 1886889023367987193
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tache de sang loup qui attaque_105
+      rect:
+        serializedVersion: 2
+        x: 6088
+        y: 429
+        width: 13
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 36230777d92148040800000000000000
+      internalID: 4648861182876201571
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tache de sang loup qui attaque_106
+      rect:
+        serializedVersion: 2
+        x: 6113
+        y: 431
+        width: 20
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3ee62fe7b96173b80800000000000000
+      internalID: -8415232521612923165
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tache de sang loup qui attaque_107
+      rect:
+        serializedVersion: 2
+        x: 6134
+        y: 424
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 59162ff07c5b05370800000000000000
+      internalID: 8309341179069227413
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tache de sang loup qui attaque_108
+      rect:
+        serializedVersion: 2
+        x: 6143
+        y: 444
+        width: 11
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0611455732a1afcd0800000000000000
+      internalID: -2523675901593120416
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tache de sang loup qui attaque_109
+      rect:
+        serializedVersion: 2
+        x: 4383
+        y: 403
+        width: 12
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 19ae0dbc1e6c97110800000000000000
+      internalID: 1259256243916171921
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tache de sang loup qui attaque_110
+      rect:
+        serializedVersion: 2
+        x: 5959
+        y: 410
+        width: 24
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e59cbd2f491308430800000000000000
+      internalID: 3783078202790627678
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tache de sang loup qui attaque_111
+      rect:
+        serializedVersion: 2
+        x: 6010
+        y: 413
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 701a5e171443fe920800000000000000
+      internalID: 3021691330677285127
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tache de sang loup qui attaque_112
+      rect:
+        serializedVersion: 2
+        x: 6029
+        y: 415
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e6413507cdd960720800000000000000
+      internalID: 2812108587442312302
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tache de sang loup qui attaque_113
+      rect:
+        serializedVersion: 2
+        x: 6118
+        y: 404
+        width: 15
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7a01240cc419dbd10800000000000000
+      internalID: 2143028756527321255
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tache de sang loup qui attaque_114
+      rect:
+        serializedVersion: 2
+        x: 5972
+        y: 386
+        width: 34
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8facea80c2fcc12d0800000000000000
+      internalID: -3306540238365603080
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tache de sang loup qui attaque_115
+      rect:
+        serializedVersion: 2
+        x: 6033
+        y: 373
+        width: 31
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8a4af30f84988a700800000000000000
+      internalID: 551841900714239144
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tache de sang loup qui attaque_116
+      rect:
+        serializedVersion: 2
+        x: 6088
+        y: 373
+        width: 17
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fc0d7faebd5ba6db0800000000000000
+      internalID: -4797822496865267505
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tache de sang loup qui attaque_117
+      rect:
+        serializedVersion: 2
+        x: 6133
+        y: 385
+        width: 16
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a3950bc3940a02260800000000000000
+      internalID: 7070827651382925626
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tache de sang loup qui attaque_118
+      rect:
+        serializedVersion: 2
+        x: 4373
+        y: 346
+        width: 17
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: edb3d6864258abf20800000000000000
+      internalID: 3439207656868101086
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tache de sang loup qui attaque_119
+      rect:
+        serializedVersion: 2
+        x: 5954
+        y: 338
+        width: 72
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 861625fc895794ea0800000000000000
+      internalID: -5888045738636451480
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tache de sang loup qui attaque_120
+      rect:
+        serializedVersion: 2
+        x: 6038
+        y: 351
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 528442cb2f61f0970800000000000000
+      internalID: 8723216235034331173
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tache de sang loup qui attaque_121
+      rect:
+        serializedVersion: 2
+        x: 6061
+        y: 352
+        width: 12
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2e14dacbfb0e70fb0800000000000000
+      internalID: -4681526173519494686
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tache de sang loup qui attaque_122
+      rect:
+        serializedVersion: 2
+        x: 6174
+        y: 327
+        width: 65
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9dafedc6574421f30800000000000000
+      internalID: 4544770245098666713
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tache de sang loup qui attaque_123
+      rect:
+        serializedVersion: 2
+        x: 6314
+        y: 361
+        width: 13
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cd13034e6748f7e20800000000000000
+      internalID: 3350542293956309468
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tache de sang loup qui attaque_124
+      rect:
+        serializedVersion: 2
+        x: 6365
+        y: 362
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 94f7133ef09b13b50800000000000000
+      internalID: 6571236809197584201
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tache de sang loup qui attaque_125
+      rect:
+        serializedVersion: 2
+        x: 6386
+        y: 362
+        width: 18
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1c6a3098d3103c7f0800000000000000
+      internalID: -593629362079422783
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tache de sang loup qui attaque_126
+      rect:
+        serializedVersion: 2
+        x: 4345
+        y: 342
+        width: 13
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 258f0b8ffab216550800000000000000
+      internalID: 6152246600756426834
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tache de sang loup qui attaque_127
+      rect:
+        serializedVersion: 2
+        x: 5932
+        y: 321
+        width: 42
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 53e0509fcebf7f240800000000000000
+      internalID: 4825602520959487541
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tache de sang loup qui attaque_128
+      rect:
+        serializedVersion: 2
+        x: 6078
+        y: 349
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9b0d2a19996457ff0800000000000000
+      internalID: -39047396375473991
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tache de sang loup qui attaque_129
+      rect:
+        serializedVersion: 2
+        x: 6299
+        y: 339
+        width: 14
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c0484ec5bb3476c40800000000000000
+      internalID: 5505443541480145932
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tache de sang loup qui attaque_130
+      rect:
+        serializedVersion: 2
+        x: 4320
+        y: 281
+        width: 42
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6a52b45477f126530800000000000000
+      internalID: 3846671628851946918
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tache de sang loup qui attaque_131
+      rect:
+        serializedVersion: 2
+        x: 5835
+        y: 65
+        width: 349
+        height: 274
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 571c8bfd6c6d94010800000000000000
+      internalID: 1173705327552020853
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tache de sang loup qui attaque_132
+      rect:
+        serializedVersion: 2
+        x: 6057
+        y: 319
+        width: 28
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2d7e924712123e380800000000000000
+      internalID: -8943268007461132334
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tache de sang loup qui attaque_133
+      rect:
+        serializedVersion: 2
+        x: 6415
+        y: 327
+        width: 10
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ac82850f299d14f40800000000000000
+      internalID: 5711085027603261642
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tache de sang loup qui attaque_134
+      rect:
+        serializedVersion: 2
+        x: 4371
+        y: 291
+        width: 20
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: be34c3bcb99a5d380800000000000000
+      internalID: -8947058598106872853
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tache de sang loup qui attaque_135
+      rect:
+        serializedVersion: 2
+        x: 4392
+        y: 303
+        width: 16
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1d14799d61f025840800000000000000
+      internalID: 5211244309635350993
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tache de sang loup qui attaque_136
+      rect:
+        serializedVersion: 2
+        x: 6194
+        y: 298
+        width: 14
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: af05a8bd016cf3f00800000000000000
+      internalID: 1098814609806741754
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tache de sang loup qui attaque_137
+      rect:
+        serializedVersion: 2
+        x: 6330
+        y: 310
+        width: 11
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bbe9b85aa88558e00800000000000000
+      internalID: 1046339840939630267
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tache de sang loup qui attaque_138
+      rect:
+        serializedVersion: 2
+        x: 6192
+        y: 283
+        width: 12
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 59d4fbf191e105a30800000000000000
+      internalID: 4201891545592319381
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tache de sang loup qui attaque_139
+      rect:
+        serializedVersion: 2
+        x: 4365
+        y: 260
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 43c0c7cd964d6bb60800000000000000
+      internalID: 7761624558955400244
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tache de sang loup qui attaque_140
+      rect:
+        serializedVersion: 2
+        x: 6157
+        y: 267
+        width: 21
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6f75d3e8b001a2160800000000000000
+      internalID: 7001426212517926902
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tache de sang loup qui attaque_141
+      rect:
+        serializedVersion: 2
+        x: 6407
+        y: 266
+        width: 15
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 85570e4d1eb41ef90800000000000000
+      internalID: -6926171318607907496
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tache de sang loup qui attaque_142
+      rect:
+        serializedVersion: 2
+        x: 6217
+        y: 247
+        width: 12
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b0b04d283df3e1300800000000000000
+      internalID: 224687209080687371
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tache de sang loup qui attaque_143
+      rect:
+        serializedVersion: 2
+        x: 6260
+        y: 249
+        width: 13
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6dfdadf6082809f50800000000000000
+      internalID: 6886147318393528278
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tache de sang loup qui attaque_144
+      rect:
+        serializedVersion: 2
+        x: 6348
+        y: 244
+        width: 13
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e49a57fd277c180f0800000000000000
+      internalID: -1116391936421942962
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tache de sang loup qui attaque_145
+      rect:
+        serializedVersion: 2
+        x: 6362
+        y: 252
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2f97960cd945de790800000000000000
+      internalID: -7499244767987271182
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tache de sang loup qui attaque_146
+      rect:
+        serializedVersion: 2
+        x: 6420
+        y: 243
+        width: 12
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6dc96a2f493cdf810800000000000000
+      internalID: 1800810470511647958
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tache de sang loup qui attaque_147
+      rect:
+        serializedVersion: 2
+        x: 4350
+        y: 234
+        width: 14
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7573fffae48cf99c0800000000000000
+      internalID: -3918192910503299241
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tache de sang loup qui attaque_148
+      rect:
+        serializedVersion: 2
+        x: 6168
+        y: 233
+        width: 13
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bd9ad88dbd6bf2e00800000000000000
+      internalID: 1022236695783647707
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tache de sang loup qui attaque_149
+      rect:
+        serializedVersion: 2
+        x: 6196
+        y: 229
+        width: 7
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d1c297b819906c100800000000000000
+      internalID: 127800160141519901
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tache de sang loup qui attaque_150
+      rect:
+        serializedVersion: 2
+        x: 6286
+        y: 230
+        width: 46
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 28f9775a2ca3af350800000000000000
+      internalID: 6051213656999829378
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tache de sang loup qui attaque_151
+      rect:
+        serializedVersion: 2
+        x: 6434
+        y: 230
+        width: 11
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cda21b98de68f9920800000000000000
+      internalID: 2999264231627500252
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tache de sang loup qui attaque_152
+      rect:
+        serializedVersion: 2
+        x: 6214
+        y: 210
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 95b53190b796a7e90800000000000000
+      internalID: -7027188291404080295
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tache de sang loup qui attaque_153
+      rect:
+        serializedVersion: 2
+        x: 6229
+        y: 217
+        width: 12
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8b89c24a392887d90800000000000000
+      internalID: -7099781241923397448
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tache de sang loup qui attaque_154
+      rect:
+        serializedVersion: 2
+        x: 6174
+        y: 193
+        width: 21
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1f439c5b90aa114d0800000000000000
+      internalID: -3165562104383458063
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tache de sang loup qui attaque_155
+      rect:
+        serializedVersion: 2
+        x: 6447
+        y: 207
+        width: 9
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8ed3ca64dfb694c90800000000000000
+      internalID: -7185092994936324632
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tache de sang loup qui attaque_156
+      rect:
+        serializedVersion: 2
+        x: 6180
+        y: 143
+        width: 83
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cd8a9eeabe4cca020800000000000000
+      internalID: 2354473221738834140
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tache de sang loup qui attaque_157
+      rect:
+        serializedVersion: 2
+        x: 6437
+        y: 160
+        width: 11
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3eea2c586425d3440800000000000000
+      internalID: 4917176831003766499
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tache de sang loup qui attaque_158
+      rect:
+        serializedVersion: 2
+        x: 6449
+        y: 151
+        width: 13
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4ad1ef0dde15095a0800000000000000
+      internalID: -6516618578949694044
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tache de sang loup qui attaque_159
+      rect:
+        serializedVersion: 2
+        x: 4366
+        y: 133
+        width: 14
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a9b94b638f57ba870800000000000000
+      internalID: 8695173214499019674
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tache de sang loup qui attaque_160
+      rect:
+        serializedVersion: 2
+        x: 4369
+        y: 46
+        width: 84
+        height: 94
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 66942a31388e59f70800000000000000
+      internalID: 9193509864014498150
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tache de sang loup qui attaque_161
+      rect:
+        serializedVersion: 2
+        x: 6467
+        y: 140
+        width: 13
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: baa5b93739e08fc60800000000000000
+      internalID: 7852041976783002283
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tache de sang loup qui attaque_162
+      rect:
+        serializedVersion: 2
+        x: 1020
+        y: 62
+        width: 41
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7f3c689822180c590800000000000000
+      internalID: -7655977381193661449
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tache de sang loup qui attaque_163
+      rect:
+        serializedVersion: 2
+        x: 4351
+        y: 124
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3cc7393cd4eb69100800000000000000
+      internalID: 114488081747508419
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tache de sang loup qui attaque_164
+      rect:
+        serializedVersion: 2
+        x: 6150
+        y: 115
+        width: 33
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a5e670da002db6480800000000000000
+      internalID: -8904792937850245542
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tache de sang loup qui attaque_165
+      rect:
+        serializedVersion: 2
+        x: 6189
+        y: 114
+        width: 34
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 66fc6f75924340ac0800000000000000
+      internalID: -3889926825967169690
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tache de sang loup qui attaque_166
+      rect:
+        serializedVersion: 2
+        x: 6356
+        y: 126
+        width: 14
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: af133f4dee6ed4710800000000000000
+      internalID: 1679252149528375802
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tache de sang loup qui attaque_167
+      rect:
+        serializedVersion: 2
+        x: 4341
+        y: 76
+        width: 70
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cbc911dea8dbc2f20800000000000000
+      internalID: 3399300223138372796
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tache de sang loup qui attaque_168
+      rect:
+        serializedVersion: 2
+        x: 6220
+        y: 104
+        width: 13
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1cd94422d160fb0a0800000000000000
+      internalID: -6863760584890606143
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tache de sang loup qui attaque_169
+      rect:
+        serializedVersion: 2
+        x: 6383
+        y: 112
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e9d3fcf55c7e21410800000000000000
+      internalID: 1446473265241341342
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tache de sang loup qui attaque_170
+      rect:
+        serializedVersion: 2
+        x: 6192
+        y: 104
+        width: 10
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 277acbca039131910800000000000000
+      internalID: 1806815572352870258
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tache de sang loup qui attaque_171
+      rect:
+        serializedVersion: 2
+        x: 6210
+        y: 95
+        width: 9
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e13297e91a3aebf00800000000000000
+      internalID: 1134524070687744798
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tache de sang loup qui attaque_172
+      rect:
+        serializedVersion: 2
+        x: 6410
+        y: 88
+        width: 13
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8295d7a6889ed58c0800000000000000
+      internalID: -4008791321178449624
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tache de sang loup qui attaque_173
+      rect:
+        serializedVersion: 2
+        x: 6250
+        y: 68
+        width: 36
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f3a538da3303b9ae0800000000000000
+      internalID: -1541585448931730881
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tache de sang loup qui attaque_174
+      rect:
+        serializedVersion: 2
+        x: 6366
+        y: 75
+        width: 11
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ca793f0f5689377d0800000000000000
+      internalID: -2921824169631705172
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tache de sang loup qui attaque_175
+      rect:
+        serializedVersion: 2
+        x: 6465
+        y: 83
+        width: 14
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3f0ff1814c55daa90800000000000000
+      internalID: -7301085120191008525
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tache de sang loup qui attaque_176
+      rect:
+        serializedVersion: 2
+        x: 6232
+        y: 62
+        width: 16
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0ecaad871a91ae6a0800000000000000
+      internalID: -6419290137555194656
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tache de sang loup qui attaque_177
+      rect:
+        serializedVersion: 2
+        x: 4318
+        y: 0
+        width: 63
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 948c8e6db1aec28a0800000000000000
+      internalID: -6328425971071793079
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tache de sang loup qui attaque_178
+      rect:
+        serializedVersion: 2
+        x: 6478
+        y: 0
+        width: 19
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 90af28a54e912a450800000000000000
+      internalID: 6098465313974843913
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      tache de sang loup qui attaque_0: -281512279493410515
+      tache de sang loup qui attaque_1: -6995977925197758636
+      tache de sang loup qui attaque_10: 5645248021685479852
+      tache de sang loup qui attaque_100: 867002266348419799
+      tache de sang loup qui attaque_101: 5811511945177217116
+      tache de sang loup qui attaque_102: -1846650356727627956
+      tache de sang loup qui attaque_103: 4314887468128764864
+      tache de sang loup qui attaque_104: 1886889023367987193
+      tache de sang loup qui attaque_105: 4648861182876201571
+      tache de sang loup qui attaque_106: -8415232521612923165
+      tache de sang loup qui attaque_107: 8309341179069227413
+      tache de sang loup qui attaque_108: -2523675901593120416
+      tache de sang loup qui attaque_109: 1259256243916171921
+      tache de sang loup qui attaque_11: 1974870536990613320
+      tache de sang loup qui attaque_110: 3783078202790627678
+      tache de sang loup qui attaque_111: 3021691330677285127
+      tache de sang loup qui attaque_112: 2812108587442312302
+      tache de sang loup qui attaque_113: 2143028756527321255
+      tache de sang loup qui attaque_114: -3306540238365603080
+      tache de sang loup qui attaque_115: 551841900714239144
+      tache de sang loup qui attaque_116: -4797822496865267505
+      tache de sang loup qui attaque_117: 7070827651382925626
+      tache de sang loup qui attaque_118: 3439207656868101086
+      tache de sang loup qui attaque_119: -5888045738636451480
+      tache de sang loup qui attaque_12: 6307572009294016374
+      tache de sang loup qui attaque_120: 8723216235034331173
+      tache de sang loup qui attaque_121: -4681526173519494686
+      tache de sang loup qui attaque_122: 4544770245098666713
+      tache de sang loup qui attaque_123: 3350542293956309468
+      tache de sang loup qui attaque_124: 6571236809197584201
+      tache de sang loup qui attaque_125: -593629362079422783
+      tache de sang loup qui attaque_126: 6152246600756426834
+      tache de sang loup qui attaque_127: 4825602520959487541
+      tache de sang loup qui attaque_128: -39047396375473991
+      tache de sang loup qui attaque_129: 5505443541480145932
+      tache de sang loup qui attaque_13: 287947349337261404
+      tache de sang loup qui attaque_130: 3846671628851946918
+      tache de sang loup qui attaque_131: 1173705327552020853
+      tache de sang loup qui attaque_132: -8943268007461132334
+      tache de sang loup qui attaque_133: 5711085027603261642
+      tache de sang loup qui attaque_134: -8947058598106872853
+      tache de sang loup qui attaque_135: 5211244309635350993
+      tache de sang loup qui attaque_136: 1098814609806741754
+      tache de sang loup qui attaque_137: 1046339840939630267
+      tache de sang loup qui attaque_138: 4201891545592319381
+      tache de sang loup qui attaque_139: 7761624558955400244
+      tache de sang loup qui attaque_14: -4190012099519331919
+      tache de sang loup qui attaque_140: 7001426212517926902
+      tache de sang loup qui attaque_141: -6926171318607907496
+      tache de sang loup qui attaque_142: 224687209080687371
+      tache de sang loup qui attaque_143: 6886147318393528278
+      tache de sang loup qui attaque_144: -1116391936421942962
+      tache de sang loup qui attaque_145: -7499244767987271182
+      tache de sang loup qui attaque_146: 1800810470511647958
+      tache de sang loup qui attaque_147: -3918192910503299241
+      tache de sang loup qui attaque_148: 1022236695783647707
+      tache de sang loup qui attaque_149: 127800160141519901
+      tache de sang loup qui attaque_15: 8901020341963614715
+      tache de sang loup qui attaque_150: 6051213656999829378
+      tache de sang loup qui attaque_151: 2999264231627500252
+      tache de sang loup qui attaque_152: -7027188291404080295
+      tache de sang loup qui attaque_153: -7099781241923397448
+      tache de sang loup qui attaque_154: -3165562104383458063
+      tache de sang loup qui attaque_155: -7185092994936324632
+      tache de sang loup qui attaque_156: 2354473221738834140
+      tache de sang loup qui attaque_157: 4917176831003766499
+      tache de sang loup qui attaque_158: -6516618578949694044
+      tache de sang loup qui attaque_159: 8695173214499019674
+      tache de sang loup qui attaque_16: 8642686787781614651
+      tache de sang loup qui attaque_160: 9193509864014498150
+      tache de sang loup qui attaque_161: 7852041976783002283
+      tache de sang loup qui attaque_162: -7655977381193661449
+      tache de sang loup qui attaque_163: 114488081747508419
+      tache de sang loup qui attaque_164: -8904792937850245542
+      tache de sang loup qui attaque_165: -3889926825967169690
+      tache de sang loup qui attaque_166: 1679252149528375802
+      tache de sang loup qui attaque_167: 3399300223138372796
+      tache de sang loup qui attaque_168: -6863760584890606143
+      tache de sang loup qui attaque_169: 1446473265241341342
+      tache de sang loup qui attaque_17: -6074211444993737085
+      tache de sang loup qui attaque_170: 1806815572352870258
+      tache de sang loup qui attaque_171: 1134524070687744798
+      tache de sang loup qui attaque_172: -4008791321178449624
+      tache de sang loup qui attaque_173: -1541585448931730881
+      tache de sang loup qui attaque_174: -2921824169631705172
+      tache de sang loup qui attaque_175: -7301085120191008525
+      tache de sang loup qui attaque_176: -6419290137555194656
+      tache de sang loup qui attaque_177: -6328425971071793079
+      tache de sang loup qui attaque_178: 6098465313974843913
+      tache de sang loup qui attaque_18: 7339548250715578780
+      tache de sang loup qui attaque_19: 482362536273777696
+      tache de sang loup qui attaque_2: 5436736987214125904
+      tache de sang loup qui attaque_20: 3904111108695892552
+      tache de sang loup qui attaque_21: 3536114368376377180
+      tache de sang loup qui attaque_22: 3488129209504672363
+      tache de sang loup qui attaque_23: 9039586506017861530
+      tache de sang loup qui attaque_24: -8983244307180122198
+      tache de sang loup qui attaque_25: 3088093365562972229
+      tache de sang loup qui attaque_26: 6030547912584678829
+      tache de sang loup qui attaque_27: -606613532935265141
+      tache de sang loup qui attaque_28: -6664928014527689661
+      tache de sang loup qui attaque_29: -1441075705192694430
+      tache de sang loup qui attaque_3: -4335517127696165391
+      tache de sang loup qui attaque_30: -8346253247579316449
+      tache de sang loup qui attaque_31: 2016917709082337755
+      tache de sang loup qui attaque_32: 5054782835219594602
+      tache de sang loup qui attaque_33: 360730381571314558
+      tache de sang loup qui attaque_34: 925192811015078353
+      tache de sang loup qui attaque_35: -8477393435611023812
+      tache de sang loup qui attaque_36: 5053802497691341653
+      tache de sang loup qui attaque_37: 6561358005986583714
+      tache de sang loup qui attaque_38: -9029372745353166955
+      tache de sang loup qui attaque_39: 5252520213682488174
+      tache de sang loup qui attaque_4: -986391253731105933
+      tache de sang loup qui attaque_40: -3217795548012409612
+      tache de sang loup qui attaque_41: -1675930590912101337
+      tache de sang loup qui attaque_42: 7274316547061398841
+      tache de sang loup qui attaque_43: -4129624564583774830
+      tache de sang loup qui attaque_44: 2743974842490391603
+      tache de sang loup qui attaque_45: 7685955608208156439
+      tache de sang loup qui attaque_46: 7912984211255440557
+      tache de sang loup qui attaque_47: 835168940889906792
+      tache de sang loup qui attaque_48: -565615193604020134
+      tache de sang loup qui attaque_49: -7455980601832368126
+      tache de sang loup qui attaque_5: 2519530363938635212
+      tache de sang loup qui attaque_50: 8303617340144934139
+      tache de sang loup qui attaque_51: -6358190542953786364
+      tache de sang loup qui attaque_52: 229575422120442979
+      tache de sang loup qui attaque_53: 2467155412518835112
+      tache de sang loup qui attaque_54: -4766908611391913690
+      tache de sang loup qui attaque_55: -2391947191077113919
+      tache de sang loup qui attaque_56: -5765357497707322128
+      tache de sang loup qui attaque_57: -5313816019752297135
+      tache de sang loup qui attaque_58: -7415518510567417895
+      tache de sang loup qui attaque_59: -6210798309967538515
+      tache de sang loup qui attaque_6: -3585261576922102470
+      tache de sang loup qui attaque_60: 5087837480285539233
+      tache de sang loup qui attaque_61: 2600317638485205298
+      tache de sang loup qui attaque_62: 4284040599938081510
+      tache de sang loup qui attaque_63: 2578897641833886469
+      tache de sang loup qui attaque_64: 3757485448560893700
+      tache de sang loup qui attaque_65: 4321921490179922871
+      tache de sang loup qui attaque_66: 308352784179075613
+      tache de sang loup qui attaque_67: 5030499842256146044
+      tache de sang loup qui attaque_68: -5920782283747540899
+      tache de sang loup qui attaque_69: -2515463585481949099
+      tache de sang loup qui attaque_7: 3249701518632795783
+      tache de sang loup qui attaque_70: 2565183268931163044
+      tache de sang loup qui attaque_71: -1241541876164917411
+      tache de sang loup qui attaque_72: 6186498801433112553
+      tache de sang loup qui attaque_73: 9182259288000198853
+      tache de sang loup qui attaque_74: 1157739223711717632
+      tache de sang loup qui attaque_75: 6281509071856400924
+      tache de sang loup qui attaque_76: 5812434169072791831
+      tache de sang loup qui attaque_77: -524104607467922855
+      tache de sang loup qui attaque_78: 8130701894116824470
+      tache de sang loup qui attaque_79: -4371000212688439192
+      tache de sang loup qui attaque_8: 7504604780294386211
+      tache de sang loup qui attaque_80: -5617503663312603087
+      tache de sang loup qui attaque_81: -1104746589536001432
+      tache de sang loup qui attaque_82: -616195365155208538
+      tache de sang loup qui attaque_83: 3200440746929677975
+      tache de sang loup qui attaque_84: 5968403009318967615
+      tache de sang loup qui attaque_85: 5577794605216162352
+      tache de sang loup qui attaque_86: -5894656539109205152
+      tache de sang loup qui attaque_87: 5265722833753056721
+      tache de sang loup qui attaque_88: 7513885726970604189
+      tache de sang loup qui attaque_89: -6836569740219785634
+      tache de sang loup qui attaque_9: 7120403982000315499
+      tache de sang loup qui attaque_90: 5192728132583244913
+      tache de sang loup qui attaque_91: 2248789155344997481
+      tache de sang loup qui attaque_92: -3933156134708779177
+      tache de sang loup qui attaque_93: 5080878587806496463
+      tache de sang loup qui attaque_94: -600083029842434326
+      tache de sang loup qui attaque_95: -8771101895497227852
+      tache de sang loup qui attaque_96: 8527044143587862149
+      tache de sang loup qui attaque_97: -1573194450139200901
+      tache de sang loup qui attaque_98: 936223442296832629
+      tache de sang loup qui attaque_99: 3499275414813168881
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

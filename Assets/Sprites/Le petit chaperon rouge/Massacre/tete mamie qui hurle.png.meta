@@ -1,0 +1,923 @@
+fileFormatVersion: 2
+guid: ae155f8415582b4479aa1a1ed0cfa096
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -6588623752416677932
+    second: tete mamie qui hurle_0
+  - first:
+      213: 6804966156232518096
+    second: tete mamie qui hurle_1
+  - first:
+      213: -1315721662959176614
+    second: tete mamie qui hurle_2
+  - first:
+      213: -3748092545497393749
+    second: tete mamie qui hurle_3
+  - first:
+      213: 4738913949922942301
+    second: tete mamie qui hurle_4
+  - first:
+      213: 385482987006467702
+    second: tete mamie qui hurle_5
+  - first:
+      213: 4372900919743018490
+    second: tete mamie qui hurle_6
+  - first:
+      213: -7181168297653883313
+    second: tete mamie qui hurle_7
+  - first:
+      213: 6380943973178932610
+    second: tete mamie qui hurle_8
+  - first:
+      213: 1870726730012875041
+    second: tete mamie qui hurle_9
+  - first:
+      213: -1653888285482471083
+    second: tete mamie qui hurle_10
+  - first:
+      213: -6279495626511323573
+    second: tete mamie qui hurle_11
+  - first:
+      213: -8885063610217015011
+    second: tete mamie qui hurle_12
+  - first:
+      213: 2856952765411957459
+    second: tete mamie qui hurle_13
+  - first:
+      213: -8761618914920186470
+    second: tete mamie qui hurle_14
+  - first:
+      213: -9183366589642060047
+    second: tete mamie qui hurle_15
+  - first:
+      213: -4551670323329019077
+    second: tete mamie qui hurle_16
+  - first:
+      213: -2557680471866113946
+    second: tete mamie qui hurle_17
+  - first:
+      213: 7714987981594279948
+    second: tete mamie qui hurle_18
+  - first:
+      213: -1743803973356298460
+    second: tete mamie qui hurle_19
+  - first:
+      213: -9097325109301932188
+    second: tete mamie qui hurle_20
+  - first:
+      213: -1026608072033212134
+    second: tete mamie qui hurle_21
+  - first:
+      213: 1753712787872472285
+    second: tete mamie qui hurle_22
+  - first:
+      213: 9162142933941862104
+    second: tete mamie qui hurle_23
+  - first:
+      213: 4129517350905373145
+    second: tete mamie qui hurle_24
+  - first:
+      213: 3042425715367955322
+    second: tete mamie qui hurle_25
+  - first:
+      213: -6785712930780043198
+    second: tete mamie qui hurle_26
+  - first:
+      213: -883545345333749435
+    second: tete mamie qui hurle_27
+  - first:
+      213: -500824185040685020
+    second: tete mamie qui hurle_28
+  - first:
+      213: 2564291533373371769
+    second: tete mamie qui hurle_29
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 1
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 8192
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: tete mamie qui hurle_0
+      rect:
+        serializedVersion: 2
+        x: 4039
+        y: 786
+        width: 34
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4dfa08eea918094a0800000000000000
+      internalID: -6588623752416677932
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tete mamie qui hurle_1
+      rect:
+        serializedVersion: 2
+        x: 4108
+        y: 793
+        width: 16
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0d96bc23aa8107e50800000000000000
+      internalID: 6804966156232518096
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tete mamie qui hurle_2
+      rect:
+        serializedVersion: 2
+        x: 4016
+        y: 765
+        width: 10
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a5438085e1e9dbde0800000000000000
+      internalID: -1315721662959176614
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tete mamie qui hurle_3
+      rect:
+        serializedVersion: 2
+        x: 4117
+        y: 754
+        width: 40
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ba5965820b91cfbc0800000000000000
+      internalID: -3748092545497393749
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tete mamie qui hurle_4
+      rect:
+        serializedVersion: 2
+        x: 4173
+        y: 769
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d5ddc4e212104c140800000000000000
+      internalID: 4738913949922942301
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tete mamie qui hurle_5
+      rect:
+        serializedVersion: 2
+        x: 4238
+        y: 763
+        width: 16
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 67e1a7bfbb2895500800000000000000
+      internalID: 385482987006467702
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tete mamie qui hurle_6
+      rect:
+        serializedVersion: 2
+        x: 4005
+        y: 526
+        width: 250
+        height: 232
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: af5f247c73aafac30800000000000000
+      internalID: 4372900919743018490
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tete mamie qui hurle_7
+      rect:
+        serializedVersion: 2
+        x: 4089
+        y: 750
+        width: 24
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f4e2b021b7d575c90800000000000000
+      internalID: -7181168297653883313
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tete mamie qui hurle_8
+      rect:
+        serializedVersion: 2
+        x: 4195
+        y: 717
+        width: 34
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 28dfff46cbaad8850800000000000000
+      internalID: 6380943973178932610
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tete mamie qui hurle_9
+      rect:
+        serializedVersion: 2
+        x: 3994
+        y: 723
+        width: 28
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 129de36ac0826f910800000000000000
+      internalID: 1870726730012875041
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tete mamie qui hurle_10
+      rect:
+        serializedVersion: 2
+        x: 4245
+        y: 712
+        width: 27
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 55133a5fd553c09e0800000000000000
+      internalID: -1653888285482471083
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tete mamie qui hurle_11
+      rect:
+        serializedVersion: 2
+        x: 3955
+        y: 688
+        width: 17
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b4e6c257fffbad8a0800000000000000
+      internalID: -6279495626511323573
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tete mamie qui hurle_12
+      rect:
+        serializedVersion: 2
+        x: 4257
+        y: 682
+        width: 24
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d19d34ab8b9e1b480800000000000000
+      internalID: -8885063610217015011
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tete mamie qui hurle_13
+      rect:
+        serializedVersion: 2
+        x: 4301
+        y: 680
+        width: 9
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3da1372476fe5a720800000000000000
+      internalID: 2856952765411957459
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tete mamie qui hurle_14
+      rect:
+        serializedVersion: 2
+        x: 3959
+        y: 662
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a9db6d6940a786680800000000000000
+      internalID: -8761618914920186470
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tete mamie qui hurle_15
+      rect:
+        serializedVersion: 2
+        x: 3984
+        y: 668
+        width: 11
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1fec1360eb02e8080800000000000000
+      internalID: -9183366589642060047
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tete mamie qui hurle_16
+      rect:
+        serializedVersion: 2
+        x: 3981
+        y: 646
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b33594be4f735d0c0800000000000000
+      internalID: -4551670323329019077
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tete mamie qui hurle_17
+      rect:
+        serializedVersion: 2
+        x: 4268
+        y: 649
+        width: 12
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6608779792b418cd0800000000000000
+      internalID: -2557680471866113946
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tete mamie qui hurle_18
+      rect:
+        serializedVersion: 2
+        x: 3988
+        y: 615
+        width: 11
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c00c55981b4211b60800000000000000
+      internalID: 7714987981594279948
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tete mamie qui hurle_19
+      rect:
+        serializedVersion: 2
+        x: 4247
+        y: 606
+        width: 28
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 42fde2a7683ccc7e0800000000000000
+      internalID: -1743803973356298460
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tete mamie qui hurle_20
+      rect:
+        serializedVersion: 2
+        x: 4273
+        y: 626
+        width: 11
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 46f01d5430fcfb180800000000000000
+      internalID: -9097325109301932188
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tete mamie qui hurle_21
+      rect:
+        serializedVersion: 2
+        x: 4315
+        y: 634
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a1969eec561c0c1f0800000000000000
+      internalID: -1026608072033212134
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tete mamie qui hurle_22
+      rect:
+        serializedVersion: 2
+        x: 4333
+        y: 628
+        width: 18
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ddcd23f2d70765810800000000000000
+      internalID: 1753712787872472285
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tete mamie qui hurle_23
+      rect:
+        serializedVersion: 2
+        x: 4278
+        y: 592
+        width: 13
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8deb5fe8478762f70800000000000000
+      internalID: 9162142933941862104
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tete mamie qui hurle_24
+      rect:
+        serializedVersion: 2
+        x: 4299
+        y: 604
+        width: 21
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9d1e68ac62efe4930800000000000000
+      internalID: 4129517350905373145
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tete mamie qui hurle_25
+      rect:
+        serializedVersion: 2
+        x: 4152
+        y: 519
+        width: 11
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a7b4504911ed83a20800000000000000
+      internalID: 3042425715367955322
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tete mamie qui hurle_26
+      rect:
+        serializedVersion: 2
+        x: 4187
+        y: 511
+        width: 26
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 248a41daa0e44d1a0800000000000000
+      internalID: -6785712930780043198
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tete mamie qui hurle_27
+      rect:
+        serializedVersion: 2
+        x: 4238
+        y: 525
+        width: 11
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5499e6c80340db3f0800000000000000
+      internalID: -883545345333749435
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tete mamie qui hurle_28
+      rect:
+        serializedVersion: 2
+        x: 4133
+        y: 505
+        width: 9
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 428b9b3ae07bc09f0800000000000000
+      internalID: -500824185040685020
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tete mamie qui hurle_29
+      rect:
+        serializedVersion: 2
+        x: 4161
+        y: 502
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 975f24b3091369320800000000000000
+      internalID: 2564291533373371769
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      tete mamie qui hurle_0: -6588623752416677932
+      tete mamie qui hurle_1: 6804966156232518096
+      tete mamie qui hurle_10: -1653888285482471083
+      tete mamie qui hurle_11: -6279495626511323573
+      tete mamie qui hurle_12: -8885063610217015011
+      tete mamie qui hurle_13: 2856952765411957459
+      tete mamie qui hurle_14: -8761618914920186470
+      tete mamie qui hurle_15: -9183366589642060047
+      tete mamie qui hurle_16: -4551670323329019077
+      tete mamie qui hurle_17: -2557680471866113946
+      tete mamie qui hurle_18: 7714987981594279948
+      tete mamie qui hurle_19: -1743803973356298460
+      tete mamie qui hurle_2: -1315721662959176614
+      tete mamie qui hurle_20: -9097325109301932188
+      tete mamie qui hurle_21: -1026608072033212134
+      tete mamie qui hurle_22: 1753712787872472285
+      tete mamie qui hurle_23: 9162142933941862104
+      tete mamie qui hurle_24: 4129517350905373145
+      tete mamie qui hurle_25: 3042425715367955322
+      tete mamie qui hurle_26: -6785712930780043198
+      tete mamie qui hurle_27: -883545345333749435
+      tete mamie qui hurle_28: -500824185040685020
+      tete mamie qui hurle_29: 2564291533373371769
+      tete mamie qui hurle_3: -3748092545497393749
+      tete mamie qui hurle_4: 4738913949922942301
+      tete mamie qui hurle_5: 385482987006467702
+      tete mamie qui hurle_6: 4372900919743018490
+      tete mamie qui hurle_7: -7181168297653883313
+      tete mamie qui hurle_8: 6380943973178932610
+      tete mamie qui hurle_9: 1870726730012875041
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

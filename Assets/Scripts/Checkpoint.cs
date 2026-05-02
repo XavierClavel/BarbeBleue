@@ -19,6 +19,7 @@ public class CheckpointData
 public class Checkpoint: MonoBehaviour
 {
     [SerializeField] private string key;
+    public RectTransform rectTransform;
     private float lastPos;
     public CheckpointData data;
     private bool initialized = false;

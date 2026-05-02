@@ -15,6 +15,7 @@ public class ParallaxManager : MonoBehaviour, IParallax
     private List<ParallaxAction> parallaxActions = new List<ParallaxAction>();
     private Dictionary<ParallaxLayer, bool> inProcess = new Dictionary<ParallaxLayer, bool>();
     public float offset = 0;
+    public Checkpoint startAt;
     
     private const float parallaxCoeff = 0.005f;
     private const float fallbackBuffer = 800f;
@@ -28,6 +29,10 @@ public class ParallaxManager : MonoBehaviour, IParallax
         instance = this;
         StartCoroutine(nameof(occlusionCallingCoroutine));
         canvasRT = canvas.GetComponent<RectTransform>();
+        if (startAt != null)
+        {
+            content.anchoredPosition = -startAt.rectTransform.anchoredPosition;
+        }
     }
 
     public void onParallaxDeclaration(ParallaxLayer parallax)

@@ -1,0 +1,429 @@
+fileFormatVersion: 2
+guid: c8ff94eee5da9094c8d0bd27b6304b96
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -3823390468330117999
+    second: Ombre loup QUI ATTAQUE_0
+  - first:
+      213: -3573875868632478802
+    second: Ombre loup QUI ATTAQUE_1
+  - first:
+      213: 1513859513394605295
+    second: Ombre loup QUI ATTAQUE_2
+  - first:
+      213: -308257620713818000
+    second: Ombre loup QUI ATTAQUE_3
+  - first:
+      213: 272826078093846719
+    second: Ombre loup QUI ATTAQUE_4
+  - first:
+      213: -277099113982257112
+    second: Ombre loup QUI ATTAQUE_5
+  - first:
+      213: 1950105263634060568
+    second: Ombre loup QUI ATTAQUE_6
+  - first:
+      213: 6533366488180970005
+    second: Ombre loup QUI ATTAQUE_7
+  - first:
+      213: -2593685218837199634
+    second: Ombre loup QUI ATTAQUE_8
+  - first:
+      213: -2679556100899107611
+    second: Ombre loup QUI ATTAQUE_9
+  - first:
+      213: -5576565141194183896
+    second: Ombre loup QUI ATTAQUE_10
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 1
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 8192
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Ombre loup QUI ATTAQUE_0
+      rect:
+        serializedVersion: 2
+        x: 407
+        y: 0
+        width: 5784
+        height: 1080
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 194a19150a690fac0800000000000000
+      internalID: -3823390468330117999
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ombre loup QUI ATTAQUE_1
+      rect:
+        serializedVersion: 2
+        x: 6202
+        y: 321
+        width: 49
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eab02da25da076ec0800000000000000
+      internalID: -3573875868632478802
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ombre loup QUI ATTAQUE_2
+      rect:
+        serializedVersion: 2
+        x: 6255
+        y: 289
+        width: 22
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fec2bb7e43f420510800000000000000
+      internalID: 1513859513394605295
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ombre loup QUI ATTAQUE_3
+      rect:
+        serializedVersion: 2
+        x: 6289
+        y: 209
+        width: 20
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 078bb02c359d8bbf0800000000000000
+      internalID: -308257620713818000
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ombre loup QUI ATTAQUE_4
+      rect:
+        serializedVersion: 2
+        x: 6348
+        y: 218
+        width: 15
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fb82f3e5fd549c300800000000000000
+      internalID: 272826078093846719
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ombre loup QUI ATTAQUE_5
+      rect:
+        serializedVersion: 2
+        x: 6186
+        y: 133
+        width: 71
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 828138fe2db872cf0800000000000000
+      internalID: -277099113982257112
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ombre loup QUI ATTAQUE_6
+      rect:
+        serializedVersion: 2
+        x: 6288
+        y: 54
+        width: 90
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8151789b76a201b10800000000000000
+      internalID: 1950105263634060568
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ombre loup QUI ATTAQUE_7
+      rect:
+        serializedVersion: 2
+        x: 6220
+        y: 35
+        width: 23
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 512d77ba43e2baa50800000000000000
+      internalID: 6533366488180970005
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ombre loup QUI ATTAQUE_8
+      rect:
+        serializedVersion: 2
+        x: 6230
+        y: 0
+        width: 48
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ee407001901610cd0800000000000000
+      internalID: -2593685218837199634
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ombre loup QUI ATTAQUE_9
+      rect:
+        serializedVersion: 2
+        x: 6287
+        y: 4
+        width: 51
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5ec8d225ced40dad0800000000000000
+      internalID: -2679556100899107611
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ombre loup QUI ATTAQUE_10
+      rect:
+        serializedVersion: 2
+        x: 6346
+        y: 0
+        width: 21
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 82b6b4ccc8f0c92b0800000000000000
+      internalID: -5576565141194183896
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Ombre loup QUI ATTAQUE_0: -3823390468330117999
+      Ombre loup QUI ATTAQUE_1: -3573875868632478802
+      Ombre loup QUI ATTAQUE_10: -5576565141194183896
+      Ombre loup QUI ATTAQUE_2: 1513859513394605295
+      Ombre loup QUI ATTAQUE_3: -308257620713818000
+      Ombre loup QUI ATTAQUE_4: 272826078093846719
+      Ombre loup QUI ATTAQUE_5: -277099113982257112
+      Ombre loup QUI ATTAQUE_6: 1950105263634060568
+      Ombre loup QUI ATTAQUE_7: 6533366488180970005
+      Ombre loup QUI ATTAQUE_8: -2593685218837199634
+      Ombre loup QUI ATTAQUE_9: -2679556100899107611
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
