@@ -27,13 +27,12 @@ public class ParallaxLayer : MonoBehaviour
             parent = parent.parent.GetComponent<RectTransform>();
         }
 
-        startPos = rectTransform.position;
+        startPos = rectTransform.anchoredPosition;
     }
 
     public void applyParallaxOffset(Vector2 delta)
     {
-        //rectTransform.anchoredPosition = startPos + delta;
-        rectTransform.anchoredPosition = delta;
+        rectTransform.anchoredPosition = startPos + delta;
     }
     
 

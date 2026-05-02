@@ -210,7 +210,10 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      "nouvelle sce\u0300ne arbre rouge fond_0": -4695071968489061840
+      "nouvelle sce\u0300ne arbre rouge fond_1": 5237481864507542408
+      "nouvelle sce\u0300ne arbre rouge fond_2": 6450693219197196401
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

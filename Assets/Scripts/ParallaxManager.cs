@@ -17,7 +17,6 @@ public class ParallaxManager : MonoBehaviour, IParallax
     public float offset = 0;
     
     private const float parallaxCoeff = 0.005f;
-    private const float occlusionCullingBuffer = 1000f;
     private const float fallbackBuffer = 800f;
     private RectTransform canvasRT;
     
@@ -45,7 +44,7 @@ public class ParallaxManager : MonoBehaviour, IParallax
 
     private Vector2 getParallaxOffset(ParallaxLayer layer)
     {
-        var deltaPos = content.anchoredPosition.x + layer.parent.anchoredPosition.x + layer.sceneOffset - layer.parent.rect.width * 0.5f;
+        var deltaPos = getPositionRelativeToCamera(layer);
         var parallaxIntensity = parallaxCoeff * layer.rectTransform.anchoredPosition3D.z;
         
         return deltaPos * parallaxIntensity * Vector2.right;
@@ -55,8 +54,11 @@ public class ParallaxManager : MonoBehaviour, IParallax
     {
         parallaxLayers.ForEach(it =>
         {
-            manageOcclusionCulling(it);
-            updatePosition(it);
+            var layerQueuedForDeactivation = manageOcclusionCulling(it);
+            if (!layerQueuedForDeactivation)
+            {
+                updatePosition(it);
+            }
         });
         
         parallaxActions.ForEach(it =>
@@ -91,17 +93,26 @@ public class ParallaxManager : MonoBehaviour, IParallax
         }
     }
 
-    private void manageOcclusionCulling(ParallaxLayer layer)
+    private float getPositionRelativeToCamera(ParallaxLayer layer)
     {
-        var distanceToCamera = content.anchoredPosition.x + layer.parent.anchoredPosition.x + layer.sceneOffset - Screen.width * 0.5f;
+        return content.anchoredPosition.x
+               + layer.parent.anchoredPosition.x
+               + layer.rectTransform.anchoredPosition.x
+               - Screen.width * 0.5f;
+    }
+
+    private bool manageOcclusionCulling(ParallaxLayer layer)
+    {
+        var occlusionCullingBuffer = UnityEngine.Device.Screen.width;
+        var distanceToCamera = getPositionRelativeToCamera(layer);
         var distanceToFrustum = Mathf.Abs(distanceToCamera) - (layer.rectTransform.rect.width + Screen.width) * 0.5f;
         var shouldBeDisplayed = distanceToFrustum < occlusionCullingBuffer;
         
         //Fallback in case the coroutine takes too long
         if (inProcess.TryGetValue(layer, out bool value))
         {
-            if (value != shouldBeDisplayed) return;
-            if (distanceToFrustum > fallbackBuffer) return;
+            if (value != shouldBeDisplayed) return false;
+            if (distanceToFrustum > fallbackBuffer) return false;
             Debug.Log("forced occlusion culling");
             inProcess.Remove(layer);
             layer.gameObject.SetActive(shouldBeDisplayed);
@@ -111,6 +122,8 @@ public class ParallaxManager : MonoBehaviour, IParallax
         {
             inProcess[layer] = shouldBeDisplayed;
         }
+
+        return !shouldBeDisplayed;
     }
     
     private void updatePosition(ParallaxLayer layer)
