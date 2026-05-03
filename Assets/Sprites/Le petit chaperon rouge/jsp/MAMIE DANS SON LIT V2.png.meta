@@ -1,13 +1,13 @@
 fileFormatVersion: 2
-guid: 02d5269cdae97ed46b1ac7d65363afc9
+guid: 5448a5f2e57ee0446ab4d1b1466edd20
 TextureImporter:
   internalIDToNameTable:
   - first:
-      213: -9065616351545038974
-    second: Mamie dans son lit mettre fond noir_0
+      213: -8663588869837855416
+    second: MAMIE DANS SON LIT V2_0
   - first:
-      213: -7229764554870348873
-    second: Mamie dans son lit mettre fond noir_1
+      213: 2767940192807981749
+    second: MAMIE DANS SON LIT V2_1
   externalObjects: {}
   serializedVersion: 13
   mipmaps:
@@ -129,13 +129,13 @@ TextureImporter:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: Mamie dans son lit mettre fond noir_0
+      name: MAMIE DANS SON LIT V2_0
       rect:
         serializedVersion: 2
         x: 571
         y: 0
         width: 1447
-        height: 1026
+        height: 1027
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -144,14 +144,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 2876f20c5f5703280800000000000000
-      internalID: -9065616351545038974
+      spriteID: 845694513dfb4c780800000000000000
+      internalID: -8663588869837855416
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Mamie dans son lit mettre fond noir_1
+      name: MAMIE DANS SON LIT V2_1
       rect:
         serializedVersion: 2
         x: 2014
@@ -166,8 +166,8 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 7b32e393177baab90800000000000000
-      internalID: -7229764554870348873
+      spriteID: 5b298dfa0f2b96620800000000000000
+      internalID: 2767940192807981749
       vertices: []
       indices: 
       edges: []
@@ -186,8 +186,8 @@ TextureImporter:
     spriteCustomMetadata:
       entries: []
     nameFileIdTable:
-      Mamie dans son lit mettre fond noir_0: -9065616351545038974
-      Mamie dans son lit mettre fond noir_1: -7229764554870348873
+      MAMIE DANS SON LIT V2_0: -8663588869837855416
+      MAMIE DANS SON LIT V2_1: 2767940192807981749
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 
