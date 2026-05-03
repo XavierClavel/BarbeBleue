@@ -75,11 +75,11 @@ public class ParallaxManager : MonoBehaviour, IParallax
     private void doParallaxActions(ParallaxAction action)
     {
         if (!action.gameObject.activeInHierarchy) return;
-        var distanceToCamera = content.anchoredPosition.x + action.rt.anchoredPosition.x + action.parent.anchoredPosition.x + action.sceneOffset - Screen.width * 0.5f;
-        var distanceToCameraPix = 0.5f + distanceToCamera / Screen.width;
+        var distanceToCamera = getPositionRelativeToCamera(action);
+        var distanceToFrustum = 0.5f + distanceToCamera / Screen.width;
         var objectSize = action.rt.rect.width / canvasRT.rect.width;
-        var ratio = (distanceToCameraPix + 0.5f * objectSize) / (1f + objectSize);
-
+        var ratio = (distanceToFrustum + 0.5f * objectSize) / (1f + objectSize);
+        
         var value = action.startValue + Mathf.Clamp01(ratio) * (action.endValue - action.startValue);
 
         switch (action.type)
@@ -98,13 +98,10 @@ public class ParallaxManager : MonoBehaviour, IParallax
         }
     }
 
-    private float getPositionRelativeToCamera(ParallaxLayer layer)
+    private float getPositionRelativeToCamera(IParallaxedObject parallaxObject)
     {
-        return content.anchoredPosition.x
-               + layer.parent.anchoredPosition.x
-               + layer.rectTransform.anchoredPosition.x
-               + layer.sceneOffset
-               - Screen.width * 0.5f;
+        Vector2 screenPoint = RectTransformUtility.WorldToScreenPoint(null, parallaxObject.getRectTransform().position);
+        return screenPoint.x - (Screen.width * 0.5f);
     }
 
     private bool manageOcclusionCulling(ParallaxLayer layer)

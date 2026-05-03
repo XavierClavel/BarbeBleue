@@ -10,7 +10,7 @@ public enum actionType
     LocalYTranslate,
 }
 
-public class ParallaxAction : MonoBehaviour
+public class ParallaxAction : MonoBehaviour, IParallaxedObject
 {
     [SerializeField] public actionType type;
     [HideInInspector] public RectTransform rt;
@@ -21,8 +21,6 @@ public class ParallaxAction : MonoBehaviour
     [SerializeField] public float magnitude;
     [SerializeField] public float amplitude;
     [SerializeField] public float offset;
-    [HideInInspector] public RectTransform parent;
-    [HideInInspector] public float sceneOffset = 0f;
     [HideInInspector] public Vector3 basePosition;
     
     
@@ -33,17 +31,6 @@ public class ParallaxAction : MonoBehaviour
         actuator = GetComponent<RectTransform>();
         rt = GetComponent<RectTransform>();
         basePosition = rt.localPosition;
-        parent = rt.parent.GetComponent<RectTransform>();
-        while (parent.gameObject.name == "Mask" || 
-               parent.gameObject.name.StartsWith("Offset") ||
-               parent.gameObject.name == "Wrapper"
-              )
-        {
-            sceneOffset += parent.anchoredPosition.x;
-            parent = parent.parent.GetComponent<RectTransform>();
-        }
-        
-        
         
         switch (type)
         {
@@ -58,6 +45,10 @@ public class ParallaxAction : MonoBehaviour
         
         EventManagers.parallaxActions.dispatchEvent(it => it.onParallaxActionDeclaration(this));
     }
-    
-    
+
+
+    public RectTransform getRectTransform()
+    {
+        return rt;
+    }
 }

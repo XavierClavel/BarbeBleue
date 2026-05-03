@@ -625,7 +625,7 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0, y: 0}
   m_AnchorMax: {x: 0, y: 1}
-  m_AnchoredPosition: {x: 6352, y: 0}
+  m_AnchoredPosition: {x: 10941, y: 0}
   m_SizeDelta: {x: 100, y: 0}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!1 &118796004
@@ -1782,7 +1782,7 @@ GameObject:
   - component: {fileID: 243177553}
   - component: {fileID: 243177552}
   m_Layer: 5
-  m_Name: Wrapper
+  m_Name: Tested layer
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -1808,9 +1808,9 @@ RectTransform:
   - {fileID: 1163750233}
   m_Father: {fileID: 1056118772}
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
-  m_AnchorMin: {x: 0.5, y: 0}
-  m_AnchorMax: {x: 0.5, y: 1}
-  m_AnchoredPosition: {x: 0, y: 0}
+  m_AnchorMin: {x: 0, y: 0}
+  m_AnchorMax: {x: 0, y: 1}
+  m_AnchoredPosition: {x: 1200, y: 0}
   m_SizeDelta: {x: 2400, y: 0}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &243177552
@@ -2911,10 +2911,10 @@ RectTransform:
   m_Children: []
   m_Father: {fileID: 243177551}
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
-  m_AnchorMin: {x: 0.5, y: 0.5}
-  m_AnchorMax: {x: 0.5, y: 0.5}
-  m_AnchoredPosition: {x: -489, y: -12}
-  m_SizeDelta: {x: 889, y: 1002}
+  m_AnchorMin: {x: 0, y: 0}
+  m_AnchorMax: {x: 0, y: 1}
+  m_AnchoredPosition: {x: 711, y: -12}
+  m_SizeDelta: {x: 889, y: -78}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &394910376
 MonoBehaviour:
@@ -8980,7 +8980,7 @@ MonoBehaviour:
   firstScene: {fileID: 0}
   canvas: {fileID: 2012454758}
   offset: 0
-  startAt: {fileID: 104533688}
+  startAt: {fileID: 0}
 --- !u!1 &1012698834
 GameObject:
   m_ObjectHideFlags: 0

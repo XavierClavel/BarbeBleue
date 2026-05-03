@@ -1,33 +1,14 @@
-using System;
-using System.Collections;
-using System.Collections.Generic;
-using Unity.VisualScripting;
 using UnityEngine;
-using UnityEngine.UI;
 
-public class ParallaxLayer : MonoBehaviour
+public class ParallaxLayer : MonoBehaviour, IParallaxedObject
 {
     
     [HideInInspector] public RectTransform rectTransform;
-    [HideInInspector] public RectTransform parent;
-    private bool initialized = false;
-    [HideInInspector] public float sceneOffset = 0f;
     private Vector2 startPos;
 
     private void Awake()
     {
         rectTransform = GetComponent<RectTransform>();
-        parent = transform.parent.GetComponent<RectTransform>();
-        while (parent.gameObject.name == "Mask" || 
-               parent.gameObject.name.StartsWith("Offset") ||
-               parent.gameObject.name == "Wrapper" ||
-               parent.gameObject.TryGetComponent<ParallaxLayer>(out var layer)
-               )
-        {
-            sceneOffset += parent.anchoredPosition.x;
-            parent = parent.parent.GetComponent<RectTransform>();
-        }
-
         startPos = rectTransform.anchoredPosition;
     }
 
@@ -43,4 +24,8 @@ public class ParallaxLayer : MonoBehaviour
         EventManagers.parallax.dispatchEvent(it => it.onParallaxDeclaration(this));
     }
 
+    public RectTransform getRectTransform()
+    {
+        return rectTransform;
+    }
 }
