@@ -20,7 +20,8 @@ public class ParallaxLayer : MonoBehaviour
         parent = transform.parent.GetComponent<RectTransform>();
         while (parent.gameObject.name == "Mask" || 
                parent.gameObject.name.StartsWith("Offset") ||
-               parent.gameObject.name == "Wrapper"
+               parent.gameObject.name == "Wrapper" ||
+               parent.gameObject.TryGetComponent<ParallaxLayer>(out var layer)
                )
         {
             sceneOffset += parent.anchoredPosition.x;

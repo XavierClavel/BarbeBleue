@@ -103,6 +103,7 @@ public class ParallaxManager : MonoBehaviour, IParallax
         return content.anchoredPosition.x
                + layer.parent.anchoredPosition.x
                + layer.rectTransform.anchoredPosition.x
+               + layer.sceneOffset
                - Screen.width * 0.5f;
     }
 
