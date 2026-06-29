@@ -1,4 +1,4 @@
-name: Embed release CI
+name: Release CI
 
 on:
   push:
@@ -48,10 +48,20 @@ jobs:
           name: WebGL-Build
           path: build/WebGL/WebGL
 
-      - name: Deploy
+      - name: Deploy to Cloudflare Pages
         uses: cloudflare/wrangler-action@v3
         with:
           apiToken: ${{ secrets.CLOUDFLARE_API_TOKEN }}
           accountId: ${{ secrets.CLOUDFLARE_ACCOUNT_ID }}
           command: pages deploy build/WebGL/WebGL --project-name=damp-silence-3729
           gitHubToken: ${{ secrets.GITHUB_TOKEN }}
+
+      # itch.io
+      - name: Deploy to itch.io
+        uses: manleydev/butler-publish-itchio-action@master
+        env:
+          BUTLER_CREDENTIALS: ${{ secrets.ITCH_API_KEY }}
+          CHANNEL: html5
+          ITCH_USER: ${{ secrets.ITCH_USER }}
+          ITCH_GAME: ${{ secrets.ITCH_GAME }}
+          PACKAGE: build/WebGL/WebGL
