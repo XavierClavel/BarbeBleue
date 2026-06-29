@@ -20,6 +20,15 @@ jobs:
         with:
           fetch-depth: 0
           lfs: true
+          
+      - name: Verify Cloudflare secrets present
+        run: |
+          if [ -z "${{ secrets.CLOUDFLARE_API_TOKEN }}" ]; then                                                                                                                   
+            echo "::error::CLOUDFLARE_API_TOKEN is empty — secret not set or misnamed"; exit 1                                                                                    
+          fi                                                                                                                                                                      
+          echo "Token is set (length: ${#TOKEN})"                                                                                                                                 
+        env:
+          TOKEN: ${{ secrets.CLOUDFLARE_API_TOKEN }}
 
       # Cache
       - name: Cache Library
