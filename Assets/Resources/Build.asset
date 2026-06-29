@@ -13,5 +13,5 @@ MonoBehaviour:
   m_Name: Build
   m_EditorClassIdentifier: 
   buildNumber: 1
-  gitCommit: 080c65a
-  date: 03/05/2026 12:02
+  gitCommit: b1a387e
+  date: 20/06/2026 13:43
