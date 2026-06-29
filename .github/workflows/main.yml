@@ -57,12 +57,12 @@ jobs:
           name: WebGL-Build
           path: build/WebGL/WebGL
 
-      - name: Deploy to Cloudflare Pages
+      - name: Deploy to Cloudflare Workers
         uses: cloudflare/wrangler-action@v3
         with:
           apiToken: ${{ secrets.CLOUDFLARE_API_TOKEN }}
           accountId: ${{ secrets.CLOUDFLARE_ACCOUNT_ID }}
-          command: pages deploy build/WebGL/WebGL --project-name=damp-silence-3729
+          command: deploy
           gitHubToken: ${{ secrets.GITHUB_TOKEN }}
 
       # itch.io

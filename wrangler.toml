@@ -1,0 +1,7 @@
+name = "damp-silence-3729"
+compatibility_date = "2025-06-01"
+
+# Static-assets-only Worker: serves the Unity WebGL build directly.
+# No `main` script is needed for a pure static site.
+[assets]
+directory = "build/WebGL/WebGL"
