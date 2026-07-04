@@ -20,8 +20,25 @@ jobs:
         with:
           fetch-depth: 0
           lfs: true
-          
+
+      # Determine version + tag, and whether that tag already exists
+      - name: Check release tag
+        id: tagcheck
+        run: |
+          VERSION=$(grep -m1 'bundleVersion:' ProjectSettings/ProjectSettings.asset | sed 's/.*bundleVersion:[[:space:]]*//' | tr -d '[:space:]')
+          TAG="v${VERSION}"
+          echo "version=${VERSION}" >> "$GITHUB_OUTPUT"
+          echo "tag=${TAG}" >> "$GITHUB_OUTPUT"
+          if git ls-remote --tags --exit-code origin "refs/tags/${TAG}" >/dev/null 2>&1; then
+            echo "exists=true" >> "$GITHUB_OUTPUT"
+            echo "::notice::Tag ${TAG} already exists — skipping build and deployment"
+          else
+            echo "exists=false" >> "$GITHUB_OUTPUT"
+            echo "::notice::Tag ${TAG} does not exist — proceeding with build and deployment"
+          fi
+
       - name: Verify Cloudflare secrets present
+        if: steps.tagcheck.outputs.exists == 'false'
         run: |
           if [ -z "${{ secrets.CLOUDFLARE_API_TOKEN }}" ]; then                                                                                                                   
             echo "::error::CLOUDFLARE_API_TOKEN is empty — secret not set or misnamed"; exit 1                                                                                    
@@ -32,6 +49,7 @@ jobs:
 
       # Cache
       - name: Cache Library
+        if: steps.tagcheck.outputs.exists == 'false'
         uses: actions/cache@v4
         with:
           path: Library
@@ -41,6 +59,7 @@ jobs:
 
       # Build
       - name: Build project
+        if: steps.tagcheck.outputs.exists == 'false'
         uses: game-ci/unity-builder@v4
         env:
           UNITY_LICENSE: ${{ secrets.UNITY_LICENSE }}
@@ -52,12 +71,14 @@ jobs:
 
       # Upload
       - name: Upload build
+        if: steps.tagcheck.outputs.exists == 'false'
         uses: actions/upload-artifact@v4
         with:
           name: WebGL-Build
           path: build/WebGL/WebGL
 
       - name: Deploy to Cloudflare Workers
+        if: steps.tagcheck.outputs.exists == 'false'
         uses: cloudflare/wrangler-action@v3
         with:
           apiToken: ${{ secrets.CLOUDFLARE_API_TOKEN }}
@@ -67,6 +88,7 @@ jobs:
 
       # itch.io
       - name: Deploy to itch.io
+        if: steps.tagcheck.outputs.exists == 'false'
         uses: manleydev/butler-publish-itchio-action@master
         env:
           BUTLER_CREDENTIALS: ${{ secrets.ITCH_API_KEY }}
@@ -74,3 +96,12 @@ jobs:
           ITCH_USER: ${{ secrets.ITCH_USER }}
           ITCH_GAME: ${{ secrets.ITCH_GAME }}
           PACKAGE: build/WebGL/WebGL
+
+      # Tag the release once deployment succeeded
+      - name: Create release tag
+        if: steps.tagcheck.outputs.exists == 'false'
+        env:
+          TAG: ${{ steps.tagcheck.outputs.tag }}
+        run: |
+          git tag "$TAG"
+          git push origin "$TAG"
