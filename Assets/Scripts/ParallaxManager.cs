@@ -104,11 +104,34 @@ public class ParallaxManager : MonoBehaviour, IParallax
         return screenPoint.x - (Screen.width * 0.5f);
     }
 
+    // Horizontal gap between the layer and the viewport, in content-local units.
+    // Negative while any part of the layer (including its children) overlaps the screen,
+    // positive once it is fully off screen.
+    private float getHorizontalDistanceToViewport(ParallaxLayer layer)
+    {
+        if (layer.contentExtent == null)
+        {
+            // Can only be measured while active (an inactive subtree reports no bounds).
+            // Until then, treat it as visible so it gets activated and captured next frame.
+            if (!layer.gameObject.activeInHierarchy) return float.NegativeInfinity;
+            // Bounds cover the layer AND all its children, so a stretched/empty container
+            // whose art lives in a child is still measured by what is actually drawn.
+            var bounds = RectTransformUtility.CalculateRelativeRectTransformBounds(content, layer.rectTransform);
+            layer.contentExtent = new Vector2(bounds.min.x, bounds.max.x);
+        }
+
+        // The viewport slides over the (static) content as content.anchoredPosition scrolls.
+        var extent = layer.contentExtent.Value;
+        var scroll = content.anchoredPosition.x;
+        var viewMin = canvasRT.rect.xMin - scroll;
+        var viewMax = canvasRT.rect.xMax - scroll;
+        return Mathf.Max(extent.x - viewMax, viewMin - extent.y);
+    }
+
     private bool manageOcclusionCulling(ParallaxLayer layer)
     {
-        var occlusionCullingBuffer = UnityEngine.Device.Screen.width;
-        var distanceToCamera = getPositionRelativeToCamera(layer);
-        var distanceToFrustum = Mathf.Abs(distanceToCamera) - (layer.rectTransform.rect.width + Screen.width) * 0.5f;
+        var occlusionCullingBuffer = canvasRT.rect.width;
+        var distanceToFrustum = getHorizontalDistanceToViewport(layer);
         var shouldBeDisplayed = distanceToFrustum < occlusionCullingBuffer;
         
         //Fallback in case the coroutine takes too long
