@@ -20,6 +20,8 @@ public class CheckpointManager: MonoBehaviour, ICheckpoint
 
    public void setup()
    {
+      // The checkpoint system is an editor-playmode-only convenience; it must never run in builds.
+      if (!Application.isEditor) return;
       list.ForEach(it => it.setup());
       currentCheckpoint = SaveManager.getCheckpoint();
       list.ForEach(it => dictCheckpoints[it.data.key] = it.data.position);
@@ -43,6 +45,7 @@ public class CheckpointManager: MonoBehaviour, ICheckpoint
 
    public void onCheckpointReached(CheckpointData checkpointData)
    {
+      if (!Application.isEditor) return;
       if (checkpointData.key == currentCheckpoint) return;
       currentCheckpoint = checkpointData.key;
       Debug.Log($"Checkpoint reached : {checkpointData.key}");
