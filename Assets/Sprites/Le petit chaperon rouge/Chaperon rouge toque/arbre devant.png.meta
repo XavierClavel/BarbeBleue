@@ -1,0 +1,715 @@
+fileFormatVersion: 2
+guid: 6bb52350596f97548b81caa8a0fb53e1
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 6217066274743743825
+    second: arbre devant_0
+  - first:
+      213: 2600297125788639242
+    second: arbre devant_1
+  - first:
+      213: 6946260989714161576
+    second: arbre devant_2
+  - first:
+      213: 7934908355172023842
+    second: arbre devant_3
+  - first:
+      213: -5796157303186293727
+    second: arbre devant_4
+  - first:
+      213: 5537914007500531446
+    second: arbre devant_5
+  - first:
+      213: 6271312391014055215
+    second: arbre devant_6
+  - first:
+      213: 2318587234881317729
+    second: arbre devant_7
+  - first:
+      213: -7765638200880690027
+    second: arbre devant_8
+  - first:
+      213: -5998038903988981100
+    second: arbre devant_9
+  - first:
+      213: -4534447113939146532
+    second: arbre devant_10
+  - first:
+      213: -4328886426138945147
+    second: arbre devant_11
+  - first:
+      213: 7716000032869791049
+    second: arbre devant_12
+  - first:
+      213: 7987819459356291170
+    second: arbre devant_13
+  - first:
+      213: 2103788953553312225
+    second: arbre devant_14
+  - first:
+      213: -4389890915685385689
+    second: arbre devant_15
+  - first:
+      213: 6780673736596846390
+    second: arbre devant_16
+  - first:
+      213: 5413095477541443982
+    second: arbre devant_17
+  - first:
+      213: -6973718327537137938
+    second: arbre devant_18
+  - first:
+      213: 8956332729212203303
+    second: arbre devant_19
+  - first:
+      213: 3683271065612285358
+    second: arbre devant_20
+  - first:
+      213: -759752303976533439
+    second: arbre devant_21
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 1
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 16384
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: arbre devant_0
+      rect:
+        serializedVersion: 2
+        x: 4049
+        y: 719
+        width: 10
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 155792366d4774650800000000000000
+      internalID: 6217066274743743825
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: arbre devant_1
+      rect:
+        serializedVersion: 2
+        x: 4176
+        y: 482
+        width: 191
+        height: 598
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a00e91d757c161420800000000000000
+      internalID: 2600297125788639242
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: arbre devant_2
+      rect:
+        serializedVersion: 2
+        x: 4424
+        y: 453
+        width: 201
+        height: 627
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8afd0193193166060800000000000000
+      internalID: 6946260989714161576
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: arbre devant_3
+      rect:
+        serializedVersion: 2
+        x: 4627
+        y: 715
+        width: 15
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 22ebe4bab157e1e60800000000000000
+      internalID: 7934908355172023842
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: arbre devant_4
+      rect:
+        serializedVersion: 2
+        x: 4653
+        y: 686
+        width: 87
+        height: 394
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 12c7b4164a9ef8fa0800000000000000
+      internalID: -5796157303186293727
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: arbre devant_5
+      rect:
+        serializedVersion: 2
+        x: 4641
+        y: 690
+        width: 16
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6f6aabdd27f9adc40800000000000000
+      internalID: 5537914007500531446
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: arbre devant_6
+      rect:
+        serializedVersion: 2
+        x: 4738
+        y: 693
+        width: 19
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f2df5ed846d280750800000000000000
+      internalID: 6271312391014055215
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: arbre devant_7
+      rect:
+        serializedVersion: 2
+        x: 4755
+        y: 693
+        width: 14
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 16b2bd34ec64d2020800000000000000
+      internalID: 2318587234881317729
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: arbre devant_8
+      rect:
+        serializedVersion: 2
+        x: 4774
+        y: 698
+        width: 24
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 59c8d4e4339ea3490800000000000000
+      internalID: -7765638200880690027
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: arbre devant_9
+      rect:
+        serializedVersion: 2
+        x: 4616
+        y: 680
+        width: 11
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 49273c2556fa2cca0800000000000000
+      internalID: -5998038903988981100
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: arbre devant_10
+      rect:
+        serializedVersion: 2
+        x: 4630
+        y: 682
+        width: 14
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cd8acd8df586211c0800000000000000
+      internalID: -4534447113939146532
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: arbre devant_11
+      rect:
+        serializedVersion: 2
+        x: 4724
+        y: 682
+        width: 10
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5895af81bb4bce3c0800000000000000
+      internalID: -4328886426138945147
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: arbre devant_12
+      rect:
+        serializedVersion: 2
+        x: 4734
+        y: 679
+        width: 18
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9453b16162db41b60800000000000000
+      internalID: 7716000032869791049
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: arbre devant_13
+      rect:
+        serializedVersion: 2
+        x: 4413
+        y: 531
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 26072ec1a7f6ade60800000000000000
+      internalID: 7987819459356291170
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: arbre devant_14
+      rect:
+        serializedVersion: 2
+        x: 4621
+        y: 487
+        width: 37
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1e99fea28e8223d10800000000000000
+      internalID: 2103788953553312225
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: arbre devant_15
+      rect:
+        serializedVersion: 2
+        x: 4632
+        y: 537
+        width: 15
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 72abbd78879f313c0800000000000000
+      internalID: -4389890915685385689
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: arbre devant_16
+      rect:
+        serializedVersion: 2
+        x: 4699
+        y: 514
+        width: 22
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 637fcaf76dac91e50800000000000000
+      internalID: 6780673736596846390
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: arbre devant_17
+      rect:
+        serializedVersion: 2
+        x: 4624
+        y: 475
+        width: 27
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e89912238ad2f1b40800000000000000
+      internalID: 5413095477541443982
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: arbre devant_18
+      rect:
+        serializedVersion: 2
+        x: 4415
+        y: 449
+        width: 12
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ee684832120683f90800000000000000
+      internalID: -6973718327537137938
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: arbre devant_19
+      rect:
+        serializedVersion: 2
+        x: 4313
+        y: 415
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 721f5ee1a294b4c70800000000000000
+      internalID: 8956332729212203303
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: arbre devant_20
+      rect:
+        serializedVersion: 2
+        x: 4330
+        y: 423
+        width: 14
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ea57b45f48b9d1330800000000000000
+      internalID: 3683271065612285358
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: arbre devant_21
+      rect:
+        serializedVersion: 2
+        x: 4348
+        y: 421
+        width: 15
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 142b13c0e41d475f0800000000000000
+      internalID: -759752303976533439
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      arbre devant_0: 6217066274743743825
+      arbre devant_1: 2600297125788639242
+      arbre devant_10: -4534447113939146532
+      arbre devant_11: -4328886426138945147
+      arbre devant_12: 7716000032869791049
+      arbre devant_13: 7987819459356291170
+      arbre devant_14: 2103788953553312225
+      arbre devant_15: -4389890915685385689
+      arbre devant_16: 6780673736596846390
+      arbre devant_17: 5413095477541443982
+      arbre devant_18: -6973718327537137938
+      arbre devant_19: 8956332729212203303
+      arbre devant_2: 6946260989714161576
+      arbre devant_20: 3683271065612285358
+      arbre devant_21: -759752303976533439
+      arbre devant_3: 7934908355172023842
+      arbre devant_4: -5796157303186293727
+      arbre devant_5: 5537914007500531446
+      arbre devant_6: 6271312391014055215
+      arbre devant_7: 2318587234881317729
+      arbre devant_8: -7765638200880690027
+      arbre devant_9: -5998038903988981100
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

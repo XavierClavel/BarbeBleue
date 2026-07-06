@@ -12,6 +12,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 973b6c21791df56479a53746c8c653e8, type: 3}
   m_Name: Build
   m_EditorClassIdentifier: 
-  buildNumber: 1
-  gitCommit: b1a387e
-  date: 20/06/2026 13:43
+  buildNumber: 3
+  gitCommit: 818b179
+  date: 04/07/2026 09:36
