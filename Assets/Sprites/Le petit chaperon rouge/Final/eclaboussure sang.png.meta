@@ -1,0 +1,1339 @@
+fileFormatVersion: 2
+guid: d579e75688bb44b489460fb0cf914513
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -6991311776494640764
+    second: eclaboussure sang_0
+  - first:
+      213: -343219649600981721
+    second: eclaboussure sang_1
+  - first:
+      213: -1389728116112718750
+    second: eclaboussure sang_2
+  - first:
+      213: -4327935610481597171
+    second: eclaboussure sang_3
+  - first:
+      213: 7812247445809548788
+    second: eclaboussure sang_4
+  - first:
+      213: 7497724579661789389
+    second: eclaboussure sang_5
+  - first:
+      213: 8200334525620153449
+    second: eclaboussure sang_6
+  - first:
+      213: -8938880911923856725
+    second: eclaboussure sang_7
+  - first:
+      213: 3823363698632356439
+    second: eclaboussure sang_8
+  - first:
+      213: -4162126580901807219
+    second: eclaboussure sang_9
+  - first:
+      213: 5722415139678807794
+    second: eclaboussure sang_10
+  - first:
+      213: 940519526563656714
+    second: eclaboussure sang_11
+  - first:
+      213: 6405719032648206594
+    second: eclaboussure sang_12
+  - first:
+      213: 659813486646559391
+    second: eclaboussure sang_13
+  - first:
+      213: 867460032609751464
+    second: eclaboussure sang_14
+  - first:
+      213: -9090071707472387160
+    second: eclaboussure sang_15
+  - first:
+      213: -4680380565111293650
+    second: eclaboussure sang_16
+  - first:
+      213: 3442679192515186930
+    second: eclaboussure sang_17
+  - first:
+      213: 8595823915840040808
+    second: eclaboussure sang_18
+  - first:
+      213: -4384582647969682476
+    second: eclaboussure sang_19
+  - first:
+      213: 3630985955712789446
+    second: eclaboussure sang_20
+  - first:
+      213: -541785865389609348
+    second: eclaboussure sang_21
+  - first:
+      213: 5051282885319445080
+    second: eclaboussure sang_22
+  - first:
+      213: -3989536446871532428
+    second: eclaboussure sang_23
+  - first:
+      213: 5487297404943112887
+    second: eclaboussure sang_24
+  - first:
+      213: 7915864814087139098
+    second: eclaboussure sang_25
+  - first:
+      213: 8937482801927032001
+    second: eclaboussure sang_26
+  - first:
+      213: 7230984539001040060
+    second: eclaboussure sang_27
+  - first:
+      213: -939151096698473468
+    second: eclaboussure sang_28
+  - first:
+      213: -3195283932142378523
+    second: eclaboussure sang_29
+  - first:
+      213: 8940687958130309216
+    second: eclaboussure sang_30
+  - first:
+      213: -645273168606181083
+    second: eclaboussure sang_31
+  - first:
+      213: -6647251504268114172
+    second: eclaboussure sang_32
+  - first:
+      213: -6019073015647209043
+    second: eclaboussure sang_33
+  - first:
+      213: 859749283788211298
+    second: eclaboussure sang_34
+  - first:
+      213: 1841674305187910243
+    second: eclaboussure sang_35
+  - first:
+      213: -810406627115336137
+    second: eclaboussure sang_36
+  - first:
+      213: -2375168102978937206
+    second: eclaboussure sang_37
+  - first:
+      213: 5479678215522734179
+    second: eclaboussure sang_38
+  - first:
+      213: 7760717983888205266
+    second: eclaboussure sang_39
+  - first:
+      213: 3719236268597986523
+    second: eclaboussure sang_40
+  - first:
+      213: -6521676443480370951
+    second: eclaboussure sang_41
+  - first:
+      213: 8971439025286730773
+    second: eclaboussure sang_42
+  - first:
+      213: -7536335032034433180
+    second: eclaboussure sang_43
+  - first:
+      213: -8401280091400965393
+    second: eclaboussure sang_44
+  - first:
+      213: 3275978828036873458
+    second: eclaboussure sang_45
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 1
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 8192
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: eclaboussure sang_0
+      rect:
+        serializedVersion: 2
+        x: 3812
+        y: 924
+        width: 13
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 48128081bfed9fe90800000000000000
+      internalID: -6991311776494640764
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: eclaboussure sang_1
+      rect:
+        serializedVersion: 2
+        x: 3957
+        y: 901
+        width: 15
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 72579911c83ac3bf0800000000000000
+      internalID: -343219649600981721
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: eclaboussure sang_2
+      rect:
+        serializedVersion: 2
+        x: 3913
+        y: 853
+        width: 15
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2648ab834a1b6bce0800000000000000
+      internalID: -1389728116112718750
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: eclaboussure sang_3
+      rect:
+        serializedVersion: 2
+        x: 4800
+        y: 867
+        width: 51
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d052b7e1e7510f3c0800000000000000
+      internalID: -4327935610481597171
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: eclaboussure sang_4
+      rect:
+        serializedVersion: 2
+        x: 4108
+        y: 853
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4fd4ee039adaa6c60800000000000000
+      internalID: 7812247445809548788
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: eclaboussure sang_5
+      rect:
+        serializedVersion: 2
+        x: 3911
+        y: 815
+        width: 29
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dc8b472d7c44d0860800000000000000
+      internalID: 7497724579661789389
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: eclaboussure sang_6
+      rect:
+        serializedVersion: 2
+        x: 4718
+        y: 829
+        width: 32
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 96ce5f6cdc07dc170800000000000000
+      internalID: 8200334525620153449
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: eclaboussure sang_7
+      rect:
+        serializedVersion: 2
+        x: 6245
+        y: 810
+        width: 40
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: baa324bbb27b2f380800000000000000
+      internalID: -8938880911923856725
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: eclaboussure sang_8
+      rect:
+        serializedVersion: 2
+        x: 3943
+        y: 797
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 752fa10e6015f0530800000000000000
+      internalID: 3823363698632356439
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: eclaboussure sang_9
+      rect:
+        serializedVersion: 2
+        x: 4062
+        y: 800
+        width: 14
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d8bf2233de72d36c0800000000000000
+      internalID: -4162126580901807219
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: eclaboussure sang_10
+      rect:
+        serializedVersion: 2
+        x: 4084
+        y: 804
+        width: 20
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2f66fd9304a1a6f40800000000000000
+      internalID: 5722415139678807794
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: eclaboussure sang_11
+      rect:
+        serializedVersion: 2
+        x: 4151
+        y: 795
+        width: 9
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a04352db6856d0d00800000000000000
+      internalID: 940519526563656714
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: eclaboussure sang_12
+      rect:
+        serializedVersion: 2
+        x: 4276
+        y: 802
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 20984ff658fa5e850800000000000000
+      internalID: 6405719032648206594
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: eclaboussure sang_13
+      rect:
+        serializedVersion: 2
+        x: 4213
+        y: 793
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f928499ced0282900800000000000000
+      internalID: 659813486646559391
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: eclaboussure sang_14
+      rect:
+        serializedVersion: 2
+        x: 5925
+        y: 786
+        width: 18
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8a19d8cbd46d90c00800000000000000
+      internalID: 867460032609751464
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: eclaboussure sang_15
+      rect:
+        serializedVersion: 2
+        x: 3855
+        y: 718
+        width: 56
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8a3a74d71f399d180800000000000000
+      internalID: -9090071707472387160
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: eclaboussure sang_16
+      rect:
+        serializedVersion: 2
+        x: 4038
+        y: 767
+        width: 13
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e2936ea7ca2fb0fb0800000000000000
+      internalID: -4680380565111293650
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: eclaboussure sang_17
+      rect:
+        serializedVersion: 2
+        x: 4059
+        y: 757
+        width: 25
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2f01f794c7ad6cf20800000000000000
+      internalID: 3442679192515186930
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: eclaboussure sang_18
+      rect:
+        serializedVersion: 2
+        x: 4159
+        y: 759
+        width: 15
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 86fe37f0f408a4770800000000000000
+      internalID: 8595823915840040808
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: eclaboussure sang_19
+      rect:
+        serializedVersion: 2
+        x: 4179
+        y: 770
+        width: 9
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4dbec6bef45d623c0800000000000000
+      internalID: -4384582647969682476
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: eclaboussure sang_20
+      rect:
+        serializedVersion: 2
+        x: 4196
+        y: 768
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6cb61ba2d7ad36230800000000000000
+      internalID: 3630985955712789446
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: eclaboussure sang_21
+      rect:
+        serializedVersion: 2
+        x: 4351
+        y: 759
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c7eef1d30a03b78f0800000000000000
+      internalID: -541785865389609348
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: eclaboussure sang_22
+      rect:
+        serializedVersion: 2
+        x: 4650
+        y: 760
+        width: 41
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 85ac9777503c91640800000000000000
+      internalID: 5051282885319445080
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: eclaboussure sang_23
+      rect:
+        serializedVersion: 2
+        x: 4080
+        y: 738
+        width: 14
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 47c8fb13db152a8c0800000000000000
+      internalID: -3989536446871532428
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: eclaboussure sang_24
+      rect:
+        serializedVersion: 2
+        x: 4147
+        y: 749
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7ba9e86baebc62c40800000000000000
+      internalID: 5487297404943112887
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: eclaboussure sang_25
+      rect:
+        serializedVersion: 2
+        x: 4237
+        y: 743
+        width: 25
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a1f6dadbb1dcadd60800000000000000
+      internalID: 7915864814087139098
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: eclaboussure sang_26
+      rect:
+        serializedVersion: 2
+        x: 5790
+        y: 750
+        width: 20
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1cc060b6141580c70800000000000000
+      internalID: 8937482801927032001
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: eclaboussure sang_27
+      rect:
+        serializedVersion: 2
+        x: 4021
+        y: 730
+        width: 14
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cbcaf77702e995460800000000000000
+      internalID: 7230984539001040060
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: eclaboussure sang_28
+      rect:
+        serializedVersion: 2
+        x: 4055
+        y: 727
+        width: 14
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4047edaad0777f2f0800000000000000
+      internalID: -939151096698473468
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: eclaboussure sang_29
+      rect:
+        serializedVersion: 2
+        x: 4207
+        y: 730
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5e1e32c613218a3d0800000000000000
+      internalID: -3195283932142378523
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: eclaboussure sang_30
+      rect:
+        serializedVersion: 2
+        x: 4327
+        y: 739
+        width: 10
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 06838fff354b31c70800000000000000
+      internalID: 8940687958130309216
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: eclaboussure sang_31
+      rect:
+        serializedVersion: 2
+        x: 1411
+        y: 0
+        width: 5724
+        height: 732
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5294322d8778b07f0800000000000000
+      internalID: -645273168606181083
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: eclaboussure sang_32
+      rect:
+        serializedVersion: 2
+        x: 4137
+        y: 725
+        width: 8
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4070b6bb9f730c3a0800000000000000
+      internalID: -6647251504268114172
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: eclaboussure sang_33
+      rect:
+        serializedVersion: 2
+        x: 4189
+        y: 725
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: da975319bf4f77ca0800000000000000
+      internalID: -6019073015647209043
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: eclaboussure sang_34
+      rect:
+        serializedVersion: 2
+        x: 6034
+        y: 712
+        width: 55
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 264c7102b617eeb00800000000000000
+      internalID: 859749283788211298
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: eclaboussure sang_35
+      rect:
+        serializedVersion: 2
+        x: 7235
+        y: 142
+        width: 130
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 36290b0e501fe8910800000000000000
+      internalID: 1841674305187910243
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: eclaboussure sang_36
+      rect:
+        serializedVersion: 2
+        x: 7496
+        y: 151
+        width: 36
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 73efa23677bd0c4f0800000000000000
+      internalID: -810406627115336137
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: eclaboussure sang_37
+      rect:
+        serializedVersion: 2
+        x: 7599
+        y: 159
+        width: 18
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a8e1a1cc135b90fd0800000000000000
+      internalID: -2375168102978937206
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: eclaboussure sang_38
+      rect:
+        serializedVersion: 2
+        x: 7329
+        y: 127
+        width: 23
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 360ddafed4abb0c40800000000000000
+      internalID: 5479678215522734179
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: eclaboussure sang_39
+      rect:
+        serializedVersion: 2
+        x: 7191
+        y: 111
+        width: 11
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2d564a763eb93bb60800000000000000
+      internalID: 7760717983888205266
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: eclaboussure sang_40
+      rect:
+        serializedVersion: 2
+        x: 7096
+        y: 75
+        width: 62
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bd448815ea16d9330800000000000000
+      internalID: 3719236268597986523
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: eclaboussure sang_41
+      rect:
+        serializedVersion: 2
+        x: 7189
+        y: 49
+        width: 39
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9f0d156f3d95e75a0800000000000000
+      internalID: -6521676443480370951
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: eclaboussure sang_42
+      rect:
+        serializedVersion: 2
+        x: 7318
+        y: 57
+        width: 19
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 514da42c244f08c70800000000000000
+      internalID: 8971439025286730773
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: eclaboussure sang_43
+      rect:
+        serializedVersion: 2
+        x: 7228
+        y: 0
+        width: 164
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4676143b73f896790800000000000000
+      internalID: -7536335032034433180
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: eclaboussure sang_44
+      rect:
+        serializedVersion: 2
+        x: 7819
+        y: 31
+        width: 118
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fe2fb7dc448a86b80800000000000000
+      internalID: -8401280091400965393
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: eclaboussure sang_45
+      rect:
+        serializedVersion: 2
+        x: 7469
+        y: 0
+        width: 102
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2fc96d0236d967d20800000000000000
+      internalID: 3275978828036873458
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      eclaboussure sang_0: -6991311776494640764
+      eclaboussure sang_1: -343219649600981721
+      eclaboussure sang_10: 5722415139678807794
+      eclaboussure sang_11: 940519526563656714
+      eclaboussure sang_12: 6405719032648206594
+      eclaboussure sang_13: 659813486646559391
+      eclaboussure sang_14: 867460032609751464
+      eclaboussure sang_15: -9090071707472387160
+      eclaboussure sang_16: -4680380565111293650
+      eclaboussure sang_17: 3442679192515186930
+      eclaboussure sang_18: 8595823915840040808
+      eclaboussure sang_19: -4384582647969682476
+      eclaboussure sang_2: -1389728116112718750
+      eclaboussure sang_20: 3630985955712789446
+      eclaboussure sang_21: -541785865389609348
+      eclaboussure sang_22: 5051282885319445080
+      eclaboussure sang_23: -3989536446871532428
+      eclaboussure sang_24: 5487297404943112887
+      eclaboussure sang_25: 7915864814087139098
+      eclaboussure sang_26: 8937482801927032001
+      eclaboussure sang_27: 7230984539001040060
+      eclaboussure sang_28: -939151096698473468
+      eclaboussure sang_29: -3195283932142378523
+      eclaboussure sang_3: -4327935610481597171
+      eclaboussure sang_30: 8940687958130309216
+      eclaboussure sang_31: -645273168606181083
+      eclaboussure sang_32: -6647251504268114172
+      eclaboussure sang_33: -6019073015647209043
+      eclaboussure sang_34: 859749283788211298
+      eclaboussure sang_35: 1841674305187910243
+      eclaboussure sang_36: -810406627115336137
+      eclaboussure sang_37: -2375168102978937206
+      eclaboussure sang_38: 5479678215522734179
+      eclaboussure sang_39: 7760717983888205266
+      eclaboussure sang_4: 7812247445809548788
+      eclaboussure sang_40: 3719236268597986523
+      eclaboussure sang_41: -6521676443480370951
+      eclaboussure sang_42: 8971439025286730773
+      eclaboussure sang_43: -7536335032034433180
+      eclaboussure sang_44: -8401280091400965393
+      eclaboussure sang_45: 3275978828036873458
+      eclaboussure sang_5: 7497724579661789389
+      eclaboussure sang_6: 8200334525620153449
+      eclaboussure sang_7: -8938880911923856725
+      eclaboussure sang_8: 3823363698632356439
+      eclaboussure sang_9: -4162126580901807219
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

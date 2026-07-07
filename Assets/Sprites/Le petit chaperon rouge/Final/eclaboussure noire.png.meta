@@ -1,0 +1,3289 @@
+fileFormatVersion: 2
+guid: ea69db41ef0475648aa24a63bd5ea108
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -8666628726935529869
+    second: eclaboussure noire_0
+  - first:
+      213: 7958540373759279797
+    second: eclaboussure noire_1
+  - first:
+      213: -9050031539283372742
+    second: eclaboussure noire_2
+  - first:
+      213: -9022575808753261946
+    second: eclaboussure noire_3
+  - first:
+      213: 7101429089888302099
+    second: eclaboussure noire_4
+  - first:
+      213: 5665315526590261482
+    second: eclaboussure noire_5
+  - first:
+      213: -1388919272443126425
+    second: eclaboussure noire_6
+  - first:
+      213: 5279947998998165966
+    second: eclaboussure noire_7
+  - first:
+      213: -2248243983236552213
+    second: eclaboussure noire_8
+  - first:
+      213: 5138751553012604890
+    second: eclaboussure noire_9
+  - first:
+      213: -477341456255272989
+    second: eclaboussure noire_10
+  - first:
+      213: 5391715720213756628
+    second: eclaboussure noire_11
+  - first:
+      213: -8307367221330811144
+    second: eclaboussure noire_12
+  - first:
+      213: 8711942923950595439
+    second: eclaboussure noire_13
+  - first:
+      213: 8257098382683840784
+    second: eclaboussure noire_14
+  - first:
+      213: -2369312279367878823
+    second: eclaboussure noire_15
+  - first:
+      213: -1786259724249054547
+    second: eclaboussure noire_16
+  - first:
+      213: -1125086175485005661
+    second: eclaboussure noire_17
+  - first:
+      213: 3055392718095370227
+    second: eclaboussure noire_18
+  - first:
+      213: -8651994448415694181
+    second: eclaboussure noire_19
+  - first:
+      213: -773537940753720109
+    second: eclaboussure noire_20
+  - first:
+      213: -6576337552588368340
+    second: eclaboussure noire_21
+  - first:
+      213: -734874968813269503
+    second: eclaboussure noire_22
+  - first:
+      213: -7746755576372139210
+    second: eclaboussure noire_23
+  - first:
+      213: -6192654926941593331
+    second: eclaboussure noire_24
+  - first:
+      213: 2775561681718721419
+    second: eclaboussure noire_25
+  - first:
+      213: 1770963667237525851
+    second: eclaboussure noire_26
+  - first:
+      213: -3563721527741331799
+    second: eclaboussure noire_27
+  - first:
+      213: -2065591074460284467
+    second: eclaboussure noire_28
+  - first:
+      213: -7281475902743627315
+    second: eclaboussure noire_29
+  - first:
+      213: 8519984856073306962
+    second: eclaboussure noire_30
+  - first:
+      213: -6304364717852979066
+    second: eclaboussure noire_31
+  - first:
+      213: 2030109276559142263
+    second: eclaboussure noire_32
+  - first:
+      213: -7652042322796516777
+    second: eclaboussure noire_33
+  - first:
+      213: 5013164347271814569
+    second: eclaboussure noire_34
+  - first:
+      213: 3959577389625437422
+    second: eclaboussure noire_35
+  - first:
+      213: 566769474088013905
+    second: eclaboussure noire_36
+  - first:
+      213: 268865839838988430
+    second: eclaboussure noire_37
+  - first:
+      213: 232068114714347644
+    second: eclaboussure noire_38
+  - first:
+      213: 5179361060891678963
+    second: eclaboussure noire_39
+  - first:
+      213: 4623604800977373722
+    second: eclaboussure noire_40
+  - first:
+      213: 2022857965091294037
+    second: eclaboussure noire_41
+  - first:
+      213: -1829529054043749035
+    second: eclaboussure noire_42
+  - first:
+      213: 3294772544505727472
+    second: eclaboussure noire_43
+  - first:
+      213: -8675020886972770362
+    second: eclaboussure noire_44
+  - first:
+      213: 8221029089747671169
+    second: eclaboussure noire_45
+  - first:
+      213: 1954255135230096077
+    second: eclaboussure noire_46
+  - first:
+      213: 7569599650938360114
+    second: eclaboussure noire_47
+  - first:
+      213: 9078153283825456970
+    second: eclaboussure noire_48
+  - first:
+      213: -531602740607632835
+    second: eclaboussure noire_49
+  - first:
+      213: 1324385668270491492
+    second: eclaboussure noire_50
+  - first:
+      213: 3261309428810448394
+    second: eclaboussure noire_51
+  - first:
+      213: -4227291503231638707
+    second: eclaboussure noire_52
+  - first:
+      213: 8565532325569742039
+    second: eclaboussure noire_53
+  - first:
+      213: -4790156796531456539
+    second: eclaboussure noire_54
+  - first:
+      213: 3435799263785090280
+    second: eclaboussure noire_55
+  - first:
+      213: 1268208818145372376
+    second: eclaboussure noire_56
+  - first:
+      213: 5663644180009248952
+    second: eclaboussure noire_57
+  - first:
+      213: 7690663323838638374
+    second: eclaboussure noire_58
+  - first:
+      213: -6291055592973118869
+    second: eclaboussure noire_59
+  - first:
+      213: -5727912182162516674
+    second: eclaboussure noire_60
+  - first:
+      213: -2974569880929484701
+    second: eclaboussure noire_61
+  - first:
+      213: -2867041517054948801
+    second: eclaboussure noire_62
+  - first:
+      213: 6231776498790293226
+    second: eclaboussure noire_63
+  - first:
+      213: 9136719585684807657
+    second: eclaboussure noire_64
+  - first:
+      213: -1223734952560159238
+    second: eclaboussure noire_65
+  - first:
+      213: 1351022650502814722
+    second: eclaboussure noire_66
+  - first:
+      213: -6717073992226389122
+    second: eclaboussure noire_67
+  - first:
+      213: 6791040336153328027
+    second: eclaboussure noire_68
+  - first:
+      213: -6609217504147757832
+    second: eclaboussure noire_69
+  - first:
+      213: -5870334602963048215
+    second: eclaboussure noire_70
+  - first:
+      213: 8327425938298267318
+    second: eclaboussure noire_71
+  - first:
+      213: -2403142471678844366
+    second: eclaboussure noire_72
+  - first:
+      213: 9015166317236104088
+    second: eclaboussure noire_73
+  - first:
+      213: 9155894429144569951
+    second: eclaboussure noire_74
+  - first:
+      213: 4208951053455372774
+    second: eclaboussure noire_75
+  - first:
+      213: -408817838529292043
+    second: eclaboussure noire_76
+  - first:
+      213: -5329628239670808268
+    second: eclaboussure noire_77
+  - first:
+      213: -6387732612355809472
+    second: eclaboussure noire_78
+  - first:
+      213: -273758690080660753
+    second: eclaboussure noire_79
+  - first:
+      213: -393090295755647187
+    second: eclaboussure noire_80
+  - first:
+      213: 5674335660834401303
+    second: eclaboussure noire_81
+  - first:
+      213: 8788647792405864374
+    second: eclaboussure noire_82
+  - first:
+      213: -5621282030190889161
+    second: eclaboussure noire_83
+  - first:
+      213: 4482685719678383432
+    second: eclaboussure noire_84
+  - first:
+      213: 1102869641190435974
+    second: eclaboussure noire_85
+  - first:
+      213: 2508450056113705739
+    second: eclaboussure noire_86
+  - first:
+      213: -3123001134654419609
+    second: eclaboussure noire_87
+  - first:
+      213: -2666663744846689425
+    second: eclaboussure noire_88
+  - first:
+      213: -2894847595885121847
+    second: eclaboussure noire_89
+  - first:
+      213: 1453406818261710810
+    second: eclaboussure noire_90
+  - first:
+      213: 5927723036787740653
+    second: eclaboussure noire_91
+  - first:
+      213: -2774614787645644929
+    second: eclaboussure noire_92
+  - first:
+      213: 3253500973367675653
+    second: eclaboussure noire_93
+  - first:
+      213: -5475156468134793995
+    second: eclaboussure noire_94
+  - first:
+      213: -1189537960436411260
+    second: eclaboussure noire_95
+  - first:
+      213: 4016046927228244005
+    second: eclaboussure noire_96
+  - first:
+      213: 2662485355393893433
+    second: eclaboussure noire_97
+  - first:
+      213: -7913957162584109097
+    second: eclaboussure noire_98
+  - first:
+      213: 6110359496562801542
+    second: eclaboussure noire_99
+  - first:
+      213: 2828280591076354111
+    second: eclaboussure noire_100
+  - first:
+      213: -880755995949069130
+    second: eclaboussure noire_101
+  - first:
+      213: 8034112713977317229
+    second: eclaboussure noire_102
+  - first:
+      213: 7837342497158540087
+    second: eclaboussure noire_103
+  - first:
+      213: -2675276320852969046
+    second: eclaboussure noire_104
+  - first:
+      213: -2351952840338348008
+    second: eclaboussure noire_105
+  - first:
+      213: 4588884199503475326
+    second: eclaboussure noire_106
+  - first:
+      213: -1001740740115332482
+    second: eclaboussure noire_107
+  - first:
+      213: -44607717469162031
+    second: eclaboussure noire_108
+  - first:
+      213: -6555179738444665378
+    second: eclaboussure noire_109
+  - first:
+      213: 5234931906789641782
+    second: eclaboussure noire_110
+  - first:
+      213: -476233136175286058
+    second: eclaboussure noire_111
+  - first:
+      213: 4596182628349481338
+    second: eclaboussure noire_112
+  - first:
+      213: 8929170114788064908
+    second: eclaboussure noire_113
+  - first:
+      213: 8339729442686120426
+    second: eclaboussure noire_114
+  - first:
+      213: 4478217082228696547
+    second: eclaboussure noire_115
+  - first:
+      213: 6525943938222440195
+    second: eclaboussure noire_116
+  - first:
+      213: -3569676887071436010
+    second: eclaboussure noire_117
+  - first:
+      213: -5357610201238534240
+    second: eclaboussure noire_118
+  - first:
+      213: 1286449053082051211
+    second: eclaboussure noire_119
+  - first:
+      213: -8375460740190060779
+    second: eclaboussure noire_120
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 1
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 8192
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: eclaboussure noire_0
+      rect:
+        serializedVersion: 2
+        x: 3915
+        y: 820
+        width: 23
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 376dfc23713f9b780800000000000000
+      internalID: -8666628726935529869
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: eclaboussure noire_1
+      rect:
+        serializedVersion: 2
+        x: 4408
+        y: 797
+        width: 26
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5b2c684cd4a627e60800000000000000
+      internalID: 7958540373759279797
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: eclaboussure noire_2
+      rect:
+        serializedVersion: 2
+        x: 4063
+        y: 755
+        width: 22
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a35deee9344d76280800000000000000
+      internalID: -9050031539283372742
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: eclaboussure noire_3
+      rect:
+        serializedVersion: 2
+        x: 4234
+        y: 737
+        width: 23
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 682aa380b1f59c280800000000000000
+      internalID: -9022575808753261946
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: eclaboussure noire_4
+      rect:
+        serializedVersion: 2
+        x: 4079
+        y: 657
+        width: 30
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 314fa6cd1285d8260800000000000000
+      internalID: 7101429089888302099
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: eclaboussure noire_5
+      rect:
+        serializedVersion: 2
+        x: 4227
+        y: 688
+        width: 13
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ae8eaee847e3f9e40800000000000000
+      internalID: 5665315526590261482
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: eclaboussure noire_6
+      rect:
+        serializedVersion: 2
+        x: 4227
+        y: 664
+        width: 17
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 76d5550d74199bce0800000000000000
+      internalID: -1388919272443126425
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: eclaboussure noire_7
+      rect:
+        serializedVersion: 2
+        x: 4428
+        y: 665
+        width: 12
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ec9f1d01bb4264940800000000000000
+      internalID: 5279947998998165966
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: eclaboussure noire_8
+      rect:
+        serializedVersion: 2
+        x: 4857
+        y: 674
+        width: 16
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: be9a6ca4202acc0e0800000000000000
+      internalID: -2248243983236552213
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: eclaboussure noire_9
+      rect:
+        serializedVersion: 2
+        x: 4421
+        y: 643
+        width: 33
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: adf9d4aaf43805740800000000000000
+      internalID: 5138751553012604890
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: eclaboussure noire_10
+      rect:
+        serializedVersion: 2
+        x: 4546
+        y: 652
+        width: 12
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3e7365f79742069f0800000000000000
+      internalID: -477341456255272989
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: eclaboussure noire_11
+      rect:
+        serializedVersion: 2
+        x: 4814
+        y: 651
+        width: 28
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4dafa3981e833da40800000000000000
+      internalID: 5391715720213756628
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: eclaboussure noire_12
+      rect:
+        serializedVersion: 2
+        x: 5275
+        y: 656
+        width: 22
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8f66ad9c68d46bc80800000000000000
+      internalID: -8307367221330811144
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: eclaboussure noire_13
+      rect:
+        serializedVersion: 2
+        x: 4199
+        y: 593
+        width: 37
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f6d9d857ee907e870800000000000000
+      internalID: 8711942923950595439
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: eclaboussure noire_14
+      rect:
+        serializedVersion: 2
+        x: 4563
+        y: 627
+        width: 19
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 011a2572b3b179270800000000000000
+      internalID: 8257098382683840784
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: eclaboussure noire_15
+      rect:
+        serializedVersion: 2
+        x: 4655
+        y: 623
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9577e4af8038e1fd0800000000000000
+      internalID: -2369312279367878823
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: eclaboussure noire_16
+      rect:
+        serializedVersion: 2
+        x: 2102
+        y: 591
+        width: 16
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: da24c8bae3ee537e0800000000000000
+      internalID: -1786259724249054547
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: eclaboussure noire_17
+      rect:
+        serializedVersion: 2
+        x: 4638
+        y: 573
+        width: 27
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3a073889514e260f0800000000000000
+      internalID: -1125086175485005661
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: eclaboussure noire_18
+      rect:
+        serializedVersion: 2
+        x: 4097
+        y: 483
+        width: 89
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3f7c36b2d7fe66a20800000000000000
+      internalID: 3055392718095370227
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: eclaboussure noire_19
+      rect:
+        serializedVersion: 2
+        x: 4195
+        y: 553
+        width: 34
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b92e78fa3e0fde780800000000000000
+      internalID: -8651994448415694181
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: eclaboussure noire_20
+      rect:
+        serializedVersion: 2
+        x: 4997
+        y: 526
+        width: 33
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3dc561d5757d345f0800000000000000
+      internalID: -773537940753720109
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: eclaboussure noire_21
+      rect:
+        serializedVersion: 2
+        x: 4435
+        y: 502
+        width: 21
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c2698eeb6d72cb4a0800000000000000
+      internalID: -6576337552588368340
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: eclaboussure noire_22
+      rect:
+        serializedVersion: 2
+        x: 4495
+        y: 481
+        width: 38
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 10e0f810c133dc5f0800000000000000
+      internalID: -734874968813269503
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: eclaboussure noire_23
+      rect:
+        serializedVersion: 2
+        x: 4562
+        y: 508
+        width: 17
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 63bef8ce8defd7490800000000000000
+      internalID: -7746755576372139210
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: eclaboussure noire_24
+      rect:
+        serializedVersion: 2
+        x: 4945
+        y: 506
+        width: 41
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d01e21f67254f0aa0800000000000000
+      internalID: -6192654926941593331
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: eclaboussure noire_25
+      rect:
+        serializedVersion: 2
+        x: 5083
+        y: 502
+        width: 18
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b8bb70bd4a6c48620800000000000000
+      internalID: 2775561681718721419
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: eclaboussure noire_26
+      rect:
+        serializedVersion: 2
+        x: 2660
+        y: 481
+        width: 25
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b59d0d7821ab39810800000000000000
+      internalID: 1770963667237525851
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: eclaboussure noire_27
+      rect:
+        serializedVersion: 2
+        x: 4410
+        y: 451
+        width: 47
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9a6c094e62e1b8ec0800000000000000
+      internalID: -3563721527741331799
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: eclaboussure noire_28
+      rect:
+        serializedVersion: 2
+        x: 5039
+        y: 482
+        width: 26
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dc9c39b9cdb8553e0800000000000000
+      internalID: -2065591074460284467
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: eclaboussure noire_29
+      rect:
+        serializedVersion: 2
+        x: 5199
+        y: 479
+        width: 17
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dc93660de3003fa90800000000000000
+      internalID: -7281475902743627315
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: eclaboussure noire_30
+      rect:
+        serializedVersion: 2
+        x: 2183
+        y: 439
+        width: 43
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 25305f5f5111d3670800000000000000
+      internalID: 8519984856073306962
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: eclaboussure noire_31
+      rect:
+        serializedVersion: 2
+        x: 2674
+        y: 450
+        width: 15
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6801ed9e0b56288a0800000000000000
+      internalID: -6304364717852979066
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: eclaboussure noire_32
+      rect:
+        serializedVersion: 2
+        x: 2702
+        y: 417
+        width: 68
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 77d688c81a56c2c10800000000000000
+      internalID: 2030109276559142263
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: eclaboussure noire_33
+      rect:
+        serializedVersion: 2
+        x: 4555
+        y: 446
+        width: 18
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 75a6577bc0c7ec590800000000000000
+      internalID: -7652042322796516777
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: eclaboussure noire_34
+      rect:
+        serializedVersion: 2
+        x: 5558
+        y: 461
+        width: 21
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9ad1ac7b966529540800000000000000
+      internalID: 5013164347271814569
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: eclaboussure noire_35
+      rect:
+        serializedVersion: 2
+        x: 1980
+        y: 427
+        width: 32
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eecea4938ae33f630800000000000000
+      internalID: 3959577389625437422
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: eclaboussure noire_36
+      rect:
+        serializedVersion: 2
+        x: 2529
+        y: 385
+        width: 49
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1501d8475d19dd700800000000000000
+      internalID: 566769474088013905
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: eclaboussure noire_37
+      rect:
+        serializedVersion: 2
+        x: 2589
+        y: 437
+        width: 27
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e8807db8e043bb300800000000000000
+      internalID: 268865839838988430
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: eclaboussure noire_38
+      rect:
+        serializedVersion: 2
+        x: 2654
+        y: 405
+        width: 45
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c784e3588b8783300800000000000000
+      internalID: 232068114714347644
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: eclaboussure noire_39
+      rect:
+        serializedVersion: 2
+        x: 4550
+        y: 406
+        width: 32
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3f850f58179c0e740800000000000000
+      internalID: 5179361060891678963
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: eclaboussure noire_40
+      rect:
+        serializedVersion: 2
+        x: 2581
+        y: 326
+        width: 91
+        height: 86
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a1a0c00d1185a2040800000000000000
+      internalID: 4623604800977373722
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: eclaboussure noire_41
+      rect:
+        serializedVersion: 2
+        x: 4494
+        y: 386
+        width: 53
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 55b06580a92a21c10800000000000000
+      internalID: 2022857965091294037
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: eclaboussure noire_42
+      rect:
+        serializedVersion: 2
+        x: 4971
+        y: 401
+        width: 37
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5554773c4053c96e0800000000000000
+      internalID: -1829529054043749035
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: eclaboussure noire_43
+      rect:
+        serializedVersion: 2
+        x: 5073
+        y: 377
+        width: 32
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0f949fa3c2269bd20800000000000000
+      internalID: 3294772544505727472
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: eclaboussure noire_44
+      rect:
+        serializedVersion: 2
+        x: 5279
+        y: 394
+        width: 14
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6c7d4ec27722c9780800000000000000
+      internalID: -8675020886972770362
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: eclaboussure noire_45
+      rect:
+        serializedVersion: 2
+        x: 2263
+        y: 347
+        width: 61
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 18810967666f61270800000000000000
+      internalID: 8221029089747671169
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: eclaboussure noire_46
+      rect:
+        serializedVersion: 2
+        x: 4924
+        y: 346
+        width: 41
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dc27fdff0b8ee1b10800000000000000
+      internalID: 1954255135230096077
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: eclaboussure noire_47
+      rect:
+        serializedVersion: 2
+        x: 5063
+        y: 311
+        width: 122
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2311a1ee6ce9c0960800000000000000
+      internalID: 7569599650938360114
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: eclaboussure noire_48
+      rect:
+        serializedVersion: 2
+        x: 5264
+        y: 363
+        width: 21
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a4756f240541cfd70800000000000000
+      internalID: 9078153283825456970
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: eclaboussure noire_49
+      rect:
+        serializedVersion: 2
+        x: 5293
+        y: 362
+        width: 37
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d3a357cbf1e5f98f0800000000000000
+      internalID: -531602740607632835
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: eclaboussure noire_50
+      rect:
+        serializedVersion: 2
+        x: 5333
+        y: 329
+        width: 47
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 46781e69fb9216210800000000000000
+      internalID: 1324385668270491492
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: eclaboussure noire_51
+      rect:
+        serializedVersion: 2
+        x: 5454
+        y: 298
+        width: 192
+        height: 81
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a0ef0e675af724d20800000000000000
+      internalID: 3261309428810448394
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: eclaboussure noire_52
+      rect:
+        serializedVersion: 2
+        x: 2442
+        y: 202
+        width: 220
+        height: 125
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d43e9d366c4a555c0800000000000000
+      internalID: -4227291503231638707
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: eclaboussure noire_53
+      rect:
+        serializedVersion: 2
+        x: 5388
+        y: 304
+        width: 30
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7d4c5b99442eed670800000000000000
+      internalID: 8565532325569742039
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: eclaboussure noire_54
+      rect:
+        serializedVersion: 2
+        x: 5397
+        y: 318
+        width: 95
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5e5c15cd5c1f58db0800000000000000
+      internalID: -4790156796531456539
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: eclaboussure noire_55
+      rect:
+        serializedVersion: 2
+        x: 5888
+        y: 305
+        width: 64
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8ec757d0a396eaf20800000000000000
+      internalID: 3435799263785090280
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: eclaboussure noire_56
+      rect:
+        serializedVersion: 2
+        x: 2343
+        y: 299
+        width: 19
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8d8a29a6335999110800000000000000
+      internalID: 1268208818145372376
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: eclaboussure noire_57
+      rect:
+        serializedVersion: 2
+        x: 4690
+        y: 211
+        width: 650
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8b8e8abdf5e499e40800000000000000
+      internalID: 5663644180009248952
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: eclaboussure noire_58
+      rect:
+        serializedVersion: 2
+        x: 1989
+        y: 256
+        width: 77
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 629e680db89baba60800000000000000
+      internalID: 7690663323838638374
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: eclaboussure noire_59
+      rect:
+        serializedVersion: 2
+        x: 2194
+        y: 249
+        width: 50
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b625a96054ea1b8a0800000000000000
+      internalID: -6291055592973118869
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: eclaboussure noire_60
+      rect:
+        serializedVersion: 2
+        x: 2324
+        y: 274
+        width: 13
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e351295d73e5280b0800000000000000
+      internalID: -5727912182162516674
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: eclaboussure noire_61
+      rect:
+        serializedVersion: 2
+        x: 2348
+        y: 268
+        width: 15
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3604f97047438b6d0800000000000000
+      internalID: -2974569880929484701
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: eclaboussure noire_62
+      rect:
+        serializedVersion: 2
+        x: 2286
+        y: 259
+        width: 17
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f3a84a33ee83638d0800000000000000
+      internalID: -2867041517054948801
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: eclaboussure noire_63
+      rect:
+        serializedVersion: 2
+        x: 5623
+        y: 218
+        width: 284
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aeed50255b7bb7650800000000000000
+      internalID: 6231776498790293226
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: eclaboussure noire_64
+      rect:
+        serializedVersion: 2
+        x: 1784
+        y: 227
+        width: 43
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9efd8150e062cce70800000000000000
+      internalID: 9136719585684807657
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: eclaboussure noire_65
+      rect:
+        serializedVersion: 2
+        x: 2130
+        y: 229
+        width: 63
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: af51c655b8b640fe0800000000000000
+      internalID: -1223734952560159238
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: eclaboussure noire_66
+      rect:
+        serializedVersion: 2
+        x: 2317
+        y: 232
+        width: 19
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 20c1abe41fbcfb210800000000000000
+      internalID: 1351022650502814722
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: eclaboussure noire_67
+      rect:
+        serializedVersion: 2
+        x: 2338
+        y: 226
+        width: 17
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e73c45beac828c2a0800000000000000
+      internalID: -6717073992226389122
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: eclaboussure noire_68
+      rect:
+        serializedVersion: 2
+        x: 2392
+        y: 211
+        width: 57
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b99b4cb843f9e3e50800000000000000
+      internalID: 6791040336153328027
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: eclaboussure noire_69
+      rect:
+        serializedVersion: 2
+        x: 5371
+        y: 240
+        width: 61
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8f4aaf572b75744a0800000000000000
+      internalID: -6609217504147757832
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: eclaboussure noire_70
+      rect:
+        serializedVersion: 2
+        x: 5420
+        y: 100
+        width: 723
+        height: 146
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9e824bde7c1688ea0800000000000000
+      internalID: -5870334602963048215
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: eclaboussure noire_71
+      rect:
+        serializedVersion: 2
+        x: 6820
+        y: 229
+        width: 25
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6b664a135c5f09370800000000000000
+      internalID: 8327425938298267318
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: eclaboussure noire_72
+      rect:
+        serializedVersion: 2
+        x: 2173
+        y: 174
+        width: 78
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 232ade687a256aed0800000000000000
+      internalID: -2403142471678844366
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: eclaboussure noire_73
+      rect:
+        serializedVersion: 2
+        x: 2184
+        y: 125
+        width: 444
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 89bace9400e4c1d70800000000000000
+      internalID: 9015166317236104088
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: eclaboussure noire_74
+      rect:
+        serializedVersion: 2
+        x: 2245
+        y: 191
+        width: 70
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f58d32a2975401f70800000000000000
+      internalID: 9155894429144569951
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: eclaboussure noire_75
+      rect:
+        serializedVersion: 2
+        x: 6107
+        y: 173
+        width: 57
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6e1b632eea2396a30800000000000000
+      internalID: 4208951053455372774
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: eclaboussure noire_76
+      rect:
+        serializedVersion: 2
+        x: 6179
+        y: 182
+        width: 18
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5f85e948756935af0800000000000000
+      internalID: -408817838529292043
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: eclaboussure noire_77
+      rect:
+        serializedVersion: 2
+        x: 6216
+        y: 179
+        width: 39
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 431f7858a5b5906b0800000000000000
+      internalID: -5329628239670808268
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: eclaboussure noire_78
+      rect:
+        serializedVersion: 2
+        x: 7046
+        y: 183
+        width: 26
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 04f9a5068073a57a0800000000000000
+      internalID: -6387732612355809472
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: eclaboussure noire_79
+      rect:
+        serializedVersion: 2
+        x: 1886
+        y: 134
+        width: 57
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fe2e09bfbe9633cf0800000000000000
+      internalID: -273758690080660753
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: eclaboussure noire_80
+      rect:
+        serializedVersion: 2
+        x: 6189
+        y: 158
+        width: 15
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d27d4dc65767b8af0800000000000000
+      internalID: -393090295755647187
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: eclaboussure noire_81
+      rect:
+        serializedVersion: 2
+        x: 6238
+        y: 150
+        width: 52
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 71cad58383a4fbe40800000000000000
+      internalID: 5674335660834401303
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: eclaboussure noire_82
+      rect:
+        serializedVersion: 2
+        x: 6296
+        y: 143
+        width: 82
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6bf5f5a5a9c87f970800000000000000
+      internalID: 8788647792405864374
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: eclaboussure noire_83
+      rect:
+        serializedVersion: 2
+        x: 6561
+        y: 147
+        width: 74
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7377f20c6c13df1b0800000000000000
+      internalID: -5621282030190889161
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: eclaboussure noire_84
+      rect:
+        serializedVersion: 2
+        x: 2302
+        y: 92
+        width: 233
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 845752969e2b53e30800000000000000
+      internalID: 4482685719678383432
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: eclaboussure noire_85
+      rect:
+        serializedVersion: 2
+        x: 2523
+        y: 100
+        width: 80
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 68ce7bc681e2e4f00800000000000000
+      internalID: 1102869641190435974
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: eclaboussure noire_86
+      rect:
+        serializedVersion: 2
+        x: 6121
+        y: 142
+        width: 30
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b035773290ecfc220800000000000000
+      internalID: 2508450056113705739
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: eclaboussure noire_87
+      rect:
+        serializedVersion: 2
+        x: 6200
+        y: 141
+        width: 15
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 76d08cfa30fd8a4d0800000000000000
+      internalID: -3123001134654419609
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: eclaboussure noire_88
+      rect:
+        serializedVersion: 2
+        x: 6360
+        y: 135
+        width: 52
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f6b0001e37b1efad0800000000000000
+      internalID: -2666663744846689425
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: eclaboussure noire_89
+      rect:
+        serializedVersion: 2
+        x: 5561
+        y: 84
+        width: 146
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9ceaf58f27f63d7d0800000000000000
+      internalID: -2894847595885121847
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: eclaboussure noire_90
+      rect:
+        serializedVersion: 2
+        x: 6234
+        y: 82
+        width: 297
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ad7be9cfcc98b2410800000000000000
+      internalID: 1453406818261710810
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: eclaboussure noire_91
+      rect:
+        serializedVersion: 2
+        x: 6507
+        y: 119
+        width: 75
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: def02ae02b0834250800000000000000
+      internalID: 5927723036787740653
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: eclaboussure noire_92
+      rect:
+        serializedVersion: 2
+        x: 2460
+        y: 78
+        width: 79
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f7fd5d91d869e79d0800000000000000
+      internalID: -2774614787645644929
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: eclaboussure noire_93
+      rect:
+        serializedVersion: 2
+        x: 5293
+        y: 102
+        width: 47
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 50bc7f1c5e1c62d20800000000000000
+      internalID: 3253500973367675653
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: eclaboussure noire_94
+      rect:
+        serializedVersion: 2
+        x: 5358
+        y: 104
+        width: 20
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5fca42b63365404b0800000000000000
+      internalID: -5475156468134793995
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: eclaboussure noire_95
+      rect:
+        serializedVersion: 2
+        x: 5406
+        y: 106
+        width: 15
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 48458550789ed7fe0800000000000000
+      internalID: -1189537960436411260
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: eclaboussure noire_96
+      rect:
+        serializedVersion: 2
+        x: 6722
+        y: 99
+        width: 22
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5201db2076ddbb730800000000000000
+      internalID: 4016046927228244005
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: eclaboussure noire_97
+      rect:
+        serializedVersion: 2
+        x: 1837
+        y: 26
+        width: 620
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 934cee3035c03f420800000000000000
+      internalID: 2662485355393893433
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: eclaboussure noire_98
+      rect:
+        serializedVersion: 2
+        x: 2602
+        y: 81
+        width: 11
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7df048cf3e9fb2290800000000000000
+      internalID: -7913957162584109097
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: eclaboussure noire_99
+      rect:
+        serializedVersion: 2
+        x: 2625
+        y: 81
+        width: 26
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 68b7f8a869b5cc450800000000000000
+      internalID: 6110359496562801542
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: eclaboussure noire_100
+      rect:
+        serializedVersion: 2
+        x: 5399
+        y: 66
+        width: 100
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f38ec347632104720800000000000000
+      internalID: 2828280591076354111
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: eclaboussure noire_101
+      rect:
+        serializedVersion: 2
+        x: 6058
+        y: 40
+        width: 355
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6bc09af861de6c3f0800000000000000
+      internalID: -880755995949069130
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: eclaboussure noire_102
+      rect:
+        serializedVersion: 2
+        x: 6609
+        y: 66
+        width: 67
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d67411262f6ee7f60800000000000000
+      internalID: 8034112713977317229
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: eclaboussure noire_103
+      rect:
+        serializedVersion: 2
+        x: 6848
+        y: 56
+        width: 60
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 73b25362a75d3cc60800000000000000
+      internalID: 7837342497158540087
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: eclaboussure noire_104
+      rect:
+        serializedVersion: 2
+        x: 2481
+        y: 25
+        width: 151
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aa97b834c528fdad0800000000000000
+      internalID: -2675276320852969046
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: eclaboussure noire_105
+      rect:
+        serializedVersion: 2
+        x: 2595
+        y: 66
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 81869275a5f2c5fd0800000000000000
+      internalID: -2351952840338348008
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: eclaboussure noire_106
+      rect:
+        serializedVersion: 2
+        x: 2648
+        y: 61
+        width: 41
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e72bec2ddddfeaf30800000000000000
+      internalID: 4588884199503475326
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: eclaboussure noire_107
+      rect:
+        serializedVersion: 2
+        x: 5540
+        y: 0
+        width: 318
+        height: 77
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e728364ba1a1912f0800000000000000
+      internalID: -1001740740115332482
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: eclaboussure noire_108
+      rect:
+        serializedVersion: 2
+        x: 6507
+        y: 52
+        width: 92
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1d5720e6485816ff0800000000000000
+      internalID: -44607717469162031
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: eclaboussure noire_109
+      rect:
+        serializedVersion: 2
+        x: 2429
+        y: 0
+        width: 186
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eddea2b32c25705a0800000000000000
+      internalID: -6555179738444665378
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: eclaboussure noire_110
+      rect:
+        serializedVersion: 2
+        x: 5456
+        y: 46
+        width: 22
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 63e0e8755d636a840800000000000000
+      internalID: 5234931906789641782
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: eclaboussure noire_111
+      rect:
+        serializedVersion: 2
+        x: 6174
+        y: 38
+        width: 27
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6d870006c741469f0800000000000000
+      internalID: -476233136175286058
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: eclaboussure noire_112
+      rect:
+        serializedVersion: 2
+        x: 6635
+        y: 48
+        width: 57
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a719795bfbbe8cf30800000000000000
+      internalID: 4596182628349481338
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: eclaboussure noire_113
+      rect:
+        serializedVersion: 2
+        x: 1744
+        y: 19
+        width: 86
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c8ef9fe19e8caeb70800000000000000
+      internalID: 8929170114788064908
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: eclaboussure noire_114
+      rect:
+        serializedVersion: 2
+        x: 2343
+        y: 17
+        width: 63
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ae13c2a0ebbacb370800000000000000
+      internalID: 8339729442686120426
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: eclaboussure noire_115
+      rect:
+        serializedVersion: 2
+        x: 6508
+        y: 19
+        width: 100
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3e5e35da5b2d52e30800000000000000
+      internalID: 4478217082228696547
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: eclaboussure noire_116
+      rect:
+        serializedVersion: 2
+        x: 6689
+        y: 30
+        width: 42
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 30fbcd59f6fc09a50800000000000000
+      internalID: 6525943938222440195
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: eclaboussure noire_117
+      rect:
+        serializedVersion: 2
+        x: 7133
+        y: 4
+        width: 61
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6135f2fb8c5f57ec0800000000000000
+      internalID: -3569676887071436010
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: eclaboussure noire_118
+      rect:
+        serializedVersion: 2
+        x: 1816
+        y: 3
+        width: 21
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0a70b2668e1f5a5b0800000000000000
+      internalID: -5357610201238534240
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: eclaboussure noire_119
+      rect:
+        serializedVersion: 2
+        x: 2245
+        y: 0
+        width: 134
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b82e79e09926ad110800000000000000
+      internalID: 1286449053082051211
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: eclaboussure noire_120
+      rect:
+        serializedVersion: 2
+        x: 2428
+        y: 0
+        width: 56
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 51fbdb6f4d264cb80800000000000000
+      internalID: -8375460740190060779
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      eclaboussure noire_0: -8666628726935529869
+      eclaboussure noire_1: 7958540373759279797
+      eclaboussure noire_10: -477341456255272989
+      eclaboussure noire_100: 2828280591076354111
+      eclaboussure noire_101: -880755995949069130
+      eclaboussure noire_102: 8034112713977317229
+      eclaboussure noire_103: 7837342497158540087
+      eclaboussure noire_104: -2675276320852969046
+      eclaboussure noire_105: -2351952840338348008
+      eclaboussure noire_106: 4588884199503475326
+      eclaboussure noire_107: -1001740740115332482
+      eclaboussure noire_108: -44607717469162031
+      eclaboussure noire_109: -6555179738444665378
+      eclaboussure noire_11: 5391715720213756628
+      eclaboussure noire_110: 5234931906789641782
+      eclaboussure noire_111: -476233136175286058
+      eclaboussure noire_112: 4596182628349481338
+      eclaboussure noire_113: 8929170114788064908
+      eclaboussure noire_114: 8339729442686120426
+      eclaboussure noire_115: 4478217082228696547
+      eclaboussure noire_116: 6525943938222440195
+      eclaboussure noire_117: -3569676887071436010
+      eclaboussure noire_118: -5357610201238534240
+      eclaboussure noire_119: 1286449053082051211
+      eclaboussure noire_12: -8307367221330811144
+      eclaboussure noire_120: -8375460740190060779
+      eclaboussure noire_13: 8711942923950595439
+      eclaboussure noire_14: 8257098382683840784
+      eclaboussure noire_15: -2369312279367878823
+      eclaboussure noire_16: -1786259724249054547
+      eclaboussure noire_17: -1125086175485005661
+      eclaboussure noire_18: 3055392718095370227
+      eclaboussure noire_19: -8651994448415694181
+      eclaboussure noire_2: -9050031539283372742
+      eclaboussure noire_20: -773537940753720109
+      eclaboussure noire_21: -6576337552588368340
+      eclaboussure noire_22: -734874968813269503
+      eclaboussure noire_23: -7746755576372139210
+      eclaboussure noire_24: -6192654926941593331
+      eclaboussure noire_25: 2775561681718721419
+      eclaboussure noire_26: 1770963667237525851
+      eclaboussure noire_27: -3563721527741331799
+      eclaboussure noire_28: -2065591074460284467
+      eclaboussure noire_29: -7281475902743627315
+      eclaboussure noire_3: -9022575808753261946
+      eclaboussure noire_30: 8519984856073306962
+      eclaboussure noire_31: -6304364717852979066
+      eclaboussure noire_32: 2030109276559142263
+      eclaboussure noire_33: -7652042322796516777
+      eclaboussure noire_34: 5013164347271814569
+      eclaboussure noire_35: 3959577389625437422
+      eclaboussure noire_36: 566769474088013905
+      eclaboussure noire_37: 268865839838988430
+      eclaboussure noire_38: 232068114714347644
+      eclaboussure noire_39: 5179361060891678963
+      eclaboussure noire_4: 7101429089888302099
+      eclaboussure noire_40: 4623604800977373722
+      eclaboussure noire_41: 2022857965091294037
+      eclaboussure noire_42: -1829529054043749035
+      eclaboussure noire_43: 3294772544505727472
+      eclaboussure noire_44: -8675020886972770362
+      eclaboussure noire_45: 8221029089747671169
+      eclaboussure noire_46: 1954255135230096077
+      eclaboussure noire_47: 7569599650938360114
+      eclaboussure noire_48: 9078153283825456970
+      eclaboussure noire_49: -531602740607632835
+      eclaboussure noire_5: 5665315526590261482
+      eclaboussure noire_50: 1324385668270491492
+      eclaboussure noire_51: 3261309428810448394
+      eclaboussure noire_52: -4227291503231638707
+      eclaboussure noire_53: 8565532325569742039
+      eclaboussure noire_54: -4790156796531456539
+      eclaboussure noire_55: 3435799263785090280
+      eclaboussure noire_56: 1268208818145372376
+      eclaboussure noire_57: 5663644180009248952
+      eclaboussure noire_58: 7690663323838638374
+      eclaboussure noire_59: -6291055592973118869
+      eclaboussure noire_6: -1388919272443126425
+      eclaboussure noire_60: -5727912182162516674
+      eclaboussure noire_61: -2974569880929484701
+      eclaboussure noire_62: -2867041517054948801
+      eclaboussure noire_63: 6231776498790293226
+      eclaboussure noire_64: 9136719585684807657
+      eclaboussure noire_65: -1223734952560159238
+      eclaboussure noire_66: 1351022650502814722
+      eclaboussure noire_67: -6717073992226389122
+      eclaboussure noire_68: 6791040336153328027
+      eclaboussure noire_69: -6609217504147757832
+      eclaboussure noire_7: 5279947998998165966
+      eclaboussure noire_70: -5870334602963048215
+      eclaboussure noire_71: 8327425938298267318
+      eclaboussure noire_72: -2403142471678844366
+      eclaboussure noire_73: 9015166317236104088
+      eclaboussure noire_74: 9155894429144569951
+      eclaboussure noire_75: 4208951053455372774
+      eclaboussure noire_76: -408817838529292043
+      eclaboussure noire_77: -5329628239670808268
+      eclaboussure noire_78: -6387732612355809472
+      eclaboussure noire_79: -273758690080660753
+      eclaboussure noire_8: -2248243983236552213
+      eclaboussure noire_80: -393090295755647187
+      eclaboussure noire_81: 5674335660834401303
+      eclaboussure noire_82: 8788647792405864374
+      eclaboussure noire_83: -5621282030190889161
+      eclaboussure noire_84: 4482685719678383432
+      eclaboussure noire_85: 1102869641190435974
+      eclaboussure noire_86: 2508450056113705739
+      eclaboussure noire_87: -3123001134654419609
+      eclaboussure noire_88: -2666663744846689425
+      eclaboussure noire_89: -2894847595885121847
+      eclaboussure noire_9: 5138751553012604890
+      eclaboussure noire_90: 1453406818261710810
+      eclaboussure noire_91: 5927723036787740653
+      eclaboussure noire_92: -2774614787645644929
+      eclaboussure noire_93: 3253500973367675653
+      eclaboussure noire_94: -5475156468134793995
+      eclaboussure noire_95: -1189537960436411260
+      eclaboussure noire_96: 4016046927228244005
+      eclaboussure noire_97: 2662485355393893433
+      eclaboussure noire_98: -7913957162584109097
+      eclaboussure noire_99: 6110359496562801542
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
