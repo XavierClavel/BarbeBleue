@@ -1,10 +1,10 @@
 fileFormatVersion: 2
-guid: 37089dd1ede6de94a8227ad7318f4e17
+guid: 43892e5ed1814be40b509cfba8e9e5d5
 TextureImporter:
   internalIDToNameTable:
   - first:
-      213: -7337428893339232935
-    second: maison du chaperon qui toque_0
+      213: 1834572525141810323
+    second: Lit loup 1_0
   externalObjects: {}
   serializedVersion: 13
   mipmaps:
@@ -72,7 +72,7 @@ TextureImporter:
   platformSettings:
   - serializedVersion: 4
     buildTarget: DefaultTexturePlatform
-    maxTextureSize: 16384
+    maxTextureSize: 8192
     resizeAlgorithm: 0
     textureFormat: -1
     textureCompression: 1
@@ -126,13 +126,13 @@ TextureImporter:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: maison du chaperon qui toque_0
+      name: Lit loup 1_0
       rect:
         serializedVersion: 2
-        x: 4717
+        x: 0
         y: 0
-        width: 1104
-        height: 1080
+        width: 2000
+        height: 1023
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -141,8 +141,8 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 955d3dffb473c2a90800000000000000
-      internalID: -7337428893339232935
+      spriteID: 39cd4cbddf5b57910800000000000000
+      internalID: 1834572525141810323
       vertices: []
       indices: 
       edges: []
@@ -161,7 +161,7 @@ TextureImporter:
     spriteCustomMetadata:
       entries: []
     nameFileIdTable:
-      maison du chaperon qui toque_0: -7337428893339232935
+      Lit loup 1_0: 1834572525141810323
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

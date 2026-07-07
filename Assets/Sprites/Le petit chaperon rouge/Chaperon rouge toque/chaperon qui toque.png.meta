@@ -1,13 +1,13 @@
 fileFormatVersion: 2
-guid: b73da488c8143964798184346ca8d270
+guid: a35bbffb1aef8e244a7f32aee6d4a03b
 TextureImporter:
   internalIDToNameTable:
   - first:
-      213: -4619454031508805509
-    second: chaperon rouge qui toque_0
+      213: -8081193220383543567
+    second: chaperon qui toque_0
   - first:
-      213: 5888433290659296450
-    second: chaperon rouge qui toque_1
+      213: 8693015946559844991
+    second: chaperon qui toque_1
   externalObjects: {}
   serializedVersion: 13
   mipmaps:
@@ -75,7 +75,7 @@ TextureImporter:
   platformSettings:
   - serializedVersion: 4
     buildTarget: DefaultTexturePlatform
-    maxTextureSize: 16384
+    maxTextureSize: 8192
     resizeAlgorithm: 0
     textureFormat: -1
     textureCompression: 1
@@ -129,7 +129,7 @@ TextureImporter:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: chaperon rouge qui toque_0
+      name: chaperon qui toque_0
       rect:
         serializedVersion: 2
         x: 4946
@@ -144,14 +144,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: b78eba3880764efb0800000000000000
-      internalID: -4619454031508805509
+      spriteID: 1fe6eb10595d9df80800000000000000
+      internalID: -8081193220383543567
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: chaperon rouge qui toque_1
+      name: chaperon qui toque_1
       rect:
         serializedVersion: 2
         x: 5350
@@ -166,8 +166,8 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 2c4f45d21eae7b150800000000000000
-      internalID: 5888433290659296450
+      spriteID: f72718122fbc3a870800000000000000
+      internalID: 8693015946559844991
       vertices: []
       indices: 
       edges: []
@@ -186,8 +186,8 @@ TextureImporter:
     spriteCustomMetadata:
       entries: []
     nameFileIdTable:
-      chaperon rouge qui toque_0: -4619454031508805509
-      chaperon rouge qui toque_1: 5888433290659296450
+      chaperon qui toque_0: -8081193220383543567
+      chaperon qui toque_1: 8693015946559844991
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 
