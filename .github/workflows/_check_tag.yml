@@ -1,0 +1,48 @@
+
+
+on:
+  workflow_call: 
+    inputs:
+      platform:
+        required: true
+        type: string
+    outputs:
+      exists:
+        value: ${{ jobs.checkTag.outputs.exists }}
+      tag:
+        value: ${{ jobs.checkTag.outputs.tag }}
+      version:
+        value: ${{ jobs.checkTag.outputs.version }}
+      
+jobs:
+  checkTag:
+    name: Check for existing release
+    runs-on: ubuntu-latest
+    outputs:
+      exists: ${{ steps.tagcheck.outputs.exists }}
+      tag: ${{ steps.tagcheck.outputs.tag }}
+      version: ${{ steps.tagcheck.outputs.version }}
+    steps:
+      # Checkout
+      - name: Checkout repository
+        uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+          lfs: true
+
+      # Determine version + tag, and whether that tag already exists
+      - name: Check release tag
+        id: tagcheck
+        run: |
+          VERSION=$(grep -m1 'bundleVersion:' ProjectSettings/ProjectSettings.asset | sed 's/.*bundleVersion:[[:space:]]*//' | tr -d '[:space:]')
+          TAG="${{ inputs.platform }}-v${VERSION}"
+          echo "version=${VERSION}" >> "$GITHUB_OUTPUT"
+          echo "tag=${TAG}" >> "$GITHUB_OUTPUT"
+          if git ls-remote --tags --exit-code origin "refs/tags/${TAG}" >/dev/null 2>&1; then
+            echo "exists=true" >> "$GITHUB_OUTPUT"
+            echo "::notice::Tag ${TAG} already exists — skipping build and deployment"
+          else
+            echo "exists=false" >> "$GITHUB_OUTPUT"
+            echo "::notice::Tag ${TAG} does not exist — proceeding with build and deployment"
+          fi
+          

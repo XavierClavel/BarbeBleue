@@ -15,35 +15,9 @@ concurrency:
 
 jobs:
   checkTag:
-    name: Check for existing tag of same version
-    runs-on: ubuntu-latest
-    outputs:
-      exists: ${{ steps.tagcheck.outputs.exists }}
-      tag: ${{ steps.tagcheck.outputs.tag }}
-      version: ${{ steps.tagcheck.outputs.version }}
-    steps:
-      # Checkout
-      - name: Checkout repository
-        uses: actions/checkout@v4
-        with:
-          fetch-depth: 0
-          lfs: true
-
-      # Determine version + tag, and whether that tag already exists
-      - name: Check release tag
-        id: tagcheck
-        run: |
-          VERSION=$(grep -m1 'bundleVersion:' ProjectSettings/ProjectSettings.asset | sed 's/.*bundleVersion:[[:space:]]*//' | tr -d '[:space:]')
-          TAG="webGL-v${VERSION}"
-          echo "version=${VERSION}" >> "$GITHUB_OUTPUT"
-          echo "tag=${TAG}" >> "$GITHUB_OUTPUT"
-          if git ls-remote --tags --exit-code origin "refs/tags/${TAG}" >/dev/null 2>&1; then
-            echo "exists=true" >> "$GITHUB_OUTPUT"
-            echo "::notice::Tag ${TAG} already exists — skipping build and deployment"
-          else
-            echo "exists=false" >> "$GITHUB_OUTPUT"
-            echo "::notice::Tag ${TAG} does not exist — proceeding with build and deployment"
-          fi
+    uses: ./.github/workflows/_check_tag.yml
+    with:
+      platform: webGL
   
   
   buildForWebGLPlatform:
@@ -84,7 +58,7 @@ jobs:
       - name: Upload build
         uses: actions/upload-artifact@v4
         with:
-          name: build-WebGL
+          name: build-webGL
           path: build/WebGL/WebGL
   
   deployToCloudfare:
@@ -97,7 +71,7 @@ jobs:
       - name: Download WebGL Artifact
         uses: actions/download-artifact@v4
         with:
-          name: build-WebGL
+          name: build-webGL
           path: build/WebGL/WebGL
       - name: Deploy to Cloudflare Workers
         uses: cloudflare/wrangler-action@v3
@@ -117,7 +91,7 @@ jobs:
       - name: Download WebGL Artifact
         uses: actions/download-artifact@v4
         with:
-          name: build-WebGL
+          name: build-webGL
           path: build/WebGL/WebGL
       - name: Deploy to itch.io
         uses: manleydev/butler-publish-itchio-action@master
@@ -129,28 +103,14 @@ jobs:
           PACKAGE: build/WebGL/WebGL
   
   createTag:
-    name: Create tag
-    runs-on: ubuntu-latest
     needs: [ checkTag, deployToCloudfare, deployToItch]
-    steps:
-      - name: Checkout Repository
-        uses: actions/checkout@v4
-      # Tag the release once deployment succeeded
-      - name: Create release tag
-        env:
-          TAG: ${{ needs.checkTag.outputs.tag }}
-        run: |
-          git tag "$TAG"
-          git push origin "$TAG"
-          
+    uses: ./.github/workflows/_create_tag.yml
+    with:
+      tag: ${{ needs.checkTag.outputs.tag }}
+  
   cleanup:
-    name: Cleanup
-    runs-on: ubuntu-latest
     needs: [ checkTag, deployToCloudfare, deployToItch ]
     if: ${{ always() && needs.checkTag.outputs.exists == 'false' }}
-    steps:
-      - name: Cleanup to avoid storage limit
-        uses: geekyeggo/delete-artifact@v2
-        with:
-          name: build-WebGL
-      
+    uses: ./.github/workflows/_cleanup.yml
+    with:
+      platform: webGL

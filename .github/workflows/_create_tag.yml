@@ -1,0 +1,24 @@
+
+
+on:
+  workflow_call: 
+    inputs:
+      tag:
+        required: true
+        type: string
+      
+jobs:
+  createTag:
+    name: Create tag
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout Repository
+        uses: actions/checkout@v4
+      # Tag the release once deployment succeeded
+      - name: Create release tag
+        env:
+          TAG: ${{ inputs.tag }}
+        run: |
+          git tag "$TAG"
+          git push origin "$TAG"
+          

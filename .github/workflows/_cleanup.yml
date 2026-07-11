@@ -1,0 +1,18 @@
+
+
+on:
+  workflow_call: 
+    inputs:
+      platform:
+        required: true
+        type: string
+      
+jobs:
+  cleanup:
+    name: Cleanup
+    runs-on: ubuntu-latest
+    steps:
+      - name: Cleanup to avoid storage limit
+        uses: geekyeggo/delete-artifact@v5
+        with:
+          name: build-${{ inputs.platform }}
