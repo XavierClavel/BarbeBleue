@@ -38,20 +38,9 @@
                 },
                 {
                     "name": "",
-                    "id": "5c9e87d7-212b-4dfd-86c7-b5eb001b1637",
-                    "path": "<Touchscreen>/primaryTouch/tap",
-                    "interactions": "",
-                    "processors": "",
-                    "groups": "",
-                    "action": "TriggerPauseButton",
-                    "isComposite": false,
-                    "isPartOfComposite": false
-                },
-                {
-                    "name": "",
-                    "id": "8b9da90c-cfdd-439b-8ead-6fd7ff0946da",
-                    "path": "<Mouse>/rightButton",
-                    "interactions": "",
+                    "id": "7a1c2f3e-6b4d-4c8a-9f2e-1d3b5a7c9e01",
+                    "path": "<Pointer>/press",
+                    "interactions": "tap",
                     "processors": "",
                     "groups": "",
                     "action": "TriggerPauseButton",
