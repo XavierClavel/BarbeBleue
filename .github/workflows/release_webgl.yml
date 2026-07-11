@@ -1,8 +1,8 @@
-name: Release CI
+name: Release WebGL
 
 on:
   push:
-    branches: [ "main" ]
+    branches: [ main ]
   workflow_dispatch:
 
 permissions:
@@ -14,9 +14,13 @@ concurrency:
   cancel-in-progress: true
 
 jobs:
-  build:
+  checkTag:
+    name: Check for existing tag of same version
     runs-on: ubuntu-latest
-
+    outputs:
+      exists: ${{ steps.tagcheck.outputs.exists }}
+      tag: ${{ steps.tagcheck.outputs.tag }}
+      version: ${{ steps.tagcheck.outputs.version }}
     steps:
       # Checkout
       - name: Checkout repository
@@ -30,7 +34,7 @@ jobs:
         id: tagcheck
         run: |
           VERSION=$(grep -m1 'bundleVersion:' ProjectSettings/ProjectSettings.asset | sed 's/.*bundleVersion:[[:space:]]*//' | tr -d '[:space:]')
-          TAG="v${VERSION}"
+          TAG="webGL-v${VERSION}"
           echo "version=${VERSION}" >> "$GITHUB_OUTPUT"
           echo "tag=${TAG}" >> "$GITHUB_OUTPUT"
           if git ls-remote --tags --exit-code origin "refs/tags/${TAG}" >/dev/null 2>&1; then
@@ -40,20 +44,24 @@ jobs:
             echo "exists=false" >> "$GITHUB_OUTPUT"
             echo "::notice::Tag ${TAG} does not exist — proceeding with build and deployment"
           fi
+  
+  
+  buildForWebGLPlatform:
+    name: Build for WebGL platform
+    runs-on: ubuntu-latest
+    needs: checkTag
+    if: needs.checkTag.outputs.exists == 'false'
 
-      - name: Verify Cloudflare secrets present
-        if: steps.tagcheck.outputs.exists == 'false'
-        run: |
-          if [ -z "${{ secrets.CLOUDFLARE_API_TOKEN }}" ]; then                                                                                                                   
-            echo "::error::CLOUDFLARE_API_TOKEN is empty — secret not set or misnamed"; exit 1                                                                                    
-          fi                                                                                                                                                                      
-          echo "Token is set (length: ${#TOKEN})"                                                                                                                                 
-        env:
-          TOKEN: ${{ secrets.CLOUDFLARE_API_TOKEN }}
+    steps:
+      # Checkout
+      - name: Checkout repository
+        uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+          lfs: true
 
       # Cache
       - name: Cache Library
-        if: steps.tagcheck.outputs.exists == 'false'
         uses: actions/cache@v4
         with:
           path: Library
@@ -63,7 +71,6 @@ jobs:
 
       # Build
       - name: Build project
-        if: steps.tagcheck.outputs.exists == 'false'
         uses: game-ci/unity-builder@v4
         env:
           UNITY_LICENSE: ${{ secrets.UNITY_LICENSE }}
@@ -75,14 +82,24 @@ jobs:
 
       # Upload
       - name: Upload build
-        if: steps.tagcheck.outputs.exists == 'false'
         uses: actions/upload-artifact@v4
         with:
-          name: WebGL-Build
+          name: build-WebGL
           path: build/WebGL/WebGL
-
+  
+  deployToCloudfare:
+    name: Deploy to Cloudfare
+    runs-on: ubuntu-latest
+    needs: buildForWebGLPlatform
+    steps:
+      - name: Checkout Repository
+        uses: actions/checkout@v4
+      - name: Download WebGL Artifact
+        uses: actions/download-artifact@v4
+        with:
+          name: build-WebGL
+          path: build/WebGL/WebGL
       - name: Deploy to Cloudflare Workers
-        if: steps.tagcheck.outputs.exists == 'false'
         uses: cloudflare/wrangler-action@v3
         with:
           apiToken: ${{ secrets.CLOUDFLARE_API_TOKEN }}
@@ -90,9 +107,19 @@ jobs:
           command: deploy
           gitHubToken: ${{ secrets.GITHUB_TOKEN }}
 
-      # itch.io
+  deployToItch:
+    name: Deploy to itch.io
+    runs-on: ubuntu-latest
+    needs: buildForWebGLPlatform
+    steps:
+      - name: Checkout Repository
+        uses: actions/checkout@v4
+      - name: Download WebGL Artifact
+        uses: actions/download-artifact@v4
+        with:
+          name: build-WebGL
+          path: build/WebGL/WebGL
       - name: Deploy to itch.io
-        if: steps.tagcheck.outputs.exists == 'false'
         uses: manleydev/butler-publish-itchio-action@master
         env:
           BUTLER_CREDENTIALS: ${{ secrets.ITCH_API_KEY }}
@@ -100,12 +127,30 @@ jobs:
           ITCH_USER: ${{ secrets.ITCH_USER }}
           ITCH_GAME: ${{ secrets.ITCH_GAME }}
           PACKAGE: build/WebGL/WebGL
-
+  
+  createTag:
+    name: Create tag
+    runs-on: ubuntu-latest
+    needs: [ checkTag, deployToCloudfare, deployToItch]
+    steps:
+      - name: Checkout Repository
+        uses: actions/checkout@v4
       # Tag the release once deployment succeeded
       - name: Create release tag
-        if: steps.tagcheck.outputs.exists == 'false'
         env:
-          TAG: ${{ steps.tagcheck.outputs.tag }}
+          TAG: ${{ needs.checkTag.outputs.tag }}
         run: |
           git tag "$TAG"
           git push origin "$TAG"
+          
+  cleanup:
+    name: Cleanup
+    runs-on: ubuntu-latest
+    needs: [ checkTag, deployToCloudfare, deployToItch ]
+    if: ${{ always() && needs.checkTag.outputs.exists == 'false' }}
+    steps:
+      - name: Cleanup to avoid storage limit
+        uses: geekyeggo/delete-artifact@v2
+        with:
+          name: build-WebGL
+      
