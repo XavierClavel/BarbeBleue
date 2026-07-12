@@ -36,6 +36,9 @@ public class TextAlongSpline : MonoBehaviour
     [Tooltip("Recompute every frame. Enable while authoring; disable and call Refresh() manually in play mode for performance.")]
     [SerializeField] private bool updateEveryFrame = true;
 
+    // Number of segments used to measure the spline's length in the text's local space.
+    private const int LocalLengthSamples = 128;
+
     private TMP_Text tmp;
 
     private void OnEnable()
@@ -52,6 +55,25 @@ public class TextAlongSpline : MonoBehaviour
     private void Update()
     {
         if (updateEveryFrame) Refresh();
+    }
+
+    // Length of the spline measured in THIS text's local space. Character distances come from
+    // the TMP mesh (local units), so the spline must be measured in the same space — otherwise
+    // any difference between the text's world scale and the spline's (e.g. a WebGL CanvasScaler
+    // scale factor that differs from the editor) skews the distance/length ratio and stretches
+    // the character spacing. Sampling in local space makes the layout scale-invariant.
+    private float LocalSplineLength()
+    {
+        float length = 0f;
+        Vector3 prev = transform.InverseTransformPoint((Vector3)spline.EvaluatePosition(0f));
+        for (int i = 1; i <= LocalLengthSamples; i++)
+        {
+            float t = i / (float)LocalLengthSamples;
+            Vector3 point = transform.InverseTransformPoint((Vector3)spline.EvaluatePosition(t));
+            length += Vector3.Distance(prev, point);
+            prev = point;
+        }
+        return length;
     }
 
     // Which wrapped line a given path distance falls on. With wrap off, everything stays on
@@ -78,7 +100,9 @@ public class TextAlongSpline : MonoBehaviour
         int characterCount = textInfo.characterCount;
         if (characterCount == 0) return;
 
-        float splineLength = spline.CalculateLength();
+        // Measured in the text's local space so character spacing is invariant to canvas/world
+        // scale (fixes the WebGL spacing drift caused by a different CanvasScaler scale factor).
+        float splineLength = LocalSplineLength();
         if (splineLength <= 0f) return;
 
         // Find the left edge of the text so distances are measured from the start of the
