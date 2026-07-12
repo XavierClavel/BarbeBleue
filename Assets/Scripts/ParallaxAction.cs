@@ -1,5 +1,7 @@
 using DG.Tweening;
+using JetBrains.Annotations;
 using UnityEngine;
+using UnityEngine.UI;
 
 public enum actionType
 {
@@ -8,6 +10,7 @@ public enum actionType
     Sinusoid,
     LocalYSinusoid,
     LocalYTranslate,
+    Blink,
 }
 
 public class ParallaxAction : MonoBehaviour, IParallaxedObject
@@ -22,6 +25,8 @@ public class ParallaxAction : MonoBehaviour, IParallaxedObject
     [SerializeField] public float amplitude;
     [SerializeField] public float offset;
     [HideInInspector] public Vector3 basePosition;
+
+    [CanBeNull] private Image image;
     
     
     
@@ -30,6 +35,8 @@ public class ParallaxAction : MonoBehaviour, IParallaxedObject
     {
         actuator = GetComponent<RectTransform>();
         rt = GetComponent<RectTransform>();
+        TryGetComponent(out Image objectImage);
+        image = objectImage;
         basePosition = rt.localPosition;
         
         switch (type)
@@ -44,6 +51,33 @@ public class ParallaxAction : MonoBehaviour, IParallaxedObject
         }
         
         EventManagers.parallaxActions.dispatchEvent(it => it.onParallaxActionDeclaration(this));
+    }
+
+    public void HideImage()
+    {
+        if (image == null)
+        {
+            return;
+        }
+        image.color = new Color(image.color.r, image.color.g, image.color.b, 0);
+    }
+    
+    public void ShowImage()
+    {
+        if (image == null)
+        {
+            return;
+        }
+        image.color = new Color(image.color.r, image.color.g, image.color.b, 1);
+    }
+
+    public void setAlpha(float alpha)
+    {
+        if (image == null)
+        {
+            return;
+        }
+        image.color = new Color(image.color.r, image.color.g, image.color.b, alpha);
     }
 
 

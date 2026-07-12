@@ -1356,7 +1356,7 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0, y: 0}
   m_AnchorMax: {x: 0, y: 1}
-  m_AnchoredPosition: {x: 9404, y: 0}
+  m_AnchoredPosition: {x: 52018, y: 0}
   m_SizeDelta: {x: 100, y: 0}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!1 &116193762
@@ -12850,6 +12850,7 @@ GameObject:
   - component: {fileID: 978148804}
   - component: {fileID: 978148803}
   - component: {fileID: 978148802}
+  - component: {fileID: 978148805}
   m_Layer: 5
   m_Name: Chaperon rouge
   m_TagString: Untagged
@@ -12927,6 +12928,28 @@ CanvasRenderer:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 978148800}
   m_CullTransparentMesh: 1
+--- !u!114 &978148805
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 978148800}
+  m_Enabled: 0
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 5d263de1ff8bed34e9e51fe59be8c123, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  type: 5
+  rt: {fileID: 0}
+  actuator: {fileID: 0}
+  duration: 0
+  startValue: 0
+  endValue: 0
+  magnitude: 50
+  amplitude: 1
+  offset: 0
+  basePosition: {x: 0, y: 0, z: 0}
 --- !u!1 &1005897311
 GameObject:
   m_ObjectHideFlags: 0

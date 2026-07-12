@@ -95,6 +95,11 @@ public class ParallaxManager : MonoBehaviour, IParallax
             case actionType.LocalYTranslate:
                 action.actuator.localPosition = action.basePosition + value * Vector3.up;
                 break;
+            
+            case actionType.Blink:
+                var visibility = Math.Sign((float)Math.Sin(ratio * action.magnitude + action.offset) * action.amplitude);
+                action.setAlpha(visibility > 0 ?  1 : 0);
+                break;
         }
     }
 
