@@ -6,6 +6,10 @@ public class StringLocalizer : MonoBehaviour, ILocalized
 {
     [SerializeField] string key = null;
     [SerializeField] private fontKey keyFont = fontKey.DEFAULT;
+    [Header("Optional")]
+    [Tooltip("When enabled, uses the size below instead of the default size for the selected font key.")]
+    [SerializeField] private bool overrideFontSize = false;
+    [SerializeField] private float fontSizeOverride = 36f;
     private TextMeshProUGUI textDisplay = null;
     private LocalizedString localizedString;
 
@@ -47,7 +51,7 @@ public class StringLocalizer : MonoBehaviour, ILocalized
             textDisplay.font = DataManager.dictKeyToFont[keyFont];
         }
 
-        textDisplay.fontSize = DataManager.dictKeyToSize[keyFont];
+        textDisplay.fontSize = overrideFontSize ? fontSizeOverride : DataManager.dictKeyToSize[keyFont];
     }
 
     private void UpdateKey()
