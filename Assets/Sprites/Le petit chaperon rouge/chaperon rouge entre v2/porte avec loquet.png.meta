@@ -1,10 +1,10 @@
 fileFormatVersion: 2
-guid: d78a4c29b973e644cbab5404252a9938
+guid: 1ec0465bea023ac43b33ca07fb5fe400
 TextureImporter:
   internalIDToNameTable:
   - first:
-      213: -3770936932656997512
-    second: chchaperon rouge de dos entre dans maison_0
+      213: 1242144543298101317
+    second: porte avec loquet_0
   externalObjects: {}
   serializedVersion: 13
   mipmaps:
@@ -126,13 +126,13 @@ TextureImporter:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: chchaperon rouge de dos entre dans maison_0
+      name: porte avec loquet_0
       rect:
         serializedVersion: 2
-        x: 6476
+        x: 5317
         y: 0
-        width: 380
-        height: 904
+        width: 1999
+        height: 1080
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -141,8 +141,8 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 87b149ac6d0faabc0800000000000000
-      internalID: -3770936932656997512
+      spriteID: 54029f681ebfc3110800000000000000
+      internalID: 1242144543298101317
       vertices: []
       indices: 
       edges: []
@@ -161,7 +161,7 @@ TextureImporter:
     spriteCustomMetadata:
       entries: []
     nameFileIdTable:
-      chchaperon rouge de dos entre dans maison_0: -3770936932656997512
+      porte avec loquet_0: 1242144543298101317
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

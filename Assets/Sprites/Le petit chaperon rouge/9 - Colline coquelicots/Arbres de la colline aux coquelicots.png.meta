@@ -1,13 +1,25 @@
 fileFormatVersion: 2
-guid: 767fe5f2dfb18e84db48c12f1db02a1d
+guid: 08b3e12803939434f98b1978b0627472
 TextureImporter:
   internalIDToNameTable:
   - first:
-      213: -7959821799258544128
-    second: chaperon rouge ouvre porte_0
+      213: -1731883917482340176
+    second: Arbres de la colline aux coquelicots_0
   - first:
-      213: 3552574062665680699
-    second: chaperon rouge ouvre porte_1
+      213: 9220822715595194536
+    second: Arbres de la colline aux coquelicots_1
+  - first:
+      213: 103914004788133019
+    second: Arbres de la colline aux coquelicots_2
+  - first:
+      213: -2873141913575533683
+    second: Arbres de la colline aux coquelicots_3
+  - first:
+      213: -6231076161478762060
+    second: Arbres de la colline aux coquelicots_4
+  - first:
+      213: 8684999711577017681
+    second: Arbres de la colline aux coquelicots_5
   externalObjects: {}
   serializedVersion: 13
   mipmaps:
@@ -75,7 +87,7 @@ TextureImporter:
   platformSettings:
   - serializedVersion: 4
     buildTarget: DefaultTexturePlatform
-    maxTextureSize: 8192
+    maxTextureSize: 4096
     resizeAlgorithm: 0
     textureFormat: -1
     textureCompression: 1
@@ -129,13 +141,13 @@ TextureImporter:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: chaperon rouge ouvre porte_0
+      name: Arbres de la colline aux coquelicots_0
       rect:
         serializedVersion: 2
-        x: 3863
-        y: 1
-        width: 921
-        height: 962
+        x: 539
+        y: 105
+        width: 195
+        height: 949
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -144,20 +156,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 008a8cb1f38098190800000000000000
-      internalID: -7959821799258544128
+      spriteID: 0b0d042c0cc17f7e0800000000000000
+      internalID: -1731883917482340176
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: chaperon rouge ouvre porte_1
+      name: Arbres de la colline aux coquelicots_1
       rect:
         serializedVersion: 2
-        x: 4886
-        y: 1
-        width: 765
-        height: 446
+        x: 790
+        y: 148
+        width: 235
+        height: 932
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -166,8 +178,96 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: b374473a9474d4130800000000000000
-      internalID: 3552574062665680699
+      spriteID: 8a087e3e761f6ff70800000000000000
+      internalID: 9220822715595194536
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arbres de la colline aux coquelicots_2
+      rect:
+        serializedVersion: 2
+        x: 1135
+        y: 115
+        width: 354
+        height: 965
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b9cb59e9c3d217100800000000000000
+      internalID: 103914004788133019
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arbres de la colline aux coquelicots_3
+      rect:
+        serializedVersion: 2
+        x: 1520
+        y: 208
+        width: 300
+        height: 872
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d835b04f6ac8028d0800000000000000
+      internalID: -2873141913575533683
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arbres de la colline aux coquelicots_4
+      rect:
+        serializedVersion: 2
+        x: 1913
+        y: 383
+        width: 210
+        height: 697
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4b167aaae35c689a0800000000000000
+      internalID: -6231076161478762060
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arbres de la colline aux coquelicots_5
+      rect:
+        serializedVersion: 2
+        x: 2474
+        y: 0
+        width: 498
+        height: 1080
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 15d0beaf831578870800000000000000
+      internalID: 8684999711577017681
       vertices: []
       indices: 
       edges: []
@@ -186,8 +286,12 @@ TextureImporter:
     spriteCustomMetadata:
       entries: []
     nameFileIdTable:
-      chaperon rouge ouvre porte_0: -7959821799258544128
-      chaperon rouge ouvre porte_1: 3552574062665680699
+      Arbres de la colline aux coquelicots_0: -1731883917482340176
+      Arbres de la colline aux coquelicots_1: 9220822715595194536
+      Arbres de la colline aux coquelicots_2: 103914004788133019
+      Arbres de la colline aux coquelicots_3: -2873141913575533683
+      Arbres de la colline aux coquelicots_4: -6231076161478762060
+      Arbres de la colline aux coquelicots_5: 8684999711577017681
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

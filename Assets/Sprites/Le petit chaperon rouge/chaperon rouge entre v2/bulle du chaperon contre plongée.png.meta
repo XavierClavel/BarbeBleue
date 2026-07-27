@@ -1,10 +1,10 @@
 fileFormatVersion: 2
-guid: d23aa0f78cc56e74bb8f81a5c9f65cc0
+guid: 6a1cbaf7d4bc84d4eb658d7609c03d0b
 TextureImporter:
   internalIDToNameTable:
   - first:
-      213: -3789732965857819979
-    second: porte loquet plus ouverture_0
+      213: -6915062783188207283
+    second: "bulle du chaperon contre plonge\u0301e_0"
   externalObjects: {}
   serializedVersion: 13
   mipmaps:
@@ -126,13 +126,13 @@ TextureImporter:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: porte loquet plus ouverture_0
+      name: "bulle du chaperon contre plonge\u0301e_0"
       rect:
         serializedVersion: 2
-        x: 5317
-        y: 0
-        width: 1999
-        height: 1080
+        x: 888
+        y: 527
+        width: 788
+        height: 549
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -141,8 +141,8 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 5b2057842f9286bc0800000000000000
-      internalID: -3789732965857819979
+      spriteID: d49fa884903c800a0800000000000000
+      internalID: -6915062783188207283
       vertices: []
       indices: 
       edges: []
@@ -161,7 +161,7 @@ TextureImporter:
     spriteCustomMetadata:
       entries: []
     nameFileIdTable:
-      porte loquet plus ouverture_0: -3789732965857819979
+      "bulle du chaperon contre plonge\u0301e_0": -6915062783188207283
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

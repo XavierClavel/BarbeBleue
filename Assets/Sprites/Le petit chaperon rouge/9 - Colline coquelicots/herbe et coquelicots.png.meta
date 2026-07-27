@@ -1,0 +1,4199 @@
+fileFormatVersion: 2
+guid: 4b6d36bb6b5319b478832df1a4382d20
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 6364425437513540608
+    second: herbe et coquelicots_0
+  - first:
+      213: 7743220756888897048
+    second: herbe et coquelicots_1
+  - first:
+      213: -8869943716661460778
+    second: herbe et coquelicots_2
+  - first:
+      213: 6470981902759161249
+    second: herbe et coquelicots_3
+  - first:
+      213: -3187254370599546499
+    second: herbe et coquelicots_4
+  - first:
+      213: -2210788260540546354
+    second: herbe et coquelicots_5
+  - first:
+      213: -3381118102935629757
+    second: herbe et coquelicots_6
+  - first:
+      213: 6660175554287656479
+    second: herbe et coquelicots_7
+  - first:
+      213: 6241838067586222856
+    second: herbe et coquelicots_8
+  - first:
+      213: 2717360068624665889
+    second: herbe et coquelicots_9
+  - first:
+      213: 5821214624523658956
+    second: herbe et coquelicots_10
+  - first:
+      213: 7265571303534637104
+    second: herbe et coquelicots_11
+  - first:
+      213: -793114929397535091
+    second: herbe et coquelicots_12
+  - first:
+      213: -5104310247801085127
+    second: herbe et coquelicots_13
+  - first:
+      213: -3074990638641027596
+    second: herbe et coquelicots_14
+  - first:
+      213: -8088681872330518318
+    second: herbe et coquelicots_15
+  - first:
+      213: -6983669804635356835
+    second: herbe et coquelicots_16
+  - first:
+      213: -6740578278759368353
+    second: herbe et coquelicots_17
+  - first:
+      213: -7688200494544952451
+    second: herbe et coquelicots_18
+  - first:
+      213: 7101694950617917423
+    second: herbe et coquelicots_19
+  - first:
+      213: 1562020651245405720
+    second: herbe et coquelicots_20
+  - first:
+      213: 727434136704327002
+    second: herbe et coquelicots_21
+  - first:
+      213: 3424799837195985599
+    second: herbe et coquelicots_22
+  - first:
+      213: 8750755004164096688
+    second: herbe et coquelicots_23
+  - first:
+      213: -2748593332418571756
+    second: herbe et coquelicots_24
+  - first:
+      213: -2774877856443062928
+    second: herbe et coquelicots_25
+  - first:
+      213: 8036233668138638324
+    second: herbe et coquelicots_26
+  - first:
+      213: 161947810022779419
+    second: herbe et coquelicots_27
+  - first:
+      213: 9176558426701991024
+    second: herbe et coquelicots_28
+  - first:
+      213: 8782552950848137078
+    second: herbe et coquelicots_29
+  - first:
+      213: -7890185648657485209
+    second: herbe et coquelicots_30
+  - first:
+      213: -1440345588041678144
+    second: herbe et coquelicots_31
+  - first:
+      213: -7013726844012079043
+    second: herbe et coquelicots_32
+  - first:
+      213: 5919775038997282532
+    second: herbe et coquelicots_33
+  - first:
+      213: -6910495865005130712
+    second: herbe et coquelicots_34
+  - first:
+      213: 2432860290811725131
+    second: herbe et coquelicots_35
+  - first:
+      213: 4198952070304473318
+    second: herbe et coquelicots_36
+  - first:
+      213: 6177932999397103332
+    second: herbe et coquelicots_37
+  - first:
+      213: 8442696377625449047
+    second: herbe et coquelicots_38
+  - first:
+      213: -4812975081962022772
+    second: herbe et coquelicots_39
+  - first:
+      213: -1642520352605919820
+    second: herbe et coquelicots_40
+  - first:
+      213: 5009999509608761901
+    second: herbe et coquelicots_41
+  - first:
+      213: -8706730345744775036
+    second: herbe et coquelicots_42
+  - first:
+      213: -1892430925161462970
+    second: herbe et coquelicots_43
+  - first:
+      213: 2435501890687725136
+    second: herbe et coquelicots_44
+  - first:
+      213: 6161483713019280487
+    second: herbe et coquelicots_45
+  - first:
+      213: 3983567613703300455
+    second: herbe et coquelicots_46
+  - first:
+      213: -2404811367206252195
+    second: herbe et coquelicots_47
+  - first:
+      213: -2198561527793341765
+    second: herbe et coquelicots_48
+  - first:
+      213: -5423457267383738714
+    second: herbe et coquelicots_49
+  - first:
+      213: 4213958330665864879
+    second: herbe et coquelicots_50
+  - first:
+      213: -7995687008682027630
+    second: herbe et coquelicots_51
+  - first:
+      213: 7426917182436913144
+    second: herbe et coquelicots_52
+  - first:
+      213: 2787283174380193934
+    second: herbe et coquelicots_53
+  - first:
+      213: -4898208714308713149
+    second: herbe et coquelicots_54
+  - first:
+      213: 3056762233041457434
+    second: herbe et coquelicots_55
+  - first:
+      213: -6464538992531642131
+    second: herbe et coquelicots_56
+  - first:
+      213: -4323457472830728717
+    second: herbe et coquelicots_57
+  - first:
+      213: 5549541324842299756
+    second: herbe et coquelicots_58
+  - first:
+      213: -4494548203029376351
+    second: herbe et coquelicots_59
+  - first:
+      213: -8596857366244752619
+    second: herbe et coquelicots_60
+  - first:
+      213: -6414592014874950691
+    second: herbe et coquelicots_61
+  - first:
+      213: -9137213291816900139
+    second: herbe et coquelicots_62
+  - first:
+      213: 4548811535869523771
+    second: herbe et coquelicots_63
+  - first:
+      213: -4378498659780356244
+    second: herbe et coquelicots_64
+  - first:
+      213: -2045196596068424861
+    second: herbe et coquelicots_65
+  - first:
+      213: 105471702155509894
+    second: herbe et coquelicots_66
+  - first:
+      213: -5554739160602371001
+    second: herbe et coquelicots_67
+  - first:
+      213: 156546351394971866
+    second: herbe et coquelicots_68
+  - first:
+      213: -64409242431924198
+    second: herbe et coquelicots_69
+  - first:
+      213: -1325466042091589386
+    second: herbe et coquelicots_70
+  - first:
+      213: -6082578507458428582
+    second: herbe et coquelicots_71
+  - first:
+      213: -3494474830229432799
+    second: herbe et coquelicots_72
+  - first:
+      213: -3806319509860131485
+    second: herbe et coquelicots_73
+  - first:
+      213: 7688684632363981538
+    second: herbe et coquelicots_74
+  - first:
+      213: 6670910963378444588
+    second: herbe et coquelicots_75
+  - first:
+      213: 5624599137740739051
+    second: herbe et coquelicots_76
+  - first:
+      213: 1021633082068713566
+    second: herbe et coquelicots_77
+  - first:
+      213: 6378654788812093860
+    second: herbe et coquelicots_78
+  - first:
+      213: 3543251763842369890
+    second: herbe et coquelicots_79
+  - first:
+      213: -8915953089434941372
+    second: herbe et coquelicots_80
+  - first:
+      213: -272952943864401600
+    second: herbe et coquelicots_81
+  - first:
+      213: 8289700393587294131
+    second: herbe et coquelicots_82
+  - first:
+      213: 5382680940034763135
+    second: herbe et coquelicots_83
+  - first:
+      213: -8361456077032574554
+    second: herbe et coquelicots_84
+  - first:
+      213: 2887768493366612473
+    second: herbe et coquelicots_85
+  - first:
+      213: -3817839068833856726
+    second: herbe et coquelicots_86
+  - first:
+      213: 4971573760971249196
+    second: herbe et coquelicots_87
+  - first:
+      213: 7123781537909968124
+    second: herbe et coquelicots_88
+  - first:
+      213: -7509595736214138869
+    second: herbe et coquelicots_89
+  - first:
+      213: -571653250832655420
+    second: herbe et coquelicots_90
+  - first:
+      213: 256085120883835585
+    second: herbe et coquelicots_91
+  - first:
+      213: -8852275820316417261
+    second: herbe et coquelicots_92
+  - first:
+      213: 5707982521073354964
+    second: herbe et coquelicots_93
+  - first:
+      213: -4368036177092481811
+    second: herbe et coquelicots_94
+  - first:
+      213: -8121027864793277245
+    second: herbe et coquelicots_95
+  - first:
+      213: 5599443537029460766
+    second: herbe et coquelicots_96
+  - first:
+      213: -6589713211027094082
+    second: herbe et coquelicots_97
+  - first:
+      213: -5438188601907715527
+    second: herbe et coquelicots_98
+  - first:
+      213: -577347481953189576
+    second: herbe et coquelicots_99
+  - first:
+      213: -7352055752594607316
+    second: herbe et coquelicots_100
+  - first:
+      213: -8881781945183622311
+    second: herbe et coquelicots_101
+  - first:
+      213: -5330317262102407966
+    second: herbe et coquelicots_102
+  - first:
+      213: 2361163313003386404
+    second: herbe et coquelicots_103
+  - first:
+      213: -2884426714154445090
+    second: herbe et coquelicots_104
+  - first:
+      213: -3518900049472795816
+    second: herbe et coquelicots_105
+  - first:
+      213: 1926738718338639978
+    second: herbe et coquelicots_106
+  - first:
+      213: 8438262099087054537
+    second: herbe et coquelicots_107
+  - first:
+      213: -2252039085005824148
+    second: herbe et coquelicots_108
+  - first:
+      213: 5667659145766056177
+    second: herbe et coquelicots_109
+  - first:
+      213: 3228954389205653440
+    second: herbe et coquelicots_110
+  - first:
+      213: 5810001222993447537
+    second: herbe et coquelicots_111
+  - first:
+      213: -5315136063256773665
+    second: herbe et coquelicots_112
+  - first:
+      213: 2462202717507346810
+    second: herbe et coquelicots_113
+  - first:
+      213: 3009433621996742146
+    second: herbe et coquelicots_114
+  - first:
+      213: 4706344951828385346
+    second: herbe et coquelicots_115
+  - first:
+      213: -4635256487238110349
+    second: herbe et coquelicots_116
+  - first:
+      213: 8763668838613762638
+    second: herbe et coquelicots_117
+  - first:
+      213: -2984977815567337798
+    second: herbe et coquelicots_118
+  - first:
+      213: 7472077721244700453
+    second: herbe et coquelicots_119
+  - first:
+      213: 629531094798812708
+    second: herbe et coquelicots_120
+  - first:
+      213: 2478107113677925675
+    second: herbe et coquelicots_121
+  - first:
+      213: 6155059836137299919
+    second: herbe et coquelicots_122
+  - first:
+      213: 1566766073061569753
+    second: herbe et coquelicots_123
+  - first:
+      213: 1224891316545299971
+    second: herbe et coquelicots_124
+  - first:
+      213: 1486163485048106681
+    second: herbe et coquelicots_125
+  - first:
+      213: -242045347278299043
+    second: herbe et coquelicots_126
+  - first:
+      213: -4195022199310907927
+    second: herbe et coquelicots_127
+  - first:
+      213: -6815167513447611045
+    second: herbe et coquelicots_128
+  - first:
+      213: -1045433142541356302
+    second: herbe et coquelicots_129
+  - first:
+      213: 987619919565756248
+    second: herbe et coquelicots_130
+  - first:
+      213: 7812866025863505877
+    second: herbe et coquelicots_131
+  - first:
+      213: 3703734015164357144
+    second: herbe et coquelicots_132
+  - first:
+      213: -3634829260963857549
+    second: herbe et coquelicots_133
+  - first:
+      213: 3578866110533477306
+    second: herbe et coquelicots_134
+  - first:
+      213: 4144979503554896812
+    second: herbe et coquelicots_135
+  - first:
+      213: 5774686852542964951
+    second: herbe et coquelicots_136
+  - first:
+      213: -5752418941475932994
+    second: herbe et coquelicots_137
+  - first:
+      213: -5946225298182481118
+    second: herbe et coquelicots_138
+  - first:
+      213: 7163317185480324342
+    second: herbe et coquelicots_139
+  - first:
+      213: 7591359148888135798
+    second: herbe et coquelicots_140
+  - first:
+      213: 8828688849385318397
+    second: herbe et coquelicots_141
+  - first:
+      213: 5436303083675975543
+    second: herbe et coquelicots_142
+  - first:
+      213: -6832326716997601446
+    second: herbe et coquelicots_143
+  - first:
+      213: 559338284349542173
+    second: herbe et coquelicots_144
+  - first:
+      213: 8216554215042957887
+    second: herbe et coquelicots_145
+  - first:
+      213: 112033544317257720
+    second: herbe et coquelicots_146
+  - first:
+      213: 4877822901908801041
+    second: herbe et coquelicots_147
+  - first:
+      213: -3422327702999852739
+    second: herbe et coquelicots_148
+  - first:
+      213: -219191680452265641
+    second: herbe et coquelicots_149
+  - first:
+      213: 29899759159309730
+    second: herbe et coquelicots_150
+  - first:
+      213: -5109416502929475336
+    second: herbe et coquelicots_151
+  - first:
+      213: -2992656108104307787
+    second: herbe et coquelicots_152
+  - first:
+      213: -290209054991505482
+    second: herbe et coquelicots_153
+  - first:
+      213: 1695973632291635288
+    second: herbe et coquelicots_154
+  - first:
+      213: -8313035196984620447
+    second: herbe et coquelicots_155
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 1
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: herbe et coquelicots_0
+      rect:
+        serializedVersion: 2
+        x: 2109
+        y: 422
+        width: 32
+        height: 137
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 004647a173bf25850800000000000000
+      internalID: 6364425437513540608
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: herbe et coquelicots_1
+      rect:
+        serializedVersion: 2
+        x: 2120
+        y: 418
+        width: 34
+        height: 136
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8164bc7c042757b60800000000000000
+      internalID: 7743220756888897048
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: herbe et coquelicots_2
+      rect:
+        serializedVersion: 2
+        x: 2135
+        y: 422
+        width: 26
+        height: 87
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6d08fa64f21a7e480800000000000000
+      internalID: -8869943716661460778
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: herbe et coquelicots_3
+      rect:
+        serializedVersion: 2
+        x: 2284
+        y: 438
+        width: 29
+        height: 91
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1ade0fd71cb8dc950800000000000000
+      internalID: 6470981902759161249
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: herbe et coquelicots_4
+      rect:
+        serializedVersion: 2
+        x: 2323
+        y: 432
+        width: 20
+        height: 116
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d715a97690994c3d0800000000000000
+      internalID: -3187254370599546499
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: herbe et coquelicots_5
+      rect:
+        serializedVersion: 2
+        x: 2340
+        y: 431
+        width: 41
+        height: 129
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ec280e05ac3b151e0800000000000000
+      internalID: -2210788260540546354
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: herbe et coquelicots_6
+      rect:
+        serializedVersion: 2
+        x: 2362
+        y: 433
+        width: 45
+        height: 124
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 34011e2dffad311d0800000000000000
+      internalID: -3381118102935629757
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: herbe et coquelicots_7
+      rect:
+        serializedVersion: 2
+        x: 2442
+        y: 471
+        width: 30
+        height: 111
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f1e5e072162bd6c50800000000000000
+      internalID: 6660175554287656479
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: herbe et coquelicots_8
+      rect:
+        serializedVersion: 2
+        x: 2462
+        y: 502
+        width: 19
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 80bccfbd6a67f9650800000000000000
+      internalID: 6241838067586222856
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: herbe et coquelicots_9
+      rect:
+        serializedVersion: 2
+        x: 2484
+        y: 490
+        width: 22
+        height: 92
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 12d4431d59006b520800000000000000
+      internalID: 2717360068624665889
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: herbe et coquelicots_10
+      rect:
+        serializedVersion: 2
+        x: 2867
+        y: 430
+        width: 84
+        height: 132
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cc6aa00ebdb19c050800000000000000
+      internalID: 5821214624523658956
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: herbe et coquelicots_11
+      rect:
+        serializedVersion: 2
+        x: 2867
+        y: 416
+        width: 36
+        height: 91
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 030347d1b9e74d460800000000000000
+      internalID: 7265571303534637104
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: herbe et coquelicots_12
+      rect:
+        serializedVersion: 2
+        x: 2949
+        y: 456
+        width: 28
+        height: 78
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d8e633f7c2a4ef4f0800000000000000
+      internalID: -793114929397535091
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: herbe et coquelicots_13
+      rect:
+        serializedVersion: 2
+        x: 1831
+        y: 397
+        width: 40
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9332e689fd8d929b0800000000000000
+      internalID: -5104310247801085127
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: herbe et coquelicots_14
+      rect:
+        serializedVersion: 2
+        x: 1873
+        y: 413
+        width: 21
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4f566206e407355d0800000000000000
+      internalID: -3074990638641027596
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: herbe et coquelicots_15
+      rect:
+        serializedVersion: 2
+        x: 1977
+        y: 346
+        width: 15
+        height: 102
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2d0199a51ba3fbf80800000000000000
+      internalID: -8088681872330518318
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: herbe et coquelicots_16
+      rect:
+        serializedVersion: 2
+        x: 2089
+        y: 425
+        width: 21
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d5186125055051f90800000000000000
+      internalID: -6983669804635356835
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: herbe et coquelicots_17
+      rect:
+        serializedVersion: 2
+        x: 2476
+        y: 424
+        width: 11
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f5975d1c4c7a472a0800000000000000
+      internalID: -6740578278759368353
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: herbe et coquelicots_18
+      rect:
+        serializedVersion: 2
+        x: 3048
+        y: 404
+        width: 39
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d736aa052660e4590800000000000000
+      internalID: -7688200494544952451
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: herbe et coquelicots_19
+      rect:
+        serializedVersion: 2
+        x: 3062
+        y: 429
+        width: 49
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fe724c26ee94e8260800000000000000
+      internalID: 7101694950617917423
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: herbe et coquelicots_20
+      rect:
+        serializedVersion: 2
+        x: 3105
+        y: 405
+        width: 50
+        height: 86
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8168e41a1896da510800000000000000
+      internalID: 1562020651245405720
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: herbe et coquelicots_21
+      rect:
+        serializedVersion: 2
+        x: 1623
+        y: 364
+        width: 14
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a5d11c34e7d581a00800000000000000
+      internalID: 727434136704327002
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: herbe et coquelicots_22
+      rect:
+        serializedVersion: 2
+        x: 1830
+        y: 386
+        width: 21
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fb2e1ea7e45578f20800000000000000
+      internalID: 3424799837195985599
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: herbe et coquelicots_23
+      rect:
+        serializedVersion: 2
+        x: 1892
+        y: 334
+        width: 45
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0b24ca3105de07970800000000000000
+      internalID: 8750755004164096688
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: herbe et coquelicots_24
+      rect:
+        serializedVersion: 2
+        x: 1911
+        y: 330
+        width: 63
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4121f254de80bd9d0800000000000000
+      internalID: -2748593332418571756
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: herbe et coquelicots_25
+      rect:
+        serializedVersion: 2
+        x: 1929
+        y: 362
+        width: 46
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0752d9f9a47ad79d0800000000000000
+      internalID: -2774877856443062928
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: herbe et coquelicots_26
+      rect:
+        serializedVersion: 2
+        x: 2142
+        y: 292
+        width: 49
+        height: 112
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4fb107181ff668f60800000000000000
+      internalID: 8036233668138638324
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: herbe et coquelicots_27
+      rect:
+        serializedVersion: 2
+        x: 2441
+        y: 301
+        width: 44
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b1a6f88dcaa5f3200800000000000000
+      internalID: 161947810022779419
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: herbe et coquelicots_28
+      rect:
+        serializedVersion: 2
+        x: 2462
+        y: 367
+        width: 20
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 07c8034054fa95f70800000000000000
+      internalID: 9176558426701991024
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: herbe et coquelicots_29
+      rect:
+        serializedVersion: 2
+        x: 2930
+        y: 272
+        width: 37
+        height: 142
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 677ac587065e1e970800000000000000
+      internalID: 8782552950848137078
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: herbe et coquelicots_30
+      rect:
+        serializedVersion: 2
+        x: 3220
+        y: 285
+        width: 51
+        height: 113
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 762b2efd4fd608290800000000000000
+      internalID: -7890185648657485209
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: herbe et coquelicots_31
+      rect:
+        serializedVersion: 2
+        x: 3273
+        y: 281
+        width: 41
+        height: 111
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0c289f6a15dd20ce0800000000000000
+      internalID: -1440345588041678144
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: herbe et coquelicots_32
+      rect:
+        serializedVersion: 2
+        x: 1473
+        y: 205
+        width: 10
+        height: 111
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d38d90f789c3aae90800000000000000
+      internalID: -7013726844012079043
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: herbe et coquelicots_33
+      rect:
+        serializedVersion: 2
+        x: 1487
+        y: 205
+        width: 26
+        height: 127
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4ee38ad9804472250800000000000000
+      internalID: 5919775038997282532
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: herbe et coquelicots_34
+      rect:
+        serializedVersion: 2
+        x: 1507
+        y: 261
+        width: 19
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 82c3098cf9cf810a0800000000000000
+      internalID: -6910495865005130712
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: herbe et coquelicots_35
+      rect:
+        serializedVersion: 2
+        x: 1578
+        y: 305
+        width: 16
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b458cfd6b8143c120800000000000000
+      internalID: 2432860290811725131
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: herbe et coquelicots_36
+      rect:
+        serializedVersion: 2
+        x: 1633
+        y: 204
+        width: 27
+        height: 126
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6e0a36339aca54a30800000000000000
+      internalID: 4198952070304473318
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: herbe et coquelicots_37
+      rect:
+        serializedVersion: 2
+        x: 1919
+        y: 254
+        width: 88
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4e65a33b45d6cb550800000000000000
+      internalID: 6177932999397103332
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: herbe et coquelicots_38
+      rect:
+        serializedVersion: 2
+        x: 2064
+        y: 274
+        width: 36
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 75297d6cf9b7a2570800000000000000
+      internalID: 8442696377625449047
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: herbe et coquelicots_39
+      rect:
+        serializedVersion: 2
+        x: 2074
+        y: 292
+        width: 42
+        height: 77
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c88d8d6c9a0e43db0800000000000000
+      internalID: -4812975081962022772
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: herbe et coquelicots_40
+      rect:
+        serializedVersion: 2
+        x: 2094
+        y: 275
+        width: 42
+        height: 108
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4b5239611789439e0800000000000000
+      internalID: -1642520352605919820
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: herbe et coquelicots_41
+      rect:
+        serializedVersion: 2
+        x: 2295
+        y: 249
+        width: 37
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d2a8c178208178540800000000000000
+      internalID: 5009999509608761901
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: herbe et coquelicots_42
+      rect:
+        serializedVersion: 2
+        x: 2333
+        y: 259
+        width: 15
+        height: 125
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 488c4ca71ea7b2780800000000000000
+      internalID: -8706730345744775036
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: herbe et coquelicots_43
+      rect:
+        serializedVersion: 2
+        x: 2354
+        y: 261
+        width: 29
+        height: 105
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 64389cf991cbcb5e0800000000000000
+      internalID: -1892430925161462970
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: herbe et coquelicots_44
+      rect:
+        serializedVersion: 2
+        x: 2378
+        y: 268
+        width: 33
+        height: 99
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 05eeb34d014acc120800000000000000
+      internalID: 2435501890687725136
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: herbe et coquelicots_45
+      rect:
+        serializedVersion: 2
+        x: 2868
+        y: 255
+        width: 49
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 76c7ed3caccf18550800000000000000
+      internalID: 6161483713019280487
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: herbe et coquelicots_46
+      rect:
+        serializedVersion: 2
+        x: 2869
+        y: 252
+        width: 58
+        height: 129
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 765298983a9784730800000000000000
+      internalID: 3983567613703300455
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: herbe et coquelicots_47
+      rect:
+        serializedVersion: 2
+        x: 2947
+        y: 265
+        width: 35
+        height: 85
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d5199d18dc460aed0800000000000000
+      internalID: -2404811367206252195
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: herbe et coquelicots_48
+      rect:
+        serializedVersion: 2
+        x: 3094
+        y: 231
+        width: 15
+        height: 107
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bbaa90f50f32d71e0800000000000000
+      internalID: -2198561527793341765
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: herbe et coquelicots_49
+      rect:
+        serializedVersion: 2
+        x: 3110
+        y: 237
+        width: 21
+        height: 102
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6aed41b99520cb4b0800000000000000
+      internalID: -5423457267383738714
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: herbe et coquelicots_50
+      rect:
+        serializedVersion: 2
+        x: 3125
+        y: 231
+        width: 37
+        height: 114
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fae03a576ccfa7a30800000000000000
+      internalID: 4213958330665864879
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: herbe et coquelicots_51
+      rect:
+        serializedVersion: 2
+        x: 3189
+        y: 275
+        width: 59
+        height: 86
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2955d40570d990190800000000000000
+      internalID: -7995687008682027630
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: herbe et coquelicots_52
+      rect:
+        serializedVersion: 2
+        x: 3401
+        y: 206
+        width: 19
+        height: 115
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8ffa563f3d5b11760800000000000000
+      internalID: 7426917182436913144
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: herbe et coquelicots_53
+      rect:
+        serializedVersion: 2
+        x: 907
+        y: 173
+        width: 54
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e88ca59874b6ea620800000000000000
+      internalID: 2787283174380193934
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: herbe et coquelicots_54
+      rect:
+        serializedVersion: 2
+        x: 946
+        y: 157
+        width: 26
+        height: 86
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 34508eb4021160cb0800000000000000
+      internalID: -4898208714308713149
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: herbe et coquelicots_55
+      rect:
+        serializedVersion: 2
+        x: 974
+        y: 179
+        width: 15
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a1114473e0dcb6a20800000000000000
+      internalID: 3056762233041457434
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: herbe et coquelicots_56
+      rect:
+        serializedVersion: 2
+        x: 996
+        y: 175
+        width: 15
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: de86d7179085946a0800000000000000
+      internalID: -6464538992531642131
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: herbe et coquelicots_57
+      rect:
+        serializedVersion: 2
+        x: 1111
+        y: 201
+        width: 22
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3f59a6ac55efff3c0800000000000000
+      internalID: -4323457472830728717
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: herbe et coquelicots_58
+      rect:
+        serializedVersion: 2
+        x: 1130
+        y: 211
+        width: 14
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c617395ae6ee30d40800000000000000
+      internalID: 5549541324842299756
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: herbe et coquelicots_59
+      rect:
+        serializedVersion: 2
+        x: 1149
+        y: 189
+        width: 13
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1a25094f83820a1c0800000000000000
+      internalID: -4494548203029376351
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: herbe et coquelicots_60
+      rect:
+        serializedVersion: 2
+        x: 1438
+        y: 231
+        width: 30
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 513084406c3d1b880800000000000000
+      internalID: -8596857366244752619
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: herbe et coquelicots_61
+      rect:
+        serializedVersion: 2
+        x: 1576
+        y: 200
+        width: 36
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dd342566c8acaf6a0800000000000000
+      internalID: -6414592014874950691
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: herbe et coquelicots_62
+      rect:
+        serializedVersion: 2
+        x: 1666
+        y: 193
+        width: 10
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5d9a6401ce8123180800000000000000
+      internalID: -9137213291816900139
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: herbe et coquelicots_63
+      rect:
+        serializedVersion: 2
+        x: 1717
+        y: 195
+        width: 22
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b37b3b1cdff902f30800000000000000
+      internalID: 4548811535869523771
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: herbe et coquelicots_64
+      rect:
+        serializedVersion: 2
+        x: 1736
+        y: 143
+        width: 97
+        height: 157
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c67944ecaa27c33c0800000000000000
+      internalID: -4378498659780356244
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: herbe et coquelicots_65
+      rect:
+        serializedVersion: 2
+        x: 1986
+        y: 130
+        width: 24
+        height: 108
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 363e08328800e93e0800000000000000
+      internalID: -2045196596068424861
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: herbe et coquelicots_66
+      rect:
+        serializedVersion: 2
+        x: 2008
+        y: 128
+        width: 32
+        height: 153
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 680c5dc44f5b67100800000000000000
+      internalID: 105471702155509894
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: herbe et coquelicots_67
+      rect:
+        serializedVersion: 2
+        x: 2088
+        y: 113
+        width: 47
+        height: 142
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 74c1858e92a99e2b0800000000000000
+      internalID: -5554739160602371001
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: herbe et coquelicots_68
+      rect:
+        serializedVersion: 2
+        x: 2131
+        y: 130
+        width: 20
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ad0e7c1c31a2c2200800000000000000
+      internalID: 156546351394971866
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: herbe et coquelicots_69
+      rect:
+        serializedVersion: 2
+        x: 2139
+        y: 130
+        width: 107
+        height: 161
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a18d790a22c2b1ff0800000000000000
+      internalID: -64409242431924198
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: herbe et coquelicots_70
+      rect:
+        serializedVersion: 2
+        x: 2342
+        y: 77
+        width: 108
+        height: 188
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6f0b94748affa9de0800000000000000
+      internalID: -1325466042091589386
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: herbe et coquelicots_71
+      rect:
+        serializedVersion: 2
+        x: 3049
+        y: 220
+        width: 61
+        height: 79
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a51c3880317569ba0800000000000000
+      internalID: -6082578507458428582
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: herbe et coquelicots_72
+      rect:
+        serializedVersion: 2
+        x: 3198
+        y: 170
+        width: 39
+        height: 94
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 12691ab08a1218fc0800000000000000
+      internalID: -3494474830229432799
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: herbe et coquelicots_73
+      rect:
+        serializedVersion: 2
+        x: 3231
+        y: 176
+        width: 27
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 36dd521929c3d2bc0800000000000000
+      internalID: -3806319509860131485
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: herbe et coquelicots_74
+      rect:
+        serializedVersion: 2
+        x: 3340
+        y: 188
+        width: 55
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2ea5f0ecfe1b3ba60800000000000000
+      internalID: 7688684632363981538
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: herbe et coquelicots_75
+      rect:
+        serializedVersion: 2
+        x: 3365
+        y: 209
+        width: 30
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c295e6c5d26d39c50800000000000000
+      internalID: 6670910963378444588
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: herbe et coquelicots_76
+      rect:
+        serializedVersion: 2
+        x: 3419
+        y: 207
+        width: 23
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: be151098d179e0e40800000000000000
+      internalID: 5624599137740739051
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: herbe et coquelicots_77
+      rect:
+        serializedVersion: 2
+        x: 700
+        y: 95
+        width: 23
+        height: 118
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e504e7310e19d2e00800000000000000
+      internalID: 1021633082068713566
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: herbe et coquelicots_78
+      rect:
+        serializedVersion: 2
+        x: 718
+        y: 89
+        width: 38
+        height: 111
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4a93dff1cb8858850800000000000000
+      internalID: 6378654788812093860
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: herbe et coquelicots_79
+      rect:
+        serializedVersion: 2
+        x: 836
+        y: 121
+        width: 67
+        height: 106
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 269c99dc4b82c2130800000000000000
+      internalID: 3543251763842369890
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: herbe et coquelicots_80
+      rect:
+        serializedVersion: 2
+        x: 1021
+        y: 164
+        width: 10
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4480f2667eb244480800000000000000
+      internalID: -8915953089434941372
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: herbe et coquelicots_81
+      rect:
+        serializedVersion: 2
+        x: 1215
+        y: 115
+        width: 23
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 041b0946eb6463cf0800000000000000
+      internalID: -272952943864401600
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: herbe et coquelicots_82
+      rect:
+        serializedVersion: 2
+        x: 1315
+        y: 59
+        width: 28
+        height: 136
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3bfbf26569eea0370800000000000000
+      internalID: 8289700393587294131
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: herbe et coquelicots_83
+      rect:
+        serializedVersion: 2
+        x: 1492
+        y: 18
+        width: 86
+        height: 187
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f79a90adbcf13ba40800000000000000
+      internalID: 5382680940034763135
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: herbe et coquelicots_84
+      rect:
+        serializedVersion: 2
+        x: 1625
+        y: 191
+        width: 7
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6a13173bff326fb80800000000000000
+      internalID: -8361456077032574554
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: herbe et coquelicots_85
+      rect:
+        serializedVersion: 2
+        x: 1915
+        y: 104
+        width: 59
+        height: 105
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9f19ea8052a631820800000000000000
+      internalID: 2887768493366612473
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: herbe et coquelicots_86
+      rect:
+        serializedVersion: 2
+        x: 1941
+        y: 108
+        width: 39
+        height: 118
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a23cc8c389f440bc0800000000000000
+      internalID: -3817839068833856726
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: herbe et coquelicots_87
+      rect:
+        serializedVersion: 2
+        x: 2086
+        y: 130
+        width: 37
+        height: 81
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c26185dbef39ef440800000000000000
+      internalID: 4971573760971249196
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: herbe et coquelicots_88
+      rect:
+        serializedVersion: 2
+        x: 2260
+        y: 58
+        width: 55
+        height: 149
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cfc0c98b091ccd260800000000000000
+      internalID: 7123781537909968124
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: herbe et coquelicots_89
+      rect:
+        serializedVersion: 2
+        x: 2316
+        y: 80
+        width: 22
+        height: 133
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b001b28277e88c790800000000000000
+      internalID: -7509595736214138869
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: herbe et coquelicots_90
+      rect:
+        serializedVersion: 2
+        x: 2654
+        y: 64
+        width: 25
+        height: 149
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4cb1c69a5641118f0800000000000000
+      internalID: -571653250832655420
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: herbe et coquelicots_91
+      rect:
+        serializedVersion: 2
+        x: 2818
+        y: 100
+        width: 63
+        height: 94
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1c24b868f0ccd8300800000000000000
+      internalID: 256085120883835585
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: herbe et coquelicots_92
+      rect:
+        serializedVersion: 2
+        x: 2842
+        y: 128
+        width: 41
+        height: 73
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 313a244fa06662580800000000000000
+      internalID: -8852275820316417261
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: herbe et coquelicots_93
+      rect:
+        serializedVersion: 2
+        x: 2885
+        y: 128
+        width: 15
+        height: 91
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4d847b85cd3d63f40800000000000000
+      internalID: 5707982521073354964
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: herbe et coquelicots_94
+      rect:
+        serializedVersion: 2
+        x: 2908
+        y: 123
+        width: 35
+        height: 92
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dece8526d3e9163c0800000000000000
+      internalID: -4368036177092481811
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: herbe et coquelicots_95
+      rect:
+        serializedVersion: 2
+        x: 3177
+        y: 176
+        width: 36
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3cc92fb1f205c4f80800000000000000
+      internalID: -8121027864793277245
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: herbe et coquelicots_96
+      rect:
+        serializedVersion: 2
+        x: 3322
+        y: 64
+        width: 29
+        height: 133
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e137f74da3835bd40800000000000000
+      internalID: 5599443537029460766
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: herbe et coquelicots_97
+      rect:
+        serializedVersion: 2
+        x: 1074
+        y: 68
+        width: 13
+        height: 97
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eb508059fb2ac84a0800000000000000
+      internalID: -6589713211027094082
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: herbe et coquelicots_98
+      rect:
+        serializedVersion: 2
+        x: 1098
+        y: 70
+        width: 11
+        height: 93
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 93266b1874ca784b0800000000000000
+      internalID: -5438188601907715527
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: herbe et coquelicots_99
+      rect:
+        serializedVersion: 2
+        x: 1284
+        y: 59
+        width: 11
+        height: 111
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 831c63a2689dcf7f0800000000000000
+      internalID: -577347481953189576
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: herbe et coquelicots_100
+      rect:
+        serializedVersion: 2
+        x: 1572
+        y: 23
+        width: 64
+        height: 164
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c233bb1fe3048f990800000000000000
+      internalID: -7352055752594607316
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: herbe et coquelicots_101
+      rect:
+        serializedVersion: 2
+        x: 1620
+        y: 56
+        width: 29
+        height: 119
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 95b2ad8e0629db480800000000000000
+      internalID: -8881781945183622311
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: herbe et coquelicots_102
+      rect:
+        serializedVersion: 2
+        x: 1663
+        y: 39
+        width: 30
+        height: 130
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2e4d04cf0b8e606b0800000000000000
+      internalID: -5330317262102407966
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: herbe et coquelicots_103
+      rect:
+        serializedVersion: 2
+        x: 1857
+        y: 162
+        width: 6
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4265040f58984c020800000000000000
+      internalID: 2361163313003386404
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: herbe et coquelicots_104
+      rect:
+        serializedVersion: 2
+        x: 2993
+        y: 48
+        width: 76
+        height: 116
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ed65d229f2578f7d0800000000000000
+      internalID: -2884426714154445090
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: herbe et coquelicots_105
+      rect:
+        serializedVersion: 2
+        x: 3105
+        y: 24
+        width: 90
+        height: 162
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 85bc1178c0b5a2fc0800000000000000
+      internalID: -3518900049472795816
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: herbe et coquelicots_106
+      rect:
+        serializedVersion: 2
+        x: 672
+        y: 91
+        width: 24
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a68e091f7a62dba10800000000000000
+      internalID: 1926738718338639978
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: herbe et coquelicots_107
+      rect:
+        serializedVersion: 2
+        x: 1237
+        y: 109
+        width: 12
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9c6d9b9dbaaba1570800000000000000
+      internalID: 8438262099087054537
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: herbe et coquelicots_108
+      rect:
+        serializedVersion: 2
+        x: 1250
+        y: 111
+        width: 21
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c6f9eed42662fb0e0800000000000000
+      internalID: -2252039085005824148
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: herbe et coquelicots_109
+      rect:
+        serializedVersion: 2
+        x: 1881
+        y: 38
+        width: 28
+        height: 123
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1f0316be6f197ae40800000000000000
+      internalID: 5667659145766056177
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: herbe et coquelicots_110
+      rect:
+        serializedVersion: 2
+        x: 2250
+        y: 73
+        width: 57
+        height: 87
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0c79a84c8ec8fcc20800000000000000
+      internalID: 3228954389205653440
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: herbe et coquelicots_111
+      rect:
+        serializedVersion: 2
+        x: 2449
+        y: 150
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 17a0c11645541a050800000000000000
+      internalID: 5810001222993447537
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: herbe et coquelicots_112
+      rect:
+        serializedVersion: 2
+        x: 3286
+        y: 56
+        width: 33
+        height: 95
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fdb36b849e7dc36b0800000000000000
+      internalID: -5315136063256773665
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: herbe et coquelicots_113
+      rect:
+        serializedVersion: 2
+        x: 3347
+        y: 50
+        width: 36
+        height: 106
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a71e60683508b2220800000000000000
+      internalID: 2462202717507346810
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: herbe et coquelicots_114
+      rect:
+        serializedVersion: 2
+        x: 3550
+        y: 55
+        width: 20
+        height: 104
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 206ab3e3fe7a3c920800000000000000
+      internalID: 3009433621996742146
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: herbe et coquelicots_115
+      rect:
+        serializedVersion: 2
+        x: 3564
+        y: 62
+        width: 34
+        height: 95
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 24e0f246ccb405140800000000000000
+      internalID: 4706344951828385346
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: herbe et coquelicots_116
+      rect:
+        serializedVersion: 2
+        x: 603
+        y: 58
+        width: 21
+        height: 79
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 373f85398c24cafb0800000000000000
+      internalID: -4635256487238110349
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: herbe et coquelicots_117
+      rect:
+        serializedVersion: 2
+        x: 866
+        y: 17
+        width: 92
+        height: 115
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e42cbb6706ece9970800000000000000
+      internalID: 8763668838613762638
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: herbe et coquelicots_118
+      rect:
+        serializedVersion: 2
+        x: 996
+        y: 75
+        width: 52
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ab6ffa8ed7a3396d0800000000000000
+      internalID: -2984977815567337798
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: herbe et coquelicots_119
+      rect:
+        serializedVersion: 2
+        x: 1138
+        y: 85
+        width: 70
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 52f86e4491722b760800000000000000
+      internalID: 7472077721244700453
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: herbe et coquelicots_120
+      rect:
+        serializedVersion: 2
+        x: 1201
+        y: 127
+        width: 13
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 426cb80023b8cb800800000000000000
+      internalID: 629531094798812708
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: herbe et coquelicots_121
+      rect:
+        serializedVersion: 2
+        x: 1691
+        y: 46
+        width: 13
+        height: 92
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b2d24225a41046220800000000000000
+      internalID: 2478107113677925675
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: herbe et coquelicots_122
+      rect:
+        serializedVersion: 2
+        x: 1849
+        y: 30
+        width: 39
+        height: 104
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fcfdc306f4a2b6550800000000000000
+      internalID: 6155059836137299919
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: herbe et coquelicots_123
+      rect:
+        serializedVersion: 2
+        x: 2181
+        y: 51
+        width: 75
+        height: 81
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9d4f7fe31754eb510800000000000000
+      internalID: 1566766073061569753
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: herbe et coquelicots_124
+      rect:
+        serializedVersion: 2
+        x: 2573
+        y: 27
+        width: 88
+        height: 111
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 306a423a920bff010800000000000000
+      internalID: 1224891316545299971
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: herbe et coquelicots_125
+      rect:
+        serializedVersion: 2
+        x: 2681
+        y: 13
+        width: 77
+        height: 131
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9bee27cc0d9ef9410800000000000000
+      internalID: 1486163485048106681
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: herbe et coquelicots_126
+      rect:
+        serializedVersion: 2
+        x: 2871
+        y: 9
+        width: 59
+        height: 125
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d50e0fff90514acf0800000000000000
+      internalID: -242045347278299043
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: herbe et coquelicots_127
+      rect:
+        serializedVersion: 2
+        x: 3077
+        y: 80
+        width: 16
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9e50231398948c5c0800000000000000
+      internalID: -4195022199310907927
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: herbe et coquelicots_128
+      rect:
+        serializedVersion: 2
+        x: 3266
+        y: 45
+        width: 43
+        height: 93
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b554c2c3149ab61a0800000000000000
+      internalID: -6815167513447611045
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: herbe et coquelicots_129
+      rect:
+        serializedVersion: 2
+        x: 3521
+        y: 53
+        width: 30
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2f2f6668810ed71f0800000000000000
+      internalID: -1045433142541356302
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: herbe et coquelicots_130
+      rect:
+        serializedVersion: 2
+        x: 378
+        y: 16
+        width: 30
+        height: 85
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 85711de851bb4bd00800000000000000
+      internalID: 987619919565756248
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: herbe et coquelicots_131
+      rect:
+        serializedVersion: 2
+        x: 403
+        y: 17
+        width: 15
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5d7ef459140ec6c60800000000000000
+      internalID: 7812866025863505877
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: herbe et coquelicots_132
+      rect:
+        serializedVersion: 2
+        x: 418
+        y: 15
+        width: 41
+        height: 107
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 81a176ca67e466330800000000000000
+      internalID: 3703734015164357144
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: herbe et coquelicots_133
+      rect:
+        serializedVersion: 2
+        x: 429
+        y: 19
+        width: 37
+        height: 78
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 37bbd099b0e7e8dc0800000000000000
+      internalID: -3634829260963857549
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: herbe et coquelicots_134
+      rect:
+        serializedVersion: 2
+        x: 549
+        y: 32
+        width: 44
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ab3280114cfaaa130800000000000000
+      internalID: 3578866110533477306
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: herbe et coquelicots_135
+      rect:
+        serializedVersion: 2
+        x: 572
+        y: 63
+        width: 26
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ca32aaeb5ece58930800000000000000
+      internalID: 4144979503554896812
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: herbe et coquelicots_136
+      rect:
+        serializedVersion: 2
+        x: 685
+        y: 23
+        width: 51
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7d421f6c81fc32050800000000000000
+      internalID: 5774686852542964951
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: herbe et coquelicots_137
+      rect:
+        serializedVersion: 2
+        x: 798
+        y: 17
+        width: 105
+        height: 104
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eb4391a437d4b20b0800000000000000
+      internalID: -5752418941475932994
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: herbe et coquelicots_138
+      rect:
+        serializedVersion: 2
+        x: 924
+        y: 25
+        width: 63
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 22b54638893ca7da0800000000000000
+      internalID: -5946225298182481118
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: herbe et coquelicots_139
+      rect:
+        serializedVersion: 2
+        x: 1054
+        y: 11
+        width: 26
+        height: 103
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6f4710ef607396360800000000000000
+      internalID: 7163317185480324342
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: herbe et coquelicots_140
+      rect:
+        serializedVersion: 2
+        x: 1116
+        y: 21
+        width: 18
+        height: 103
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 67893e7dcece95960800000000000000
+      internalID: 7591359148888135798
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: herbe et coquelicots_141
+      rect:
+        serializedVersion: 2
+        x: 1141
+        y: 36
+        width: 13
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: df7601c6bbdc58a70800000000000000
+      internalID: 8828688849385318397
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: herbe et coquelicots_142
+      rect:
+        serializedVersion: 2
+        x: 1188
+        y: 25
+        width: 70
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 77ffdd11ad0a17b40800000000000000
+      internalID: 5436303083675975543
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: herbe et coquelicots_143
+      rect:
+        serializedVersion: 2
+        x: 1261
+        y: 48
+        width: 22
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a5772f3dc03be21a0800000000000000
+      internalID: -6832326716997601446
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: herbe et coquelicots_144
+      rect:
+        serializedVersion: 2
+        x: 1434
+        y: 0
+        width: 25
+        height: 92
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d1f4ee3c43b23c700800000000000000
+      internalID: 559338284349542173
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: herbe et coquelicots_145
+      rect:
+        serializedVersion: 2
+        x: 1454
+        y: 25
+        width: 15
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f32cf518680170270800000000000000
+      internalID: 8216554215042957887
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: herbe et coquelicots_146
+      rect:
+        serializedVersion: 2
+        x: 1473
+        y: 38
+        width: 18
+        height: 77
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8f745fb3ae50e8100800000000000000
+      internalID: 112033544317257720
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: herbe et coquelicots_147
+      rect:
+        serializedVersion: 2
+        x: 1724
+        y: 18
+        width: 10
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1160a81e51281b340800000000000000
+      internalID: 4877822901908801041
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: herbe et coquelicots_148
+      rect:
+        serializedVersion: 2
+        x: 1835
+        y: 45
+        width: 34
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d3917bd16137180d0800000000000000
+      internalID: -3422327702999852739
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: herbe et coquelicots_149
+      rect:
+        serializedVersion: 2
+        x: 1923
+        y: 42
+        width: 7
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 759fbe4f35645fcf0800000000000000
+      internalID: -219191680452265641
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: herbe et coquelicots_150
+      rect:
+        serializedVersion: 2
+        x: 2048
+        y: 52
+        width: 102
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2a57f8b2ca93a6000800000000000000
+      internalID: 29899759159309730
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: herbe et coquelicots_151
+      rect:
+        serializedVersion: 2
+        x: 2859
+        y: 0
+        width: 17
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8f8be5de2c4b719b0800000000000000
+      internalID: -5109416502929475336
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: herbe et coquelicots_152
+      rect:
+        serializedVersion: 2
+        x: 3185
+        y: 27
+        width: 38
+        height: 99
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5bb2a8d1023f776d0800000000000000
+      internalID: -2992656108104307787
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: herbe et coquelicots_153
+      rect:
+        serializedVersion: 2
+        x: 3213
+        y: 40
+        width: 12
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6b721aee668f8fbf0800000000000000
+      internalID: -290209054991505482
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: herbe et coquelicots_154
+      rect:
+        serializedVersion: 2
+        x: 3407
+        y: 52
+        width: 75
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8500c2d680f498710800000000000000
+      internalID: 1695973632291635288
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: herbe et coquelicots_155
+      rect:
+        serializedVersion: 2
+        x: 3488
+        y: 71
+        width: 43
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 16a896e588a22ac80800000000000000
+      internalID: -8313035196984620447
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      herbe et coquelicots_0: 6364425437513540608
+      herbe et coquelicots_1: 7743220756888897048
+      herbe et coquelicots_10: 5821214624523658956
+      herbe et coquelicots_100: -7352055752594607316
+      herbe et coquelicots_101: -8881781945183622311
+      herbe et coquelicots_102: -5330317262102407966
+      herbe et coquelicots_103: 2361163313003386404
+      herbe et coquelicots_104: -2884426714154445090
+      herbe et coquelicots_105: -3518900049472795816
+      herbe et coquelicots_106: 1926738718338639978
+      herbe et coquelicots_107: 8438262099087054537
+      herbe et coquelicots_108: -2252039085005824148
+      herbe et coquelicots_109: 5667659145766056177
+      herbe et coquelicots_11: 7265571303534637104
+      herbe et coquelicots_110: 3228954389205653440
+      herbe et coquelicots_111: 5810001222993447537
+      herbe et coquelicots_112: -5315136063256773665
+      herbe et coquelicots_113: 2462202717507346810
+      herbe et coquelicots_114: 3009433621996742146
+      herbe et coquelicots_115: 4706344951828385346
+      herbe et coquelicots_116: -4635256487238110349
+      herbe et coquelicots_117: 8763668838613762638
+      herbe et coquelicots_118: -2984977815567337798
+      herbe et coquelicots_119: 7472077721244700453
+      herbe et coquelicots_12: -793114929397535091
+      herbe et coquelicots_120: 629531094798812708
+      herbe et coquelicots_121: 2478107113677925675
+      herbe et coquelicots_122: 6155059836137299919
+      herbe et coquelicots_123: 1566766073061569753
+      herbe et coquelicots_124: 1224891316545299971
+      herbe et coquelicots_125: 1486163485048106681
+      herbe et coquelicots_126: -242045347278299043
+      herbe et coquelicots_127: -4195022199310907927
+      herbe et coquelicots_128: -6815167513447611045
+      herbe et coquelicots_129: -1045433142541356302
+      herbe et coquelicots_13: -5104310247801085127
+      herbe et coquelicots_130: 987619919565756248
+      herbe et coquelicots_131: 7812866025863505877
+      herbe et coquelicots_132: 3703734015164357144
+      herbe et coquelicots_133: -3634829260963857549
+      herbe et coquelicots_134: 3578866110533477306
+      herbe et coquelicots_135: 4144979503554896812
+      herbe et coquelicots_136: 5774686852542964951
+      herbe et coquelicots_137: -5752418941475932994
+      herbe et coquelicots_138: -5946225298182481118
+      herbe et coquelicots_139: 7163317185480324342
+      herbe et coquelicots_14: -3074990638641027596
+      herbe et coquelicots_140: 7591359148888135798
+      herbe et coquelicots_141: 8828688849385318397
+      herbe et coquelicots_142: 5436303083675975543
+      herbe et coquelicots_143: -6832326716997601446
+      herbe et coquelicots_144: 559338284349542173
+      herbe et coquelicots_145: 8216554215042957887
+      herbe et coquelicots_146: 112033544317257720
+      herbe et coquelicots_147: 4877822901908801041
+      herbe et coquelicots_148: -3422327702999852739
+      herbe et coquelicots_149: -219191680452265641
+      herbe et coquelicots_15: -8088681872330518318
+      herbe et coquelicots_150: 29899759159309730
+      herbe et coquelicots_151: -5109416502929475336
+      herbe et coquelicots_152: -2992656108104307787
+      herbe et coquelicots_153: -290209054991505482
+      herbe et coquelicots_154: 1695973632291635288
+      herbe et coquelicots_155: -8313035196984620447
+      herbe et coquelicots_16: -6983669804635356835
+      herbe et coquelicots_17: -6740578278759368353
+      herbe et coquelicots_18: -7688200494544952451
+      herbe et coquelicots_19: 7101694950617917423
+      herbe et coquelicots_2: -8869943716661460778
+      herbe et coquelicots_20: 1562020651245405720
+      herbe et coquelicots_21: 727434136704327002
+      herbe et coquelicots_22: 3424799837195985599
+      herbe et coquelicots_23: 8750755004164096688
+      herbe et coquelicots_24: -2748593332418571756
+      herbe et coquelicots_25: -2774877856443062928
+      herbe et coquelicots_26: 8036233668138638324
+      herbe et coquelicots_27: 161947810022779419
+      herbe et coquelicots_28: 9176558426701991024
+      herbe et coquelicots_29: 8782552950848137078
+      herbe et coquelicots_3: 6470981902759161249
+      herbe et coquelicots_30: -7890185648657485209
+      herbe et coquelicots_31: -1440345588041678144
+      herbe et coquelicots_32: -7013726844012079043
+      herbe et coquelicots_33: 5919775038997282532
+      herbe et coquelicots_34: -6910495865005130712
+      herbe et coquelicots_35: 2432860290811725131
+      herbe et coquelicots_36: 4198952070304473318
+      herbe et coquelicots_37: 6177932999397103332
+      herbe et coquelicots_38: 8442696377625449047
+      herbe et coquelicots_39: -4812975081962022772
+      herbe et coquelicots_4: -3187254370599546499
+      herbe et coquelicots_40: -1642520352605919820
+      herbe et coquelicots_41: 5009999509608761901
+      herbe et coquelicots_42: -8706730345744775036
+      herbe et coquelicots_43: -1892430925161462970
+      herbe et coquelicots_44: 2435501890687725136
+      herbe et coquelicots_45: 6161483713019280487
+      herbe et coquelicots_46: 3983567613703300455
+      herbe et coquelicots_47: -2404811367206252195
+      herbe et coquelicots_48: -2198561527793341765
+      herbe et coquelicots_49: -5423457267383738714
+      herbe et coquelicots_5: -2210788260540546354
+      herbe et coquelicots_50: 4213958330665864879
+      herbe et coquelicots_51: -7995687008682027630
+      herbe et coquelicots_52: 7426917182436913144
+      herbe et coquelicots_53: 2787283174380193934
+      herbe et coquelicots_54: -4898208714308713149
+      herbe et coquelicots_55: 3056762233041457434
+      herbe et coquelicots_56: -6464538992531642131
+      herbe et coquelicots_57: -4323457472830728717
+      herbe et coquelicots_58: 5549541324842299756
+      herbe et coquelicots_59: -4494548203029376351
+      herbe et coquelicots_6: -3381118102935629757
+      herbe et coquelicots_60: -8596857366244752619
+      herbe et coquelicots_61: -6414592014874950691
+      herbe et coquelicots_62: -9137213291816900139
+      herbe et coquelicots_63: 4548811535869523771
+      herbe et coquelicots_64: -4378498659780356244
+      herbe et coquelicots_65: -2045196596068424861
+      herbe et coquelicots_66: 105471702155509894
+      herbe et coquelicots_67: -5554739160602371001
+      herbe et coquelicots_68: 156546351394971866
+      herbe et coquelicots_69: -64409242431924198
+      herbe et coquelicots_7: 6660175554287656479
+      herbe et coquelicots_70: -1325466042091589386
+      herbe et coquelicots_71: -6082578507458428582
+      herbe et coquelicots_72: -3494474830229432799
+      herbe et coquelicots_73: -3806319509860131485
+      herbe et coquelicots_74: 7688684632363981538
+      herbe et coquelicots_75: 6670910963378444588
+      herbe et coquelicots_76: 5624599137740739051
+      herbe et coquelicots_77: 1021633082068713566
+      herbe et coquelicots_78: 6378654788812093860
+      herbe et coquelicots_79: 3543251763842369890
+      herbe et coquelicots_8: 6241838067586222856
+      herbe et coquelicots_80: -8915953089434941372
+      herbe et coquelicots_81: -272952943864401600
+      herbe et coquelicots_82: 8289700393587294131
+      herbe et coquelicots_83: 5382680940034763135
+      herbe et coquelicots_84: -8361456077032574554
+      herbe et coquelicots_85: 2887768493366612473
+      herbe et coquelicots_86: -3817839068833856726
+      herbe et coquelicots_87: 4971573760971249196
+      herbe et coquelicots_88: 7123781537909968124
+      herbe et coquelicots_89: -7509595736214138869
+      herbe et coquelicots_9: 2717360068624665889
+      herbe et coquelicots_90: -571653250832655420
+      herbe et coquelicots_91: 256085120883835585
+      herbe et coquelicots_92: -8852275820316417261
+      herbe et coquelicots_93: 5707982521073354964
+      herbe et coquelicots_94: -4368036177092481811
+      herbe et coquelicots_95: -8121027864793277245
+      herbe et coquelicots_96: 5599443537029460766
+      herbe et coquelicots_97: -6589713211027094082
+      herbe et coquelicots_98: -5438188601907715527
+      herbe et coquelicots_99: -577347481953189576
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

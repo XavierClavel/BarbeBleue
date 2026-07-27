@@ -1,10 +1,16 @@
 fileFormatVersion: 2
-guid: b4d7baa299ae6da42a8563efc802323f
+guid: e7327bf6862810146b129e3bec4526c2
 TextureImporter:
   internalIDToNameTable:
   - first:
-      213: -4201971312865242520
-    second: loup dans lit 2_0
+      213: -1572426261987237242
+    second: chaperon ouvre loquet_0
+  - first:
+      213: -3702324712499029090
+    second: chaperon ouvre loquet_1
+  - first:
+      213: -1569073727480125442
+    second: chaperon ouvre loquet_2
   externalObjects: {}
   serializedVersion: 13
   mipmaps:
@@ -126,13 +132,13 @@ TextureImporter:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: loup dans lit 2_0
+      name: chaperon ouvre loquet_0
       rect:
         serializedVersion: 2
-        x: 843
-        y: 1
-        width: 2721
-        height: 1075
+        x: 3866
+        y: 0
+        width: 918
+        height: 957
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -141,8 +147,52 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 862194c9a599fa5c0800000000000000
-      internalID: -4201971312865242520
+      spriteID: 68261c255ae9d2ae0800000000000000
+      internalID: -1572426261987237242
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chaperon ouvre loquet_1
+      rect:
+        serializedVersion: 2
+        x: 4899
+        y: 46
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e9b585c2a43be9cc0800000000000000
+      internalID: -3702324712499029090
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chaperon ouvre loquet_2
+      rect:
+        serializedVersion: 2
+        x: 4906
+        y: 0
+        width: 745
+        height: 441
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ef7262712c7893ae0800000000000000
+      internalID: -1569073727480125442
       vertices: []
       indices: 
       edges: []
@@ -161,7 +211,9 @@ TextureImporter:
     spriteCustomMetadata:
       entries: []
     nameFileIdTable:
-      loup dans lit 2_0: -4201971312865242520
+      chaperon ouvre loquet_0: -1572426261987237242
+      chaperon ouvre loquet_1: -3702324712499029090
+      chaperon ouvre loquet_2: -1569073727480125442
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

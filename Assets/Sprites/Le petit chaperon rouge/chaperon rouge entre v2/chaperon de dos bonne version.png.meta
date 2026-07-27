@@ -1,10 +1,10 @@
 fileFormatVersion: 2
-guid: a4434637798e043498cd95af0f97b06c
+guid: 7e63bec9343a9be4ca6cee12619d5528
 TextureImporter:
   internalIDToNameTable:
   - first:
-      213: -1817341937805426077
-    second: Chaperon rouge plongeant_0
+      213: -7017365352503674249
+    second: chaperon de dos bonne version_0
   externalObjects: {}
   serializedVersion: 13
   mipmaps:
@@ -126,13 +126,13 @@ TextureImporter:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: Chaperon rouge plongeant_0
+      name: chaperon de dos bonne version_0
       rect:
         serializedVersion: 2
-        x: 0
-        y: 1
-        width: 1348
-        height: 890
+        x: 6476
+        y: 0
+        width: 380
+        height: 904
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -141,8 +141,8 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 36200b1e22187c6e0800000000000000
-      internalID: -1817341937805426077
+      spriteID: 77a72e8346f4d9e90800000000000000
+      internalID: -7017365352503674249
       vertices: []
       indices: 
       edges: []
@@ -161,7 +161,7 @@ TextureImporter:
     spriteCustomMetadata:
       entries: []
     nameFileIdTable:
-      Chaperon rouge plongeant_0: -1817341937805426077
+      chaperon de dos bonne version_0: -7017365352503674249
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 
