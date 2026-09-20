@@ -55,12 +55,13 @@ jobs:
   releaseToGooglePlay:
     name: Release to the Google Play Store
     runs-on: ubuntu-latest
-    needs: buildForAndroidPlatform
+    needs: [ checkTag, buildForAndroidPlatform ]
     env:
       GOOGLE_PLAY_KEY_FILE: ${{ secrets.GOOGLE_PLAY_KEY_FILE }}
       GOOGLE_PLAY_KEY_FILE_PATH: ${{ format('{0}/fastlane/google-fastlane.json', github.workspace) }}
       ANDROID_BUILD_FILE_PATH: ${{ format('{0}/build/Android/Android.aab', github.workspace) }}
       ANDROID_PACKAGE_NAME: ${{ secrets.ANDROID_PACKAGE_NAME }}
+      ANDROID_VERSION_CODE: ${{ needs.checkTag.outputs.versionCode }}
     steps:
       - name: Checkout Repository
         uses: actions/checkout@v4
@@ -79,7 +80,11 @@ jobs:
       - name: Upload to Google Play Internal
         uses: maierj/fastlane-action@v3.0.0
         with:
-          lane: 'android internal' # Change to upload to a different lane
+          lane: 'android internal'
+      - name: Promote Internal build to Closed Testing
+        uses: maierj/fastlane-action@v3.0.0
+        with:
+          lane: 'android promote_internal_to_closed'
   
   createTag:
     needs: [ checkTag, releaseToGooglePlay ]

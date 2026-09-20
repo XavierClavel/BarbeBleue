@@ -13,6 +13,8 @@ on:
         value: ${{ jobs.checkTag.outputs.tag }}
       version:
         value: ${{ jobs.checkTag.outputs.version }}
+      versionCode:
+        value: ${{ jobs.checkTag.outputs.versionCode }}
       
 jobs:
   checkTag:
