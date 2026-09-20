@@ -26,11 +26,19 @@ jobs:
     if: needs.checkTag.outputs.exists == 'false'
     steps:
       - uses: jlumbroso/free-disk-space@v1.3.1
+        with:
+          # large-packages runs a slow apt-get remove for ~4GB; the other
+          # reclaimers free more than that in seconds.
+          large-packages: false
+          tool-cache: true
       - uses: actions/checkout@v4
       - uses: actions/cache@v4
         with:
           path: Library
-          key: Library-Android-${{ hashFiles('ProjectSettings/ProjectVersion.txt') }}
+          key: Library-Android-${{ hashFiles('ProjectSettings/ProjectVersion.txt') }}-${{ github.sha }}
+          restore-keys: |
+            Library-Android-${{ hashFiles('ProjectSettings/ProjectVersion.txt') }}-
+            Library-Android-
       - uses: game-ci/unity-builder@v4
         env:
           UNITY_LICENSE: ${{ secrets.UNITY_LICENSE }}
