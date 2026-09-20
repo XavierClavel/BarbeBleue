@@ -22,6 +22,7 @@ jobs:
       exists: ${{ steps.tagcheck.outputs.exists }}
       tag: ${{ steps.tagcheck.outputs.tag }}
       version: ${{ steps.tagcheck.outputs.version }}
+      versionCode: ${{ steps.tagcheck.outputs.versionCode }}
     steps:
       # Checkout
       - name: Checkout repository
@@ -36,7 +37,10 @@ jobs:
         run: |
           VERSION=$(grep -m1 'bundleVersion:' ProjectSettings/ProjectSettings.asset | sed 's/.*bundleVersion:[[:space:]]*//' | tr -d '[:space:]')
           TAG="${{ inputs.platform }}-v${VERSION}"
+          # Commit count: monotonic on main, and unique per release build.
+          VERSION_CODE=$(git rev-list --count HEAD)
           echo "version=${VERSION}" >> "$GITHUB_OUTPUT"
+          echo "versionCode=${VERSION_CODE}" >> "$GITHUB_OUTPUT"
           echo "tag=${TAG}" >> "$GITHUB_OUTPUT"
           if git ls-remote --tags --exit-code origin "refs/tags/${TAG}" >/dev/null 2>&1; then
             echo "exists=true" >> "$GITHUB_OUTPUT"

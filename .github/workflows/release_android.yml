@@ -30,17 +30,19 @@ jobs:
       - uses: actions/cache@v4
         with:
           path: Library
-          key: Library-Android
+          key: Library-Android-${{ hashFiles('ProjectSettings/ProjectVersion.txt') }}
       - uses: game-ci/unity-builder@v4
         with:
           targetPlatform: Android
           androidExportType: androidAppBundle
+          versioning: None
+          androidVersionCode: ${{ needs.checkTag.outputs.versionCode }}
           androidKeystoreName: user # This file won't exist, but this property needs to exist.
           androidKeystoreBase64: ${{ secrets.ANDROID_KEYSTORE_BASE64 }}
           androidKeystorePass: ${{ secrets.ANDROID_KEYSTORE_PASS }}
           androidKeyaliasName: ${{ secrets.ANDROID_KEYALIAS_NAME }}
           androidKeyaliasPass: ${{ secrets.ANDROID_KEYALIAS_PASS }}
-          androidTargetSdkVersion: AndroidApiLevel33
+          androidTargetSdkVersion: AndroidApiLevel36
       - uses: actions/upload-artifact@v4
         with:
           name: build-android
