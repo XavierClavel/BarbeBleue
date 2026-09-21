@@ -9,23 +9,8 @@ platform :android do
     upload_to_play_store(track: 'internal', release_status: 'completed', aab: "#{ENV['ANDROID_BUILD_FILE_PATH']}")
   end
 
-  desc "Promote the internal build to the closed testing (alpha) track"
-  lane :promote_internal_to_closed do
-    version_code = ENV['ANDROID_VERSION_CODE'].to_i
-    UI.user_error!("ANDROID_VERSION_CODE must be set to the version code to promote") if version_code.zero?
-
-    upload_to_play_store(
-      track: 'internal',
-      track_promote_to: 'alpha',
-      track_promote_release_status: 'completed',
-      version_code: version_code,
-      # Nothing new to upload — this only moves an existing release between tracks.
-      skip_upload_aab: true,
-      skip_upload_apk: true,
-      skip_upload_metadata: true,
-      skip_upload_images: true,
-      skip_upload_screenshots: true,
-      skip_upload_changelogs: true
-    )
+  desc "Upload a new Android version to the closed testing (alpha) track"
+  lane :closed_testing do
+    upload_to_play_store(track: 'alpha', release_status: 'completed', aab: "#{ENV['ANDROID_BUILD_FILE_PATH']}")
   end
 end
